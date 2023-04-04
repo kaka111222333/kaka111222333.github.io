@@ -376,7 +376,8 @@ CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/000000000000000200
 CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000002000000028012/index.m3u8
 CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305582/index.m3u8
 
-4K,#genre#
+4K 电影,#genre#
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -399,6 +400,45 @@ CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 经典功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 
+华语经典,http://epg.112114.xyz/douyu/434971
+神乐影片1,http://epg.112114.xyz/douyu/122402
+神乐影片2,http://epg.112114.xyz/douyu/85894
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+漫威影片,http://epg.112114.xyz/douyu/6140589
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+喜剧经典,http://epg.112114.xyz/douyu/9650887
+林正英电影1,http://epg.112114.xyz/douyu/218859
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+可乐电影,http://epg.112114.xyz/douyu/20415
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+避风港影院,http://epg.112114.xyz/douyu/9826611
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+华语电影,http://epg.112114.xyz/douyu/3928
+怀旧90,http://epg.112114.xyz/douyu/9275635
+国产影片,http://epg.112114.xyz/douyu/5423
+麓山迷踪,http://epg.112114.xyz/douyu/4505431
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+神乐影片2,http://epg.112114.xyz/douyu/85894
+周末影院,http://epg.112114.xyz/douyu/3637765
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+喜剧经典,http://epg.112114.xyz/douyu/9650887
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+粤语综艺,http://epg.112114.xyz/douyu/7919720
+喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
+读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
+戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
+美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
+春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
+jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
+MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 
 
 港澳台,#genre#
@@ -796,45 +836,6 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 
-电影,#genre#
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-华语经典,http://epg.112114.xyz/douyu/434971
-神乐影片1,http://epg.112114.xyz/douyu/122402
-神乐影片2,http://epg.112114.xyz/douyu/85894
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://epg.112114.xyz/douyu/6140589
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-林正英电影1,http://epg.112114.xyz/douyu/218859
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-贝爷影厅1,http://epg.112114.xyz/douyu/252802
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-可乐电影,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
-避风港影院,http://epg.112114.xyz/douyu/9826611
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-华语电影,http://epg.112114.xyz/douyu/3928
-怀旧90,http://epg.112114.xyz/douyu/9275635
-国产影片,http://epg.112114.xyz/douyu/5423
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
-神乐影片2,http://epg.112114.xyz/douyu/85894
-周末影院,http://epg.112114.xyz/douyu/3637765
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-粤语综艺,http://epg.112114.xyz/douyu/7919720
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
-读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
-戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
-美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
-春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
-跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
-jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
-MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
+
+
 
