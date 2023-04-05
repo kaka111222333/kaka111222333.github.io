@@ -4,7 +4,12 @@ HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&ext
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 
-
+中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天综合,http://23.237.10.66:16372
+中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
+中天新闻,http://23.237.10.66:16372
+中天新闻,http://2022.stream-link.org/playlist/cti_news
+未来电影,mitv://generationnexxxt.com:19806/2c7618b1e7364232a9664b275ff6c665
 
 
 CCTV,#genre#
