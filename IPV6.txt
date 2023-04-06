@@ -514,7 +514,7 @@ ODISEA,http://tribaliptv.com:8080/Gustavo/123456/5195
 BRIC TV,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 
-
+华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 
 
 
@@ -542,7 +542,8 @@ HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&ext
 HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
-
+HBO 2,http://208.115.225.174:14140
+HBO 1,http://208.115.225.174:14165
 
 龙祥电影,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
