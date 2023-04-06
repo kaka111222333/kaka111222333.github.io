@@ -1,1 +1,4 @@
-http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K,http://159.75.85.63:8280/cctv4k.php?
+4K,http://159.75.85.63:5681/sxg.php
