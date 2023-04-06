@@ -517,7 +517,7 @@ J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 STAR Movies,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5155
 1,http://stream.nmih.hu:7960/live.m3u8
-
+thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8#mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 
 
 欧美港台,#genre#
