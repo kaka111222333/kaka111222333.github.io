@@ -515,7 +515,8 @@ BRIC TV,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743
 J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 
 华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
-
+STAR Movies,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5155
+1,http://stream.nmih.hu:7960/live.m3u8
 
 
 
