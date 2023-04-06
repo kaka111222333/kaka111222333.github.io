@@ -491,7 +491,7 @@ thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8#mitv://generationnexxxt.com
 凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-
+凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
 
 MTV,mitv://generationnexxxt.com:19806/392ad1aba89e48ddb53090459370e611
 HBO,mitv://generationnexxxt.com:19806/2b8e0f4e06264ee8914bb4616669411e
