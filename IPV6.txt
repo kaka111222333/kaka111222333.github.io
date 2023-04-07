@@ -389,8 +389,8 @@ CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然 中文,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 ULTRA NATURE,http://185.236.229.31:9981/play/a01d
