@@ -395,7 +395,6 @@ ULTRA NATURE,http://185.236.229.31:9981/play/a01d
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -451,6 +450,16 @@ happy kids,https://happykids-vizio.amagi.tv/playlist.m3u8
 
 
 台湾,#genre#
+中天综合,http://23.237.10.66:16372
+台视,http://23.237.10.66:16344
+民视,http://23.237.10.66:16334
+星卫电影台,http://23.237.10.66:16359
+龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
+天映经典,http://120.84.96.87:808/hls/85/index.m3u8
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
+东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
 公视,mitv://generationnexxxt.com:19806/7059f7e6a7d9414e879830e213f6a76f
 公视3,mitv://generationnexxxt.com:19806/c98d6202a9ce4f5f996ee3892d7cf229
 中视,mitv://generationnexxxt.com:19806/e8a870cb7bbd48a68e63f38657dff1c5
@@ -567,16 +576,7 @@ Asianet News,http://2022.stream-link.org/live/366568951
 Haber Turk,http://2022.stream-link.org/live/407816023
 EURO News,http://2022.stream-link.org/live/1059084541
 
-中天综合,http://23.237.10.66:16372
-台视,http://23.237.10.66:16344
-民视,http://23.237.10.66:16334
-星卫电影台,http://23.237.10.66:16359
-龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
-天映经典,http://120.84.96.87:808/hls/85/index.m3u8
-天映经典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
-东森电影,http://120.84.96.87:808/hls/32/index.m3u8
-东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
+
 凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 明珠台,http://120.84.96.87:808/hls/26/index.m3u8
@@ -612,7 +612,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 欧美,#genre#
-MTV,mitv://generationnexxxt.com:19806/392ad1aba89e48ddb53090459370e611
+MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV台湾,mitv://generationnexxxt.com:19806/392ad1aba89e48ddb53090459370e611
 龙祥电影,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
