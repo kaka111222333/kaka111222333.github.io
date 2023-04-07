@@ -613,6 +613,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 欧美,#genre#
 MTV,mitv://generationnexxxt.com:19806/392ad1aba89e48ddb53090459370e611
+龙祥电影,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
+天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
+天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
+功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
+美亚电影台,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+卫视电影台,mitv://generationnexxxt.com:19806/67dbc447e8aa43148cef9f0c78332ef1
+星卫HD电影台,mitv://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
+卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
+好莱坞电影台,mitv://generationnexxxt.com:19806/6e400e7480aa48a0a07595343f01fca8
+AXN,mitv://generationnexxxt.com:19806/ca535eda852d4225922214a23656dc71
 HBO,mitv://generationnexxxt.com:19806/2b8e0f4e06264ee8914bb4616669411e
 HBO Family,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
 HBO HiTS,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
@@ -625,22 +635,9 @@ HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&ext
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 STAR Movies中东,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5155
-
-
-
-龙祥电影,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
-天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
-天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
-功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
-美亚电影台,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
-卫视电影台,mitv://generationnexxxt.com:19806/67dbc447e8aa43148cef9f0c78332ef1
-星卫HD电影台,mitv://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
-卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
-好莱坞电影台,mitv://generationnexxxt.com:19806/6e400e7480aa48a0a07595343f01fca8
 STAR MOVIES,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
 STAR MOVIES Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
 STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
-AXN,mitv://generationnexxxt.com:19806/ca535eda852d4225922214a23656dc71
 SHOWCASE MOVIES,mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
 八度空间,mitv://generationnexxxt.com:19806/29cfea797cb74df1a9cb0cc59238a95c
 八度空间,mitv://generationnexxxt.com:19806/5ed75671b2a040ee8df135209f74ec5a
