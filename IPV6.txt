@@ -461,7 +461,7 @@ MTV,mitv://generationnexxxt.com:19806/392ad1aba89e48ddb53090459370e611
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
-龙祥电影,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
+龙祥时代,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
 功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
