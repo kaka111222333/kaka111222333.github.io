@@ -389,11 +389,10 @@ CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-爱自然 中文,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
-
-Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 ULTRA NATURE,http://185.236.229.31:9981/play/a01d
+Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
