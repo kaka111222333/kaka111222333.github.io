@@ -382,6 +382,7 @@ CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+ULTRA NATURE,http://185.236.229.31:9981/play/a01d
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -429,54 +430,16 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 MBC韩剧频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 CINE LIFE,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-ULTRA NATURE,http://185.236.229.31:9981/play/a01d
+
+
 Astro Super Sport,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Hub Premier Sport,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 DAZN F1,http://tribaliptv.com:8080/Gustavo/123456/4930
-MOVISTAR LIGA DE CAMPEONES,http://tribaliptv.com:8080/Gustavo/123456/12401
-ODISEA,http://tribaliptv.com:8080/Gustavo/123456/5195
-BRIC TV,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
-J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 
 
-Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-MUZZIK Z4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-ABC新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-MBC韩剧频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-CINE LIFE,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-ULTRA NATURE,http://185.236.229.31:9981/play/a01d
-Astro Super Sport,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Hub Premier Sport,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-DAZN F1,http://tribaliptv.com:8080/Gustavo/123456/4930
-MOVISTAR LIGA DE CAMPEONES,http://tribaliptv.com:8080/Gustavo/123456/12401
-ODISEA,http://tribaliptv.com:8080/Gustavo/123456/5195
-BRIC TV,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
-J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 
-华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
-STAR Movies,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5155
-1,http://stream.nmih.hu:7960/live.m3u8
-thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8#mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
+
 
 
 
@@ -506,6 +469,7 @@ HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&ext
 HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+STAR Movies中东,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5155
 HBO 2,http://208.115.225.174:14140
 HBO 1,http://208.115.225.174:14165
 
@@ -532,6 +496,7 @@ Discovery亚洲,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5
 Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
 动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
+thrill,http://210.210.155.37/qwr9ew/s/s34/index.m3u8#mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 
 中天综合,http://23.237.10.66:16372
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
@@ -553,7 +518,7 @@ Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
 民视新闻台,mitv://generationnexxxt.com:19806/64ef45a872254806bc04be427324fa36
 非凡新闻,mitv://generationnexxxt.com:19806/db76f72df6cc4a58b5c8142605e74d43
 台视新闻台,mitv://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
-
+华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 
 BBC,mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158
 BBC,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
@@ -993,7 +958,7 @@ ONE,mitv://generationnexxxt.com:19806/46709f19c5a2466f9ae889037f66615a
 NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 J2,mitv://generationnexxxt.com:19806/9e4c0f8b5d8f45018367cccbf443bd61
-
+J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 
 CHC高清电影,mitv://generationnexxxt.com:19806/dd917220abee49abbee90ffa427117ce
 CHC家庭影院,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4a9
