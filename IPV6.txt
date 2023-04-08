@@ -951,6 +951,54 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4
 CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d11b
 
 
+港台新增,#genre#
+动物星球,https://pull-l3-cny.douyincdn.com/live/df02215f6c4224522dde3fa5fefb8659.flv
+东森超视,https://pull-l3-cny.douyincdn.com/live/91091df9c1418fc65778dfeda492c5d6.flv
+东森电影,https://pull-l3-cny.douyincdn.com/live/1815f2ae2d868b4d6f58cd515231bfd8.flv
+东森洋片,https://pull-l3-cny.douyincdn.com/live/273c6b81a6ed24ace1da68ba30bd79bd.flv
+东森综合,https://pull-l3-cny.douyincdn.com/live/4650f900331c48afdffd54542c3fbf12.flv
+东森戏剧,https://pull-l3-cny.douyincdn.com/live/1c5f8869fe5a565d0cdb707f461edef9.flv
+东森YOYOTV,https://pull-l3-cny.douyincdn.com/live/4e40fcaf58de6da32cd7c4def3d1a293.flv
+国家地理,https://pull-l3-cny.douyincdn.com/live/8ede709651d2c9f2aa636d680dfdbadf.flv
+国家地理野生,https://pull-l3-cny.douyincdn.com/live/4f0b09f891e29219108816422b2afc0e.flv
+HBO HD,https://pull-l3-cny.douyincdn.com/live/6f58af1d413393dea37a39aa280257f8.flv
+CN,https://pull-l3-cny.douyincdn.com/live/73b8d745edb4e871cb3a693b9cbcd723.flv
+龙祥时代,https://pull-l3-cny.douyincdn.com/live/842eae681808ec52c2ebd5ec9554a8c2.flv
+天映频道,https://pull-l3-cny.douyincdn.com/live/f29bc8e14acc3950c9c6f7c2b137a49c.flv
+星卫电影台,https://pull-l3-cny.douyincdn.com/live/2e7378e5e6a90ea438d544321a4dde62.flv
+卫视中文台,https://pull-l3-cny.douyincdn.com/live/2a860e545b6293b23c85c575eca13a53.flv
+亚洲旅游台,https://pull-l3-cny.douyincdn.com/live/49e572174237cfd7d13d8fb8769d6a4f.flv
+中视,https://pull-l3-cny.douyincdn.com/live/70ae1c1b2e22334f9f597d5a3f872a78.flv
+中视新闻,https://pull-l3-cny.douyincdn.com/live/56c1c8ddc07c7dc8547807b0fb803238.flv
+台视,https://pull-l3-cny.douyincdn.com/live/116a1b86bac5894ca354ec402c263fb6.flv
+台视新闻,https://pull-l3-cny.douyincdn.com/live/2e41e3582343c1ff043c28b929dec8d8.flv
+民视第一台,https://pull-l3-cny.douyincdn.com/live/776eb54479e65c4104b443a4ea02695c.flv
+年代新闻,https://pull-l3-cny.douyincdn.com/live/47578868bf46fd544a47ad9e96b95fca.flv
+龙华洋片,https://pull-l3-cny.douyincdn.com/live/dd7b595dec91cc07f1565e47a0e02c0a.flv
+龙华戏剧,https://pull-l3-cny.douyincdn.com/live/cefe47b8caf1500a2ef7c93282f8fdf5.flv
+靖天卡通台,https://pull-l3-cny.douyincdn.com/live/a5534bdaccb27013fd7d636e850ac6ee.flv
+靖天国际台,https://pull-l3-cny.douyincdn.com/live/850312dda886a8676e702e998ff05f06.flv
+AXN,https://pull-l3-cny.douyincdn.com/live/2d79c134a636a82f086f9aa554f2ef76.flv
+afn,https://pull-l3-cny.douyincdn.com/live/a6b09a95161bb2a889a28f819511c771.flv
+BBC earth,https://pull-l3-cny.douyincdn.com/live/9eaa556b39e5be152f125d923424f6fe.flv
+BBC lifestyle,https://pull-l3-cny.douyincdn.com/live/14e4d520e6df678f2597fd276de41f8c.flv
+八大第1台,https://pull-l3-cny.douyincdn.com/live/c6aa909118c09d81849696f00abd4ddb.flv
+八大综合台,https://pull-l3-cny.douyincdn.com/live/2f54998edad925290da8e5b1efa396c1.flv
+CINEMAX,https://pull-l3-cny.douyincdn.com/live/219eb26b4ed9ea8844cd4d4981e408f3.flv
+Discovery Asia,https://pull-l3-cny.douyincdn.com/live/d9b152c14e957e22737cd5c927e5f8e4.flv
+Discovery DMAX,https://pull-l3-cny.douyincdn.com/live/8b14c9b8481370dc5c7a27aa4cd569fc.flv
+Discovery SCI,https://pull-l3-cny.douyincdn.com/live/54752bf4b5db422fde4a6dc0ce3e7142.flv
+Discovery,https://pull-l3-cny.douyincdn.com/live/288dbe6f767e31d0da4c4fb5271c9e82.flv
+Discovery,https://pull-l3-cny.douyincdn.com/live/49f84a3408e0906edfc1fef8e6daaa5a.flv
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+香港31,https://pull-l3-cny.douyincdn.com/live/e3c749bc55b1687f3ad2290311e13263.flv
+astro双星,https://pull-l3-cny.douyincdn.com/live/6e2e3e168f1f85fcf4d642d81e297f8c.flv
+MIAO MI,https://pull-l3-cny.douyincdn.com/live/8c1da97458775fce8c763503c5e82157.flv
+ELTA体育一台,https://pull-l3-cny.douyincdn.com/live/2953d850b8748f9b7b028b2c5ade0881.flv?time=1680939737
+ELTA体育二台,https://pull-l3-cny.douyincdn.com/live/448dcd6961e21eb0bd8e2eb92cabd13a.flv
+ELTA体育三台,https://pull-l3-cny.douyincdn.com/live/26f626f1e7da3eec6abc296de1bd9007.flv?time=1680939737
+ELTA影剧,https://pull-l3-cny.douyincdn.com/live/ae455a8dfd904f2b5a6e815e4fb3bbf9.flv
+EYE TV 戏剧,https://pull-l3-cny.douyincdn.com/live/f19fb47f51624c62eca290c4a9f3acb0.flv
 
 
 
