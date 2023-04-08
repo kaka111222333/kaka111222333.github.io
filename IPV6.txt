@@ -430,23 +430,23 @@ Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
-
-印度电影,http://23.237.10.66:16054
-电视剧场,http://23.237.10.66:16406
+8,http://23.237.10.66:16406
 翡翠华丽,http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
 丹麦-Sportv2,http://23.237.10.66:16180
 MULTI SHOW,http://23.237.10.66:16124
 Mediacorp Suria,http://23.237.10.66:16492
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 龙祥时代,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
-功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
 美亚电影台,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
 卫视电影台,mitv://generationnexxxt.com:19806/67dbc447e8aa43148cef9f0c78332ef1
 星卫HD电影台,mitv://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
-卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
+东森新闻,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 公视,mitv://generationnexxxt.com:19806/7059f7e6a7d9414e879830e213f6a76f
 公视3,mitv://generationnexxxt.com:19806/c98d6202a9ce4f5f996ee3892d7cf229
 中视,mitv://generationnexxxt.com:19806/e8a870cb7bbd48a68e63f38657dff1c5
@@ -457,7 +457,6 @@ Mediacorp Suria,http://23.237.10.66:16492
 华视,mitv://generationnexxxt.com:19806/a5b2ed486cab4667b7abd720cbdfe119
 公视,mitv://generationnexxxt.com:19806/a515a98099ca432faddbda43a23b1404
 民视,mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
-东森新闻,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
 三立iNEWS,mitv://generationnexxxt.com:19806/0441a944caed4cc3b09dc08fdff718ad
 民视新闻台,mitv://generationnexxxt.com:19806/64ef45a872254806bc04be427324fa36
 非凡新闻,mitv://generationnexxxt.com:19806/db76f72df6cc4a58b5c8142605e74d43
@@ -471,9 +470,6 @@ Mediacorp Suria,http://23.237.10.66:16492
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 纬来综合,mitv://generationnexxxt.com:19806/00417bdd1ce245a9b5a919abb5f6aae8
 纬来戏剧,mitv://generationnexxxt.com:19806/75f0a53f27384cddb1e0596709325873
 纬来电影台,mitv://generationnexxxt.com:19806/2c7618b1e7364232a9664b275ff6c665
@@ -519,6 +515,8 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 民视台湾台,mitv://generationnexxxt.com:19806/2dcdc14377b4498e8dcdcbec05599964
 中视新闻台,mitv://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
 台视财经台,mitv://generationnexxxt.com:19806/ec9247281c984a6e980b1d0b1db98002
+功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
+卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
 
 
 中天亚洲,http://2023.stream-link.org/live/1096161090
@@ -588,8 +586,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-民视新闻,http://123.51.230.108:18663/.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
