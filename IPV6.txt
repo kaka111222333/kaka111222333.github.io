@@ -440,6 +440,17 @@ Mediacorp Suria,http://23.237.10.66:16492
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
+纬来体育,http://123.51.230.108:18509/.m3u8
+NHK,http://123.51.230.108:18525/.m3u8
+东森戏剧,http://123.51.230.108:18538/.m3u8
+八大第一台,http://123.51.230.108:18539/.m3u8
+民视新闻,http://123.51.230.108:18663/.m3u8
+东森财经,http://123.51.230.108:18515/.m3u8
+龙华戏剧,http://123.51.230.108:18513/.m3u8
+东森财经,http://123.51.230.108:18515/.m3u8
+龙华日韩,http://123.51.230.108:18551/.m3u8
+東風37,http://123.51.230.108:18560/.m3u8
+
 龙祥时代,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
@@ -463,7 +474,6 @@ Mediacorp Suria,http://23.237.10.66:16492
 台视新闻台,mitv://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
 华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-民视新闻,http://123.51.230.108:18663/.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
