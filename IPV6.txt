@@ -417,7 +417,7 @@ MUZZIK Z4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 ULTRA NATURE,http://185.236.229.31:9981/play/a01d
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
+InWild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
 
 台湾,#genre#
 中天综合,http://23.237.10.66:16372
