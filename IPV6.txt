@@ -634,6 +634,7 @@ CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+The Explorers,http://185.236.229.31:9981/play/a01d
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -660,7 +661,6 @@ Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 MUZZIK Z4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
-ULTRA NATURE,http://185.236.229.31:9981/play/a01d
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 InWild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
 
