@@ -675,31 +675,66 @@ InWild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
+
+中天亚洲,http://2023.stream-link.org/live/1096161090
+中天综合,http://2023.stream-link.org/live/35397979
+TVBS新闻,http://2023.stream-link.org/live/401131254
+TVBS,http://2023.stream-link.org/live/1711676066
+三立新闻,http://2023.stream-link.org/live/1803236734
+三立新闻+,http://2023.stream-link.org/live/1998094138
+三立财经新闻,http://2023.stream-link.org/live/172551145
+华视新闻,http://2023.stream-link.org/live/215730961
+中视新闻,http://2023.stream-link.org/live/926790469
+台视新闻,http://2023.stream-link.org/live/966381653
+民视,http://2023.stream-link.org/live/1637144344
+东森新闻,http://2023.stream-link.org/live/1793825065
+东森财经新闻,http://2023.stream-link.org/live/249006034
+台视新闻,http://2023.stream-link.org/playlist/ttv_news
+东森yoyo,http://2023.stream-link.org/live/367293080
+寰宇國際新聞,http://2023.stream-link.org/live/1212532853
+寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
+八度空间,http://2022.stream-link.org/live/1753190198
+有線新闻,http://2022.stream-link.org/live/970235901
+無綫新闻,http://2022.stream-link.org/live/1488149502
+香港開電視,http://2022.stream-link.org/live/322793772
+天才衝衝衝,http://2023.stream-link.org/live/1311166619
+天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy.flv
+翡翠台,http://2022.stream-link.org/live/1684250157
+香港國際財經台,http://2022.stream-link.org/live/1737572864
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+香港開電視資訊台,http://2022.stream-link.org/live/237166685
+J2,http://2022.stream-link.org/live/1869661640
+無綫財經·體育·資訊台,http://2022.stream-link.org/live/201000012
+
+
 8,http://23.237.10.66:16406
 翡翠华丽,http://23.237.10.66:16410
-翡翠台,http://23.237.10.66:16106
-丹麦-Sportv2,http://23.237.10.66:16180
-MULTI SHOW,http://23.237.10.66:16124
-Mediacorp Suria,http://23.237.10.66:16492
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 纬来体育,http://123.51.230.108:18509/.m3u8
-NHK,http://123.51.230.108:18525/.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
 八大第一台,http://123.51.230.108:18539/.m3u8
 民视新闻,http://123.51.230.108:18663/.m3u8
 东森财经,http://123.51.230.108:18515/.m3u8
-龙华戏剧,http://123.51.230.108:18513/.m3u8
-东森财经,http://123.51.230.108:18515/.m3u8
-龙华日韩,http://123.51.230.108:18551/.m3u8
 東風37,http://123.51.230.108:18560/.m3u8
+NHK,http://123.51.230.108:18525/.m3u8
+华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
 龙祥时代,mitv://generationnexxxt.com:19806/7672f3ff066948cbbef392effa510141
 天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
 美亚电影台,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+
+
 卫视电影台,mitv://generationnexxxt.com:19806/67dbc447e8aa43148cef9f0c78332ef1
 星卫HD电影台,mitv://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
 东森新闻,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
@@ -707,7 +742,6 @@ NHK,http://123.51.230.108:18525/.m3u8
 公视3,mitv://generationnexxxt.com:19806/c98d6202a9ce4f5f996ee3892d7cf229
 中视,mitv://generationnexxxt.com:19806/e8a870cb7bbd48a68e63f38657dff1c5
 华视,mitv://generationnexxxt.com:19806/c630c0cd9de94be49ab3e20e89b99a18
-台视,mitv://generationnexxxt.com:19806/d5d9055ddc8d49d3ad02089b2852d81a
 中视,mitv://generationnexxxt.com:19806/2c6fa632518d463f88f830ada02858a8
 台视,mitv://generationnexxxt.com:19806/f9b5fc5965b04296a04e64f4c305aef6
 华视,mitv://generationnexxxt.com:19806/a5b2ed486cab4667b7abd720cbdfe119
@@ -717,14 +751,6 @@ NHK,http://123.51.230.108:18525/.m3u8
 民视新闻台,mitv://generationnexxxt.com:19806/64ef45a872254806bc04be427324fa36
 非凡新闻,mitv://generationnexxxt.com:19806/db76f72df6cc4a58b5c8142605e74d43
 台视新闻台,mitv://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
-华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 纬来综合,mitv://generationnexxxt.com:19806/00417bdd1ce245a9b5a919abb5f6aae8
 纬来戏剧,mitv://generationnexxxt.com:19806/75f0a53f27384cddb1e0596709325873
 纬来电影台,mitv://generationnexxxt.com:19806/2c7618b1e7364232a9664b275ff6c665
@@ -774,47 +800,6 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
 
 
-中天亚洲,http://2023.stream-link.org/live/1096161090
-中天综合,http://2023.stream-link.org/live/35397979
-三立新闻,http://2023.stream-link.org/live/1803236734
-三立新闻+,http://2023.stream-link.org/live/1998094138
-三立财经新闻,http://2023.stream-link.org/live/172551145
-华视新闻,http://2023.stream-link.org/live/215730961
-中视新闻,http://2023.stream-link.org/live/926790469
-台视新闻,http://2023.stream-link.org/live/966381653
-民视,http://2023.stream-link.org/live/1637144344
-TVBS新闻,http://2023.stream-link.org/live/401131254
-TVBS,http://2023.stream-link.org/live/1711676066
-东森新闻,http://2023.stream-link.org/live/1793825065
-东森财经新闻,http://2023.stream-link.org/live/249006034
-台视新闻,http://2023.stream-link.org/playlist/ttv_news
-东森yoyo,http://2023.stream-link.org/live/367293080
-寰宇國際新聞,http://2023.stream-link.org/live/1212532853
-寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
-八度空间,http://2022.stream-link.org/live/1753190198
-有線新闻,http://2022.stream-link.org/live/970235901
-無綫新闻,http://2022.stream-link.org/live/1488149502
-香港開電視,http://2022.stream-link.org/live/322793772
-天才衝衝衝,http://2023.stream-link.org/live/1311166619
-天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy.flv
-翡翠台,http://2022.stream-link.org/live/1684250157
-香港國際財經台,http://2022.stream-link.org/live/1737572864
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
-香港開電視資訊台,http://2022.stream-link.org/live/237166685
-J2,http://2022.stream-link.org/live/1869661640
-無綫財經·體育·資訊台,http://2022.stream-link.org/live/201000012
-ABC News,http://2022.stream-link.org/live/1465379655
-ANN News,http://2022.stream-link.org/live/1443099587
-CNA News,http://2022.stream-link.org/live/1603999174
-NBC News,http://2022.stream-link.org/live/1630575726
-SKY News,http://2022.stream-link.org/live/127064321
-DW News,http://2022.stream-link.org/live/92833505
-GB News,http://2022.stream-link.org/live/952053531
-France 24 English,http://2022.stream-link.org/live/1210415010
-ABC News Australia,http://2022.stream-link.org/live/913166695
-Asianet News,http://2022.stream-link.org/live/366568951
-Haber Turk,http://2022.stream-link.org/live/407816023
-EURO News,http://2022.stream-link.org/live/1059084541
 
 
 凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
@@ -850,29 +835,12 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 欧美,#genre#
-HBO Family,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
-HBO HiTS,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO Signature,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
-STAR MOVIES,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
-STARMOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
-STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
-STAR MOVIES Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
-国家地理野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
-国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
-Discovery科学,mitv://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
-Discovery亚洲,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
-Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
-动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
-凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
-CN,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK WORLD,mitv://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -885,11 +853,44 @@ CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
-NHK world,mitv://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062
 韩国阿里郎arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 韩国MBC韩剧,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 CINE LIFE,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+ABC News,http://2022.stream-link.org/live/1465379655
+ANN News,http://2022.stream-link.org/live/1443099587
+CNA News,http://2022.stream-link.org/live/1603999174
+NBC News,http://2022.stream-link.org/live/1630575726
+SKY News,http://2022.stream-link.org/live/127064321
+DW News,http://2022.stream-link.org/live/92833505
+GB News,http://2022.stream-link.org/live/952053531
+France 24 English,http://2022.stream-link.org/live/1210415010
+ABC News Australia,http://2022.stream-link.org/live/913166695
+Asianet News,http://2022.stream-link.org/live/366568951
+Haber Turk,http://2022.stream-link.org/live/407816023
+EURO News,http://2022.stream-link.org/live/1059084541
+
+HBO Family,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
+HBO HiTS,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
+HBO Signature,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
+STAR MOVIES,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
+STARMOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
+STAR MOVIES Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
+国家地理野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
+Discovery科学,mitv://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
+Discovery亚洲,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
+Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
+动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
+凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
+国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
+CN,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
+
+
 罪案侦缉频道,mitv://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
 美食星球,mitv://generationnexxxt.com:19806/48a5325e74354deaa422edba7a4a75b6
 亚洲美食频道,mitv://generationnexxxt.com:19806/1ba5704443ec4f0aa32e9eb079008758
