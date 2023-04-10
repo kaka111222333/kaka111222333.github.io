@@ -168,7 +168,7 @@ CCTV-17 农业农村,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📡卫视,#genre#
+📺卫视,#genre#
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000008000000047448/index.m3u8
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000067/index.m3u8
 安徽卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000016000000007224/index.m3u8
@@ -528,7 +528,7 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 黑龙江卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📡求索纪录,#genre#
+📺求索纪录,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
@@ -1335,7 +1335,7 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 电影第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
 
 
-💢林正英鬼片,#genre#
+🎥林正英,#genre#
 灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
 阴阳法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
 天地玄门,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
@@ -1405,7 +1405,7 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
 
 
-💿轮播电影,#genre#
+📽️轮播电影,#genre#
 周星驰🐯,http://live.aptvapp.com/live/huya/11342412
 周星驰🐯,http://diyp.112114.xyz/huya/11342412
 周星驰🐯,http://epg.112114.xyz/huya/11342412
