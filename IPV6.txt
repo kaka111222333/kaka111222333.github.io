@@ -1,4 +1,6 @@
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K 超高清,http://159.75.85.63:8280/cctv4k.php
+CCTV-4K 超高清,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -50,8 +52,35 @@ CCTV-15 音乐,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000
 CCTV-16 奥林匹克,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000079000000434986/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000025000000024152/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001018000000188913/index.m3u8
-中国气象,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000025/index.m3u8
+CCTV风云音乐,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244809/index.m3u8
+CCTV第一剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244808/index.m3u8
+CCTV央视文化精品,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244810/index.m3u8
+CCTV风云剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244807/index.m3u8
+CCTV女性时尚,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244811/index.m3u8
+CCTV世界地理,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244805/index.m3u8
+CCTV怀旧剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244806/index.m3u8
+CCTV电视指南,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244797/index.m3u8
+CCTV兵器科技,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244796/index.m3u8
+CCTV风云足球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244800/index.m3u8
+CCTV高尔夫网球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244801/index.m3u8
+CCTV央视台球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244803/index.m3u8
 
+CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+中国气象,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000025/index.m3u8
 新华社,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 新华社英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
 
@@ -485,21 +514,6 @@ IPTV芒果好看,http://[2409:8087:5000:21::1016]:8089/180000001001/000000010000
 湖南卫视 1080P,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285865/main.m3u8?IASHttpSessionId=OTT
 4K测试频道1http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
 4K测试频道2,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 
 CETV4,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000219/index.m3u8?IAS
 CETV3,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000221/index.m3u8?IAS
@@ -514,27 +528,13 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 黑龙江卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
-
-专业频道,#genre#
+求索纪录,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 北京纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-CCTV风云音乐,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244809/index.m3u8
-CCTV第一剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244808/index.m3u8
-CCTV央视文化精品,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244810/index.m3u8
-CCTV风云剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244807/index.m3u8
-CCTV女性时尚,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244811/index.m3u8
-CCTV世界地理,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244805/index.m3u8
-CCTV怀旧剧场,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244806/index.m3u8
-CCTV电视指南,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244797/index.m3u8
-CCTV兵器科技,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244796/index.m3u8
-CCTV风云足球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244800/index.m3u8
-CCTV高尔夫网球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244801/index.m3u8
-CCTV央视台球,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000091000000244803/index.m3u8
 武术世界,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308859/index.m3u8
 梨园频道,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308847/index.m3u8
 文物宝库,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000064000000308848/index.m3u8
@@ -663,6 +663,14 @@ MUZZIK Z4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 InWild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
+CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K 超高清,http://159.75.85.63:8280/cctv4k.php
+CCTV-4K 超高清,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+CCTV4K-HLG,http://159.75.85.63:8280/cctv4k.php?世界杯WorldCup
+CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+
 
 台湾,#genre#
 中天综合,http://23.237.10.66:16372
@@ -1207,8 +1215,6 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d1
 
 
 
-
-
 斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
@@ -1251,75 +1257,6 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d1
 jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 
-
-林正英鬼片,#genre#
-灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
-阴阳法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
-天地玄门,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
-林正英电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
-林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
-林正英-第02部,https://50069.njc.svp.tencent-cloud.com/0bc3uuabyaaagmahv4c745rfbjoddssqahaa.f10002.mp4
-林正英-第03部,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
-林正英-第04部,https://50069.njc.svp.tencent-cloud.com/0bc34mabyaaat4acczda45rfby6ddtrqahaa.f10002.mp4
-林正英-第05部,https://50069.njc.svp.tencent-cloud.com/0bc3zeaagaaafmadc73fjvrfbsodapeqaaya.f10002.mp4
-林正英-第06部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaa2qadek3a4frfa6gddv4aahia.f10002.mp4
-林正英-第07部,https://50069.njc.svp.tencent-cloud.com/0bc3duab2aaay4ahc32755rfahodduoqahia.f10003.mp4
-林正英-第08部,https://50069.njc.svp.tencent-cloud.com/0b2e2yaaqaaa2aadclla4rrfbvwdbdlaacaa.f10002.mp4
-林正英-第09部,https://50069.njc.svp.tencent-cloud.com/0bc3miaaaaaaveahir3fmfrfaywdabraaaaa.f10002.mp4
-林正英-第10部,https://50069.njc.svp.tencent-cloud.com/0bc35uab4aaameaf4vta5jrfb3odd3wqahqa.f10002.mp4
-林正英-第11部,https://50069.njc.svp.tencent-cloud.com/0bc3cyab4aaawaaolwla4jrfafwddylaahqa.f10002.mp4
-林正英-第12部,https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
-林正英-第13部,https://50069.njc.svp.tencent-cloud.com/0bc3mmaaaaaajeag6y3fmfrfay6dabrqaaaa.f10002.mp4
-林正英-第14部,https://50069.njc.svp.tencent-cloud.com/0bc3ziabuaaawealhhs54jrfbswddlfaagqa.f10002.mp4
-林正英-第15部,https://50069.njc.svp.tencent-cloud.com/0bc3amabwaaa4yalto255zrfaa6ddmbqagya.f10002.mp4
-林正英-第16部,https://50069.njc.svp.tencent-cloud.com/0bc3caabuaaapqal5v254nrfaegddiiaagqa.f10002.mp4
-林正英-第17部,https://50069.njc.svp.tencent-cloud.com/0bc3yaabyaaauqaccos74zrfbqgddtaaahaa.f10002.mp4
-林正英-第18部,https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaaj4aihsdffbrfbygdahqaaaia.f10002.mp4
-林正英-第19部,https://50069.njc.svp.tencent-cloud.com/0bc3qeabwaaae4afr3s74brfbaoddoaqagya.f10002.mp4
-林正英-第20部,https://50069.njc.svp.tencent-cloud.com/0bc3fmabuaaaymakwck545rfak6ddivqagqa.f10002.mp4
-林正英-第21部,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
-林正英-第22部,https://50069.njc.svp.tencent-cloud.com/0b2e2iaaoaaadmacup262zrfbuwda7jaabya.f10002.mp4
-林正英-第23部,https://50069.njc.svp.tencent-cloud.com/0bc3niabwaaajaafmjc74zrfa2wddnvaagya.f10002.mp4
-林正英-第24部,https://50069.njc.svp.tencent-cloud.com/0bc3gyabwaaaa4aflf2655rfanwddm3aagya.f10003.mp4
-林正英-第25部,https://50069.njc.svp.tencent-cloud.com/0bc35uabuaaauyacw6k665rfb3oddlwqagqa.f10002.mp4
-林正英-第26部,https://50069.njc.svp.tencent-cloud.com/0bc3waabyaaa4iaerzs75zrfbmgddsyaahaa.f10002.mp4
-林正英-第27部,https://50069.njc.svp.tencent-cloud.com/0bc3faabyaaaoqaeko275zrfakgddquaahaa.f10003.mp4
-林正英-第28部,https://50069.njc.svp.tencent-cloud.com/0bc3cmabyaaayeaekpc74zrfae6ddqjqahaa.f10002.mp4
-林正英-第29部,https://50069.njc.svp.tencent-cloud.com/0bc3ruabyaaajiagzhc765rfbdoddsgqahaa.f10003.mp4
-林正英-第30部,https://50069.njc.svp.tencent-cloud.com/0b2e64aaoaaagmafx3k76zrfb56da73qabya.f10002.mp4
-林正英-第31部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaavaacyota4zrfa6gddv4aahia.f10002.mp4
-林正英-第32部,https://50069.njc.svp.tencent-cloud.com/0b78j4aaeaaauuadixrl6jqvat6dajhqaaqa.f10002.mp4
-林正英-第33部,https://50069.njc.svp.tencent-cloud.com/0bf2cmaauaaazaadzirl6nqvae6dbijqacqa.f10002.mp4
-林正英-第34部,https://50069.njc.svp.tencent-cloud.com/0bf27yaa2aaaniaap3bl4nqvb7wdbx7aadia.f10004.mp4
-林正英-第35部,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
-林正英-第36部,https://50069.njc.svp.tencent-cloud.com/0bf2y4aasaaaleaah7rl6vqvbr6dbhdqacia.f10003.mp4
-林正英-第37部,https://50069.njc.svp.tencent-cloud.com/0b78siaacaaahiaaxrrl7bqvbewdagjaaaia.f10004.mp4
-林正英-第38部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaapaadqmjl4nqvb5odb32qadqa.f10003.mp4
-林正英-第39部,https://50069.njc.svp.tencent-cloud.com/0bf2viaayaaaweadnasq5bqfbkwdbsvaadaa.f10002.mp4
-林正英-第40部,https://50069.njc.svp.tencent-cloud.com/0bf2iiaayaaaduadxb2q2fqfaqwdbrbaadaa.f10002.mp4
-林正英-第41部,https://50069.njc.svp.tencent-cloud.com/0bf2pyaayaaa3uaccucq4vqfa7wdbr7aadaa.f10002.mp4
-林正英-第42部,https://50069.njc.svp.tencent-cloud.com/0bf2iqaa6aaa3ead6d2q3zqfargdb5caadya.f10002.mp4
-林正英-第43部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
-林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
-林正英-第45部,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
-丧尸-釜山行1-1集,https://50069.njc.svp.tencent-cloud.com/0bf2faae2aaawqacji44krqfakgdjuuaatia.f10002.mp4
-丧尸-釜山行1-2集,https://50069.njc.svp.tencent-cloud.com/0bf2r4adwaaabmapeoesfrqfbd6dhohqaoya.f10002.mp4
-丧尸-死亡之雪1-1,https://50069.njc.svp.tencent-cloud.com/0bc3imaciaaaaeam5bte3vrfaq6derbqajaa.f10002.mp4
-丧尸-死亡之雪1-2,https://50069.njc.svp.tencent-cloud.com/0bc3euaa2aaasmacc5hb7vqvajodbusqadia.f10002.mp4
-丧尸-童子军手册之僵尸启示录,https://50069.njc.svp.tencent-cloud.com/0bf2g4ad6aaayiaambexezqfan6dh43qapya.f10002.mp4
-丧尸-卡桑德拉大桥,https://50069.njc.svp.tencent-cloud.com/0bf2zyab4aaaf4aku4id35qvbtwdd3haahqa.f10002.mp4
-丧尸-电锯惊魂1-1,https://50069.njc.svp.tencent-cloud.com/0bf2zqab6aaa7macbhoel5qfbtgdd7gaahya.f10002.mp4
-丧尸-电锯惊魂1-2,https://50069.njc.svp.tencent-cloud.com/0bf2lmacaaaac4ab62oembqfaw6debnqaiaa.f10002.mp4
-丧尸-电锯惊魂1-3,https://50069.njc.svp.tencent-cloud.com/0bf2zqaccaaareab4lwedzqfbtgdehgaaiia.f10002.mp4
-丧尸-电锯惊魂1-4,https://50069.njc.svp.tencent-cloud.com/0bf2byaakaaam4adut6ekjqfadwdauhaabia.f10002.mp4
-丧尸-电锯惊魂1-5,https://50069.njc.svp.tencent-cloud.com/0b78s4aamaaarqafekgeifqfbf6da2lqabqa.f10002.mp4
-丧尸-电锯惊魂1-6,https://50069.njc.svp.tencent-cloud.com/0bf22mabuaaaueaclegekjqfbu6ddljqagqa.f10002.mp4
-丧尸-电锯惊魂1-7,https://50069.njc.svp.tencent-cloud.com/0b78taaamaaanuagjoweinqfbggda2maabqa.f10002.mp4
-丧尸-电锯惊魂1-8,https://50069.njc.svp.tencent-cloud.com/0bf2i4ab2aaatqafqnwel5qfar6ddvdqahia.f10002.mp4
-丧尸-电锯惊魂1-9,https://50069.njc.svp.tencent-cloud.com/0bf244aaaaaalyan475yizqfbz6dadtqaaaa.f10002.mp4
-丧尸-沉默的羔羊,https://50069.njc.svp.tencent-cloud.com/0bf2eaacwaaajmadygdb7zqfaigdfmqaakya.f10002.mp4
-丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
 
 邵氏电影,#genre#
 断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
@@ -1397,6 +1334,77 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 电影第257集,https://50069.njc.svp.tencent-cloud.com/0bc37iaaqaaapmacgjkq6rrfb6wdbd5aacaa.f10003.mp4
 电影第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
 
+
+林正英鬼片,#genre#
+灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
+阴阳法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
+天地玄门,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
+林正英电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
+林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+林正英-第01部,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
+林正英-第02部,https://50069.njc.svp.tencent-cloud.com/0bc3uuabyaaagmahv4c745rfbjoddssqahaa.f10002.mp4
+林正英-第03部,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
+林正英-第04部,https://50069.njc.svp.tencent-cloud.com/0bc34mabyaaat4acczda45rfby6ddtrqahaa.f10002.mp4
+林正英-第05部,https://50069.njc.svp.tencent-cloud.com/0bc3zeaagaaafmadc73fjvrfbsodapeqaaya.f10002.mp4
+林正英-第06部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaa2qadek3a4frfa6gddv4aahia.f10002.mp4
+林正英-第07部,https://50069.njc.svp.tencent-cloud.com/0bc3duab2aaay4ahc32755rfahodduoqahia.f10003.mp4
+林正英-第08部,https://50069.njc.svp.tencent-cloud.com/0b2e2yaaqaaa2aadclla4rrfbvwdbdlaacaa.f10002.mp4
+林正英-第09部,https://50069.njc.svp.tencent-cloud.com/0bc3miaaaaaaveahir3fmfrfaywdabraaaaa.f10002.mp4
+林正英-第10部,https://50069.njc.svp.tencent-cloud.com/0bc35uab4aaameaf4vta5jrfb3odd3wqahqa.f10002.mp4
+林正英-第11部,https://50069.njc.svp.tencent-cloud.com/0bc3cyab4aaawaaolwla4jrfafwddylaahqa.f10002.mp4
+林正英-第12部,https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
+林正英-第13部,https://50069.njc.svp.tencent-cloud.com/0bc3mmaaaaaajeag6y3fmfrfay6dabrqaaaa.f10002.mp4
+林正英-第14部,https://50069.njc.svp.tencent-cloud.com/0bc3ziabuaaawealhhs54jrfbswddlfaagqa.f10002.mp4
+林正英-第15部,https://50069.njc.svp.tencent-cloud.com/0bc3amabwaaa4yalto255zrfaa6ddmbqagya.f10002.mp4
+林正英-第16部,https://50069.njc.svp.tencent-cloud.com/0bc3caabuaaapqal5v254nrfaegddiiaagqa.f10002.mp4
+林正英-第17部,https://50069.njc.svp.tencent-cloud.com/0bc3yaabyaaauqaccos74zrfbqgddtaaahaa.f10002.mp4
+林正英-第18部,https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaaj4aihsdffbrfbygdahqaaaia.f10002.mp4
+林正英-第19部,https://50069.njc.svp.tencent-cloud.com/0bc3qeabwaaae4afr3s74brfbaoddoaqagya.f10002.mp4
+林正英-第20部,https://50069.njc.svp.tencent-cloud.com/0bc3fmabuaaaymakwck545rfak6ddivqagqa.f10002.mp4
+林正英-第21部,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
+林正英-第22部,https://50069.njc.svp.tencent-cloud.com/0b2e2iaaoaaadmacup262zrfbuwda7jaabya.f10002.mp4
+林正英-第23部,https://50069.njc.svp.tencent-cloud.com/0bc3niabwaaajaafmjc74zrfa2wddnvaagya.f10002.mp4
+林正英-第24部,https://50069.njc.svp.tencent-cloud.com/0bc3gyabwaaaa4aflf2655rfanwddm3aagya.f10003.mp4
+林正英-第25部,https://50069.njc.svp.tencent-cloud.com/0bc35uabuaaauyacw6k665rfb3oddlwqagqa.f10002.mp4
+林正英-第26部,https://50069.njc.svp.tencent-cloud.com/0bc3waabyaaa4iaerzs75zrfbmgddsyaahaa.f10002.mp4
+林正英-第27部,https://50069.njc.svp.tencent-cloud.com/0bc3faabyaaaoqaeko275zrfakgddquaahaa.f10003.mp4
+林正英-第28部,https://50069.njc.svp.tencent-cloud.com/0bc3cmabyaaayeaekpc74zrfae6ddqjqahaa.f10002.mp4
+林正英-第29部,https://50069.njc.svp.tencent-cloud.com/0bc3ruabyaaajiagzhc765rfbdoddsgqahaa.f10003.mp4
+林正英-第30部,https://50069.njc.svp.tencent-cloud.com/0b2e64aaoaaagmafx3k76zrfb56da73qabya.f10002.mp4
+林正英-第31部,https://50069.njc.svp.tencent-cloud.com/0bc3paab2aaavaacyota4zrfa6gddv4aahia.f10002.mp4
+林正英-第32部,https://50069.njc.svp.tencent-cloud.com/0b78j4aaeaaauuadixrl6jqvat6dajhqaaqa.f10002.mp4
+林正英-第33部,https://50069.njc.svp.tencent-cloud.com/0bf2cmaauaaazaadzirl6nqvae6dbijqacqa.f10002.mp4
+林正英-第34部,https://50069.njc.svp.tencent-cloud.com/0bf27yaa2aaaniaap3bl4nqvb7wdbx7aadia.f10004.mp4
+林正英-第35部,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
+林正英-第36部,https://50069.njc.svp.tencent-cloud.com/0bf2y4aasaaaleaah7rl6vqvbr6dbhdqacia.f10003.mp4
+林正英-第37部,https://50069.njc.svp.tencent-cloud.com/0b78siaacaaahiaaxrrl7bqvbewdagjaaaia.f10004.mp4
+林正英-第38部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaapaadqmjl4nqvb5odb32qadqa.f10003.mp4
+林正英-第39部,https://50069.njc.svp.tencent-cloud.com/0bf2viaayaaaweadnasq5bqfbkwdbsvaadaa.f10002.mp4
+林正英-第40部,https://50069.njc.svp.tencent-cloud.com/0bf2iiaayaaaduadxb2q2fqfaqwdbrbaadaa.f10002.mp4
+林正英-第41部,https://50069.njc.svp.tencent-cloud.com/0bf2pyaayaaa3uaccucq4vqfa7wdbr7aadaa.f10002.mp4
+林正英-第42部,https://50069.njc.svp.tencent-cloud.com/0bf2iqaa6aaa3ead6d2q3zqfargdb5caadya.f10002.mp4
+林正英-第43部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
+林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
+林正英-第45部,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
+丧尸-釜山行1-1集,https://50069.njc.svp.tencent-cloud.com/0bf2faae2aaawqacji44krqfakgdjuuaatia.f10002.mp4
+丧尸-釜山行1-2集,https://50069.njc.svp.tencent-cloud.com/0bf2r4adwaaabmapeoesfrqfbd6dhohqaoya.f10002.mp4
+丧尸-死亡之雪1-1,https://50069.njc.svp.tencent-cloud.com/0bc3imaciaaaaeam5bte3vrfaq6derbqajaa.f10002.mp4
+丧尸-死亡之雪1-2,https://50069.njc.svp.tencent-cloud.com/0bc3euaa2aaasmacc5hb7vqvajodbusqadia.f10002.mp4
+丧尸-童子军手册之僵尸启示录,https://50069.njc.svp.tencent-cloud.com/0bf2g4ad6aaayiaambexezqfan6dh43qapya.f10002.mp4
+丧尸-卡桑德拉大桥,https://50069.njc.svp.tencent-cloud.com/0bf2zyab4aaaf4aku4id35qvbtwdd3haahqa.f10002.mp4
+丧尸-电锯惊魂1-1,https://50069.njc.svp.tencent-cloud.com/0bf2zqab6aaa7macbhoel5qfbtgdd7gaahya.f10002.mp4
+丧尸-电锯惊魂1-2,https://50069.njc.svp.tencent-cloud.com/0bf2lmacaaaac4ab62oembqfaw6debnqaiaa.f10002.mp4
+丧尸-电锯惊魂1-3,https://50069.njc.svp.tencent-cloud.com/0bf2zqaccaaareab4lwedzqfbtgdehgaaiia.f10002.mp4
+丧尸-电锯惊魂1-4,https://50069.njc.svp.tencent-cloud.com/0bf2byaakaaam4adut6ekjqfadwdauhaabia.f10002.mp4
+丧尸-电锯惊魂1-5,https://50069.njc.svp.tencent-cloud.com/0b78s4aamaaarqafekgeifqfbf6da2lqabqa.f10002.mp4
+丧尸-电锯惊魂1-6,https://50069.njc.svp.tencent-cloud.com/0bf22mabuaaaueaclegekjqfbu6ddljqagqa.f10002.mp4
+丧尸-电锯惊魂1-7,https://50069.njc.svp.tencent-cloud.com/0b78taaamaaanuagjoweinqfbggda2maabqa.f10002.mp4
+丧尸-电锯惊魂1-8,https://50069.njc.svp.tencent-cloud.com/0bf2i4ab2aaatqafqnwel5qfar6ddvdqahia.f10002.mp4
+丧尸-电锯惊魂1-9,https://50069.njc.svp.tencent-cloud.com/0bf244aaaaaalyan475yizqfbz6dadtqaaaa.f10002.mp4
+丧尸-沉默的羔羊,https://50069.njc.svp.tencent-cloud.com/0bf2eaacwaaajmadygdb7zqfaigdfmqaakya.f10002.mp4
+丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
+
+
 轮播电影,#genre#
 虎牙_周星驰,http://live.aptvapp.com/live/huya/11342412
 虎牙_周星驰,http://diyp.112114.xyz/huya/11342412
@@ -1447,7 +1455,6 @@ bili_鬼片,http://epg.112114.xyz/bili/5226265
 YY_鬼片,http://106.53.212.251/daili/YY_.php?id=1351505899
 YY_鬼片,http://media-proxy.yy.com/livesystem/15013_xv_1351505899_1351505899_0_0_0-15013_xa_1351505899_1351505899_0_0_0.m3u8?org=yyweb&uuid=6d21d247a01043f0bb97f07549bff57e&t=1678712419&tk=399f2e8ce519d452d6ab1ec850e3512e
 YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
-
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
@@ -1613,7 +1620,6 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 小姐姐陪看,http://tvmvip110.club/douyu.php?id=3700024
 
 
-
 爱奇艺,#genre#
 爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
 爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key 
@@ -1639,9 +1645,7 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key 
 
 
-
 浙江,#genre#
-
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1652,11 +1656,11 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 浙江蓝,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-中國藍TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-中國藍(中國藍新聞)TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-中國藍TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-中國藍(浙江衛視)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-中國藍TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+浙江蓝TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+浙江蓝(浙江蓝新闻)TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+浙江蓝TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+浙江蓝(浙江卫视)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
 日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
@@ -2641,6 +2645,3 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-
-
-
