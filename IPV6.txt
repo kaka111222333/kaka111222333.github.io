@@ -168,7 +168,7 @@ CCTV-17 农业农村,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺卫视,#genre#
+📺  卫视,#genre#
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000008000000047448/index.m3u8
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000067/index.m3u8
 安徽卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000016000000007224/index.m3u8
@@ -528,7 +528,7 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 黑龙江卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📺求索纪录,#genre#
+📺  求索,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
@@ -622,7 +622,7 @@ CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/000000000000000200
 CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000002000000028012/index.m3u8
 CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305582/index.m3u8
 
-🏀凤凰 4K,#genre#
+🏀 凤凰 4K,#genre#
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰卫视,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
@@ -672,7 +672,7 @@ CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 
 
-🌏台湾,#genre#
+🌏  台湾,#genre#
 中天综合,http://23.237.10.66:16372
 台视,http://23.237.10.66:16344
 民视,http://23.237.10.66:16334
@@ -842,7 +842,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 
-🌐欧美,#genre#
+🌐  欧美,#genre#
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1215,7 +1215,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d1
 
 
 
-🐟斗鱼电影,#genre#
+📽️斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -1258,7 +1258,7 @@ jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 
 
-📺邵氏电影,#genre#
+📽️邵氏电影,#genre#
 断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
 追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
 少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
@@ -1335,7 +1335,64 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 电影第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
 
 
-🎥林正英,#genre#
+📽️轮播电影,#genre#
+周星驰🐯,http://live.aptvapp.com/live/huya/11342412
+周星驰🐯,http://diyp.112114.xyz/huya/11342412
+周星驰🐯,http://epg.112114.xyz/huya/11342412
+YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353881242
+虎牙_成龙,http://live.aptvapp.com/live/huya/11342386
+虎牙_成龙,http://diyp.112114.xyz/huya/11342386
+虎牙_成龙,http://epg.112114.xyz/huya/11342386
+YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+虎牙_洪金宝,http://live.aptvapp.com/live/huya/11279251
+虎牙_洪金宝,http://diyp.112114.xyz/huya/11279251
+虎牙_洪金宝,http://epg.112114.xyz/huya/11279251
+虎牙_李连杰,http://live.aptvapp.com/live/huya/11342390
+虎牙_李连杰,http://diyp.112114.xyz/huya/11342390
+虎牙_李连杰,http://epg.112114.xyz/huya/11342390
+虎牙_周润发,http://live.aptvapp.com/live/huya/11342387
+虎牙_周润发,http://diyp.112114.xyz/huya/11342387
+虎牙_周润发,http://epg.112114.xyz/huya/11342387
+虎牙_刘德华,http://live.aptvapp.com/live/huya/11342424
+虎牙_刘德华,http://diyp.112114.xyz/huya/11342424
+虎牙_刘德华,http://epg.112114.xyz/huya/11342424
+虎牙_甄子丹,http://live.aptvapp.com/live/huya/11352935
+虎牙_甄子丹,http://diyp.112114.xyz/huya/11352935
+虎牙_甄子丹,http://epg.112114.xyz/huya/11352935
+斗鱼_鬼片1,http://tvmvip110.club/douyu.php?id=218859
+斗鱼_鬼片1,http://hw-tct.douyucdn.cn/live/218859rFZLUZWPCX.flv
+斗鱼_鬼片1,http://hdltc1.douyucdn.cn/live/218859rFZLUZWPCX.flv
+斗鱼_鬼片1,http://live.aptvapp.com/live/douyu/218859
+斗鱼_鬼片1,http://diyp.112114.xyz/douyu/218859
+斗鱼_鬼片1,http://epg.112114.xyz/douyu/218859
+斗鱼_鬼片2,http://tvmvip110.club/douyu.php?id=310926
+斗鱼_鬼片2,http://hw-tct.douyucdn.cn/live/310926rAJmXJ7EID.flv
+斗鱼_鬼片2,http://hdltc1.douyucdn.cn/live/310926rAJmXJ7EID.flv
+斗鱼_鬼片2,http://live.aptvapp.com/live/douyu/310926
+斗鱼_鬼片2,http://diyp.112114.xyz/douyu/310926
+斗鱼_鬼片2,http://epg.112114.xyz/douyu/310926
+斗鱼_鬼片3,http://tvmvip110.club/douyu.php?id=6906628
+斗鱼_鬼片3,http://live.aptvapp.com/live/douyu/6906628
+斗鱼_鬼片3,http://diyp.112114.xyz/douyu/6906628
+斗鱼_鬼片3,http://epg.112114.xyz/douyu/6906628
+虎牙_鬼片,http://live.aptvapp.com/live/huya/11342421
+虎牙_鬼片,http://diyp.112114.xyz/huya/11342421
+虎牙_鬼片,http://epg.112114.xyz/huya/11342421
+bili_鬼片,https://cn-hbyc-ct-02-24.bilivideo.com/live-bvc/219053/live_102569357_4797059/index.m3u8?expires=1678765558&len=0&oi=1995381427&pt=web&qn=10000&trid=10072d39113ec6984e43a73d4e0b7e62cb7e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=97a8b63fc1632c66b1b37e02fa913ac8&sk=3641bbe541c41d4a0cd09733d74cea68&flvsk=035f90196455fcfe4b45490569603693&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&sid=cn-hbyc-ct-02-24&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=1d785eff886c9421820306b636a2bef4&order=1
+bili_鬼片,https://c1--cn-gotcha208.bilivideo.com/live-bvc/219053/live_102569357_4797059/index.m3u8?expires=1678765558&len=0&oi=1995381427&pt=web&qn=10000&trid=10072d39113ec6984e43a73d4e0b7e62cb7e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=7ff4e2d186300cad2eae3f440a28aff8&sk=3641bbe541c41d4a0cd09733d74cea68&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=1d785eff886c9421820306b636a2bef4&order=2
+bili_鬼片,http://diyp.112114.xyz/bili/5226265
+bili_鬼片,http://epg.112114.xyz/bili/5226265
+YY_鬼片,http://106.53.212.251/daili/YY_.php?id=1351505899
+YY_鬼片,http://media-proxy.yy.com/livesystem/15013_xv_1351505899_1351505899_0_0_0-15013_xa_1351505899_1351505899_0_0_0.m3u8?org=yyweb&uuid=6d21d247a01043f0bb97f07549bff57e&t=1678712419&tk=399f2e8ce519d452d6ab1ec850e3512e
+YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=e0e885fb33da8bcaef2f7098bb5ff23f&wsTime=61c072a4&uid=581998485&seqid=1640520620000.0&t=103&uuid=3036094092&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+康熙微服私访记,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+
+
+🎥 林正英,#genre#
 灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
 阴阳法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
 天地玄门,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
@@ -1405,64 +1462,7 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
 
 
-📽️轮播电影,#genre#
-周星驰🐯,http://live.aptvapp.com/live/huya/11342412
-周星驰🐯,http://diyp.112114.xyz/huya/11342412
-周星驰🐯,http://epg.112114.xyz/huya/11342412
-YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353881242
-虎牙_成龙,http://live.aptvapp.com/live/huya/11342386
-虎牙_成龙,http://diyp.112114.xyz/huya/11342386
-虎牙_成龙,http://epg.112114.xyz/huya/11342386
-YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
-虎牙_洪金宝,http://live.aptvapp.com/live/huya/11279251
-虎牙_洪金宝,http://diyp.112114.xyz/huya/11279251
-虎牙_洪金宝,http://epg.112114.xyz/huya/11279251
-虎牙_李连杰,http://live.aptvapp.com/live/huya/11342390
-虎牙_李连杰,http://diyp.112114.xyz/huya/11342390
-虎牙_李连杰,http://epg.112114.xyz/huya/11342390
-虎牙_周润发,http://live.aptvapp.com/live/huya/11342387
-虎牙_周润发,http://diyp.112114.xyz/huya/11342387
-虎牙_周润发,http://epg.112114.xyz/huya/11342387
-虎牙_刘德华,http://live.aptvapp.com/live/huya/11342424
-虎牙_刘德华,http://diyp.112114.xyz/huya/11342424
-虎牙_刘德华,http://epg.112114.xyz/huya/11342424
-虎牙_甄子丹,http://live.aptvapp.com/live/huya/11352935
-虎牙_甄子丹,http://diyp.112114.xyz/huya/11352935
-虎牙_甄子丹,http://epg.112114.xyz/huya/11352935
-斗鱼_鬼片1,http://tvmvip110.club/douyu.php?id=218859
-斗鱼_鬼片1,http://hw-tct.douyucdn.cn/live/218859rFZLUZWPCX.flv
-斗鱼_鬼片1,http://hdltc1.douyucdn.cn/live/218859rFZLUZWPCX.flv
-斗鱼_鬼片1,http://live.aptvapp.com/live/douyu/218859
-斗鱼_鬼片1,http://diyp.112114.xyz/douyu/218859
-斗鱼_鬼片1,http://epg.112114.xyz/douyu/218859
-斗鱼_鬼片2,http://tvmvip110.club/douyu.php?id=310926
-斗鱼_鬼片2,http://hw-tct.douyucdn.cn/live/310926rAJmXJ7EID.flv
-斗鱼_鬼片2,http://hdltc1.douyucdn.cn/live/310926rAJmXJ7EID.flv
-斗鱼_鬼片2,http://live.aptvapp.com/live/douyu/310926
-斗鱼_鬼片2,http://diyp.112114.xyz/douyu/310926
-斗鱼_鬼片2,http://epg.112114.xyz/douyu/310926
-斗鱼_鬼片3,http://tvmvip110.club/douyu.php?id=6906628
-斗鱼_鬼片3,http://live.aptvapp.com/live/douyu/6906628
-斗鱼_鬼片3,http://diyp.112114.xyz/douyu/6906628
-斗鱼_鬼片3,http://epg.112114.xyz/douyu/6906628
-虎牙_鬼片,http://live.aptvapp.com/live/huya/11342421
-虎牙_鬼片,http://diyp.112114.xyz/huya/11342421
-虎牙_鬼片,http://epg.112114.xyz/huya/11342421
-bili_鬼片,https://cn-hbyc-ct-02-24.bilivideo.com/live-bvc/219053/live_102569357_4797059/index.m3u8?expires=1678765558&len=0&oi=1995381427&pt=web&qn=10000&trid=10072d39113ec6984e43a73d4e0b7e62cb7e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=97a8b63fc1632c66b1b37e02fa913ac8&sk=3641bbe541c41d4a0cd09733d74cea68&flvsk=035f90196455fcfe4b45490569603693&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&sid=cn-hbyc-ct-02-24&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=1d785eff886c9421820306b636a2bef4&order=1
-bili_鬼片,https://c1--cn-gotcha208.bilivideo.com/live-bvc/219053/live_102569357_4797059/index.m3u8?expires=1678765558&len=0&oi=1995381427&pt=web&qn=10000&trid=10072d39113ec6984e43a73d4e0b7e62cb7e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=7ff4e2d186300cad2eae3f440a28aff8&sk=3641bbe541c41d4a0cd09733d74cea68&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=1d785eff886c9421820306b636a2bef4&order=2
-bili_鬼片,http://diyp.112114.xyz/bili/5226265
-bili_鬼片,http://epg.112114.xyz/bili/5226265
-YY_鬼片,http://106.53.212.251/daili/YY_.php?id=1351505899
-YY_鬼片,http://media-proxy.yy.com/livesystem/15013_xv_1351505899_1351505899_0_0_0-15013_xa_1351505899_1351505899_0_0_0.m3u8?org=yyweb&uuid=6d21d247a01043f0bb97f07549bff57e&t=1678712419&tk=399f2e8ce519d452d6ab1ec850e3512e
-YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=e0e885fb33da8bcaef2f7098bb5ff23f&wsTime=61c072a4&uid=581998485&seqid=1640520620000.0&t=103&uuid=3036094092&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-康熙微服私访记,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-
-
-🐟斗鱼,#genre#
+🐟  斗鱼,#genre#
 神配音,http://tvmvip110.club/douyu.php?id=2040822
 纪录片,http://tvmvip110.club/douyu.php?id=8834003
 牛叔看片,http://tvmvip110.club/douyu.php?id=2758565
@@ -1620,7 +1620,7 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 小姐姐陪看,http://tvmvip110.club/douyu.php?id=3700024
 
 
-🥝爱奇艺,#genre#
+🥝 爱奇艺,#genre#
 爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
 爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key 
 爱奇艺-家庭剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8?key
@@ -1645,7 +1645,7 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key 
 
 
-📡浙江,#genre#
+📡  浙江,#genre#
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1705,7 +1705,7 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 
 
-📡综艺,#genre#
+📡  综艺,#genre#
 完美的夏天,http://134.122.170.64/dl/bs.php?id=59
 极限挑战,http://134.122.170.64/dl/bs.php?id=27
 汤妈妈,http://134.122.170.64/dl/bs.php?id=213
@@ -1744,7 +1744,7 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 东方财经,http://134.122.170.64/dl/bs.php?id=26
 
 
-📡国产剧,#genre#
+📡 国产剧,#genre#
 斗鱼_新三国,http://live.aptvapp.com/live/douyu/276200
 斗鱼_新三国,http://diyp.112114.xyz/douyu/276200
 斗鱼_新三国,http://epg.112114.xyz/douyu/276200
@@ -1867,7 +1867,7 @@ besTV金曲青春,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 
-📡直播中国,#genre#
+🌤直播中国,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
@@ -2275,7 +2275,8 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 福建武夷山玉女峰,http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 
-动物纪录,#genre#
+
+🦉动物纪录,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
