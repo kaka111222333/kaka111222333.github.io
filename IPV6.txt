@@ -841,8 +841,12 @@ NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK WORLD,mitv://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-朝鲜民主主义共和国,https://tv.nknews.org/tvdash/stream.mpd
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+朝鲜,https://tv.nknews.org/tvdash/stream-init.m4a
+朝鲜,https://tv.nknews.org/tvdash/stream.mpd
+延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国教育电视台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 BBC,mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158
