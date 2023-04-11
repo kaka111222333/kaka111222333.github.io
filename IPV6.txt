@@ -834,6 +834,25 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 🌏   欧美,#genre#
+HBO Family,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
+HBO HiTS,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
+HBO Signature,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
+STAR MOVIES,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
+STARMOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
+STAR MOVIES Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
+国家地理野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
+Discovery科学,mitv://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
+Discovery亚洲,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
+Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
+动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
+凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
+国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
+CN,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
+
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -841,8 +860,6 @@ NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK WORLD,mitv://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-朝鲜,https://tv.nknews.org/tvdash/stream-init.m4a
-朝鲜,https://tv.nknews.org/tvdash/stream.mpd
 延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 韩国中央台,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
@@ -875,24 +892,7 @@ Asianet News,http://2022.stream-link.org/live/366568951
 Haber Turk,http://2022.stream-link.org/live/407816023
 EURO News,http://2022.stream-link.org/live/1059084541
 
-HBO Family,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
-HBO HiTS,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO Signature,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
-STAR MOVIES,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
-STARMOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
-STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
-STAR MOVIES Gold,mitv://generationnexxxt.com:19806/eed82c74928f497080ecffdd16b59623
-国家地理野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
-Discovery科学,mitv://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
-Discovery亚洲,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
-Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
-动物星球,mitv://generationnexxxt.com:19806/e62bbeb1ff7f411e8276d7e6d798121d
-凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
-国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
-CN,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
+
 
 罪案侦缉频道,mitv://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
 美食星球,mitv://generationnexxxt.com:19806/48a5325e74354deaa422edba7a4a75b6
