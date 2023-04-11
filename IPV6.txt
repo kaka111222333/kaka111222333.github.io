@@ -6,7 +6,6 @@ CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/P
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-
 CCTV-1 综合,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000007000000001243/index.m3u8
 CCTV-1 综合,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000036/index.m3u8
 CCTV-2 财经,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000008000000047431/index.m3u8
@@ -79,7 +78,6 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 中国气象,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000025/index.m3u8
 新华社,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 新华社英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
@@ -168,7 +166,7 @@ CCTV-17 农业农村,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺  卫视,#genre#
+📺 卫视,#genre#
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000008000000047448/index.m3u8
 山东卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000067/index.m3u8
 安徽卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000016000000007224/index.m3u8
@@ -223,9 +221,6 @@ CETV-4,http://[2409:8087:5000:21::1016]:8089/180000001001/0000000100000000101700
 
 湖南卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000007000000001242/index.m3u8
 湖南卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000010000000040382/index.m3u8
-
-
-
 海南卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000000000000020000000000181765/index.m3u8
 东南卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000000000000020000000000182255/index.m3u8
 广西卫视,http://[2409:8087:5000:21::1016]:8089/180000001001/00000000000000020000000000182256/index.m3u8
@@ -528,7 +523,7 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 黑龙江卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视 16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📺  求索,#genre#
+📺 求索,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
@@ -622,7 +617,7 @@ CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/000000000000000200
 CGTN记录,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000002000000028012/index.m3u8
 CGTN西班牙语,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305582/index.m3u8
 
-🏀 凤凰 4K,#genre#
+🌏 凤凰4K,#genre#
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰卫视,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
@@ -643,7 +638,6 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zsh
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
 4k电影,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
-北京4K电影,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
@@ -672,7 +666,7 @@ CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 
 
-🌏  台湾,#genre#
+🌏 台湾,#genre#
 中天综合,http://23.237.10.66:16372
 台视,http://23.237.10.66:16344
 民视,http://23.237.10.66:16334
@@ -807,9 +801,6 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
 功夫台,mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
 卫视中文台,mitv://generationnexxxt.com:19806/0d4fbd6c6ba9499e9a75a3d90fef3d4b
 
-
-
-
 凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 明珠台,http://120.84.96.87:808/hls/26/index.m3u8
@@ -842,7 +833,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 
-🌐  欧美,#genre#
+🌏 欧美,#genre#
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -898,7 +889,6 @@ Discovery,mitv://generationnexxxt.com:19806/68bda999f56b477ca00f2b25b98127ff
 国家地理频道,mitv://generationnexxxt.com:19806/1b1f8ec66dc544ec821769097fa5306d
 CN,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
 
-
 罪案侦缉频道,mitv://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
 美食星球,mitv://generationnexxxt.com:19806/48a5325e74354deaa422edba7a4a75b6
 亚洲美食频道,mitv://generationnexxxt.com:19806/1ba5704443ec4f0aa32e9eb079008758
@@ -919,7 +909,6 @@ EYE TV旅游台,mitv://generationnexxxt.com:19806/0b1bdbbf73a5429ead599b28ba908e
 Music Japan TV,mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea
 TVBS精采台,mitv://generationnexxxt.com:19806/8885be3c87964472ae56321dd619461a
 靖天国际台,mitv://generationnexxxt.com:19806/e4a17f356b044d28b014797d13fd9d58
-
 
 happy kids,https://happykids-vizio.amagi.tv/playlist.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -1213,9 +1202,7 @@ CHC高清电影,mitv://generationnexxxt.com:19806/dd917220abee49abbee90ffa427117
 CHC家庭影院,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4a9
 CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d11b
 
-
-
-📽️斗鱼电影,#genre#
+🎥斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -1257,8 +1244,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d1
 jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 
-
-📽️邵氏电影,#genre#
+🎥邵氏电影,#genre#
 断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
 追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
 少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
@@ -1334,8 +1320,7 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 电影第257集,https://50069.njc.svp.tencent-cloud.com/0bc37iaaqaaapmacgjkq6rrfb6wdbd5aacaa.f10003.mp4
 电影第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
 
-
-📽️轮播电影,#genre#
+🎥轮播电影,#genre#
 周星驰🐯,http://live.aptvapp.com/live/huya/11342412
 周星驰🐯,http://diyp.112114.xyz/huya/11342412
 周星驰🐯,http://epg.112114.xyz/huya/11342412
@@ -1390,7 +1375,6 @@ YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=e0e885fb33da8bcaef2f7098bb5ff23f&wsTime=61c072a4&uid=581998485&seqid=1640520620000.0&t=103&uuid=3036094092&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 康熙微服私访记,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-
 
 🎥 林正英,#genre#
 灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
@@ -1460,7 +1444,6 @@ YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 丧尸-电锯惊魂1-9,https://50069.njc.svp.tencent-cloud.com/0bf244aaaaaalyan475yizqfbz6dadtqaaaa.f10002.mp4
 丧尸-沉默的羔羊,https://50069.njc.svp.tencent-cloud.com/0bf2eaacwaaajmadygdb7zqfaigdfmqaakya.f10002.mp4
 丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
-
 
 🐟  斗鱼,#genre#
 神配音,http://tvmvip110.club/douyu.php?id=2040822
@@ -1619,7 +1602,6 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 水浒传,http://tvmvip110.club/douyu.php?id=3758762
 小姐姐陪看,http://tvmvip110.club/douyu.php?id=3700024
 
-
 🥝 爱奇艺,#genre#
 爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
 爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key 
@@ -1644,8 +1626,10 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 爱奇艺-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key 
 爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key 
 
-
-📡  浙江,#genre#
+📡 日照浙江,#genre#
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1663,9 +1647,6 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
@@ -1705,7 +1686,7 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 
 
-📡  综艺,#genre#
+📡 综艺,#genre#
 完美的夏天,http://134.122.170.64/dl/bs.php?id=59
 极限挑战,http://134.122.170.64/dl/bs.php?id=27
 汤妈妈,http://134.122.170.64/dl/bs.php?id=213
