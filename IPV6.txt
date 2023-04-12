@@ -1207,7 +1207,7 @@ CHC高清电影,mitv://generationnexxxt.com:19806/dd917220abee49abbee90ffa427117
 CHC家庭影院,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4a9
 CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d11b
 
-🎥 斗鱼电影,#genre#
+🌐 斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -1249,7 +1249,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d1
 jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 
-🎥 邵氏电影,#genre#
+🌐 邵氏电影,#genre#
 断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
 追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
 少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
@@ -1325,7 +1325,7 @@ MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 电影第257集,https://50069.njc.svp.tencent-cloud.com/0bc37iaaqaaapmacgjkq6rrfb6wdbd5aacaa.f10003.mp4
 电影第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
 
-🎥 轮播电影,#genre#
+🌐 轮播电影,#genre#
 周星驰🐯,http://live.aptvapp.com/live/huya/11342412
 周星驰🐯,http://diyp.112114.xyz/huya/11342412
 周星驰🐯,http://epg.112114.xyz/huya/11342412
@@ -1381,7 +1381,7 @@ YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=e0e885fb33da8bcaef2f7098bb5ff23f&wsTime=61c072a4&uid=581998485&seqid=1640520620000.0&t=103&uuid=3036094092&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 康熙微服私访记,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-🎥  林正英,#genre#
+🌐  林正英,#genre#
 灵幻先生,https://50069.njc.svp.tencent-cloud.com/0bf254aasaaaoqad6arl6vqvb36dbhxqacia.f10003.mp4
 阴阳法王,https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
 天地玄门,https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
@@ -1450,7 +1450,7 @@ YY_鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 丧尸-沉默的羔羊,https://50069.njc.svp.tencent-cloud.com/0bf2eaacwaaajmadygdb7zqfaigdfmqaakya.f10002.mp4
 丧尸-孤儿怨,https://50069.njc.svp.tencent-cloud.com/0bf2q4acwaaacqagnxvxajqfbb6dfodqakya.f10002.mp4
 
-🐟   斗鱼,#genre#
+🌐   斗鱼,#genre#
 神配音,http://tvmvip110.club/douyu.php?id=2040822
 纪录片,http://tvmvip110.club/douyu.php?id=8834003
 牛叔看片,http://tvmvip110.club/douyu.php?id=2758565
@@ -1607,130 +1607,8 @@ liz陪看,http://tvmvip110.club/douyu.php?id=7254536
 水浒传,http://tvmvip110.club/douyu.php?id=3758762
 小姐姐陪看,http://tvmvip110.club/douyu.php?id=3700024
 
-🥝  爱奇艺,#genre#
-爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
-爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key 
-爱奇艺-家庭剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8?key
-爱奇艺-经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key 
-爱奇艺-经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key 
-爱奇艺-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key 
-爱奇艺-惊悚午夜场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key 
-爱奇艺-军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key 
-爱奇艺-军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
-爱奇艺-抗战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key 
-爱奇艺-科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key 
-爱奇艺-老剧超清修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key 
-爱奇艺-历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key 
-爱奇艺-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key 
-爱奇艺-央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
-爱奇艺-院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key 
-爱奇艺-粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key 
-爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
-爱奇艺-爱情保卫战,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_142_600_t10/c54_lb_142_600_t10.m3u8?key 
-爱奇艺-第三调解室,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_240_600_t10/c56_lb_240_600_t10.m3u8?key 
-爱奇艺-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key 
-爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key 
 
-📡 日照浙江,#genre#
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
-浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江教育科技,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-浙江蓝,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江蓝TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-浙江蓝(浙江蓝新闻)TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-浙江蓝TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-浙江蓝(浙江卫视)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
-国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
-CNC,http://39.135.138.59:18890/pltv/88888910/224/3221225694/index.m3u8?
-清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
-CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
-CCTV1,rtmp://202.204.52.116:1935/livetv/cctv1hd
-CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV-4k,http://159.75.85.63:5679/cctv4k.php
-CCTV-4k,http://r.jdshipin.com/krMB5
-CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-
-邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
-丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
-平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-
-
-📡   综艺,#genre#
-完美的夏天,http://134.122.170.64/dl/bs.php?id=59
-极限挑战,http://134.122.170.64/dl/bs.php?id=27
-汤妈妈,http://134.122.170.64/dl/bs.php?id=213
-完美的夏天2,http://134.122.170.64/dl/bs.php?id=222
-王牌对王牌,http://134.122.170.64/dl/bs.php?id=193
-东方风云榜,http://134.122.170.64/dl/bs.php?id=146
-最好的舞台,http://134.122.170.64/dl/bs.php?id=128
-粤语好声音,http://134.122.170.64/dl/bs.php?id=229
-美好生活家,http://134.122.170.64/dl/bs.php?id=228
-金曲青春,http://134.122.170.64/dl/bs.php?id=96
-人气美食,http://134.122.170.64/dl/bs.php?id=144
-漫游记,http://134.122.170.64/dl/bs.php?id=218
-两个人的世界,http://134.122.170.64/dl/bs.php?id=124
-高能脱口秀,http://134.122.170.64/dl/bs.php?id=76
-也平凡,http://134.122.170.64/dl/bs.php?id=126
-奔跑吧兄弟,http://134.122.170.64/dl/bs.php?id=201
-童年国漫,http://134.122.170.64/dl/bs.php?id=37
-童年神剧,http://134.122.170.64/dl/bs.php?id=186
-城市真英雄,http://134.122.170.64/dl/bs.php?id=119
-荒野求生,http://134.122.170.64/dl/bs.php?id=226
-整容级妆教,http://134.122.170.64/dl/bs.php?id=216
-一路唱响,http://134.122.170.64/dl/bs.php?id=192
-天籁之战,http://134.122.170.64/dl/bs.php?id=156
-宅家瘦全身,http://134.122.170.64/dl/bs.php?id=40
-居家云打卡,http://134.122.170.64/dl/bs.php?id=120
-海派滑稽戏,,http://134.122.170.64/dl/bs.php?id=38
-领航,http://134.122.170.64/dl/bs.php?id=134
-带娃小妙招,http://134.122.170.64/dl/bs.php?id=52
-东方卫视,http://134.122.170.64/dl/bs.php?id=22
-新闻综合,http://134.122.170.64/dl/bs.php?id=20
-外语频道,http://134.122.170.64/dl/bs.php?id=17
-都市频道,http://134.122.170.64/dl/bs.php?id=18
-哈哈炫动,http://134.122.170.64/dl/bs.php?id=19
-纪实人文,http://134.122.170.64/dl/bs.php?id=28
-第一财经,http://134.122.170.64/dl/bs.php?id=21
-东方财经,http://134.122.170.64/dl/bs.php?id=26
-
-
-📡  国产剧,#genre#
+🌐  电视剧,#genre#
 斗鱼_新三国,http://live.aptvapp.com/live/douyu/276200
 斗鱼_新三国,http://diyp.112114.xyz/douyu/276200
 斗鱼_新三国,http://epg.112114.xyz/douyu/276200
@@ -1853,7 +1731,70 @@ besTV金曲青春,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 besTV谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 
-🌤 直播中国,#genre#
+🌐  爱奇艺,#genre#
+爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
+爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key 
+爱奇艺-家庭剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8?key
+爱奇艺-经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key 
+爱奇艺-经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key 
+爱奇艺-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key 
+爱奇艺-惊悚午夜场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key 
+爱奇艺-军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key 
+爱奇艺-军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
+爱奇艺-抗战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key 
+爱奇艺-科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key 
+爱奇艺-老剧超清修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key 
+爱奇艺-历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key 
+爱奇艺-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key 
+爱奇艺-央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
+爱奇艺-院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key 
+爱奇艺-粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key 
+爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+爱奇艺-爱情保卫战,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_142_600_t10/c54_lb_142_600_t10.m3u8?key 
+爱奇艺-第三调解室,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_240_600_t10/c56_lb_240_600_t10.m3u8?key 
+爱奇艺-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key 
+爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key 
+
+🌐   综艺,#genre#
+完美的夏天,http://134.122.170.64/dl/bs.php?id=59
+极限挑战,http://134.122.170.64/dl/bs.php?id=27
+汤妈妈,http://134.122.170.64/dl/bs.php?id=213
+完美的夏天2,http://134.122.170.64/dl/bs.php?id=222
+王牌对王牌,http://134.122.170.64/dl/bs.php?id=193
+东方风云榜,http://134.122.170.64/dl/bs.php?id=146
+最好的舞台,http://134.122.170.64/dl/bs.php?id=128
+粤语好声音,http://134.122.170.64/dl/bs.php?id=229
+美好生活家,http://134.122.170.64/dl/bs.php?id=228
+金曲青春,http://134.122.170.64/dl/bs.php?id=96
+人气美食,http://134.122.170.64/dl/bs.php?id=144
+漫游记,http://134.122.170.64/dl/bs.php?id=218
+两个人的世界,http://134.122.170.64/dl/bs.php?id=124
+高能脱口秀,http://134.122.170.64/dl/bs.php?id=76
+也平凡,http://134.122.170.64/dl/bs.php?id=126
+奔跑吧兄弟,http://134.122.170.64/dl/bs.php?id=201
+童年国漫,http://134.122.170.64/dl/bs.php?id=37
+童年神剧,http://134.122.170.64/dl/bs.php?id=186
+城市真英雄,http://134.122.170.64/dl/bs.php?id=119
+荒野求生,http://134.122.170.64/dl/bs.php?id=226
+整容级妆教,http://134.122.170.64/dl/bs.php?id=216
+一路唱响,http://134.122.170.64/dl/bs.php?id=192
+天籁之战,http://134.122.170.64/dl/bs.php?id=156
+宅家瘦全身,http://134.122.170.64/dl/bs.php?id=40
+居家云打卡,http://134.122.170.64/dl/bs.php?id=120
+海派滑稽戏,,http://134.122.170.64/dl/bs.php?id=38
+领航,http://134.122.170.64/dl/bs.php?id=134
+带娃小妙招,http://134.122.170.64/dl/bs.php?id=52
+东方卫视,http://134.122.170.64/dl/bs.php?id=22
+新闻综合,http://134.122.170.64/dl/bs.php?id=20
+外语频道,http://134.122.170.64/dl/bs.php?id=17
+都市频道,http://134.122.170.64/dl/bs.php?id=18
+哈哈炫动,http://134.122.170.64/dl/bs.php?id=19
+纪实人文,http://134.122.170.64/dl/bs.php?id=28
+第一财经,http://134.122.170.64/dl/bs.php?id=21
+东方财经,http://134.122.170.64/dl/bs.php?id=26
+
+
+🚗 直播中国,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
@@ -2262,7 +2203,7 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 
 
-🦉 动物纪录,#genre#
+🐼 动物纪录,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -2632,3 +2573,65 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+
+
+📺 日照浙江,#genre#
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江教育科技,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+浙江蓝,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江蓝TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+浙江蓝(浙江蓝新闻)TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+浙江蓝TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+浙江蓝(浙江卫视)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+
+CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
+CNC,http://39.135.138.59:18890/pltv/88888910/224/3221225694/index.m3u8?
+清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
+CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
+CCTV1,rtmp://202.204.52.116:1935/livetv/cctv1hd
+CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV-4k,http://159.75.85.63:5679/cctv4k.php
+CCTV-4k,http://r.jdshipin.com/krMB5
+CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+
+邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
+平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+
+
