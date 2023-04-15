@@ -1,6 +1,4 @@
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K 超高清,http://159.75.85.63:8280/cctv4k.php
-CCTV-4K 超高清,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -76,11 +74,9 @@ CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-中国气象,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000025/index.m3u8
 新华社,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 新华社英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+中国气象,http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001001000000000025/index.m3u8
 
 
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -653,17 +649,9 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zsh
 BesTV-4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-MUZZIK Z4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 InWild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
-CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K 超高清,http://159.75.85.63:8280/cctv4k.php
-CCTV-4K 超高清,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-4K超高清电影,http://159.75.85.63:5681/sxg.php
-CCTV4K-HLG,http://159.75.85.63:8280/cctv4k.php?世界杯WorldCup
-CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 
 
 🌏   台湾,#genre#
@@ -891,6 +879,8 @@ ABC News Australia,http://2022.stream-link.org/live/913166695
 Asianet News,http://2022.stream-link.org/live/366568951
 Haber Turk,http://2022.stream-link.org/live/407816023
 EURO News,http://2022.stream-link.org/live/1059084541
+CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 
 
 
