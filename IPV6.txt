@@ -66,7 +66,7 @@ CCTV-17 农业农村,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺 CCTV咪咕,#genre#
+📺 CCTV 咪咕,#genre#
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
@@ -154,8 +154,8 @@ CETV4,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/cetv4/600/01.m3u8?&HlsSubType
 
 
 📺   卫视,#genre#
-安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw2848465480_1677095697/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1668597642&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -293,19 +293,23 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 安徽卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/anhuiwshd/2000/01.m3u8?&HlsSubType=&encrypt=
 安徽卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/ahwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 安徽卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/ahwshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/bjws/bjws3000/3000/01.m3u8?&HlsSubType=&encrypt=
-北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/bjws/bjws711/1000/01.m3u8?&HlsSubType=&encrypt=
-北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/bjws/bjws2000/2000/01.m3u8?&HlsSubType=&encrypt=
-北京卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/bjwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-北京卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/bjwshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/50/20191230/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/51/20191230/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/50/20191230/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/51/20191230/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
+北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/bjws/bjws3000/3000/01.m3u8?&HlsSubType=&encrypt=
+北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/bjws/bjws711/1000/01.m3u8?&HlsSubType=&encrypt=
+北京卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/bjws/bjws2000/2000/01.m3u8?&HlsSubType=&encrypt=
+北京卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/bjwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+北京卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/bjwshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 浙江卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/zhejianghd/2500/01.m3u8?&HlsSubType=&encrypt=
-
 天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinhd-1200/01.m3u8?&HlsSubType=&encrypt=
 天津卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/tianjinwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
@@ -332,11 +336,6 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/01.m3u8?&HlsSubType=&encrypt=
 湖北卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hbwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 湖北卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hbwshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/50/20191230/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/51/20191230/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
 江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/01.m3u8?&HlsSubType=&encrypt=
 江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/01.m3u8?&HlsSubType=&encrypt=
 江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/01.m3u8?&HlsSubType=&encrypt=
