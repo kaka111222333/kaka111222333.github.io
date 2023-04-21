@@ -66,7 +66,7 @@ CCTV-17 农业农村,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺 CCTV 咪咕,#genre#
+📺CCTV 咪咕,#genre#
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
@@ -286,7 +286,7 @@ CETV1,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/000000010000000600000000000004
 CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 
-📺 卫视 咪咕,#genre#
+📺卫视 咪咕,#genre#
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 安徽卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/anhuiwshd/3000/01.m3u8?&HlsSubType=&encrypt=
