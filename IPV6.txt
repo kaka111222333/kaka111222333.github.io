@@ -24,6 +24,19 @@ CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw425910
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
+CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5 体育,http://[2409:8087:2004:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
@@ -66,7 +79,7 @@ CCTV-17 农业农村,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺CCTV 咪咕,#genre#
+📺CCTV咪咕,#genre#
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
@@ -113,33 +126,33 @@ CCTV-4 欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/5
 CCTV-4 欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/01.m3u8?&HlsSubType=&encrypt=
 CCTV-4 美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/01.m3u8?&HlsSubType=&encrypt=
 CCTV-4 美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/01.m3u8?&HlsSubType=&encrypt=
-CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/01.m3u8?&HlsSubType=&encrypt=
-CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?&HlsSubType=&encrypt=
-CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/50/20191230/01.m3u8?&HlsSubType=&encrypt=
-CCTV-5体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/51/20191230/01.m3u8?&HlsSubType=&encrypt=
+CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/01.m3u8?&HlsSubType=&encrypt=
+CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?&HlsSubType=&encrypt=
+CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/50/20191230/01.m3u8?&HlsSubType=&encrypt=
+CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/51/20191230/01.m3u8?&HlsSubType=&encrypt=
 CCTV-5+体育赛事,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/01.m3u8?&HlsSubType=&encrypt=
 CCTV-5+体育赛事,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?&HlsSubType=&encrypt=
-CCTV-6电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/01.m3u8?&HlsSubType=&encrypt=
-CCTV-6电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-6电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-7国防军事,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/01.m3u8?&HlsSubType=&encrypt=
-CCTV-7国防军事,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/01.m3u8?&HlsSubType=&encrypt=
-CCTV-8电视剧,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/01.m3u8?&HlsSubType=&encrypt=
-CCTV-8电视剧,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/01.m3u8?&HlsSubType=&encrypt=
-CCTV-8电视剧,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-8电视剧,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-9纪录,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/01.m3u8?&HlsSubType=&encrypt=
-CCTV-9纪录,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/01.m3u8?&HlsSubType=&encrypt=
-CCTV-10科教,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv10hd/3000/01.m3u8?&HlsSubType=&encrypt=
-CCTV-10科教,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/01.m3u8?&HlsSubType=&encrypt=
-CCTV-10科教,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv10hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-10科教,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv10hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-11戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/01.m3u8?&HlsSubType=&encrypt=
-CCTV-11戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/01.m3u8?&HlsSubType=&encrypt=
-CCTV-11戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-11戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-CCTV-12社会与法,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/01.m3u8?&HlsSubType=&encrypt=
-CCTV-12社会与法,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/01.m3u8?&HlsSubType=&encrypt=
+CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/01.m3u8?&HlsSubType=&encrypt=
+CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-7 国防军事,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/01.m3u8?&HlsSubType=&encrypt=
+CCTV-7 国防军事,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/01.m3u8?&HlsSubType=&encrypt=
+CCTV-8 电视剧,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/01.m3u8?&HlsSubType=&encrypt=
+CCTV-8 电视剧,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/01.m3u8?&HlsSubType=&encrypt=
+CCTV-8 电视剧,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-8 电视剧,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-9 纪录,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/01.m3u8?&HlsSubType=&encrypt=
+CCTV-9 纪录,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/01.m3u8?&HlsSubType=&encrypt=
+CCTV-10 科教,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv10hd/3000/01.m3u8?&HlsSubType=&encrypt=
+CCTV-10 科教,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/01.m3u8?&HlsSubType=&encrypt=
+CCTV-10 科教,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv10hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-10 科教,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv10hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-11 戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/01.m3u8?&HlsSubType=&encrypt=
+CCTV-11 戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/01.m3u8?&HlsSubType=&encrypt=
+CCTV-11 戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-11 戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+CCTV-12 社会与法,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/01.m3u8?&HlsSubType=&encrypt=
+CCTV-12 社会与法,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/01.m3u8?&HlsSubType=&encrypt=
 CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/01.m3u8?&HlsSubType=&encrypt=
 CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?&HlsSubType=&encrypt=
 CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv14hd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
@@ -466,20 +479,6 @@ Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
-
-📺 央视风云,#genre#
-CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 📺   求索,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
