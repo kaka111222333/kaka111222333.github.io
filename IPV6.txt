@@ -286,7 +286,7 @@ CETV1,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/000000010000000600000000000004
 CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 
-📺 卫视(咪咕),#genre#
+📺 卫视 咪咕,#genre#
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 安徽卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/anhuiwshd/3000/01.m3u8?&HlsSubType=&encrypt=
