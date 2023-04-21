@@ -446,15 +446,22 @@ CGTN纪录,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/01.
 
 🌏   凤凰,#genre#
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰卫视,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
 凤凰卫视,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+
 凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225718/index.m3u8
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 The Explorers,http://185.236.229.31:9981/play/a01d
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -485,6 +492,8 @@ loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
+梨园频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 乐游,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw693544055_1408872340/ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8?icpid=3&RTS=1669703589&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 生活时尚,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw982225711_-1273501347/ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8?icpid=3&RTS=1669703878&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 都市剧场,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1137773902_-1434406268/ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8?icpid=3&RTS=1669704033&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
