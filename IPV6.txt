@@ -349,7 +349,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/ind
 LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-📺   备用,#genre#
+📺(小果备用),#genre#
 CCTV-1 综合,https://live.v1.mk/api/sxg.php?id=CCTV-1H265_4000
 CCTV-2 财经,https://live.v1.mk/api/sxg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,https://live.v1.mk/api/sxg.php?id=CCTV-3H265_4000
