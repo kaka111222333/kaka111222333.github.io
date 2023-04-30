@@ -1,3 +1,19 @@
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
+
 
 CCTV-1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
 CCTV-2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
@@ -58,21 +74,7 @@ CCTV-16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV卫生健康,http://live.cooltv.top/tv/yqdtv.php?id=111
 
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
+
 
 
 
