@@ -1,3 +1,23 @@
+
+CCTV-1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
+CCTV-2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
+CCTV-3,http://www.yiyibest.com:7777/udp/239.49.9.31:6000
+CCTV-4,http://www.yiyibest.com:7777/udp/239.49.8.51:9806
+CCTV-5,http://www.yiyibest.com:7777/udp/239.49.8.75:8000
+CCTV-5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
+CCTV-6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
+CCTV-7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
+CCTV-8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
+CCTV-9,http://www.yiyibest.com:7777/udp/239.49.8.53:9814
+CCTV-10,http://www.yiyibest.com:7777/udp/239.49.8.54:9818
+CCTV-11,http://www.yiyibest.com:7777/udp/239.49.0.127:8000
+CCTV-12,http://www.yiyibest.com:7777/udp/239.49.8.55:9822
+CCTV-13,http://www.yiyibest.com:7777/udp/239.49.9.43:6000
+CCTV-14,http://www.yiyibest.com:7777/udp/239.49.8.56:9826
+CCTV-15,http://www.yiyibest.com:7777/udp/239.49.0.128:8000
+CCTV-16,http://www.yiyibest.com:7777/udp/239.49.9.58:6000
+CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
+
 CCTV1,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
@@ -13,16 +33,38 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 CNC,http://39.135.138.59:18890/pltv/88888910/224/3221225694/index.m3u8?
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
+
 
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K 超高清,http://r.jdshipin.com/krMB5
 
 📺   卫视,#genre#
+山东卫视,http://www.yiyibest.com:7777/udp/239.49.8.7:9306
+湖南卫视,http://www.yiyibest.com:7777/udp/239.49.8.12:9418
+浙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.20:9618
+安徽卫视,http://www.yiyibest.com:7777/udp/239.49.8.80:8000
+北京卫视,http://www.yiyibest.com:7777/udp/239.49.8.11:9414
+天津卫视,http://www.yiyibest.com:7777/udp/239.49.8.35:8620
+东方卫视,http://www.yiyibest.com:7777/udp/239.49.8.17:9606
+东南卫视,http://www.yiyibest.com:7777/udp/239.49.8.112:8000
+河北卫视,http://www.yiyibest.com:7777/udp/239.49.8.114:8000
+河南卫视,http://www.yiyibest.com:7777/udp/239.49.8.29:8000
+江苏卫视,http://www.yiyibest.com:7777/udp/239.49.0.34:8000
+深圳卫视,http://www.yiyibest.com:7777/udp/239.49.8.15:9430
+广东卫视,http://www.yiyibest.com:7777/udp/239.49.8.13:9422
+广西卫视,http://www.yiyibest.com:7777/udp/239.49.8.209:6000
+湖北卫视,http://www.yiyibest.com:7777/udp/239.49.8.8:9632
+黑龙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.14:9426
+四川卫视,http://www.yiyibest.com:7777/udp/239.49.8.110:8000
+重庆卫视,http://www.yiyibest.com:7777/udp/239.49.8.57:9830
+江西卫视,http://www.yiyibest.com:7777/udp/239.49.8.111:8000
+云南卫视,http://www.yiyibest.com:7777/udp/239.49.0.177:8000
+贵州卫视,http://www.yiyibest.com:7777/udp/239.49.8.49:8000
+海南卫视,http://www.yiyibest.com:7777/udp/239.49.8.83:8000
+吉林卫视,http://www.yiyibest.com:7777/udp/239.49.8.113:8000
+辽宁卫视,http://www.yiyibest.com:7777/udp/239.49.8.48:8000
 
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -39,6 +81,9 @@ CCTV-4K 超高清,http://r.jdshipin.com/krMB5
 浙江蓝(浙江卫视)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 
 邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
@@ -1880,7 +1925,6 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 
-📺 日照浙江,#genre#
 
 
 
