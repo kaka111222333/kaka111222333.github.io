@@ -13,16 +13,13 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 CNC,http://39.135.138.59:18890/pltv/88888910/224/3221225694/index.m3u8?
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
+
 
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K 超高清,http://r.jdshipin.com/krMB5
 
 📺   卫视,#genre#
-
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com:443/tv/nxws.m3u8
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -39,6 +36,9 @@ CCTV-4K 超高清,http://r.jdshipin.com/krMB5
 浙江蓝(浙江卫视)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 浙江蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 
 邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
