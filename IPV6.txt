@@ -333,7 +333,10 @@ loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 🌏   台湾,#genre#
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+东森新闻,https://pull-l3-cny.douyincdn.com/live/stream-1121752023042001198.m3u8
 三立新闻,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 中天亚洲,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 中天综合,http://23.237.10.66:16372
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
