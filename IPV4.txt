@@ -5,24 +5,7 @@ CCTV-13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
 
-CCTV-1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
-CCTV-2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
-CCTV-3,http://www.yiyibest.com:7777/udp/239.49.9.31:6000
-CCTV-4,http://www.yiyibest.com:7777/udp/239.49.8.51:9806
-CCTV-5,http://www.yiyibest.com:7777/udp/239.49.8.75:8000
-CCTV-5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
-CCTV-6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
-CCTV-7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
-CCTV-8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
-CCTV-9,http://www.yiyibest.com:7777/udp/239.49.8.53:9814
-CCTV-10,http://www.yiyibest.com:7777/udp/239.49.8.54:9818
-CCTV-11,http://www.yiyibest.com:7777/udp/239.49.0.127:8000
-CCTV-12,http://www.yiyibest.com:7777/udp/239.49.8.55:9822
-CCTV-13,http://www.yiyibest.com:7777/udp/239.49.9.43:6000
-CCTV-14,http://www.yiyibest.com:7777/udp/239.49.8.56:9826
-CCTV-15,http://www.yiyibest.com:7777/udp/239.49.0.128:8000
-CCTV-16,http://www.yiyibest.com:7777/udp/239.49.9.58:6000
-CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
+
 
 CCTV第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 CCTV怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
@@ -95,32 +78,26 @@ CCTV-4k,http://159.75.85.63:5679/cctv4k.php
 CCTV-16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-4K,http://r.jdshipin.com/krMB5
 
-📺   卫视,#genre#
-山东卫视,http://www.yiyibest.com:7777/udp/239.49.8.7:9306
-湖南卫视,http://www.yiyibest.com:7777/udp/239.49.8.12:9418
-浙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.20:9618
-安徽卫视,http://www.yiyibest.com:7777/udp/239.49.8.80:8000
-北京卫视,http://www.yiyibest.com:7777/udp/239.49.8.11:9414
-天津卫视,http://www.yiyibest.com:7777/udp/239.49.8.35:8620
-东方卫视,http://www.yiyibest.com:7777/udp/239.49.8.17:9606
-东南卫视,http://www.yiyibest.com:7777/udp/239.49.8.112:8000
-河北卫视,http://www.yiyibest.com:7777/udp/239.49.8.114:8000
-河南卫视,http://www.yiyibest.com:7777/udp/239.49.8.29:8000
-江苏卫视,http://www.yiyibest.com:7777/udp/239.49.0.34:8000
-深圳卫视,http://www.yiyibest.com:7777/udp/239.49.8.15:9430
-广东卫视,http://www.yiyibest.com:7777/udp/239.49.8.13:9422
-广西卫视,http://www.yiyibest.com:7777/udp/239.49.8.209:6000
-湖北卫视,http://www.yiyibest.com:7777/udp/239.49.8.8:9632
-黑龙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.14:9426
-四川卫视,http://www.yiyibest.com:7777/udp/239.49.8.110:8000
-重庆卫视,http://www.yiyibest.com:7777/udp/239.49.8.57:9830
-江西卫视,http://www.yiyibest.com:7777/udp/239.49.8.111:8000
-云南卫视,http://www.yiyibest.com:7777/udp/239.49.0.177:8000
-贵州卫视,http://www.yiyibest.com:7777/udp/239.49.8.49:8000
-海南卫视,http://www.yiyibest.com:7777/udp/239.49.8.83:8000
-吉林卫视,http://www.yiyibest.com:7777/udp/239.49.8.113:8000
-辽宁卫视,http://www.yiyibest.com:7777/udp/239.49.8.48:8000
+CCTV-1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
+CCTV-2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
+CCTV-3,http://www.yiyibest.com:7777/udp/239.49.9.31:6000
+CCTV-4,http://www.yiyibest.com:7777/udp/239.49.8.51:9806
+CCTV-5,http://www.yiyibest.com:7777/udp/239.49.8.75:8000
+CCTV-5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
+CCTV-6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
+CCTV-7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
+CCTV-8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
+CCTV-9,http://www.yiyibest.com:7777/udp/239.49.8.53:9814
+CCTV-10,http://www.yiyibest.com:7777/udp/239.49.8.54:9818
+CCTV-11,http://www.yiyibest.com:7777/udp/239.49.0.127:8000
+CCTV-12,http://www.yiyibest.com:7777/udp/239.49.8.55:9822
+CCTV-13,http://www.yiyibest.com:7777/udp/239.49.9.43:6000
+CCTV-14,http://www.yiyibest.com:7777/udp/239.49.8.56:9826
+CCTV-15,http://www.yiyibest.com:7777/udp/239.49.0.128:8000
+CCTV-16,http://www.yiyibest.com:7777/udp/239.49.9.58:6000
+CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
 
+📺   卫视,#genre#
 
 山东卫视,http://live.cooltv.top/tv/aishang.php?id=sdwshd
 湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
@@ -293,6 +270,31 @@ CCTV-4K,http://r.jdshipin.com/krMB5
 平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+
+山东卫视,http://www.yiyibest.com:7777/udp/239.49.8.7:9306
+湖南卫视,http://www.yiyibest.com:7777/udp/239.49.8.12:9418
+浙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.20:9618
+安徽卫视,http://www.yiyibest.com:7777/udp/239.49.8.80:8000
+北京卫视,http://www.yiyibest.com:7777/udp/239.49.8.11:9414
+天津卫视,http://www.yiyibest.com:7777/udp/239.49.8.35:8620
+东方卫视,http://www.yiyibest.com:7777/udp/239.49.8.17:9606
+东南卫视,http://www.yiyibest.com:7777/udp/239.49.8.112:8000
+河北卫视,http://www.yiyibest.com:7777/udp/239.49.8.114:8000
+河南卫视,http://www.yiyibest.com:7777/udp/239.49.8.29:8000
+江苏卫视,http://www.yiyibest.com:7777/udp/239.49.0.34:8000
+深圳卫视,http://www.yiyibest.com:7777/udp/239.49.8.15:9430
+广东卫视,http://www.yiyibest.com:7777/udp/239.49.8.13:9422
+广西卫视,http://www.yiyibest.com:7777/udp/239.49.8.209:6000
+湖北卫视,http://www.yiyibest.com:7777/udp/239.49.8.8:9632
+黑龙江卫视,http://www.yiyibest.com:7777/udp/239.49.8.14:9426
+四川卫视,http://www.yiyibest.com:7777/udp/239.49.8.110:8000
+重庆卫视,http://www.yiyibest.com:7777/udp/239.49.8.57:9830
+江西卫视,http://www.yiyibest.com:7777/udp/239.49.8.111:8000
+云南卫视,http://www.yiyibest.com:7777/udp/239.49.0.177:8000
+贵州卫视,http://www.yiyibest.com:7777/udp/239.49.8.49:8000
+海南卫视,http://www.yiyibest.com:7777/udp/239.49.8.83:8000
+吉林卫视,http://www.yiyibest.com:7777/udp/239.49.8.113:8000
+辽宁卫视,http://www.yiyibest.com:7777/udp/239.49.8.48:8000
 
 
 
