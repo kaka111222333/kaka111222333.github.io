@@ -258,6 +258,9 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 The Explorers,http://185.236.229.31:9981/play/a01d
 FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -1977,9 +1980,7 @@ besTV热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
 
 
 📺 日照浙江,#genre#
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
