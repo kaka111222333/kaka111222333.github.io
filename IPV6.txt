@@ -189,6 +189,10 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Greenland.2020,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+
+
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
