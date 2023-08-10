@@ -68,8 +68,8 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
-CCTV-娱乐,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156405&extension=ts
-CCTV-娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=156405
+
+
 
 
 📺  卫视,#genre#
@@ -250,6 +250,22 @@ CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145
 RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+
+
+CCTV-娱乐,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156405&extension=ts
+CCTV-娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=156405
+HBO,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=45549&extension=ts
+HBO1,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=176913&extension=ts
+HBO2 CA,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=176914&extension=ts
+HBO2 US,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=45552&extension=ts
+Thrill ID,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683154&extension=ts
+天映频道,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
+长城精品,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156409&extension=ts
+AXN,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683144&extension=ts
+凤凰美洲台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156408&extension=ts
+
+
+
 
 🌏  台湾,#genre#
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
