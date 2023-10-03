@@ -339,7 +339,12 @@ CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
 
 🌏  台湾,#genre#
 凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
+凤凰卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500&/PLTV/hls.smil.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
