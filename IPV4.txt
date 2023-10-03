@@ -345,6 +345,7 @@ CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
 凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰美洲,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=156408
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
