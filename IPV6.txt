@@ -119,7 +119,15 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 信号测试,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+陕西一套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西二套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西三套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西四套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西五套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西七套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西八套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安教育台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+京视剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 4K测试频道1http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
 4K测试频道2,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 CETV4,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000219/index.m3u8?IAS
