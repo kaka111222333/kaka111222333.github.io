@@ -828,6 +828,18 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 新沂2,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2272375900_2058480119/ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8?icpid=3&RTS=1668605656&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 镇江3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8?icpid=3&RTS=1668605845&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 镇江2,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3271148643_-1965191630/ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8?icpid=4&RTS=1663233651&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+长清综合,rtmp://alivealone.litenews.cn/171/16236930b5ef4329a8a1d47037ee56b6
+长清生活,rtmp://alivealone.litenews.cn/171/b6df53d1f77f4e068055b4eac603bdcb
+济铁电视,rtmp://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c
+济阳综合,rtmp://jsylivealone.iqilu.com/live/jiyang_tv01
+济阳影视,rtmp://jsylivealone.iqilu.com/live/jiyang_tv02
+历城新闻综合,rtmp://alivealone.litenews.cn/97/59b826d3afef4500aa58511b9e82736c
+平阴综合,rtmp://alivealone.litenews.cn/257/999f830f5be84ce6991ab634bf130021
+平阴生活,rtmp://alivealone.litenews.cn/257/709a2743e0904bd9a3c25a1e7976b089
+商河综合,rtmp://alivealone.litenews.cn/261/66867590127349f3bc7f908199cbbf40
+商河影视,rtmp://alivealone.litenews.cn/261/18aef04fdb68469da1c11028d80b69c8
+章丘综合,rtmp://alivealone.litenews.cn/195/d69e5146a9154e3fb6e8228b0dd4da4d
+章丘公共,rtmp://alivealone.litenews.cn/195/1734a6535af5487a842d1bfeb8efcb0c
 
 🌐 斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
