@@ -259,33 +259,25 @@ CETV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/ind
 凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Greenland.2020,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
-
-
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
 4k电影,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Greenland.2020,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 都市剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
-The Explorers,http://185.236.229.31:9981/play/a01d
-FashionTV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 📺  专业频道,#genre#
