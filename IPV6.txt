@@ -336,6 +336,7 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 胶州电视台,rtmp://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710
 胶州生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 李沧电视台,rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
+城阳电视台,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
 崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
 莱西电视台,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
 莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
