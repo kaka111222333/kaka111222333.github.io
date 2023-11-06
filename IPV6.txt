@@ -323,7 +323,23 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
-📺  山东市县,#genre#
+📺  青岛,#genre#
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
+浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
+快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
 日照,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=bd69957c1699288859
 连云港,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
