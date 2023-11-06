@@ -322,7 +322,10 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zsh
 CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 
 
-📺  山东县,#genre#
+📺  青岛,#genre#
+青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
+青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
+青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
 日照,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=bd69957c1699288859
 连云港,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
