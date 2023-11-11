@@ -655,6 +655,17 @@ CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 民视新闻台,http://123.51.230.108:18663/.m3u8
 東森財經新聞,http://123.51.230.108:18515/.m3u8
 
+🌏   国际,#genre#
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
 📺  专业频道,#genre#
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
