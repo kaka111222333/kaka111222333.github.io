@@ -397,16 +397,15 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
 青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
-日照,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=bd69957c1699288859
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
-即墨电视台,rtmp://alivealone.litenews.cn/221/34e5175319f14defa189f4c61a163025
-即墨生活服务,rtmp://alivealone.litenews.cn/221/851ddde1be6b41daaf1cfb791d03586a
+崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
 胶州电视台,rtmp://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710
 胶州生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
+即墨电视台,rtmp://alivealone.litenews.cn/221/34e5175319f14defa189f4c61a163025
+即墨生活服务,rtmp://alivealone.litenews.cn/221/851ddde1be6b41daaf1cfb791d03586a
 李沧电视台,rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
 城阳电视台,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
-崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
 莱西电视台,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
 莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
 平度电视台,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
@@ -416,8 +415,9 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 招远综合,rtmp://alivealone.litenews.cn/55/cb1dadb15e9141d281823bf62fbadd3c
 招远综艺,rtmp://alivealone.litenews.cn/55/d76fb6c7efcd4a609f5746598e93029a
 长岛电视台,rtmp://wslivealone.iqilu.com/changdao/changdao_tv01
+蓬莱新闻,rtmp://alivealone.litenews.cn/109/02dc014cb885430d8856103f1b98e3fc
+蓬莱综合,rtmp://alivealone.litenews.cn/109/0d7021643d0f40a0bf8390afe27a7003
 福山综合,rtmp://alivealone.litenews.cn/189/c479c6c0686d468e9f1498b886153b58
-福山生活,rtmp://alivealone.litenews.cn/189/0bd071e873a64877af1228ef5cefb9ce
 海阳综合,rtmp://blivealone.litenews.cn/b255/c67ee0d48a584f9f8dab1f5ee174591b
 龙口综合,rtmp://wslivealone.iqilu.com/longkou/longkou_tv01
 龙口生活,rtmp://wslivealone.iqilu.com/longkou/longkou_tv02
@@ -428,8 +428,6 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 莱州综合,rtmp://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e
 莱州商务,rtmp://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1
 牟平综合,rtmp://alivealone.litenews.cn/281/e03b233ea16a459cb2c8fc77e522ddb0
-蓬莱新闻,rtmp://alivealone.litenews.cn/109/02dc014cb885430d8856103f1b98e3fc
-蓬莱综合,rtmp://alivealone.litenews.cn/109/0d7021643d0f40a0bf8390afe27a7003
 栖霞综合,rtmp://alivealone.litenews.cn/165/e08af6910a754af3a729f97b90d13d89
 栖霞苹果,rtmp://alivealone.litenews.cn/165/8d914d1f984a4b11af6e798f8456b501
 
@@ -438,7 +436,6 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 济铁电视,rtmp://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c
 济阳综合,rtmp://jsylivealone.iqilu.com/live/jiyang_tv01
 济阳影视,rtmp://jsylivealone.iqilu.com/live/jiyang_tv02
-历城新闻综合,rtmp://alivealone.litenews.cn/97/59b826d3afef4500aa58511b9e82736c
 平阴综合,rtmp://alivealone.litenews.cn/257/999f830f5be84ce6991ab634bf130021
 平阴生活,rtmp://alivealone.litenews.cn/257/709a2743e0904bd9a3c25a1e7976b089
 商河综合,rtmp://alivealone.litenews.cn/261/66867590127349f3bc7f908199cbbf40
