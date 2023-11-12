@@ -402,16 +402,16 @@ CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
 崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
-胶州电视台,rtmp://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710
+胶州综合,rtmp://alivealone.litenews.cn/305/c663c037b5c345cdbe92a1e77e4c8710
 胶州生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
-即墨电视台,rtmp://alivealone.litenews.cn/221/34e5175319f14defa189f4c61a163025
-即墨生活服务,rtmp://alivealone.litenews.cn/221/851ddde1be6b41daaf1cfb791d03586a
+即墨综合,rtmp://alivealone.litenews.cn/221/34e5175319f14defa189f4c61a163025
+即墨生活,rtmp://alivealone.litenews.cn/221/851ddde1be6b41daaf1cfb791d03586a
 李沧电视台,rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
 城阳电视台,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
-莱西电视台,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
+莱西综合,rtmp://alivealone.litenews.cn/253/2829e3f24b8a4705aaf48c9826e300b1
 莱西生活,rtmp://alivealone.litenews.cn/253/102010c7bdfb471ab50fdb56f6d3fb60
-平度电视台,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
-平度生活服务,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
+平度综合,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
+平度生活,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
 
 
 招远综合,rtmp://alivealone.litenews.cn/55/cb1dadb15e9141d281823bf62fbadd3c
@@ -1425,7 +1425,7 @@ besTV金曲青春,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 TEST,#genre#
-气象频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
+中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -1448,7 +1448,7 @@ CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
