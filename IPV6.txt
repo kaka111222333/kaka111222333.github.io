@@ -750,7 +750,13 @@ BestTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3
 
 
 
-📺  安徽甘肃,#genre#
+📺  广州安徽甘肃,#genre#
+广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
+广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
+广州竞赛,http://nas.jdshipin.com:8801/gztv.php?id=jingsai
+广州影视,http://nas.jdshipin.com:8801/gztv.php?id=yingshi
+广州法治,http://nas.jdshipin.com:8801/gztv.php?id=fazhi
+广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
