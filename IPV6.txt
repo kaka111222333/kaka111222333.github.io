@@ -250,7 +250,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 
 love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
+斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV 4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV 4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
