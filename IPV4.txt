@@ -41,47 +41,6 @@ CCTV-17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=h
 
 
 
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
-
-
-CCTV-1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV-2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV-3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV-4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV-5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV-5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
-CCTV-6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
-CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
-CCTV-7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV-8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV-9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV-9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
-CCTV-10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV-11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV-12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV-13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV-14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV-15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV-16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV-16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV-17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-CCTV卫生健康,http://live.cooltv.top/tv/yqdtv.php?id=111
 
 
 CCTV第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
@@ -99,40 +58,9 @@ CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20
 高尔夫·网球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8?
 风云足球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8?
 
-
-
-
-
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
-CNC,http://39.135.138.59:18890/pltv/88888910/224/3221225694/index.m3u8?
-清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-
-CCTV-4k,http://159.75.85.63:5679/cctv4k.php
 CCTV-16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV-4K,http://r.jdshipin.com/krMB5
 
-CCTV-1,http://www.yiyibest.com:7777/udp/239.49.8.19:9614
-CCTV-2,http://www.yiyibest.com:7777/udp/239.49.8.50:9802
-CCTV-3,http://www.yiyibest.com:7777/udp/239.49.9.31:6000
-CCTV-4,http://www.yiyibest.com:7777/udp/239.49.8.51:9806
-CCTV-5,http://www.yiyibest.com:7777/udp/239.49.8.75:8000
-CCTV-5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
-CCTV-6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
-CCTV-7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
-CCTV-8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
-CCTV-9,http://www.yiyibest.com:7777/udp/239.49.8.53:9814
-CCTV-10,http://www.yiyibest.com:7777/udp/239.49.8.54:9818
-CCTV-11,http://www.yiyibest.com:7777/udp/239.49.0.127:8000
-CCTV-12,http://www.yiyibest.com:7777/udp/239.49.8.55:9822
-CCTV-13,http://www.yiyibest.com:7777/udp/239.49.9.43:6000
-CCTV-14,http://www.yiyibest.com:7777/udp/239.49.8.56:9826
-CCTV-15,http://www.yiyibest.com:7777/udp/239.49.0.128:8000
-CCTV-16,http://www.yiyibest.com:7777/udp/239.49.9.58:6000
-CCTV-17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
+
 
 📺   卫视,#genre#
 山东卫视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000099
