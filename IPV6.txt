@@ -382,10 +382,9 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 
 
 
-📺  县,#genre#
+📺 山东市县,#genre#
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
-日照五莲综合,rtmp://alivealone.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0
-日照五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
+
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
 崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
@@ -400,6 +399,10 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 平度综合,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
 平度生活,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
 
+德州新闻综合,rtmp://alivealone.litenews.cn/179/0d4aa29109194c9d8da23cc044614538
+德州经济生活,rtmp://alivealone.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670
+日照五莲综合,rtmp://alivealone.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0
+日照五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
 
 招远综合,rtmp://alivealone.litenews.cn/55/cb1dadb15e9141d281823bf62fbadd3c
 招远综艺,rtmp://alivealone.litenews.cn/55/d76fb6c7efcd4a609f5746598e93029a
@@ -499,8 +502,7 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 邹平新闻,rtmp://alivealone.litenews.cn/11/3c42abae69e6493d83747b135ea69c27
 邹平民生,rtmp://alivealone.litenews.cn/11/a60cdcc3bece44db81533c01bc9485e3
 
-德州新闻综合,rtmp://alivealone.litenews.cn/179/0d4aa29109194c9d8da23cc044614538
-德州经济生活,rtmp://alivealone.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670
+
 德州图文,rtmp://alivealone.litenews.cn/179/185d5575759a47b4a687d0cd26999399
 陵城综合,rtmp://alivealone.litenews.cn/215/88777643f93a427aaf6521d27de78123
 乐陵新闻综合,rtmp://alivealone.litenews.cn/267/d7d6e3a17d33406396e13b610c3fb0ce
