@@ -382,11 +382,10 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 
 
 
-📺  青岛,#genre#
-青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
-青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
-青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
+📺  县,#genre#
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
+日照五莲综合,rtmp://alivealone.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0
+日照五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
 崂山,rtmp://alivealone.litenews.cn/295/a54b85aff0ef4d45bf606ef3c7884d3d
@@ -460,8 +459,7 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
 莒县二套,rtmp://alivealone.litenews.cn/159/6847a7cbdb044bb4bfc0b303cfca89b0
 莒县图文,rtmp://alivealone.litenews.cn/159/ded31222dba245348d7ea70b00f56f24
-五莲综合,rtmp://alivealone.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0
-五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
+
 
 博山新闻,rtmp://alivealone.litenews.cn/17/4fd1c42305974bb2a98047a2bfef1d16
 博山图文,rtmp://alivealone.litenews.cn/17/7ea8010d70524912b41c92aaa5318ea9
