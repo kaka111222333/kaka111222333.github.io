@@ -1,8 +1,12 @@
 CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-1,rtmp://202.204.52.116:1935/livetv/cctv1hd
-
-
-
+CCTV-1,http://cfss.cc/api/ysp/cctv1.m3u8
+CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
+CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
+CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=
+CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 📺   卫视,#genre#
