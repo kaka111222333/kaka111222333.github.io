@@ -365,7 +365,10 @@ CGTN,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 
 
-🌏 区县,#genre#
+🌏 青岛,#genre#
+青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
+青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
+青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
