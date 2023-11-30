@@ -5,6 +5,7 @@ CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
+CCTV-15,http://hms364nc1972679593.live.aikan.miguvideo.com/wh7f454c46tw1817078494_-1321986038/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009113416&ContentId=265667535&timezone=UTC&mtv_session=d267e07f03a2a3c03145a8e1b5e12fb5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=94374b5eefceb85a2faf9d06c99d6c34
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
