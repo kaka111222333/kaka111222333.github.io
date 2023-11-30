@@ -285,6 +285,15 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 
+🌏  浙江,#genre#
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 🌏  凤凰,#genre#
 凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
