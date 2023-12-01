@@ -136,21 +136,14 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 湟中电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
 兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-海东综合,https://pili-live-hls-ashh.tianma3600.com/ashh/NEWTV.m3u8
-格尔木新闻综合,http://pili-live-hls-gemwkl.tianma3600.com/gemwkl/xwzh.m3u8
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 祁连综合,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
-贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
 同德综合,https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
-宁夏银川公共,http://play-a2.quklive.com/live/1667883943560053.m3u8
-银川生活,http://play-a2.quklive.com/live/1667883987087179.m3u8
-银川文体,http://play-a2.quklive.com/live/1667884025738071.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 青铜峡公共,http://pili-live-hdl.nxdzsh.com/qtxdst/qtx.m3u8
-中宁综合,http://livepgc.cmc.ningxiahuangheyun.com/pgc/264a150c19de6a078f2b67fee2fa14fa.m3u8
 
 🌏 青岛,#genre#
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
