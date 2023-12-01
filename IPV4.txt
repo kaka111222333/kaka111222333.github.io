@@ -3,9 +3,9 @@ CCTV-1,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
+CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
 CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_td.m3u8
 CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_hd.m3u8
-CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
 
 CCTV-4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
