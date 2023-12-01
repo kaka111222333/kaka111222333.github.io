@@ -320,6 +320,15 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 青铜峡公共,http://pili-live-hdl.nxdzsh.com/qtxdst/qtx.m3u8
+📺   河北,#genre#
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
+河北影视剧,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
+河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=5ae52d7ff5118e85c19a12237a3518cb
+河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
+
 
 📺   湖北,#genre#
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
