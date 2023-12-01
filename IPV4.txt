@@ -8,8 +8,7 @@ CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_td.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_hd.m3u8
-
-
+CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-13,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
@@ -829,6 +828,10 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 🐼 动物纪录,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青铜大立人像,http://mobilelive-ds.ysp.cctv.cn/ysp/2007423901_fhd.m3u8
+前门？,http://mobilelive-ds.ysp.cctv.cn/ysp/2012896301_fhd.m3u8
+实时镜像,http://mobilelive-ds.ysp.cctv.cn/ysp/2007463001_fhd.m3u8
+
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
