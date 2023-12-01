@@ -4,27 +4,13 @@ CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
+精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-
-
-
 📺   卫视,#genre#
-江苏卫视,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2248309591_-507602364/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114127&ContentId=264104188&timezone=UTC&mtv_session=24129a28f69556ab188fcb4032dff62c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=bf440de65751488c53b686e8c9b90884
-新疆卫视,http://hms264nc1972679583.live.aikan.miguvideo.com/wh7f454c46tw2664858374_-1632330392/wd-xinjiangwssd-600/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114824&ContentId=531262095&timezone=UTC&mtv_session=9d645a12df3930c0d763e0e1aba21dd9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f7da5a92b5b0bef86f35daf30cd3d298
-东方卫视,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw834921086_-1745167681/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.223.57&timestamp=20220831033555&ContentId=264104266&timezone=UTC&mtv_session=a6b41bb3b8962d5e86494be96581bdf4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=48c7ce4e4a539e610bed586eae522962
-吉林卫视,http://hms4nc1972679556.live.aikan.miguvideo.com/wh7f454c46tw2638111089_-1436027829/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114757&ContentId=531262154&timezone=UTC&mtv_session=644ac75d8e63b6d6dcd3118e7f1f9a89&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d75399718f00b9c922ab58b2042ba078
-广东卫视,http://hms84nc1972679565.live.aikan.miguvideo.com/wh7f454c46tw2185763872_-64792664/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114025&ContentId=263541274&timezone=UTC&mtv_session=642aad5f03655e8d2168c8c3c5872284&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=44ebb69f95d9622de09784b18a0dca52
-湖北卫视,http://hms84nc1972679565.live.aikan.miguvideo.com/wh7f454c46tw2402625421_-1860003962/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114402&ContentId=531261978&timezone=UTC&mtv_session=89c2404e8885e8039eae3e44cef6c5c9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=296993579519267a11cca1321b5cbbb4
-东方卫视,http://hms164nc1972679573.live.aikan.miguvideo.com/wh7f454c46tw2837774172_1386219884/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009115117&ContentId=264104266&timezone=UTC&mtv_session=1a44d44ce09243c578ed82c3ca9908ff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=643fcc0822268bc0a18107bd5f9f4633
-青海卫视,,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw2488220205_839684103/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009114527&ContentId=531262027&timezone=UTC&mtv_session=bf9b884d0b237bcd6205240feef4037b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1142f660a1a474c820d24393ba3db5f4
-辽宁卫视,http://hms164nc1972679572.live.aikan.miguvideo.com/wh7f454c46tw2037367067_-1810017279/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.29.184&timestamp=20221009113756&ContentId=265669068&timezone=UTC&mtv_session=7fa2247a64cc14497422a419b5b4caef&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=43229e48adeb60123c16c115e47b197c
-
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
-
 连云港,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?&encrypt=
 辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
 
