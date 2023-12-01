@@ -59,6 +59,36 @@ CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 
+🌏 河南党员,#genre#
+CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8 
+CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
+CCTV5+,http://123.6.9.146/live/jz-cctv-5-plus/live.m3u8 
+CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8 
+CCTV7,http://123.6.9.146/live/jz-cctv-7/live.m3u8 
+CCTV9,http://123.6.9.146/live/jz-cctv-9/live.m3u8 
+CCTV10,http://123.6.9.146/live/jz-cctv-10/live.m3u8 
+CCTV11,http://123.6.9.146/live/jz-cctv-11/live.m3u8
+CCTV12,http://123.6.9.146/live/jz-cctv-12/live.m3u8 
+CCTV13,http://123.6.9.146/live/jz-cctv-13/live.m3u8 
+CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8 
+远程党员教育,http://123.6.9.146/live/jz-m-ycjy/live.m3u8 
+湖南卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8 
+江苏卫视,http://123.6.9.146/live/jz-jiangsuweishi-gq/live.m3u8 
+安徽卫视,http://123.6.9.146/live/jz-anhuiweishi-gq/live.m3u8 
+浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8 
+深圳卫视,http://123.6.9.146/live/jz-shenzhenweishi/live.m3u8 
+重庆卫视,http://123.6.9.146/live/jz-chongqingweishi/live.m3u8 
+北京卫视,http://123.6.9.146/live/jz-beijingweishi/live.m3u8 
+东方卫视,http://123.6.9.146/live/jz-shanghaiweishi-gq/live.m3u8 
+河南卫视,http://123.6.9.146/live/jz-hnweishi/live.m3u8 
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8 
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8 
+河南梨园,http://123.6.9.146/live/jz-henanliyuan/live.m3u8 
+河南新农村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8 
+河南文物宝库,http://123.6.9.146/live/jz-henanwenwu/live.m3u8 
+金鹰卡通,http://123.6.9.146/live/jz-jinyingkatong/live.m3u8 
+
 🌏 青岛,#genre#
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
 青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
