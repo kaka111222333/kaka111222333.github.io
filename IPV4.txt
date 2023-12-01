@@ -8,6 +8,7 @@ CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_td.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_hd.m3u8
+CCTV-6 电影,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
