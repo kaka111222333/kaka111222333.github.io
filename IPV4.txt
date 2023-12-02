@@ -22,7 +22,7 @@ CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
-
+CCTV-15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
@@ -33,6 +33,13 @@ CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/index.m3u8?&encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/index.m3u8?&encrypt=
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/1000/index.m3u8?&encrypt=
+
+
 
 
 🌏  凤凰,#genre#
