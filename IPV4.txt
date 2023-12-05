@@ -84,9 +84,9 @@ CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv14hd265/55/2020
 CCTV-15 音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/01.m3u8?&HlsSubType=&encrypt=
 CCTV-15 音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/01.m3u8?&HlsSubType=&encrypt=
 CCTV-15 音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/01.m3u8?&HlsSubType=&encrypt=
-CCTV-17 农村农业,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/01.m3u8?&HlsSubType=&encrypt=
-CCTV-17 农村农业,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/01.m3u8?&HlsSubType=&encrypt=
-CCTV-17 农村农业,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?&HlsSubType=&encrypt=
+CCTV-17 农业农村,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/01.m3u8?&HlsSubType=&encrypt=
+CCTV-17 农业农村,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/01.m3u8?&HlsSubType=&encrypt=
+CCTV-17 农业农村,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?&HlsSubType=&encrypt=
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/1000/01.m3u8?&HlsSubType=&encrypt=
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/01.m3u8?&HlsSubType=&encrypt=
 CCTV中学生,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/01.m3u8?&HlsSubType=&encrypt=
