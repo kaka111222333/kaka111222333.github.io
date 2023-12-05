@@ -7,16 +7,12 @@ CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
-CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive43_2_td.m3u8
-CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive43_2_hd.m3u8
-CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive43_2_pd.m3u8
-CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive41_2_pd.m3u8
 CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive41_2_pd.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
-CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
-CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_td.m3u8
-CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_hd.m3u8
-CCTV-5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8
+CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?&encrypt=
+CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
+CCTV-5,http://cfss.cc/api/ysp/cctv5.m3u8
 CCTV-5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
 CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 CCTV-6 电影,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
@@ -30,9 +26,6 @@ CCTV-14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&e
 CCTV-15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&encrypt=
 CCTV-17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
 
-
-CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
 CCTV-15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
 CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
