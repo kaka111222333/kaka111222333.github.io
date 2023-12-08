@@ -1,12 +1,10 @@
+CCTV-13,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV-13 新闻,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
-CCTV-13,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
-CCTV-1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
-CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 
+CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV-1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
+CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
 CCTV-3 综艺,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/01.m3u8?&HlsSubType=&encrypt=
