@@ -34,7 +34,6 @@ CCTV发现之旅,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/i
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 连云港,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?&encrypt=
 辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
