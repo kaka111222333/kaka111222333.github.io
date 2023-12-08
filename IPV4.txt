@@ -9,7 +9,6 @@ CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m
 CCTV-1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 CCTV-3,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive41_2_pd.m3u8
-精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?&encrypt=
 CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
 CCTV-5,http://cfss.cc/api/ysp/cctv5.m3u8
