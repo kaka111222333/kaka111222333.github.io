@@ -1,11 +1,12 @@
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-13,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
-
-
 CCTV-1,http://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
+
+
 CCTV-6 电影,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV-1,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02
@@ -111,7 +112,7 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 
 
 🌏 青岛,#genre#
-日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
+
 青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
 青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
 青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
