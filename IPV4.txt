@@ -36,8 +36,8 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 📺   卫视,#genre#
 
-山东卫视,https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-齐鲁电视台,https://livealone302.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 山东体育,https://livealone302.iqilu.com/iqilu/typdhjOF03kn.m3u8
 山东文旅,https://livealone302.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东综艺,https://livealone302.iqilu.com/iqilu/zypdhjOF03kn.m3u8
