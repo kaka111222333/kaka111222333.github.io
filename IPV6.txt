@@ -305,6 +305,18 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 
+📺   卫视,#genre#
+
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+
 
 🌏   国际,#genre#
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
