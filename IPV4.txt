@@ -38,13 +38,13 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
-山东体育,https://livealone302.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东文旅,https://livealone302.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东综艺,https://livealone302.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东生活,https://livealone302.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东农科,https://livealone302.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东少儿,https://livealone302.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-山东新闻,https://livealone302.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
 
 北京卫视HD,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
 东方卫视HD,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1588472879_1818144718/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=b92530997e9df844d8ff90071c412ce1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d69348c370f40e3d50d3d87148478bee
