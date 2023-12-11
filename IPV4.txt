@@ -367,7 +367,6 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 
 📺   青海,#genre#
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -392,6 +391,26 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
 
+邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
+平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+
 
 📺   湖北,#genre#
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
@@ -415,37 +434,15 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 兴山综合,http://xingshan-live21.cjyun.org/cjyun/s10108-xingshanTV01.m3u8?auth_key=1704038399-0-0-d18d120277c3d0e90b935cf0d1aaeb44
 
 
-
-🌏 地方,#genre#
-邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
-丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
-平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-
 🌏  浙江,#genre#
-浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
 🌏  安徽,#genre#
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
@@ -455,13 +452,12 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 🌏  广州,#genre#
-广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
+广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
 广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
 广州竞赛,http://nas.jdshipin.com:8801/gztv.php?id=jingsai
 广州影视,http://nas.jdshipin.com:8801/gztv.php?id=yingshi
 广州法治,http://nas.jdshipin.com:8801/gztv.php?id=fazhi
-广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
-
+广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
 
 
 🌏  国外,#genre#
