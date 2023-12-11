@@ -452,6 +452,12 @@ i山亭综合,rtmp://alivealone.litenews.cn/243/fd03a438eb34412eb4c7c9318dfa4106
 
 
 🌏  斗鱼,#genre#
+刘德华,http://epg.112114.xyz/douyu/2516864
+林正英,http://epg.112114.xyz/douyu/218859
+香港电影,http://epg.112114.xyz/huya/11602058
+欧美大片1,http://epg.112114.xyz/douyu/20415
+欧美大片2,http://epg.112114.xyz/douyu/2793084
+
 斗鱼连续剧05,http://epg.112114.xyz/douyu/5522351
 斗鱼连续剧-老三国,http://epg.112114.xyz/douyu/7459925
 斗鱼,http://openhls-tct.douyucdn2.cn/dyliveflv1a/315457rYgPR3LxvN.m3u8
