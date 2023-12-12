@@ -306,7 +306,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 📺   山东,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
-日照综合,http://live.rzw.com.cn/xwzh/playlist.m3u8?_upt=6eebcc161702302277
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
