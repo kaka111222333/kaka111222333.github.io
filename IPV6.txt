@@ -90,6 +90,7 @@ CCTV-14 少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/322122616
 CCTV-15 音乐,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226616/1.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
 CCTV-17 农业农村,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226407/1.m3u8
+CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -275,16 +276,15 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-📺  4K,#genre#
+📺 4K超清,#genre#
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
 🌏 凤凰求索,#genre#
