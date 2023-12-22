@@ -1,11 +1,9 @@
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-1 综合,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
-CCTV-1 综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
-CCTV-1 综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
-CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+
 
 
 📺   山东,#genre#
