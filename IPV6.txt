@@ -363,16 +363,16 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 
 
 📺   山东,#genre#
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 
 黄岛电视台,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30
