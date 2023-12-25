@@ -2111,6 +2111,11 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 韩国女团60,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
 NEW,#genre#
+
+
+
+AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 沛县经济生活,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2485154935_560997466/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8?icpid=3&RTS=1663018117&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 连云港新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
