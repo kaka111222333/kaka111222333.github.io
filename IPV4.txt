@@ -1,7 +1,7 @@
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-1 综合,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 日照岚山,rtmp://alivealone.litenews.cn/289/547a6d25776f4f76b27d64f945075683
 
 CCTV-1 综合,http://www.weetai.cn/tv/meowtv-jy.php?id=cctv1
@@ -42,15 +42,15 @@ CCTV-14 少儿,http://www.weetai.cn/tv/meowtv-jy.php?id=cctv14hd
 
 📺   山东,#genre#
 
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
