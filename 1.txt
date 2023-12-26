@@ -1,3 +1,70 @@
+中国气象 (576p) [Not 24/7],http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+南宁公共 (720p) [Not 24/7],https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁影视娱乐 (720p) [Not 24/7],https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+南宁新闻综合 (720p) [Not 24/7],https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁都市生活 (720p) [Not 24/7],https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+亳州农村 (360p),http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
+亳州新聞頻道 (360p),http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
+余姚姚江文化 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+余姚新闻综合 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+凤凰中文 (576p),http://125.210.152.18:9090/live/FHZW_1200.m3u8
+北碚综合 (576p) [Not 24/7],http://222.178.181.121:12034/beibei01.m3u8
+半岛新闻 (1080p),https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+南京信息 (720p),https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京十八 (720p),https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京娱乐 (720p),https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+南京教科 (720p),https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+南京新闻综合 (720p),https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+南京生活 (720p),https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+宿州公共 (1080p) [Not 24/7],http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州新闻综合 (1080p) [Not 24/7],http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州科教 (1080p) [Not 24/7],http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+岳阳公共 (576p),http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524
+嵊州综合 (720p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+
+房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
+文山综合 (1080p) [Not 24/7],http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+新昌休闲影视 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌新聞綜合 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新泰乡村党建 (480p) [Not 24/7],http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+新泰影視頻道 (480p) [Not 24/7],http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新泰影視頻道 (480p) [Not 24/7],http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+新泰生活 (480p) [Not 24/7],http://111.17.214.4:1935/live/xtsh/playlist.m3u8
+新泰生活 (480p) [Not 24/7],http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+新泰综合 (480p) [Not 24/7],http://111.17.214.4:1935/live/xtzh/playlist.m3u8
+新泰综合 (480p) [Not 24/7],http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+新泰乡村黨建 (480p) [Not 24/7],http://111.17.214.4:1935/live/xtxc/playlist.m3u8
+新郑综合 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+晋中公共 (1080p) [Not 24/7],http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+晋中综合 (1080p),http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+武汉外语 (576p),http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉文体 (480p),http://stream.appwuhan.com/5tzb/sd/live.m3u8
+武汉经济 (360p),http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武进新闻 (576p) [Not 24/7],https://live.wjyanghu.com/live/CH1.m3u8
+武进生活 (576p) [Not 24/7],https://live.wjyanghu.com/live/CH2.m3u8
+江津新闻综合 (480p),http://222.179.155.21:1935/ch1.m3u8
+江苏 Ⅰ 连云港公共 (480p) [Not 24/7],https://live.lyg1.com/ggpd/sd/live.m3u8
+江苏 Ⅰ 连云港综合 (480p) [Not 24/7],https://live.lyg1.com/zhpd/sd/live.m3u8
+沧县电视综合 (576p),http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+沧县电视二套 (576p),http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+
+河源公共 (540p),https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源综合 (540p),https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+洪雅新闻综合 (1080p),http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
+浙江国际 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+
+
+
+
+
+
 연합뉴스TV_로고 (韓聯社新聞) [Geo-blocked],https://sc2022.stream-link.org/tv2306.php?id=e18
 万州三峡移民 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 万州影视 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
