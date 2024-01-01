@@ -410,15 +410,15 @@ Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&
 
 
 📺   山东,#genre#
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 
 
 🏮历年春晚,#genre#
