@@ -1,11 +1,17 @@
 📺 CCTV,#genre#
+
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV-4K 超高清,http://hls.ye23.vip/dl/4k.cctv.php
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+
+
+
+
 CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -313,9 +319,15 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 
 🌏  凤凰,#genre#
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
+
+
+
 凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -328,6 +340,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰卫视, https://edge2.laotv.la/live/PhxChinese/index.m3u8
 凤凰资讯, https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -363,15 +376,6 @@ prod/amgclarity4k/playlist.m3u8
 loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Greenland.2020,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -383,15 +387,25 @@ NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 韩国KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
+动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+民视台湾,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+民视,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 
 
 
@@ -408,50 +422,52 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 
 
 🏮历年春晚,#genre#
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚 2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚 2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚 2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚 2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚 2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚 2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚 2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚 2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚 2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚 2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚 2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚 2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚 2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚 2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚 2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚 2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚 1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚 1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚 1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚 1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚 1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚 1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚 1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚 1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚 1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚 1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚 1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚 1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚 1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚 1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 
 
 
 
 📺  连云港,#genre#
-连云港,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+连云港电视台,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 连云港公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1663226999&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-赣榆,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8?icpid=3&RTS=1663231551&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-仪化有线,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2007904333_996227273/ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8?icpid=3&RTS=1663228093&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-高淳新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2091063000_-113209540/ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8?icpid=3&RTS=1663228176&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-东海综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8?icpid=3&RTS=1663228617&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-睢宁三农,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8?icpid=3&RTS=1663018791&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-睢宁综合,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8?icpid=3&RTS=1663228797&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-睢宁资讯,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8?icpid=3&RTS=1663228871&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+赣榆电视台,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8?icpid=3&RTS=1663231551&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1663229212&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京科技,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8?icpid=4&RTS=1663233910&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8?icpid=4&RTS=1663233995&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1663229115&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1663229140&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 常州新闻,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
 常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
@@ -461,15 +477,6 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8?icpid=3&RTS=1663019583&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 常州都市,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8?icpid=3&RTS=1663019634&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1663229115&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1663229140&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-邳州综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2533804280_-725162855/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8?icpid=3&RTS=1663254388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-淮安新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1933892795_-1561469258/ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8?icpid=4&RTS=1663232314&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-无锡新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-国学与家道,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8?icpid=4&RTS=1663234173&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-影视剧频道,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8?icpid=4&RTS=1663234213&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-南通3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-南通2,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw1356203236_1007889310/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8?icpid=4&RTS=1664455802&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 盐城1,http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8?icpid=4&RTS=1664455691&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8?icpid=4&RTS=1664455577&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 盐城3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8?icpid=4&RTS=1664455745&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
@@ -477,6 +484,13 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 徐州2,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8?icpid=3&RTS=1663016186&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 徐州3,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8?icpid=3&RTS=1663016244&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 徐州4,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8?icpid=3&RTS=1663016278&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+邳州综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2533804280_-725162855/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8?icpid=3&RTS=1663254388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+淮安新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1933892795_-1561469258/ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8?icpid=4&RTS=1663232314&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+无锡新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+国学与家道,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8?icpid=4&RTS=1663234173&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+影视剧频道,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8?icpid=4&RTS=1663234213&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+南通3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+南通2,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw1356203236_1007889310/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8?icpid=4&RTS=1664455802&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 泰州1,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8?icpid=3&RTS=1663018620&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 泰州2,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8?icpid=3&RTS=1663018686&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 泰州3,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8?icpid=3&RTS=1663018743&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -490,18 +504,12 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 常州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8?icpid=3&RTS=1663019442&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 宝应新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8?icpid=3&RTS=1663228956&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 宝应生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8?icpid=3&RTS=1663228974&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1663229212&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 镇江新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw1100784708_827843552/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8?icpid=3&RTS=1663231481&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 宿迁综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1682757042_1482535442/ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8?icpid=4&RTS=1663232063&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 宿迁公共,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8?icpid=4&RTS=1663232137&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 京视剧场,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw2927670510_1843427486/ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8?icpid=3&RTS=1668606312&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 贾汪新闻,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8?icpid=3&RTS=1668606389&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 贾汪旅游,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3158177609_-1622861678/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8?icpid=3&RTS=1668606542&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京科技,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8?icpid=4&RTS=1663233910&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8?icpid=4&RTS=1663233995&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 洪泽综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3699298408_-685916425/ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8?icpid=3&RTS=1663234079&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 镇江新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8?icpid=4&RTS=1663234329&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 扬州1,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw2042951982_296363859/ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -511,20 +519,26 @@ NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u
 新沂2,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2272375900_2058480119/ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8?icpid=3&RTS=1668605656&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 镇江3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8?icpid=3&RTS=1668605845&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 镇江2,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3271148643_-1965191630/ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8?icpid=4&RTS=1663233651&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+仪化有线,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2007904333_996227273/ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8?icpid=3&RTS=1663228093&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
+高淳新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2091063000_-113209540/ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8?icpid=3&RTS=1663228176&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
+东海综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8?icpid=3&RTS=1663228617&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+睢宁三农,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8?icpid=3&RTS=1663018791&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+睢宁综合,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8?icpid=3&RTS=1663228797&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+睢宁资讯,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8?icpid=3&RTS=1663228871&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 
 
 
 📺  上海,#genre#
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
+纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 上海ICS,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
@@ -592,12 +606,6 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
-
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-
 
 📺  河北,#genre#
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
@@ -1413,39 +1421,12 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 韩国女团59,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国女团60,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
-NEW,#genre#
-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-民视台湾,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-
-华视,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-民视，http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-
-
-
-
 
 
 沛县经济生活,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2485154935_560997466/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8?icpid=3&RTS=1663018117&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 连云港新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 连云港公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1663226999&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO亚洲,http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
 
 
 fanmingming,#genre#
