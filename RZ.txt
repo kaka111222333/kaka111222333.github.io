@@ -1,17 +1,3 @@
-CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
-CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV-13 新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-
 
 
 📺 CCTV,#genre#
@@ -59,7 +45,6 @@ CCTV-10 科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000
 CCTV-11 戏曲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-12 社会与法,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-13 新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-14 少儿,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1674381363&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
@@ -698,12 +683,12 @@ Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&
 📺   山东,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
@@ -752,15 +737,6 @@ Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&
 
 
 🌐  电影,#genre#
-成龙🐯,http://epg.112114.xyz/huya/11342386
-洪金宝🐯,http://diyp.112114.xyz/huya/11279251
-洪金宝🐯,http://epg.112114.xyz/huya/11279251
-李连杰🐯,http://diyp.112114.xyz/huya/11342390
-李连杰🐯,http://epg.112114.xyz/huya/11342390
-刘德华🐯,http://diyp.112114.xyz/huya/11342424
-刘德华🐯,http://epg.112114.xyz/huya/11342424
-鬼片🐯,http://epg.112114.xyz/huya/11342421
-
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -800,7 +776,6 @@ Outdoor,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&
 跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
 jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
-
 斗鱼_新三国,http://diyp.112114.xyz/douyu/276200
 斗鱼_新三国,http://epg.112114.xyz/douyu/276200
 斗鱼_老三国,http://diyp.112114.xyz/douyu/7459925
