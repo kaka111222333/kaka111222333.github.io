@@ -738,18 +738,12 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 茶频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 
 
+
 📺 连云港,#genre#
 连云港电视台,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1663227683&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 连云港公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1663226999&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 赣榆电视台,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8?icpid=3&RTS=1663231551&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1663229212&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京科技,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8?icpid=4&RTS=1663233910&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8?icpid=4&RTS=1663233995&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1663229115&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1663229140&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+无锡新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 常州新闻,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
 常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
@@ -762,13 +756,20 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 盐城1,http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8?icpid=4&RTS=1664455691&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8?icpid=4&RTS=1664455577&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 盐城3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8?icpid=4&RTS=1664455745&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1663229212&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京科技,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8?icpid=4&RTS=1663233910&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8?icpid=4&RTS=1663233995&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1663229115&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1663229140&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 徐州1,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8?icpid=3&RTS=1663016081&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 徐州2,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8?icpid=3&RTS=1663016186&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 徐州3,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8?icpid=3&RTS=1663016244&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 徐州4,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8?icpid=3&RTS=1663016278&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 邳州综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2533804280_-725162855/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8?icpid=3&RTS=1663254388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 淮安新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1933892795_-1561469258/ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8?icpid=4&RTS=1663232314&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-无锡新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 国学与家道,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8?icpid=4&RTS=1663234173&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 影视剧频道,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8?icpid=4&RTS=1663234213&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 南通3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
@@ -809,24 +810,15 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 睢宁资讯,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8?icpid=3&RTS=1663228871&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
-海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
-海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
-
-金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
-茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 
 甘肃都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
 甘肃经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
 甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
 甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-甘肃公共应急,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
+甘肃公共,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
 兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-兰州生活经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
 兰州文旅频道,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
+
 广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
 广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
 广州竞赛,http://nas.jdshipin.com:8801/gztv.php?id=jingsai
@@ -835,7 +827,6 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
-安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
@@ -898,7 +889,7 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 
 
 
-🌐  咪咕,#genre#
+🌐  咪咕体育,#genre#
 咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
 咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226508/1.m3u8
