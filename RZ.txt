@@ -290,7 +290,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 4K测试频道1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
 4K测试频道2,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 
-📺 专业频道,#genre#
+📺 CCTV专业,#genre#
 CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
