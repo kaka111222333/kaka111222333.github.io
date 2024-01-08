@@ -438,7 +438,7 @@ CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC161451981614
 探索频道,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 
 
-📺  山东,#genre#
+📺  日照,#genre#
 日照综合,http://live.rzw.com.cn/xwzh/playlist.m3u8?_upt=b1f5587d1704730157
 日照公共,http://live.rzw.com.cn/kzpd/playlist.m3u8?_upt=6f56b6941704730213
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
