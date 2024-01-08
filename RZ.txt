@@ -440,6 +440,7 @@ CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC161451981614
 
 📺  山东,#genre#
 日照综合,http://live.rzw.com.cn/xwzh/playlist.m3u8?_upt=b1f5587d1704730157
+日照公共,http://live.rzw.com.cn/kzpd/playlist.m3u8?_upt=6f56b6941704730213
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
