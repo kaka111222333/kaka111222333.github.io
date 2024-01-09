@@ -1217,14 +1217,7 @@ CCTV14-少儿,http://120.224.23.34:9901/tsfile/live/0014_1.m3u8?key=txiptv&playl
 济南少儿,http://120.224.23.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-广东_广州综合,http://mmitv.top/test/tianma.php?id=gzzh
-广东_广州新闻,http://mmitv.top/test/tianma.php?id=gzxw
-广东_广州影视,http://mmitv.top/test/tianma.php?id=gzys
-广东_广州南国都市,http://mmitv.top/test/tianma.php?id=gzsh
-广东_广州法治,http://mmitv.top/test/tianma.php?id=gzfz
-广东_广州竞赛,http://mmitv.top/test/tianma.php?id=gzjs
-广西_玉林新闻综合,http://mmitv.top/test/tianma.php?id=ylzh
-广西_玉林公共,http://mmitv.top/test/tianma.php?id=ylgg
+📺  各地,#genre#
 河南_信阳综合,http://mmitv.top/test/tianma.php?id=xyzh
 河南_信阳公共,http://mmitv.top/test/tianma.php?id=xygg
 河南_信阳浉河,http://mmitv.top/test/tianma.php?id=xysh
@@ -1232,18 +1225,13 @@ CCTV14-少儿,http://120.224.23.34:9901/tsfile/live/0014_1.m3u8?key=txiptv&playl
 内蒙古_巴彦淖尔新闻综合,http://mmitv.top/test/tianma.php?id=bynrzh
 内蒙古_巴彦淖尔经济生活,http://mmitv.top/test/tianma.php?id=bynrjj
 内蒙古_巴彦淖尔影视娱乐,http://mmitv.top/test/tianma.php?id=bynrys
-青海_海东综合,http://mmitv.top/test/tianma.php?id=hdzh
 陕西_安康综合,http://mmitv.top/test/tianma.php?id=akzh
 陕西_安康公共,http://mmitv.top/test/tianma.php?id=akgg
 陕西_安康教育,http://mmitv.top/test/tianma.php?id=akjy
 四川_珙县新闻,http://mmitv.top/test/tianma.php?id=gxtv
-四川_茂县新闻综合,http://mmitv.top/test/tianma.php?id=mxtv
 新疆_乌鲁木齐汉语综合,http://mmitv.top/test/tianma.php?id=utvhyzh
-新疆_乌鲁木齐维语综合,http://mmitv.top/test/tianma.php?id=utvwyzh
 云南_昆明教育,http://mmitv.top/test/tianma.php?id=kmjy
 云南_师宗综合,http://mmitv.top/test/tianma.php?id=sztv
-浙江_泰顺新闻综合,http://mmitv.top/test/tianma.php?id=tszh
-甘肃_兰铁TV,http://mmitv.top/test/tianma.php?id=lttv
 辽宁_丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 广东_湛江新闻综合,http://mmitv.top/test/tianma.php?id=zjzh
 广东_湛江公共,http://mmitv.top/test/tianma.php?id=zjgg
