@@ -1235,3 +1235,5 @@ CCTV14-少儿,http://120.224.23.34:9901/tsfile/live/0014_1.m3u8?key=txiptv&playl
 辽宁_丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 广东_湛江新闻综合,http://mmitv.top/test/tianma.php?id=zjzh
 广东_湛江公共,http://mmitv.top/test/tianma.php?id=zjgg
+海看演艺	4K,rtsp://112.230.194.71:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/89016_Uni.sdp
+海看教育,rtsp://112.230.194.76:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/88999_Uni.sdp
