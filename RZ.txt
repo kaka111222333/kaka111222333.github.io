@@ -443,7 +443,8 @@ AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 探索频道,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-
+民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 📺  日照,#genre#
 日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=be13c4f21705062425
