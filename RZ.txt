@@ -441,9 +441,12 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-台湾 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-
-
+台湾三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台视新闻：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+华视CTS：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 
 
