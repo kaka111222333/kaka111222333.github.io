@@ -445,8 +445,8 @@ CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC161451981614
 
 
 📺  日照,#genre#
-日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=e592528c1704976013
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=5d6169211704976031
+日照综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=be13c4f21705062425
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=5646c93e1705062449
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
