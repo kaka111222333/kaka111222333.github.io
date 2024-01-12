@@ -438,6 +438,9 @@ NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+澳门 Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+
+
 
 🌏  台湾,#genre#
 美亚电影台,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
