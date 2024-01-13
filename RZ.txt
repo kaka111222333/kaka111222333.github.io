@@ -528,10 +528,10 @@ TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403233774
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 
-亚洲旅游,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
 台湾好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 台湾好消息2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
 
