@@ -406,6 +406,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -419,6 +420,7 @@ Greenland.2020,https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK WORLD,https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 金砖国家,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -433,6 +435,34 @@ NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 澳门 Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+
+世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
+世界时装俄罗斯,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
+法国时装亚洲,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+Kaloopy TV,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=7lu1&ads.env_i=07d4d433-09a7-4180-937c-d85f1d840736&ads.env_u=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=103.135.102.145&ads.geo=HK&ads.lat=22.25780&ads.long=114.16570&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+Channel One,https://ch1hls.wns.live/hls/stream.m3u8
+伊朗国际,https://live.playstop.me/1816184091/index.m3u8
+yourtime,https://hls.yourtime.live/hls/stream.m3u8
+日本24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Qmusic,https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+Magic TV,https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+M2O TV,https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+Spirit TV,https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+California Music Channel,https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+Company TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist.m3u8
+Biz Music,https://sts.biztv.uz/hls/m_mid/index.m3u8
+Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+汽车,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+
+
+
+
 
 
 
