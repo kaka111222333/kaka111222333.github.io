@@ -462,63 +462,7 @@ Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 旅行4k,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/4cfd1a61-47a9-4e19-a0e2-435c7191c4a6/0.m3u8
 
 
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB明珠台,http://r.jdshipin.com/ZQ4kN
-凤凰资讯,http://r.jdshipin.com/0Rp07
-无线新闻,http://r.jdshipin.com/CkuBd
-咪咕体育4K,http://r.jdshipin.com/ln4xk
-华数4K影视,http://nas.jdshipin.com:8801/4kys.php
-TVB 星河,http://r.jdshipin.com/sXuuD
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-明珠台,http://r.jdshipin.com/ZQ4kN
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台.备用,http://r.jdshipin.com/n90gt
-4K影视,http://nas.jdshipin.com:8801/4kys.php
-TVB J2,http://r.jdshipin.com/Nr5jq
-TVB J2,http://r.jdshipin.com/ndGgS
-VIUTV,http://r.jdshipin.com/vSJvl
-静态_广东体育,http://r.jdshipin.com/LiYdg
-北京IPTV淘电影,http://r.jdshipin.com/OeHMu
-J2,http://r.jdshipin.com/Nr5jq
-TVB星河台,http://r.jdshipin.com/sXuuD
-凤凰中文,http://r.jdshipin.com/cCCzW
-无线财经,http://r.jdshipin.com/jUx8K
-峨眉电影,http://r.jdshipin.com/XIjta
-凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
-凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
-澳门莲花,http://jylt.jdshipin.com:808/hls/24/index.m3u8
-世界地理,http://jydx.jdshipin.com:8081/hls/124/index.m3u8
-环球奇观,http://jydx.jdshipin.com:8081/hls/119/index.m3u8
-怀旧剧场,http://jydx.jdshipin.com:8081/hls/118/index.m3u8
-第一剧场,http://jydx.jdshipin.com:8081/hls/121/index.m3u8
-TVB星河,http://r.jdshipin.com/sXuuD
-翡翠台,http://r.jdshipin.com/qrfbg
-华丽台,http://r.jdshipin.com/thuYX
-明珠台,http://nas.jdshipin.com:8801/gudoumz.php
-华丽翡翠台,http://r.jdshipin.com/thuYX
-J2.备用,http://r.jdshipin.com/ndGgS
-TVB明珠,http://r.jdshipin.com/ZQ4kN
-老故事,http://jydx.jdshipin.com:8081/hls/125/index.m3u8
-Channel V 音樂,http://r.jdshipin.com/dMphc
-4K超高清电影,http://r.jdshipin.com/5DWJk
-Viu TV,http://r.jdshipin.com/vSJvl
-CCTV4K,http://r.jdshipin.com/krMB5
-翡翠,http://r.jdshipin.com/qClQf
-翡翠,http://r.jdshipin.com/62WM7
-翡翠,http://r.jdshipin.com/qrfbg
-翡翠,http://r.jdshipin.com/n90gt
-明珠,http://r.jdshipin.com/ZQ4kN
-VIUTV,http://r.jdshipin.com/vSJv
-凤凰卫视香港台,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-无线财经资讯台,http://jylt.jdshipin.com:808/hls/86/index.m3u8
-J2,http://r.jdshipin.com/ndGgS
-
-
-
-
-🌏港台(卡),#genre#
+🌏  台湾,#genre#
 
 东森财经新闻,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 东森财经新闻,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
