@@ -384,6 +384,10 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+法国时装亚洲,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
+世界时装俄罗斯,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
+
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
@@ -436,10 +440,6 @@ NHK WORLD,https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/
 美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 澳门 Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-
-世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
-世界时装俄罗斯,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
-法国时装亚洲,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 Kaloopy TV,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=7lu1&ads.env_i=07d4d433-09a7-4180-937c-d85f1d840736&ads.env_u=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=103.135.102.145&ads.geo=HK&ads.lat=22.25780&ads.long=114.16570&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
