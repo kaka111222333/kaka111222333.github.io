@@ -384,7 +384,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-法国时装亚洲,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+Fashion TV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
 世界时装俄罗斯,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 
