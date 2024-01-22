@@ -373,7 +373,6 @@ CETV-3,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000
 
 
 🌏  凤凰,#genre#
-
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -427,7 +426,16 @@ CETV-3,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
+浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
+快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
 
 🏮历年春晚,#genre#
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
@@ -583,76 +591,6 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 
 
 
-📺 广安甘,#genre#
-甘肃都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-甘肃经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-甘肃公共应急,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
-兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-兰州生活经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
-兰州文旅频道,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
-广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
-广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
-广州竞赛,http://nas.jdshipin.com:8801/gztv.php?id=jingsai
-广州影视,http://nas.jdshipin.com:8801/gztv.php?id=yingshi
-广州法治,http://nas.jdshipin.com:8801/gztv.php?id=fazhi
-广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
-安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
-安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
-安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
-
-
-国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
-
-
-📺  河北,#genre#
-保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
-丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
-平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-
-🌐 直播中国,#genre#
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
-奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
-太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
-太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
-胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
-浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
-快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
-快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
-快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
-
-
 🌐 咪咕,#genre#
 咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
@@ -715,150 +653,7 @@ BesTV,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u
 咪咕直播-1-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
-🌐 斗鱼电影,#genre#
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-华语经典,http://epg.112114.xyz/douyu/434971
-神乐影片1,http://epg.112114.xyz/douyu/122402
-神乐影片2,http://epg.112114.xyz/douyu/85894
-漫威影片,http://epg.112114.xyz/douyu/6140589
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-林正英电影1,http://epg.112114.xyz/douyu/218859
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-贝爷影厅1,http://epg.112114.xyz/douyu/252802
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-可乐电影,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
-避风港影院,http://epg.112114.xyz/douyu/9826611
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-华语电影,http://epg.112114.xyz/douyu/3928
-怀旧90,http://epg.112114.xyz/douyu/9275635
-国产影片,http://epg.112114.xyz/douyu/5423
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
-神乐影片2,http://epg.112114.xyz/douyu/85894
-周末影院,http://epg.112114.xyz/douyu/3637765
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-粤语综艺,http://epg.112114.xyz/douyu/7919720
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
-读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
-戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
-美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
-春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
-跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
-jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
-MV,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
-
-🌐 轮播电影,#genre#
-
-
-成龙🐯,http://epg.112114.xyz/huya/11342386
-
-洪金宝🐯,http://diyp.112114.xyz/huya/11279251
-洪金宝🐯,http://epg.112114.xyz/huya/11279251
-
-李连杰🐯,http://diyp.112114.xyz/huya/11342390
-李连杰🐯,http://epg.112114.xyz/huya/11342390
-
-
-刘德华🐯,http://diyp.112114.xyz/huya/11342424
-刘德华🐯,http://epg.112114.xyz/huya/11342424
-
-甄子丹🐯,http://diyp.112114.xyz/huya/11352935
-甄子丹🐯,http://epg.112114.xyz/huya/11352935
-
-鬼片🐯,http://diyp.112114.xyz/huya/11342421
-鬼片🐯,http://epg.112114.xyz/huya/11342421
-
-斗鱼_新三国,http://diyp.112114.xyz/douyu/276200
-斗鱼_新三国,http://epg.112114.xyz/douyu/276200
-
-
-斗鱼_老三国,http://diyp.112114.xyz/douyu/7459925
-斗鱼_老三国,http://epg.112114.xyz/douyu/7459925
-
-虎牙_寻秦记,http://diyp.112114.xyz/huya/23864973
-虎牙_寻秦记,http://epg.112114.xyz/huya/23864973
-
-斗鱼_大秦帝国,http://diyp.112114.xyz/douyu/1584198
-斗鱼_大秦帝国,http://epg.112114.xyz/douyu/1584198
-虎牙_大秦赋,http://diyp.112114.xyz/huya/11352881
-虎牙_大秦赋,http://epg.112114.xyz/huya/11352881
-
-斗鱼_朱元璋,http://diyp.112114.xyz/douyu/308752
-斗鱼_朱元璋,http://epg.112114.xyz/douyu/308752
-
-虎牙_康熙王朝,http://diyp.112114.xyz/huya/11352940
-虎牙_康熙王朝,http://epg.112114.xyz/huya/11352940
-bili_雍正王朝,https://c1--cn-gotcha208.bilivideo.com/live-bvc/542749/live_1394759884_55201460_bluray/index.m3u8?expires=1678724179&len=0&oi=1995381427&pt=web&qn=10000&trid=100749b7a330cebf4c5aa3a79301b4a93354&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=14c558719ff1784fbc9ba878513d3244&sk=5bf07b9bbe6df2e0a6bc476fe3d9a64240f285c274784b07068e8361f96aa337&p2p_type=1&src=57345&sl=2&free_type=0&mid=0&pp=rtmp&machinezone=ylf&source=onetier&trace=0&site=56e86f120a34e3216a38599292bf53aa&order=2
-
-bili_雍正王朝,http://epg.112114.xyz/bili/23979200
-
-虎牙_雍正王朝,http://diyp.112114.xyz/huya/11342439
-虎牙_雍正王朝,http://epg.112114.xyz/huya/11342439
-
-bili_纪晓岚,http://diyp.112114.xyz/bili/23900931
-bili_纪晓岚,http://epg.112114.xyz/bili/23900931
-
-虎牙_纪晓岚,http://diyp.112114.xyz/huya/11342396
-虎牙_纪晓岚,http://epg.112114.xyz/huya/11342396
-
-虎牙_康熙微服私访记,http://diyp.112114.xyz/huya/11342418
-虎牙_康熙微服私访记,http://epg.112114.xyz/huya/11342418
-YY_宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745191
-
-
-虎牙_96版笑傲江湖,http://diyp.112114.xyz/huya/23865142
-虎牙_96版笑傲江湖,http://epg.112114.xyz/huya/23865142
-
-虎牙_98版鹿鼎记,http://diyp.112114.xyz/huya/23865080
-虎牙_98版鹿鼎记,http://epg.112114.xyz/huya/23865080
-
-虎牙_83版射雕,http://diyp.112114.xyz/huya/23728674
-虎牙_83版射雕,http://epg.112114.xyz/huya/23728674
-
-虎牙_95版神雕,http://diyp.112114.xyz/huya/23865171
-虎牙_95版神雕,http://epg.112114.xyz/huya/23865171
-
-虎牙_02版倚天,http://diyp.112114.xyz/huya/11342403
-虎牙_02版倚天,http://epg.112114.xyz/huya/11342403
-
-虎牙_魔幻手机,http://diyp.112114.xyz/huya/11352966
-虎牙_魔幻手机,http://epg.112114.xyz/huya/11352966
-斗鱼_狄仁杰,http://diyp.112114.xyz/douyu/6027991
-斗鱼_狄仁杰,http://epg.112114.xyz/douyu/6027991
-
-虎牙_洗冤录,http://diyp.112114.xyz/huya/23903130
-虎牙_洗冤录,http://epg.112114.xyz/huya/23903130
-YY_聊斋志异,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736975
-YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
-YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354752120
-斗鱼_风云,http://diyp.112114.xyz/douyu/9290755
-斗鱼_风云,http://epg.112114.xyz/douyu/9290755
-虎牙_庆余年,http://diyp.112114.xyz/huya/11352960
-虎牙_庆余年,http://epg.112114.xyz/huya/11352960
-斗鱼_庆余年,http://diyp.112114.xyz/douyu/5908256
-斗鱼_庆余年,http://epg.112114.xyz/douyu/5908256
-虎牙_爱情公寓,http://diyp.112114.xyz/huya/11336726
-虎牙_爱情公寓,http://epg.112114.xyz/huya/11336726
-.m3u8?wsiphost=ipdbme
-恐怖电影2,http://epg.112114.xyz/douyu/310926
-丧尸鬼片恐怖惊悚,http://epg.112114.xyz/douyu/96577
-虎牙_陈翔六点半,http://diyp.112114.xyz/huya/11274154
-虎牙_陈翔六点半,http://epg.112114.xyz/huya/11274154
-besTV金曲青春,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-
-
-
-
-🐼 动物纪录,#genre#
+加密测试1_9895,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -1229,7 +1024,7 @@ besTV金曲青春,https://bp-caster.bestv.com.cn/941/3/video.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
-备用,#genre#
+加密测试2_9895,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -1368,7 +1163,7 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-🎀韩国女团,#genre#
+韩国女团2_9895,#genre#
 韩国女团01,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国女团03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -1429,18 +1224,11 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 韩国女团58,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国女团59,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国女团60,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-
-
-
-
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-
-
-
 CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
