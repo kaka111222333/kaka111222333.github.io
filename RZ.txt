@@ -274,6 +274,14 @@ CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/inde
 河南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
 甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
 
+
+
+吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+CETV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV-2,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000047/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=3
+CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 冬奥纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
