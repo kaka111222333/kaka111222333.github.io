@@ -21,14 +21,14 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/P
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+央视怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
@@ -40,7 +40,7 @@ CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-卫视,#genre#
+📺   卫视,#genre#
 山东卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 安徽卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -111,38 +111,60 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
-浙江,#genre#
+
+📺   山东,#genre#
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
+浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
+快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+
+📺   浙江,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-陕西,#genre#
+📺   陕西,#genre#
 陕西新闻资讯,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 陕西都市青春,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-陕西生活频道,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
-陕西影视频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
-陕西公共频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西生活,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
+陕西影视,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西公共,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
 陕西体育休闲,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
 陕西西部电影,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 西安新闻综合,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
-西安都市频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+西安都市,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 西安商务资讯,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
-西安影视频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
-西安丝路频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
-西安教育频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+西安影视,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+西安丝路,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+西安教育,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
-求索系列,#genre#
+求索,#genre#
 求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
-NewTV系列,#genre#
+NewTV,#genre#
 超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -376,26 +398,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
-📺   山东,#genre#
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
-奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
-太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
-太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
-胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
-浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
-快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
-快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
-快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
 
 
 
