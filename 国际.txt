@@ -1,0 +1,16 @@
+Sport
+Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Sports Grid,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+AutoMoto TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
