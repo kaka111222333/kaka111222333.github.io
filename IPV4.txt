@@ -18,6 +18,22 @@ CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边朝鲜,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 
+🌏湖南 浙江,#genre#
+湖南经视,http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南爱晚,http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
 
 🌏  凤凰,#genre#
 凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
