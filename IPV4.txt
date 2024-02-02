@@ -23,9 +23,10 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-卫视[电信],#genre#
+📺卫视[电信],#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
 北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
@@ -37,7 +38,6 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
 黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
 湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
-浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
 湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
 吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
@@ -77,8 +77,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-
-青岛[电信],#genre#
+📺青岛[电信],#genre#
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -117,7 +116,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-山东[电信],#genre#
+📺山东[电信],#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -128,7 +127,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-县级[电信],#genre#
+📺县级[电信],#genre#
 县级1,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 县级3,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
