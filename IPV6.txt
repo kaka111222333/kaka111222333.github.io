@@ -22,7 +22,7 @@ CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/P
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 
-📺   卫视,#genre#
+📺  卫视,#genre#
 山东卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 安徽卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -97,7 +97,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-🌐专业频道,#genre#
+📺专业频道,#genre#
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
@@ -187,7 +187,7 @@ CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 
 
 
-📺CCTV电信,#genre#
+🌏CCTV电信,#genre#
 CCTV-1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -213,7 +213,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺卫视[电信],#genre#
+🌏卫视[电信],#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -267,7 +267,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺青岛[电信],#genre#
+🌏青岛[电信],#genre#
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -306,7 +306,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-📺山东[电信],#genre#
+🌏山东[电信],#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -317,7 +317,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-📺县级[电信],#genre#
+🌏县级[电信],#genre#
 县级1,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 县级3,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
