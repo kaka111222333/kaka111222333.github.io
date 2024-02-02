@@ -22,7 +22,7 @@ CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/P
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 
-青岛电信栾,#genre#
+栾工请测试,#genre#
 CCTV1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -48,7 +48,7 @@ CETV2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-卫视青岛电信,#genre#
+卫视 栾工,#genre#
 北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
@@ -88,7 +88,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 
 
-山东青岛电信,#genre#
+山东 栾工,#genre#
 山东教育卫视,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东居家购物,http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -101,7 +101,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东齐鲁 ,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
 
-地方（栾）,#genre#
+地方 栾工,#genre#
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
@@ -140,7 +140,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-县级青岛电信,#genre#
+县级 栾工,#genre#
 1,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 3,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
@@ -229,7 +229,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 86,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 87,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
-纪实青岛电信,#genre#
+纪实 栾工,#genre#
 金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
