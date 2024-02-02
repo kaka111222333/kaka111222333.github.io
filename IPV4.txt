@@ -217,23 +217,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 87,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
 
-影视,#genre#
-斗鱼4K影院,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=9249162
-斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
-[斗鱼]特辑电影院,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=3637778
-[斗鱼]贝爷MAX厅,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=4332
-[斗鱼]开心麻花小品,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=10153463
-[斗鱼]丧尸鬼片电影,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=96577
-[斗鱼]最人气港剧,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=4549169
-[斗鱼]喜剧动作电影,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=323876
-[斗鱼]恐怖经典喜剧,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=74374
-[斗鱼]动作喜剧经典华语,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=3928
-[斗鱼]粤语港剧,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=6478650
-[斗鱼]青春动作喜剧,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=5423
-[斗鱼]林正英系列,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=11858127
-[斗鱼]下饭神剧,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=3700024
-[斗鱼]点歌台1,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=3186217
-[斗鱼]点歌台2,http://iptvvv001.000webhostapp.com/huyaplus.php?douyuid=3870925
+🌏 影视,#genre#
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -282,7 +266,7 @@ SITV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/i
 爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-
+🌏 山东,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
