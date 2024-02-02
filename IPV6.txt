@@ -48,7 +48,7 @@ CETV2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-卫视 栾工,#genre#
+卫视栾工测试,#genre#
 北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
@@ -88,7 +88,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 
 
-山东 栾工,#genre#
+山东栾工测试,#genre#
 山东教育卫视,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东居家购物,http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -101,7 +101,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东齐鲁 ,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
 
-地方 栾工,#genre#
+地方栾工测试,#genre#
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
