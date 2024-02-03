@@ -23,7 +23,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺卫视[电信],#genre#
+📺 卫视,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -77,19 +77,19 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺青岛[电信],#genre#
+📺 青岛,#genre#
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
 QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
 QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
-崂山,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
-黄岛综合,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
+崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
+黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
 黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
-胶州,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
-平度,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-岚山,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
+平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -123,7 +123,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-📺山东[电信],#genre#
+📺 山东,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -134,7 +134,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-📺县级[电信],#genre#
+📺 县级,#genre#
 东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 宁津县,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
@@ -216,7 +216,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
-📺电信整理中,#genre#
+📺电信整理,#genre#
 CCTV1综合高清,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2财经高清,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3综艺高清,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
