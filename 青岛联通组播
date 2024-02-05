@@ -184,16 +184,5 @@ CCTV-5,http://192.168.123.1:4000/udp/239.253.254.6:8000
 CCTV-6,http://192.168.123.1:4000/udp/239.253.254.7:8000
 CCTV-8,http://192.168.123.1:4000/udp/239.253.254.9:8000
 
-CETV官方
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-
-
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
-BRIC TV,https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
 
