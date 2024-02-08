@@ -1189,3 +1189,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
+新增,#genre#
+房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
+房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
