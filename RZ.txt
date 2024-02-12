@@ -199,7 +199,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 林正英,http://epg.112114.xyz/douyu/218859
 刘德华,http://epg.112114.xyz/douyu/2516864
-
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
@@ -213,7 +213,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
-🌏  凤凰,#genre#
+🌏  港台,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -239,44 +239,6 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-俄罗斯时装,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
-世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-prod/amgclarity4k/playlist.m3u8
-Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-
-
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK WORLD,https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-澳门,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-Kaloopy TV,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=7lu1&ads.env_i=07d4d433-09a7-4180-937c-d85f1d840736&ads.env_u=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=103.135.102.145&ads.geo=HK&ads.lat=22.25780&ads.long=114.16570&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-🌎  台湾,#genre#
 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天亚洲,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
@@ -389,6 +351,43 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
+
+
+法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+俄罗斯时装,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
+世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+prod/amgclarity4k/playlist.m3u8
+Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-
+
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK WORLD,https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+澳门,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+Kaloopy TV,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=7lu1&ads.env_i=07d4d433-09a7-4180-937c-d85f1d840736&ads.env_u=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=c3a6dad6-4519-410e-a4f7-9084daa2f0bb&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=103.135.102.145&ads.geo=HK&ads.lat=22.25780&ads.long=114.16570&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 📺  山东,#genre#
 
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -496,14 +495,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
 房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-
-甘肃都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-甘肃经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-甘肃公共,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
-兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-兰州文旅频道,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
 
 广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
 广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
