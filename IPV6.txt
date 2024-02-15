@@ -19,7 +19,7 @@ CCTV-16 奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/
 CCTV-17 农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 
 
-📺  卫视,#genre#
+卫视 IPV6,#genre#
 山东卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 安徽卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 北京卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
@@ -87,28 +87,8 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
-📺  山东,#genre#
-山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
-奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
-太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
-太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
-胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
-浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
-快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
-快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
-快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
 
-📺 CCTV,#genre#
+CCTV[电信],#genre#
 CCTV-1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -134,7 +114,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺 卫视电信,#genre#
+卫视[电信],#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -188,7 +168,11 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺 青岛电信,#genre#
+日照[电信],#genre#
+日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -200,10 +184,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
 胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
@@ -234,7 +214,26 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-📺 山东电信,#genre#
+山东[电信],#genre#
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
+浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
+快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -245,7 +244,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-📺 县级电信,#genre#
+县级[电信],#genre#
 东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 宁津县,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
@@ -327,7 +326,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
-电信测试,#genre#
+测试[电信],#genre#
 CCTV1综合高清,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2财经高清,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3综艺高清,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
