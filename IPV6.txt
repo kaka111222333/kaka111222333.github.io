@@ -237,7 +237,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-日照,#genre#
+日照[电信],#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -283,7 +283,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 
-山东,#genre#
+山东[电信],#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
@@ -313,7 +313,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-县级,#genre#
+县级[电信],#genre#
 东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 宁津县,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
@@ -395,7 +395,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
-测试,#genre#
+测试[电信],#genre#
 CCTV1综合高清,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2财经高清,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3综艺高清,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
