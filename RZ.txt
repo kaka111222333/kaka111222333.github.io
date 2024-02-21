@@ -71,6 +71,34 @@ CCTV-15 音乐,http://192.168.123.1:4000/udp/239.253.224.16:8000
 莒县综合,http://192.168.123.1:4000/udp/239.253.224.251:8000
 
 
+
+
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+
+
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+青岛太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+青岛胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
+青岛浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
+青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+
+青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
+青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
+青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
+
+
 📺 卫视,#genre#
 山东卫视,http://192.168.123.1:4000/udp/239.253.224.78:8000
 江苏卫视,http://192.168.123.1:4000/udp/239.253.224.83:8000
@@ -1110,39 +1138,6 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
-
-
-
-
-📺  山东,#genre#
-
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-
-青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
-青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
-青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
-
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
-青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
-青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
-青岛太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
-青岛胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
-青岛浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
-青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
-青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
-青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
 
 
 
