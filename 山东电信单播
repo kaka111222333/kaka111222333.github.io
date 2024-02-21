@@ -1,3 +1,4 @@
+📺 CCTV,#genre#
 CCTV-1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -23,7 +24,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺 卫视电信,#genre#
+📺 卫视,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -80,7 +81,12 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺 青岛电信,#genre#
+📺 日照,#genre#
+日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+日照五莲,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -92,10 +98,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
 胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
@@ -188,7 +190,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 东明,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
 新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
 莱西,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-日照五莲,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 夏津,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
 夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
 57,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
@@ -219,7 +220,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 
-电信正整理,#genre#
+电信未整理,#genre#
 CCTV1综合高清,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2财经高清,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3综艺高清,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
