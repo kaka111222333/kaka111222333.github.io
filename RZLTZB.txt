@@ -88,10 +88,10 @@ CCTV-17 农业农村,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 亚洲,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 亚洲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
@@ -106,17 +106,17 @@ CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/ind
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
 
@@ -129,8 +129,8 @@ CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/inde
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226288/index.m3u8
 CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV-4 亚洲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 亚洲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
@@ -161,7 +161,7 @@ CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/inde
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
-CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
+CCTV-4 亚洲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
 CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8
 CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
 CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
@@ -169,12 +169,6 @@ CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV-14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225535/index.m3u8
 CCTV-14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
 CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226315/index.m3u8
 CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
@@ -289,9 +283,9 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw89629056_15850
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1926676014_1680319606/ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8?
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1533622857_-1749657613/ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8?
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw90393969_1500887054/ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8?
-CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1533782805_2013518477/ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8?
-CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739723586/ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8?
-CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2051898449_569333995/ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8?
+CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1533782805_2013518477/ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8?
+CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739723586/ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8?
+CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2051898449_569333995/ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8?
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw91085486_-473104054/ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8?
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2052044866_-899881280/ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8?
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw91569092_-532273102/ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8?
@@ -299,67 +293,67 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw91424769_752398
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2373117646_-823344172/ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8?
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91887181_2105545525/ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8?
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1534504821_-1503272118/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8?
-CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw92219307_2093744544/ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1534664408_-18968647/ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw92557228_-1933811851/ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666837910/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw92895071_1833672570/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1744742726_979409702/ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8?
-CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2093183387_2029738236/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw93391157_-1897943175/ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw93697157_-192339702/ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw93540058_-1370426571/ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw93879323_-994152053/ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw94009212_1765811616/ott.mobaibox.com/PLTV/3/224/3221227750/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535268831_1299436249/ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1535406948_-524591382/ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw94469366_159744225/ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2171934612_1777325121/ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_104020061/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?
-CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw94952617_-1280969877/ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8?
-CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw95099346_1105596677/ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8?
-CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2468865118_1937404571/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8?
-CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1536262155_328032765/ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8?
-CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2052852131_1088950731/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8?
-CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw1536712487_1033271394/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?
-CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw95978270_-803508445/ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8?
-CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw96144984_1004980906/ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8?
-CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1536888658_607171036/ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8?
-CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745481248_-2099858619/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8?
-CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw96794082_1908050006/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?
-CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw96989361_1897558582/ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8?
-CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745802037_-1916607101/ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8?
-CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw97298359_-1902076166/ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8?
-CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1537747484_655821129/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?
-CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1537965986_-156154489/ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8?
-CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw97794338_-604599203/ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8?
-CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1538188139_-1019922900/ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8?
-CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw98162637_2110754422/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw98664044_1212991025/ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8?
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1562744118_1870555977/ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8?
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252_100116641/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8?
-CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1538868426_-568781539/ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8?
-CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1746129949_-891071668/ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8?
-CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1163769185_740775021/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8?
-CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1184949553_1248271610/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?
-CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1206123286_628792276/ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8?
-CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2053177814_136071778/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8?
-CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1312175710_-1555934560/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw2571298525_-1215675140/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw465056087_375752967/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?
-CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1333382053_-338475462/ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8?
-CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1539643182_-109940761/ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8?
-CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053469942_-1661734644/ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8?
-CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?
-CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?
+CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw92219307_2093744544/ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1534664408_-18968647/ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw92557228_-1933811851/ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666837910/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw92895071_1833672570/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1744742726_979409702/ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2093183387_2029738236/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw93391157_-1897943175/ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw93697157_-192339702/ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw93540058_-1370426571/ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw93879323_-994152053/ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw94009212_1765811616/ott.mobaibox.com/PLTV/3/224/3221227750/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535268831_1299436249/ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1535406948_-524591382/ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw94469366_159744225/ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2171934612_1777325121/ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_104020061/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw94952617_-1280969877/ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8?
+CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw95099346_1105596677/ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8?
+CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2468865118_1937404571/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8?
+CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1536262155_328032765/ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8?
+CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2052852131_1088950731/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8?
+CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw1536712487_1033271394/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?
+CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw95978270_-803508445/ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8?
+CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw96144984_1004980906/ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8?
+CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1536888658_607171036/ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8?
+CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745481248_-2099858619/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8?
+CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw96794082_1908050006/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?
+CCTV-11 戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw96989361_1897558582/ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8?
+CCTV-11 戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745802037_-1916607101/ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8?
+CCTV-11 戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw97298359_-1902076166/ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8?
+CCTV-11 戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1537747484_655821129/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?
+CCTV-12 社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1537965986_-156154489/ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8?
+CCTV-12 社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw97794338_-604599203/ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8?
+CCTV-12 社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1538188139_-1019922900/ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8?
+CCTV-12 社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw98162637_2110754422/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw98664044_1212991025/ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1562744118_1870555977/ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252_100116641/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8?
+CCTV-14 少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1538868426_-568781539/ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8?
+CCTV-14 少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1746129949_-891071668/ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8?
+CCTV-14 少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1163769185_740775021/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8?
+CCTV-14 少儿,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1184949553_1248271610/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?
+CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1206123286_628792276/ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8?
+CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2053177814_136071778/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8?
+CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1312175710_-1555934560/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw2571298525_-1215675140/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw465056087_375752967/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1333382053_-338475462/ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1539643182_-109940761/ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053469942_-1661734644/ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?
 CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?
-CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?
 
 
 
@@ -563,11 +557,14 @@ CETV1,http://192.168.123.1:4000/udp/239.253.224.55:8000
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 
+CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV/3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226315/index.m3u8
 
 
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
@@ -987,6 +984,9 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 
 📺  IPTV,#genre#
