@@ -93,6 +93,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
 岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
@@ -115,8 +116,8 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 聊城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 聊城民生,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
-菏泽1,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
-菏泽2,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
+菏泽综合,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+菏泽公共,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
 东营新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
 东营公共,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 潍坊1,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
@@ -125,6 +126,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 潍坊4,http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
 
 📺  山东,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
@@ -138,26 +140,23 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
 📺  市县,#genre#
+栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
+寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
+高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
+兖州新闻,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
+曲阜新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
+荣成综合,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
 潍坊高新区,http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
 鱼台,http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
 鱼台生活,http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
 河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
-菏泽综合,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
-菏泽公共,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
 单县综合,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
 巨野新闻,http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
 东明综合,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
 郓城新闻,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
 定陶综合,http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
-济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
-济宁教育,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
-济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
-济宁公共,http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
 梁山新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
-聊城综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
-聊城公共,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
-威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
 寿光新闻,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 东平新闻,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 沂源新闻,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
@@ -180,17 +179,10 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 冠县综合,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
 青州综合,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
 广饶新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
-岚山,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
 莘县综合,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 茌平综合,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
 乳山综合,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
 平阴综合,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
-兖州新闻,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
-曲阜新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
-荣成综合,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
-平度新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
 齐河新闻,http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
 青州文化旅游,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
 邹平新闻频道,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
@@ -201,7 +193,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 平原新闻,http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
 新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
 莱西综合,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 夏津综合,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
 夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
 牟平新闻,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
@@ -209,7 +200,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 陵城新闻,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
 昌邑新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
 蓬莱新闻,http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
-高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
 长岛新闻,http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
 东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
@@ -286,7 +276,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 
 
-央视IPV6,#genre#
+央视 IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-3 综艺,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
@@ -329,7 +319,7 @@ CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-卫视IPV6,#genre#
+卫视 IPV6,#genre#
 山东卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -408,7 +398,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-上海IPV6,#genre#
+上海 IPV6,#genre#
 上海新闻,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海都市,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 上海ICS,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
@@ -420,7 +410,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 第一财经,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 东方购物,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
 
-浙江IPV4,#genre#
+浙江 IPV4,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -430,7 +420,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-陕西IPV6,#genre#
+陕西 IPV6,#genre#
 陕西新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 陕西都市青春,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
 陕西生活频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
@@ -445,13 +435,12 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 西安丝路频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
 西安教育频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
-求索IPV6,#genre#
+专业 IPV6,#genre#
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
-NewTV IPV6,#genre#
 超级综艺,http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 超级体育,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
