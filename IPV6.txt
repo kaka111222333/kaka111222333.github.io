@@ -137,7 +137,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-📺  县,#genre#
+📺  市县,#genre#
 潍坊高新区,http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
 鱼台,http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
 鱼台生活,http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
