@@ -1263,7 +1263,7 @@ ELTA影剧,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF859072
 ELEVEN 1 体育频道,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 
 
-
+电信,#genre#
 CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -1288,7 +1288,6 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺  卫视,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -1342,7 +1341,13 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺  青岛,#genre#
+日照,#genre#
+日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
+莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -1355,12 +1360,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
 莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
-岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
@@ -1394,7 +1393,6 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
 
-📺  山东,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
@@ -1405,7 +1403,7 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 
-📺  市县,#genre#
+市县,#genre#
 栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
 寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
 高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
