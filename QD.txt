@@ -666,14 +666,14 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 
 
 
-中視,rtmp://f13h.mine.nu/sat/tv091
+中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-民視,rtmp://f13h.mine.nu/sat/tv051
+民视,rtmp://f13h.mine.nu/sat/tv051
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+東森超视,rtmp://f13h.mine.nu/sat/tv331
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
