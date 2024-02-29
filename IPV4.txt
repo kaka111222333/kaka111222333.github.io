@@ -797,7 +797,6 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playliv
 
 
 CCTV EPG,#genre#
-CCTV1[ipv6],https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
 CCTV1[ipv6],https://epg.pw/stream/78f0712606d51d9811eaa776e3ea93708c3f4b341c11e17dc3ca1466b96af9b3.m3u8
 CCTV1[ipv6],https://epg.pw/stream/0ef91c51031b7772fdb7b080bc006776d112c7d029b86cfca9bad6c4294c53bb.m3u8
 CCTV1[ipv6],https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8
