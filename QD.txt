@@ -840,8 +840,34 @@ Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 
 
+🌐 斗鱼电影,#genre#
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+华语经典,http://epg.112114.xyz/douyu/434971
+神乐影片1,http://epg.112114.xyz/douyu/122402
+神乐影片2,http://epg.112114.xyz/douyu/85894
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+漫威影片,http://epg.112114.xyz/douyu/6140589
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+林正英电影1,http://epg.112114.xyz/douyu/218859
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+可乐电影,http://epg.112114.xyz/douyu/20415
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+避风港影院,http://epg.112114.xyz/douyu/9826611
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+华语电影,http://epg.112114.xyz/douyu/3928
+麓山迷踪,http://epg.112114.xyz/douyu/4505431
+神乐影片2,http://epg.112114.xyz/douyu/85894
+喜剧经典,http://epg.112114.xyz/douyu/9650887
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+粤语综艺,http://epg.112114.xyz/douyu/7919720
 
-📺  山东,#genre#
+
+
+
+📺  青岛,#genre#
 
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
