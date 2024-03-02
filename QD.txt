@@ -1118,22 +1118,9 @@ Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
-四川_珙县新闻,http://mmitv.top/test/tianma.php?id=gxtv
-新疆_乌鲁木齐汉语综合,http://mmitv.top/test/tianma.php?id=utvhyzh
-云南_师宗综合,http://mmitv.top/test/tianma.php?id=sztv
-
-
-广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
-广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen
-广州竞赛,http://nas.jdshipin.com:8801/gztv.php?id=jingsai
-广州影视,http://nas.jdshipin.com:8801/gztv.php?id=yingshi
-广州法治,http://nas.jdshipin.com:8801/gztv.php?id=fazhi
-广州南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
-安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
-安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
-安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
+四川珙县新闻,http://mmitv.top/test/tianma.php?id=gxtv
+新疆乌鲁木齐,http://mmitv.top/test/tianma.php?id=utvhyzh
+云南师宗综合,http://mmitv.top/test/tianma.php?id=sztv
 
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
