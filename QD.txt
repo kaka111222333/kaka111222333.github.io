@@ -1030,16 +1030,7 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 
 
-岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
-黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
-黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
-胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
-平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+五莲综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 
 济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
 济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
@@ -1052,6 +1043,15 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 济宁生活,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
 济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
 
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
+黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
+黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
+胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
+平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
+莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 
 聊城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 聊城民生,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
