@@ -1022,6 +1022,283 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 
 
+日照,#genre#
+日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+青岛-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+青岛-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+青岛-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+青岛-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+青岛-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+青岛-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
+莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
+黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
+黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
+胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
+平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
+莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
+临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
+济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
+济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+济南文旅体育,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+济南新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8
+济宁公共,http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
+济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
+济宁生活,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
+济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
+烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
+烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
+烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
+烟台新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
+淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+聊城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
+聊城民生,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+菏泽综合,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+菏泽公共,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
+东营新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
+东营公共,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+潍坊1,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
+潍坊2,http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
+潍坊3,http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
+潍坊4,http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
+德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
+德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
+
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+
+栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
+寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
+高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
+兖州新闻,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
+曲阜新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
+荣成综合,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
+潍坊高新区,http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
+鱼台,http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
+鱼台生活,http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
+河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
+寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
+单县综合,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
+巨野新闻,http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
+东明综合,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
+郓城新闻,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
+定陶综合,http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
+梁山新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
+寿光新闻,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
+东平新闻,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
+沂源新闻,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
+宁津新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
+诸城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
+商河综合,http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
+惠民综合频道,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
+长清新闻,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
+桓台综合,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
+无棣综合,http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
+新泰新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
+济阳综合,http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
+蒙阴综合,http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
+兰陵综合,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
+昌乐新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
+沾化综合,http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
+阳信新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
+淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
+邹城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
+冠县综合,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
+青州综合,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
+广饶新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
+莘县综合,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
+茌平综合,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
+乳山综合,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
+平阴综合,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
+齐河新闻,http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
+青州文化旅游,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
+邹平新闻频道,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
+武城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
+武城综艺影视,http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
+禹城综合,http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
+禹城综艺,http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
+平原新闻,http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
+新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
+莱西综合,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+夏津综合,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
+夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
+牟平新闻,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
+牟平生活,http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
+陵城新闻,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
+昌邑新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
+蓬莱新闻,http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
+长岛新闻,http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
+东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
+县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
+宁津县,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
+县级4,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
+淄川,http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
+商河,http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
+县级7,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
+莒南,http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
+张店,http://150.138.8.143/00/SNM/CHANNEL00001012/index.m3u8
+县级10,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+安丘,http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
+嘉祥,http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
+长清,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
+14,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
+无棣,http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
+17,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
+济阳,http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
+蒙阴,http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
+兰陵,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
+21,http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
+22,http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
+阳信,http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
+淄博影视,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
+邹城,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
+26,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
+军成,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
+28,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
+29,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
+寿光,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
+32,http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
+莘县,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
+34,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
+35,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
+平阴,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
+兖州,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
+曲阜,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
+荣成,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
+栖霞,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
+齐河,http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
+43,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
+44,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
+45,http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
+46,http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
+禹城,http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
+禹城综艺,http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
+定陶,http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
+50,http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
+东明,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
+新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
+夏津,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
+夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
+57,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
+58,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
+60,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
+61,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
+62,http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
+单县,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
+陵城,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
+65,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
+66,http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
+蓬莱,http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
+70,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
+长岛,http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
+72,http://150.138.8.143/00/SNM/CHANNEL00001091/index.m3u8
+73,http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
+74,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
+兰陵公共,http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
+沂水,http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
+沂水生活,http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
+济宁高新,http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
+80,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
+81,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
+历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
+
+CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+CCTV-4 亚洲,http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+CCTV-4 美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+CCTV-4 欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+CCTV-5 体育,http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+CCTV-5+体育赛事,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+CCTV-6 电影,http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+CCTV-7 国防军事,http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+CCTV-8 电视剧,http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+CCTV-9 纪录,http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+CCTV-10 科教,http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+CCTV-11 戏曲,http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+CCTV-12 社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+CCTV-13 新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+CCTV-14 少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+CCTV-15 音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+CCTV-17 农业农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+CETV-1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
+CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
+CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+
+山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
+江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
+山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+陕西卫视,http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+江西卫视,http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+甘肃卫视,http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+厦门卫视,http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
+四川卫视,http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+深圳卫视,http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+西藏卫视,http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+新疆卫视,http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+内蒙古卫视,http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+青海卫视,http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
+延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
+重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
+大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
+三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
+金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
+哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
+游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
+快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+
+
+
+
 
 
 📺  青岛,#genre#
@@ -1432,282 +1709,4 @@ ELTA影剧,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF859072
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
 ELEVEN 1 体育频道,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-
-
-电信,#genre#
-CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
-CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
-CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
-CCTV-4 亚洲,http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
-CCTV-4 美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
-CCTV-4 欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
-CCTV-5 体育,http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
-CCTV-5+体育赛事,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
-CCTV-6 电影,http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
-CCTV-7 国防军事,http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
-CCTV-8 电视剧,http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
-CCTV-9 纪录,http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
-CCTV-10 科教,http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
-CCTV-11 戏曲,http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
-CCTV-12 社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
-CCTV-13 新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
-CCTV-14 少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
-CCTV-15 音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
-CCTV-17 农业农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
-CETV-1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
-CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
-CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
-CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
-
-山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
-江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
-浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
-北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
-东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
-广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
-广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
-贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
-海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
-安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
-河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
-河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
-黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
-湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
-湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
-吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
-山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
-陕西卫视,http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
-江西卫视,http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
-辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
-东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
-甘肃卫视,http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
-厦门卫视,http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
-四川卫视,http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
-深圳卫视,http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
-天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
-西藏卫视,http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
-新疆卫视,http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
-云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
-内蒙古卫视,http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
-青海卫视,http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
-延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
-重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
-兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
-大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
-三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
-都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
-金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
-新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
-嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
-优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
-金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
-游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
-快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
-文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
-武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
-梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
-茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
-四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
-
-日照,#genre#
-日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
-岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
-QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
-QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
-QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
-QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
-崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
-黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
-黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
-胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
-平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
-临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
-济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
-济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
-济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
-济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
-济南文旅体育,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
-济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
-济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
-济南新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8
-济宁公共,http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
-济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
-济宁生活,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
-济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
-烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
-烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
-烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
-烟台新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
-淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
-聊城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
-聊城民生,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
-菏泽综合,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
-菏泽公共,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
-东营新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
-东营公共,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
-潍坊1,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
-潍坊2,http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
-潍坊3,http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
-潍坊4,http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
-德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
-德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
-威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
-
-山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
-山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
-山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
-山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
-山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
-
-市县,#genre#
-栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
-寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
-高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
-兖州新闻,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
-曲阜新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
-荣成综合,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
-潍坊高新区,http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
-鱼台,http://150.138.8.143/00/SNM/CHANNEL00001107/index.m3u8
-鱼台生活,http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
-河东,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
-寿光综合,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
-单县综合,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
-巨野新闻,http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
-东明综合,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
-郓城新闻,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
-定陶综合,http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
-梁山新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
-寿光新闻,http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
-东平新闻,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
-沂源新闻,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
-宁津新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
-诸城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
-商河综合,http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
-惠民综合频道,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
-长清新闻,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
-桓台综合,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
-无棣综合,http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
-新泰新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
-济阳综合,http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
-蒙阴综合,http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
-兰陵综合,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
-昌乐新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
-沾化综合,http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
-阳信新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
-淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
-邹城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
-冠县综合,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
-青州综合,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
-广饶新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
-莘县综合,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
-茌平综合,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
-乳山综合,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
-平阴综合,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
-齐河新闻,http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
-青州文化旅游,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
-邹平新闻频道,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
-武城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
-武城综艺影视,http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
-禹城综合,http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
-禹城综艺,http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
-平原新闻,http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
-新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
-莱西综合,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-夏津综合,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
-夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
-牟平新闻,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
-牟平生活,http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
-陵城新闻,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
-昌邑新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
-蓬莱新闻,http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
-长岛新闻,http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
-东平县,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
-县级2,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
-宁津县,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
-县级4,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
-淄川,http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
-商河,http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
-县级7,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
-莒南,http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
-张店,http://150.138.8.143/00/SNM/CHANNEL00001012/index.m3u8
-县级10,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-安丘,http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
-嘉祥,http://150.138.8.143/00/SNM/CHANNEL00001016/index.m3u8
-长清,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
-14,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
-无棣,http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
-17,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
-济阳,http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
-蒙阴,http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
-兰陵,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
-21,http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
-22,http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
-阳信,http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
-淄博影视,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
-邹城,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
-26,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
-军成,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
-28,http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
-29,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
-寿光,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
-32,http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
-莘县,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
-34,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
-35,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
-平阴,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
-兖州,http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
-曲阜,http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
-荣成,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
-栖霞,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
-齐河,http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
-43,http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
-44,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
-45,http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
-46,http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
-禹城,http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
-禹城综艺,http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
-定陶,http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
-50,http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
-东明,http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
-新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
-夏津,http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
-夏津公共,http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
-57,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
-58,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
-60,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
-61,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
-62,http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
-单县,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
-陵城,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
-65,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
-66,http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
-蓬莱,http://150.138.8.143/00/SNM/CHANNEL00001088/index.m3u8
-70,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
-长岛,http://150.138.8.143/00/SNM/CHANNEL00001090/index.m3u8
-72,http://150.138.8.143/00/SNM/CHANNEL00001091/index.m3u8
-73,http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
-74,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
-兰陵公共,http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
-沂水,http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
-沂水生活,http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
-济宁高新,http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
-80,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
-81,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
-历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
-
 
