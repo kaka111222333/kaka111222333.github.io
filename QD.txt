@@ -993,11 +993,6 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
-
-
-
-🌐 斗鱼电影,#genre#
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语经典,http://epg.112114.xyz/douyu/434971
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -1022,7 +1017,8 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 
 
-日照,#genre#
+
+📺  日照,#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -1299,13 +1295,10 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 
 
-
-
-📺  青岛,#genre#
-
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
+青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
+青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
+📺  山东,#genre#
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
@@ -1314,11 +1307,6 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-
-青岛QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
-青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
-青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
-
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
 青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
