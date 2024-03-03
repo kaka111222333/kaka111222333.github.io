@@ -975,8 +975,6 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
-
-
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 林正英,http://epg.112114.xyz/douyu/218859
@@ -1018,7 +1016,7 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
-🌐  日照,#genre#
+日照[电信源],#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -1226,75 +1224,6 @@ CCTV-10 科教,http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
 CCTV-11 戏曲,http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
 CCTV-12 社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
 CCTV-13 新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
-CCTV-14 少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
-CCTV-15 音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
-CCTV-17 农业农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
-CETV-1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
-CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
-CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
-CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
-山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
-山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
-山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
-山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
-山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
-
-山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
-江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
-浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
-北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
-东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
-广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
-广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
-贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
-海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
-安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
-河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
-河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
-黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
-湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
-湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
-吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
-山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
-陕西卫视,http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
-江西卫视,http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
-辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
-东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
-甘肃卫视,http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
-厦门卫视,http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
-四川卫视,http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
-深圳卫视,http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
-天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
-西藏卫视,http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
-新疆卫视,http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
-云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
-内蒙古卫视,http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
-青海卫视,http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
-延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
-重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
-兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
-大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
-三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
-都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
-金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
-新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
-嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
-优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
-金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
-游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
-快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
-文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
-武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
-梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
-茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
-四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
 
 📺 山东,#genre#
@@ -1697,3 +1626,72 @@ ELTA影剧,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF859072
 
 ELEVEN 1 体育频道,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 
+CCTV-14 少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+CCTV-15 音乐,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+CCTV-17 农业农村,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+CETV-1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
+CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
+CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+
+山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
+江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+广东卫视,http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+广西卫视,http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+贵州卫视,http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+海南卫视,http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+安徽卫视,http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+河南卫视,http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+湖北卫视,http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+湖南卫视,http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
+山西卫视,http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+陕西卫视,http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+江西卫视,http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+东南卫视,http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+甘肃卫视,http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+厦门卫视,http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
+四川卫视,http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+深圳卫视,http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+西藏卫视,http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+新疆卫视,http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+云南卫视,http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+内蒙古卫视,http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+青海卫视,http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
+延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
+重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
+大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
+三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
+金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
+哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
+游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
+快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
