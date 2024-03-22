@@ -471,7 +471,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 炫动3D.720,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
 名师公开课.576,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000023702/index.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
 
-🌏  港台,#genre#
+🌏  台湾,#genre#
 
 凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
