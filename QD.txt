@@ -1445,3 +1445,6 @@ CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+节目源1,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch24012916163414875758.rsc/62563_Uni.sdp?
+节目源2,rtsp://27.148.239.97:554/live/ch24012916163414875758.sdp?playtype=1&boid=001&backupagent=27.148.221.1:554&clienttype=1&time=20240130223518+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5962752328653&mediaid=ch24012916163414875758&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=00106135000100100001B3FE8668A8D2&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=CVeTQGGyNBI%2BmRPx8%2Bb5b38rItlPHaKzpf0AUaQajQsncmgPaAltabUmJVDs2CN5liECdsYWQMhDvsyp5F1%2B1A%3D%3D&bitrate=2000&distype=0
+4K,http://159.75.85.63:5679/cctv4k.php
