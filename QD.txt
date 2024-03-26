@@ -1435,3 +1435,13 @@ CCTV5,http://150.138.8.143/00/SNM/CHANNEL10000005/index.m3u8
 山东教育卫视,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 山东齐鲁 HD,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东新闻 HD,http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
+
+TEST,#genre#
+华数4K影视,http://r.jdshipin.com/Lqdwf
+CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5-4K,http://[2409:8087:2004:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
