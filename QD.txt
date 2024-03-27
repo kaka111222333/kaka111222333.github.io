@@ -165,6 +165,19 @@ CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/inde
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 BesTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
 
+CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
+劲爆体育,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jbty.m3u8
+茶频道,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/cpd.m3u8
+CCTV-1,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV1HD.m3u8
+CCTV-13,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-13,https://livetv-hunan.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-13,http://default0-tenc-live.5gtv.com.cn/live/XP_CCTV13.m3u8
+山东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_sdwsHD.m3u8
+东方卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_dfwsHD.m3u8
+北京卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_bjwsHD.m3u8
+广东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_gdwsHD.m3u8
+天津卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_tjwsHD.m3u8
+黑龙江卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_hljwsHD.m3u8
 
 
 📺  卫视,#genre#
