@@ -1439,6 +1439,7 @@ CCTV5,http://150.138.8.143/00/SNM/CHANNEL10000005/index.m3u8
 
 
 5gtv,#genre#
+CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
 CCTV-1,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV1HD.m3u8
 CCTV-2,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV2HD.m3u8
 CCTV-3,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV3HD.m3u8
@@ -1459,13 +1460,17 @@ CCTV-14,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV14HD.m3u8
 CCTV-15,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV15.m3u8
 CCTV-16,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV16HD.m3u8
 CCTV-17,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV17HD.m3u8
-CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
 
+深圳卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_szwsHD.m3u8
 山东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_sdwsHD.m3u8
+江苏卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_jswsHD.m3u8
+浙江卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_zjwsHD.m3u8
 东方卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_dfwsHD.m3u8
 北京卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_bjwsHD.m3u8
 广东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_gdwsHD.m3u8
 天津卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_tjwsHD.m3u8
 黑龙江卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_hljwsHD.m3u8
+四川卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_scwsHD.m3u8
+重庆卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_cqwsHD.m3u8
 劲爆体育,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jbty.m3u8
 茶频道,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/cpd.m3u8
