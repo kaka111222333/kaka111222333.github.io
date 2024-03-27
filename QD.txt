@@ -166,36 +166,6 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 BesTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
 
 
-CCTV-1,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV1HD.m3u8
-CCTV-2,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV2HD.m3u8
-CCTV-3,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV3HD.m3u8
-CCTV-4,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4HD.m3u8
-CCTV-5,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5HD.m3u8
-CCTV-5+,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5pHD.m3u8
-CCTV-6,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV6HD.m3u8
-CCTV-7,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV7HD.m3u8
-CCTV-8,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV8HD.m3u8
-CCTV-9,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV9HD.m3u8
-CCTV-10,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV10HD.m3u8
-CCTV-11,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV11.m3u8
-CCTV-12,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV12HD.m3u8
-CCTV-13,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV13.m3u8
-CCTV-13,https://livetv-hunan.5gtv.com.cn/live/XP_CCTV13.m3u8
-CCTV-13,http://default0-tenc-live.5gtv.com.cn/live/XP_CCTV13.m3u8
-CCTV-14,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV14HD.m3u8
-CCTV-15,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV15.m3u8
-CCTV-16,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV16HD.m3u8
-CCTV-17,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV17HD.m3u8
-CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
-
-山东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_sdwsHD.m3u8
-东方卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_dfwsHD.m3u8
-北京卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_bjwsHD.m3u8
-广东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_gdwsHD.m3u8
-天津卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_tjwsHD.m3u8
-黑龙江卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_hljwsHD.m3u8
-劲爆体育,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jbty.m3u8
-茶频道,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/cpd.m3u8
 
 
 📺  卫视,#genre#
@@ -1468,4 +1438,34 @@ CCTV5,http://150.138.8.143/00/SNM/CHANNEL10000005/index.m3u8
 山东新闻 HD,http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 
 
+5gtv,#genre#
+CCTV-1,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV1HD.m3u8
+CCTV-2,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV2HD.m3u8
+CCTV-3,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV3HD.m3u8
+CCTV-4,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4HD.m3u8
+CCTV-5,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5HD.m3u8
+CCTV-5+,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5pHD.m3u8
+CCTV-6,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV6HD.m3u8
+CCTV-7,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV7HD.m3u8
+CCTV-8,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV8HD.m3u8
+CCTV-9,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV9HD.m3u8
+CCTV-10,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV10HD.m3u8
+CCTV-11,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV11.m3u8
+CCTV-12,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV12HD.m3u8
+CCTV-13,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-13,https://livetv-hunan.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-13,http://default0-tenc-live.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-14,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV14HD.m3u8
+CCTV-15,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV15.m3u8
+CCTV-16,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV16HD.m3u8
+CCTV-17,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV17HD.m3u8
+CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
 
+山东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_sdwsHD.m3u8
+东方卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_dfwsHD.m3u8
+北京卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_bjwsHD.m3u8
+广东卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_gdwsHD.m3u8
+天津卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_tjwsHD.m3u8
+黑龙江卫视,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_hljwsHD.m3u8
+劲爆体育,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jbty.m3u8
+茶频道,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/cpd.m3u8
