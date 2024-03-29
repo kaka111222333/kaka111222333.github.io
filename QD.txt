@@ -565,6 +565,8 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zsh
 爱自然,mitv://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4
 Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
+
+
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 
@@ -745,7 +747,9 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
-
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
