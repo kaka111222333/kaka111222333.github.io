@@ -1440,3 +1440,11 @@ CCTV5,http://150.138.8.143/00/SNM/CHANNEL10000005/index.m3u8
 山东教育卫视,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 山东齐鲁 HD,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东新闻 HD,http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
+
+🌐  湖南,#genre#
+湖南娱乐,http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8
+湖南经视,http://iptvcyp.top:9901/tsfile/live/1024_1.m3u8
+湖南电影,http://iptvcyp.top:9901/tsfile/live/1023_1.m3u8
+湖南都市,http://iptvcyp.top:9901/tsfile/live/1025_1.m3u8
+湖南教育,http://iptvcyp.top:9901/tsfile/live/1026_1.m3u8
+湖南国际,http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8
