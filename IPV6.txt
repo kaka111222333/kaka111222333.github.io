@@ -59,6 +59,33 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
 大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+
+📺  青岛,#genre#
+青岛QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+青岛QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+青岛QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+青岛QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+青岛QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+青岛QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
+黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
+黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
+胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
+平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
+莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+
+📺  山东,#genre#
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+
+📺  专业,#genre#
 都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
 金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
@@ -76,27 +103,14 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
-📺  青岛,#genre#
-青岛QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
-青岛QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
-青岛QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
-青岛QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
-青岛QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-青岛QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
-崂山电视台,http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
-黄岛电视台,http://150.138.8.143/00/SNM/CHANNEL00001086/index.m3u8
-黄岛生活,http://150.138.8.143/00/SNM/CHANNEL00001087/index.m3u8
-胶州电视台,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
-平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+
+📺  市,#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
 岚山电视台,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
-临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
 济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
@@ -127,19 +141,11 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 德州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
-
-📺  山东,#genre#
-山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
-山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
-山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
-山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
-山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+临沂综合,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
+临沂公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 
 
+📺  县,#genre#
 栖霞综合,http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
 寿光蔬菜,http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
 高密新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001089/index.m3u8
@@ -275,8 +281,6 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 81,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 
-
-
 央视 IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
@@ -387,6 +391,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 软件免费，,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 禁止商用。,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 后续改用组播，,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
-精力有限，,,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
+由于精力有限，,,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
 IPV6随缘更新。,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
-谢谢！——FAN,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
+谢谢！,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
