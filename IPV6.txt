@@ -465,5 +465,5 @@ IPV6不再维护。,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com
 也可单线VLAN连接，,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 frp/zerotier内网穿透，,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 无需端口映射，,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-非常方便自行搭建。,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+自行搭建非常简单。,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 
