@@ -279,7 +279,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 81,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 
-央视 IPV6,#genre#
+黑龙江IPV6,#genre#
 604[1920x1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 613[1920x1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 614[1920x1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
