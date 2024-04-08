@@ -278,7 +278,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 80,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 81,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
-央视ʰ,#genre#
+央视 ʰ,#genre#
 CCTV-1 综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
 CCTV-2 财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
 CCTV-3 综艺,https://itv.lat/tv/live.php?&line=1&id=cctv3
@@ -301,7 +301,7 @@ CCTV-4K 超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
 CGTN,https://itv.lat/tv/live.php?&line=1&id=cgtn
 
-卫视ʰ,#genre#
+卫视 ʰ,#genre#
 北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
 东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
 天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
@@ -344,7 +344,7 @@ CETV1,https://itv.lat/tv/live.php?&line=1&id=cetv1
 CETV2,https://itv.lat/tv/live.php?&line=1&id=cetv2
 CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 
-数字ʰ,#genre#
+数字 ʰ,#genre#
 北京纪实科教,https://itv.lat/tv/live.php?&line=1&id=bjjskj
 纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
 动漫秀场,https://itv.lat/tv/live.php?&line=1&id=dmxc
@@ -368,7 +368,7 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 财富天下,https://itv.lat/tv/live.php?&line=1&id=cftx
 中国天气,https://itv.lat/tv/live.php?&line=1&id=zgtq
 
-地方ʰ,#genre#
+上海 ʰ,#genre#
 上海新闻综合,https://itv.lat/tv/live.php?&line=1&id=shxwzh
 上海都市,https://itv.lat/tv/live.php?&line=1&id=shds
 上海ICS外语,https://itv.lat/tv/live.php?&line=1&id=shics
@@ -379,7 +379,9 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 东方财经,https://itv.lat/tv/live.php?&line=1&id=dfcj
 上海教育,https://itv.lat/tv/live.php?&line=1&id=shjy
 东方购物,https://itv.lat/tv/live.php?&line=1&id=dfgw
-浦东电视台,https://itv.lat/tv/live.php?&line=1&id=pdtv
+
+
+福建 ʰ,#genre#
 福建综合,https://itv.lat/tv/live.php?&line=1&id=fjzh
 福建新闻,https://itv.lat/tv/live.php?&line=1&id=fjxw
 福建电视剧,https://itv.lat/tv/live.php?&line=1&id=fjdsj
@@ -390,14 +392,14 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 福建公共,https://itv.lat/tv/live.php?&line=1&id=fjgg
 福建教育,https://itv.lat/tv/live.php?&line=1&id=fjjy
 
-百视ʰ,#genre#
-看天下精选,https://itv.lat/tv/live.php?&line=1&id=ktxjx
+BesTV ʰ,#genre#
 华语影院,https://itv.lat/tv/live.php?&line=1&id=hyyy
 电竞天堂,https://itv.lat/tv/live.php?&line=1&id=djtt
 青春动漫,https://itv.lat/tv/live.php?&line=1&id=qcdm
 星光影院,https://itv.lat/tv/live.php?&line=1&id=xgyy
 谍战剧场,https://itv.lat/tv/live.php?&line=1&id=dzjc
 全球大片,https://itv.lat/tv/live.php?&line=1&id=qqdp
+看天下精选,https://itv.lat/tv/live.php?&line=1&id=ktxjx
 热门剧场,https://itv.lat/tv/live.php?&line=1&id=rmjc
 热门综艺,https://itv.lat/tv/live.php?&line=1&id=rmzy
 戏曲精选,https://itv.lat/tv/live.php?&line=1&id=xqjx
@@ -412,11 +414,13 @@ CETV4,https://itv.lat/tv/live.php?&line=1&id=cetv4
 百视通体育6,https://itv.lat/tv/live.php?&line=1&id=sport6
 百视通体育7,https://itv.lat/tv/live.php?&line=1&id=sport7
 
---失效说明--,#genre#
+--说明--,#genre#
 软件免费，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 禁止商用。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 江苏移动IPV6上个月失效，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 陕西移动IPV6昨天失效。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+目前暂用php代理，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+高峰时会卡顿。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 推荐大家改用组播，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 组播稳定延时低，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 高恪/Padavan系统都可以，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
