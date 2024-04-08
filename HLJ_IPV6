@@ -250,3 +250,13 @@ CETV-2SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m
 CETV-4SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
+
+
+海南 IPV4,#genre#
+海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
+三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
+海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
+海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+海南公共,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+海南文旅,https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+海南少儿,https://live3.hnntv.cn/srs/tv/sepd.m3u8
