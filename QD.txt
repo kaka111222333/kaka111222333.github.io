@@ -396,7 +396,7 @@ CGTN,http://192.168.23.1:4000/udp/239.253.224.189:8000
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 
 
-📺  CCTV,#genre#
+CCTV 电信,#genre#
 CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -421,7 +421,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺  卫视,#genre#
+卫视 电信,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -459,7 +459,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
 
-📺  日照青岛,#genre#
+日照青岛  电信,#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -479,7 +479,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
 莱西电视台,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
 
-📺  山东,#genre#
+山东 电信,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
@@ -490,7 +490,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 
-📺  专业,#genre#
+专业 电信,#genre#
 都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
 金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
@@ -509,7 +509,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
 
-📺  市县,#genre#
+市县 电信,#genre#
 济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
 济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
