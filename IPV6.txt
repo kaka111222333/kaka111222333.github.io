@@ -65,7 +65,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
 
 
-📺  省,#genre#
+📺 山东,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
@@ -76,7 +76,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 
-📺  市,#genre#
+📺 青岛,#genre#
 青岛QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 青岛QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 青岛QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
