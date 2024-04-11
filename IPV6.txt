@@ -259,4 +259,4 @@ IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 请浏览器打开网址：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 下载安装“我的电视”app，,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-目前流畅播放。,http://live.funhillrm.com/5/sd/live.m3u8
+移动、联通宽带流畅播放。,http://live.funhillrm.com/5/sd/live.m3u8
