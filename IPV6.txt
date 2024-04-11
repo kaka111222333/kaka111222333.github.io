@@ -254,10 +254,10 @@ LYTV1,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 以上为电信单播源，,http://live.funhillrm.com/2/sd/live.m3u8
 山东电信宽带流畅播放，,http://live.funhillrm.com/5/sd/live.m3u8
 移动、联通无法播放。,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+
 IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-请改用组播,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+请浏览器打开网址：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+安装新app我的电视。,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+或改用组播,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 或IPTV机顶盒。,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-有动手能力的：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-路由器刷padavan，,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-使用udpxy插件，,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-即可不用机顶盒看直播。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
