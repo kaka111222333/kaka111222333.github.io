@@ -280,7 +280,10 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 
 
---IPV6失效说明--,#genre#
+--说明--,#genre#
+以上地址为电信源，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+山东电信宽带可播，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+联通移动无法播放。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 IPV6直播源已失效，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 请大家改用组播，,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 或使用IPTV机顶盒。,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
