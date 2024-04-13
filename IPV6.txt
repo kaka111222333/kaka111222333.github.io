@@ -164,10 +164,9 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 📺 淄博,#genre#
 淄博综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
-淄博,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
-淄博都市,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
-淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
-淄博科教,http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
+淄博影视,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
+淄博文旅,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
+淄博民生,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
 沂源,http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
 淄川,http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
 张店,http://150.138.8.143/00/SNM/CHANNEL00001012/index.m3u8
