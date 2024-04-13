@@ -63,6 +63,22 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
 大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
+金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
+哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
+游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 
 
 📺 山东,#genre#
@@ -244,23 +260,6 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 宁阳,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 宁阳公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 
-📺  专业,#genre#
-都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
-金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
-梨园频道,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
-文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
-卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
-新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
-嘉佳卡通,http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
-优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
-金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
-游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
-快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
-茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
-四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 
 --说明--,#genre#
 以上为电信直播源，,http://live.funhillrm.com/2/sd/live.m3u8
