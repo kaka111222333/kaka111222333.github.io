@@ -1,4 +1,4 @@
-
+🌏 CCTV,#genre#
 CCTV-1 综合,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2 财经,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3 综艺,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -26,7 +26,7 @@ CETV-2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
-📺  卫视,#genre#
+🌏 卫视,#genre#
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 浙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
@@ -80,8 +80,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
 游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 
-
-📺 山东,#genre#
+🌏 山东,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
@@ -92,7 +91,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 
-📺 青岛,#genre#
+🌏 青岛,#genre#
 青岛QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 青岛QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 青岛QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -106,7 +105,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 莱西综合,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
 
-📺 日照,#genre#
+🌏 日照,#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
@@ -114,7 +113,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 五莲新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
 莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
 
-📺 烟台,#genre#
+🌏 烟台,#genre#
 烟台新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
@@ -127,7 +126,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 牟平,http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
 牟平生活,http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
 
-📺 济南,#genre#
+🌏 济南,#genre#
 济南新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8
 济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
@@ -143,7 +142,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 平阴,http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
 历城,http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 
-📺 济宁,#genre#
+🌏 济宁,#genre#
 济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
 济宁综合,http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
 济宁教育,http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
@@ -161,7 +160,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 邹城,http://150.138.8.143/00/SNM/CHANNEL00001038/index.m3u8
 梁山,http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
 
-📺 潍坊,#genre#
+🌏 潍坊,#genre#
 潍坊1,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 潍坊2,http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
 潍坊3,http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
@@ -178,7 +177,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 昌邑,http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
 临朐,http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
 
-📺 淄博,#genre#
+🌏 淄博,#genre#
 淄博综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 淄博影视,http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
 淄博文旅,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
@@ -189,7 +188,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 桓台,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
 高青,http://150.138.8.143/00/SNM/CHANNEL00001023/index.m3u8
 
-📺 德州,#genre#
+🌏 德州,#genre#
 德州综合,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州经济生活,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 宁津,http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
@@ -204,7 +203,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 陵城,http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
 临邑,http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 
-📺 滨州,#genre#
+🌏 滨州,#genre#
 滨州新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
 滨州公共,http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
 惠民,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
@@ -213,7 +212,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 阳信,http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
 邹平,http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
 
-📺 菏泽,#genre#
+🌏 菏泽,#genre#
 菏泽综合,http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
 菏泽公共,http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
 郓城,http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
@@ -223,7 +222,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 单县,http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
 鄄城,http://150.138.8.143/00/SNM/CHANNEL00001084/index.m3u8
 
-📺 聊城,#genre#
+🌏 聊城,#genre#
 聊城综合,http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 聊城民生,http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
 冠县,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
@@ -231,12 +230,12 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 茌平,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
 临清,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 
-📺 东营,#genre#
+🌏 东营,#genre#
 东营综合,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
 东营公共,http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 广饶,http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
 
-📺 威海,#genre#
+🌏 威海,#genre#
 威海公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
 乳山,http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
 荣成,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
@@ -244,14 +243,14 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 海阳综艺,http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
 ？？？,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 
-📺 临沂,#genre#
+🌏 临沂,#genre#
 河东ttp://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 莒南,http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
 蒙阴,http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
 兰陵,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
 兰陵公共,http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
 
-📺 泰安,#genre#
+🌏 泰安,#genre#
 泰山,http://150.138.8.143/00/SNM/CHANNEL00001114/index.m3u8
 东平,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 岱岳,http://150.138.8.143/00/SNM/CHANNEL00001013/index.m3u8
