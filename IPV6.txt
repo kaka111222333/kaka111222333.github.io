@@ -213,6 +213,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 冠县,http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
 莘县,http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 茌平,http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
+临清,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 
 📺 东营,#genre#
 东营综合,http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
@@ -225,6 +226,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 荣成,http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
 海阳,http://150.138.8.143/00/SNM/CHANNEL00001091/index.m3u8
 海阳综艺,http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
+？？？,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 
 📺 临沂,#genre#
 河东ttp://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
@@ -241,11 +243,6 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 新泰乡村,http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
 宁阳,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 宁阳公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
-
-📺  县,#genre#
-
-？？？,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
-？？？？,http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 
 📺  专业,#genre#
 都市剧场,http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
