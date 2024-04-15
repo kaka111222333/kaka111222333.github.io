@@ -251,25 +251,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 宁阳,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 宁阳公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 
-
---说明--,#genre#
-📺为山东电信源，,http://live.funhillrm.com/2/sd/live.m3u8
-仅山东电信可播放，,http://live.funhillrm.com/5/sd/live.m3u8
-移动、联通无法播放。,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-移动、联通IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-请浏览器打开以下网址：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-下载安装“我的电视”app，,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-或者使用组播：,http://live.funhillrm.com/2/sd/live.m3u8
-路由器配置IPTV接入，,http://live.funhillrm.com/5/sd/live.m3u8
-启用Udpxy，,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-最后将直播列表配置成Udpxy服务的地址和端口。,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-可使用我编辑好的地址：,http://live.funhillrm.com/2/sd/live.m3u8
-☀️日照联通192.168.23.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
-🌏青岛联通192.168.123.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
-
-
-🌏 青岛联通,#genre#
+🌏 CCTV,#genre#
 CCTV-1 综合,http://192.168.123.1:4000/udp/239.253.254.77:8000
 CCTV-2 财经,http://192.168.123.1:4000/udp/239.253.254.232:8000
 CCTV-3 综艺,http://192.168.123.1:4000/udp/239.253.254.191:8000
@@ -435,7 +417,7 @@ CCTV-8,http://192.168.123.1:4000/udp/239.253.254.9:8000
 
 
 
-☀️ 日照联通,#genre#
+☀️ CCTV,#genre#
 CCTV-1 综合,http://192.168.23.1:4000/udp/239.253.224.77:8000
 CCTV-2 财经,http://192.168.23.1:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://192.168.23.1:4000/udp/239.253.224.191:8000
@@ -629,4 +611,24 @@ CGTN 中东,http://192.168.23.1:4000/udp/239.253.224.184:8000
 CGTN 俄语,http://192.168.23.1:4000/udp/239.253.224.185:8000
 CGTN 纪录,http://192.168.23.1:4000/udp/239.253.224.188:8000
 CGTN,http://192.168.23.1:4000/udp/239.253.224.189:8000
+
+
+
+--说明--,#genre#
+📺为单播，仅山东电信可播放，,http://live.funhillrm.com/2/sd/live.m3u8
+☀️为组播，仅日照联通可播放，,http://live.funhillrm.com/5/sd/live.m3u8
+🌏为组播，仅青岛联通可播放，,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+
+移动、联通IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+请浏览器打开以下网址：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+下载安装“我的电视”app，,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+或者使用组播：,http://live.funhillrm.com/2/sd/live.m3u8
+路由器配置IPTV接入，,http://live.funhillrm.com/5/sd/live.m3u8
+启用Udpxy，,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+最后将直播列表配置成Udpxy服务的地址和端口。,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+可使用我编辑好的地址：,http://live.funhillrm.com/2/sd/live.m3u8
+日照联通192.168.23.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
+青岛联通192.168.123.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
+
 
