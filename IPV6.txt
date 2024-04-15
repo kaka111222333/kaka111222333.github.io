@@ -253,7 +253,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 
 --说明--,#genre#
-以上为山东电信源，,http://live.funhillrm.com/2/sd/live.m3u8
+📺为山东电信源，,http://live.funhillrm.com/2/sd/live.m3u8
 仅山东电信可播放，,http://live.funhillrm.com/5/sd/live.m3u8
 移动、联通无法播放。,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 移动、联通IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
@@ -264,12 +264,10 @@ github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010
 路由器配置IPTV接入，,http://live.funhillrm.com/5/sd/live.m3u8
 启用Udpxy，,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 最后将直播列表配置成Udpxy服务的地址和端口。,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-日照联通、,http://live.funhillrm.com/2/sd/live.m3u8
-青岛联通可以使用以下地址：,http://live.funhillrm.com/2/sd/live.m3u8
-其中日照联通192.168.23.1,http://live.funhillrm.com/2/sd/live.m3u8
-端口4000,http://live.funhillrm.com/2/sd/live.m3u8
-青岛联通192.168.123.1,http://live.funhillrm.com/2/sd/live.m3u8
-端口 4000,http://live.funhillrm.com/2/sd/live.m3u8
+可使用我编辑好的地址：,http://live.funhillrm.com/2/sd/live.m3u8
+☀️日照联通192.168.23.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
+🌏青岛联通192.168.123.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
+
 
 🌏 青岛联通,#genre#
 CCTV-1 综合,http://192.168.123.1:4000/udp/239.253.254.77:8000
@@ -437,7 +435,7 @@ CCTV-8,http://192.168.123.1:4000/udp/239.253.254.9:8000
 
 
 
-🏮 日照联通,#genre#
+☀️ 日照联通,#genre#
 CCTV-1 综合,http://192.168.23.1:4000/udp/239.253.224.77:8000
 CCTV-2 财经,http://192.168.23.1:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://192.168.23.1:4000/udp/239.253.224.191:8000
@@ -462,7 +460,7 @@ CCTV-15 音乐,http://192.168.23.1:4000/udp/239.253.224.170:8000
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17 农业农村,http://192.168.23.1:4000/udp/239.253.224.168:8000
 
-🏮 卫视,#genre#
+☀️ 卫视,#genre#
 山东卫视,http://192.168.23.1:4000/udp/239.253.224.78:8000
 江苏卫视,http://192.168.23.1:4000/udp/239.253.224.83:8000
 浙江卫视,http://192.168.23.1:4000/udp/239.253.224.84:8000
@@ -522,7 +520,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 优漫卡通,http://192.168.23.1:4000/udp/239.253.224.64:8000
 嘉佳卡通,http://192.168.23.1:4000/udp/239.253.224.65:8000
 
-🏮 日照,#genre#
+☀️ 日照,#genre#
 日照新闻综合,http://192.168.23.1:4000/udp/239.253.224.254:8000
 日照科教,http://192.168.23.1:4000/udp/239.253.224.253:8000
 日照公共,http://192.168.23.1:4000/udp/239.253.224.250:8000
@@ -552,7 +550,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
 青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 
-🏮 IPTV,#genre#
+☀️ IPTV,#genre#
 都市剧场,http://192.168.23.1:4000/udp/239.253.224.178:8000
 精彩影视,http://192.168.23.1:4000/udp/239.253.224.142:8000
 乐游,http://192.168.23.1:4000/udp/239.253.224.97:8000
