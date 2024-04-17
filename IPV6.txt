@@ -602,12 +602,12 @@ CCTV-8,http://192.168.123.1:4000/udp/239.253.254.9:8000
 仅青岛联通宽带可用。,http://192.168.123.1:4000/udp/239.253.254.77:8000
 
 IPV6源已失效，,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-请使用组播：,http://live.funhillrm.com/2/sd/live.m3u8
-路由器配置IPTV接入，,http://live.funhillrm.com/5/sd/live.m3u8
+请使用以上组播：,http://live.funhillrm.com/2/sd/live.m3u8
+路由器配置IPTV接入（双线或VLAN），,http://live.funhillrm.com/5/sd/live.m3u8
 启用udpxy，,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-可使用我编辑好的地址直接播放：,http://live.funhillrm.com/2/sd/live.m3u8
-日照联通192.168.23.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
-青岛联通192.168.123.1:4000,http://live.funhillrm.com/2/sd/live.m3u8
+可使用我编辑好的以下地址直接播放：,http://live.funhillrm.com/2/sd/live.m3u8
+日照联通192.168.23.1:4000，,http://live.funhillrm.com/2/sd/live.m3u8
+青岛联通192.168.123.1:4000。,http://live.funhillrm.com/2/sd/live.m3u8
 或打开以下网址：,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 github.com/lizongying/my-tv,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 重新安装“我的电视”app。,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
