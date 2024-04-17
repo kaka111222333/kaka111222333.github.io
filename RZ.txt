@@ -122,9 +122,9 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 
 
 
-🌏  台湾,#genre#
-
-凤凰卫视,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+🌏 凤凰台湾,#genre#
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
