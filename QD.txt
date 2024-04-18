@@ -320,10 +320,8 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 🎥  电影4K,#genre#
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K 超高清,http://192.168.23.1:4000/udp/239.253.224.122:8000
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-爱上4K,http://192.168.23.1:4000/udp/239.253.224.102:8000
 
 
 📺  IPTV,#genre#
