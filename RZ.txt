@@ -25,8 +25,10 @@ CCTV-15 音乐,http://192.168.23.1:4000/udp/239.253.224.170:8000
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://192.168.23.1:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K 超高清,http://192.168.23.1:4000/udp/239.253.224.122:8000
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
-
+爱上4K,http://192.168.23.1:4000/udp/239.253.224.102:8000
 
 
 📺 卫视,#genre#
@@ -126,6 +128,10 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 🌏 凤凰台湾,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -230,12 +236,7 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 
 
-🎥  电影4K,#genre#
-CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K 超高清,http://192.168.23.1:4000/udp/239.253.224.122:8000
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-爱上4K,http://192.168.23.1:4000/udp/239.253.224.102:8000
+
 
 
 📺  IPTV,#genre#
