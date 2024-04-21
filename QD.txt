@@ -218,8 +218,6 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 🌏  凤凰,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
-
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
