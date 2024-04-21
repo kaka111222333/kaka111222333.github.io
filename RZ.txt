@@ -112,7 +112,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 
 
 
-🌏 凤凰台湾,#genre#
+🌏 凤凰,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
@@ -222,7 +222,7 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 
-🌏 直播中国,#genre#
+🌏 景区,#genre#
 直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
 青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
