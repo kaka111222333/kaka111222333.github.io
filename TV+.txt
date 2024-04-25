@@ -1,302 +1,302 @@
-チャンネル銀河 日本偶像剧场：http://103.36.32.14:5002/cs29.m3u8?token=guoziyun&gid=cs29&channel=zhongying
+チャンネル銀河 日本偶像剧场,http://103.36.32.14:5002/cs29.m3u8?token=guoziyun&gid=cs29&channel=zhongying
 
-5SELECT：http://185.19.191.2:8090/5SELECT/index.m3u8
-&flix HD：http://89.187.177.137:8081/&FLIX/index.m3u8
+5SELECT,http://185.19.191.2:8090/5SELECT/index.m3u8
+&flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
 
-abc 7 美国：http://41.205.93.154/ABC/index.m3u8
-ABC Australia：https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+abc 7 美国,http://41.205.93.154/ABC/index.m3u8
+ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Action Movie: http://51.159.104.29:8080/action/index.m3u8
-Adventure Earth：https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
-Al Jazeera 半岛电视台 卡塔尔：http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Always Funny Videos：https://i.mjh.nz/SamsungTVPlus/CABA3700001DB.m3u8
-aMC 电影：http://170.254.18.106/AMC/index.m3u8
-aMC 电影：http://170.254.18.106/AMC/mono.m3u8
-aMC 电影：https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-AMC Thrillers 电影：https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-American Classics 电影：https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-America's Dumbest Criminals：https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8
-Animal Planet：http://41.205.93.154/ANIMALPLANET/index.m3u8
-Animal Planet 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-arirang Korea：http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-asiancrush 亚洲电影：https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-astro AWANI 马来西亚：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-astro AWANI 马来西亚：https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-AXS TV：https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Adventure Earth,https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+Al Jazeera 半岛电视台 卡塔尔,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Always Funny Videos,https://i.mjh.nz/SamsungTVPlus/CABA3700001DB.m3u8
+aMC 电影,http://170.254.18.106/AMC/index.m3u8
+aMC 电影,http://170.254.18.106/AMC/mono.m3u8
+aMC 电影,https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+AMC Thrillers 电影,https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+American Classics 电影,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+America's Dumbest Criminals,https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8
+Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+Animal Planet 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+arirang Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+asiancrush 亚洲电影,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+astro AWANI 马来西亚,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+astro AWANI 马来西亚,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+AXS TV,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
-BBC America：http://208.86.19.13:81/34.stream/index.m3u8
-BBC America：https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-BBC Asia Pacific：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-BBC Drama 法语：https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
-BBC news 英国：https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-BBC news 英国：http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBC Home 英国：https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
-BBC Travel 德语：https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
-BBC TWO 英国：http://41.205.93.154/BBCTWO/index.m3u8
-beIN Sports 1 卡塔尔：https://ctrl.laotv.la/live/Bsport1/index.m3u8
-beIN Sports XTRA 卡塔尔：https://lnc-bein.tubi.video/playlist.m3u8
-beIN Sports XTRA 卡塔尔：https://i.mjh.nz/SamsungTVPlus/CABA8000043F.m3u8
-BET 美国：http://170.254.18.106/BET/index.m3u8
-BILLIARD TV 台球：https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-Bloomberg 美国：https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-Bloomberg 亚洲：https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg Originals：https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-Bollywood Classic：http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
-Bollywood Classic：https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-Boxing TV：https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-Bravo：http://170.254.18.106/BRAVO/index.m3u8
+BBC America,http://208.86.19.13:81/34.stream/index.m3u8
+BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC Asia Pacific,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+BBC Drama 法语,https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
+BBC news 英国,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC news 英国,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC Home 英国,https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+BBC Travel 德语,https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
+BBC TWO 英国,http://41.205.93.154/BBCTWO/index.m3u8
+beIN Sports 1 卡塔尔,https://ctrl.laotv.la/live/Bsport1/index.m3u8
+beIN Sports XTRA 卡塔尔,https://lnc-bein.tubi.video/playlist.m3u8
+beIN Sports XTRA 卡塔尔,https://i.mjh.nz/SamsungTVPlus/CABA8000043F.m3u8
+BET 美国,http://170.254.18.106/BET/index.m3u8
+BILLIARD TV 台球,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+Bloomberg 美国,https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+Bloomberg 亚洲,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+Bollywood Classic,http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
+Bollywood Classic,https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+Boxing TV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+Bravo,http://170.254.18.106/BRAVO/index.m3u8
 
-Cartoon Network：https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cartoonnetworkhd_dr.m3u8
-CBC Comedy：https://i.mjh.nz/SamsungTVPlus/CABD1200043OK.m3u8
-CBC News Explore：https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
-CBN News 美国：https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CBS News 美国：http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-CBS News 美国：https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-CBS Mixible (ET)：https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-CGTN 中国：https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CGTN Documentary 中国：http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Documentary 中国：http://110.72.79.92:808/hls/67/index.m3u8
-CINEMAX 电影：http://170.254.18.106/CINEMAX/index.m3u8
-CINEMAX 电影：https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cinemaxhd_qp.m3u8
-CineWestern 意大利：https://i.mjh.nz/SamsungTVPlus/ITBB20000072M.m3u8
-Classic Bollywood：https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-CNA 新加坡：https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNBC 美国：http://89.187.177.137/CNBCHD/index.m3u8?token=test
-CNBC 美国：https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
-CNN 美国：https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN 美国：https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-CNN 美国：http://185.177.125.251:8080/cnn/index.m3u8
-CNN 美国：https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
-Comedy Central：http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-Comedy & Shows 德语：https://i.mjh.nz/SamsungTVPlus/DEBC2200002E7.m3u8
-Cooking Channel：http://170.254.18.106/COOKING/index.m3u8
-Court TV：http://72.46.118.193/Court/index.m3u8
+Cartoon Network,https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cartoonnetworkhd_dr.m3u8
+CBC Comedy,https://i.mjh.nz/SamsungTVPlus/CABD1200043OK.m3u8
+CBC News Explore,https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
+CBN News 美国,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBS News 美国,http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+CBS News 美国,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+CBS Mixible (ET),https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+CGTN 中国,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Documentary 中国,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN Documentary 中国,http://110.72.79.92:808/hls/67/index.m3u8
+CINEMAX 电影,http://170.254.18.106/CINEMAX/index.m3u8
+CINEMAX 电影,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cinemaxhd_qp.m3u8
+CineWestern 意大利,https://i.mjh.nz/SamsungTVPlus/ITBB20000072M.m3u8
+Classic Bollywood,https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+CNA 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC 美国,http://89.187.177.137/CNBCHD/index.m3u8?token=test
+CNBC 美国,https://i.mjh.nz/SamsungTVPlus/ITBD3600002PA.m3u8
+CNN 美国,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN 美国,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNN 美国,http://185.177.125.251:8080/cnn/index.m3u8
+CNN 美国,https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
+Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+Comedy & Shows 德语,https://i.mjh.nz/SamsungTVPlus/DEBC2200002E7.m3u8
+Cooking Channel,http://170.254.18.106/COOKING/index.m3u8
+Court TV,http://72.46.118.193/Court/index.m3u8
 
-Discovery：http://170.254.18.106/DISCOVERY/index.m3u8
-Disney Channel 日语：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-Disney Junior 日语：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-Divorce Court：https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
-DMAX 意：https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
-Documentary+：https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
-DUBAI ONE：https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-DW 德国：https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-DW 德国：https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
+Discovery,http://170.254.18.106/DISCOVERY/index.m3u8
+Disney Channel 日语,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Disney Junior 日语,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Divorce Court,https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+DMAX 意,https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
+Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+DUBAI ONE,https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+DW 德国,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+DW 德国,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 
-EDGE Sport：https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-ESPN 美国：http://143.244.60.30/ESPN/index.m3u8
-euro news：https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-euro news：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-euro news：https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-euro news 法语：https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
-euro news 意语：https://i.mjh.nz/SamsungTVPlus/ITAJ4500023ZX.m3u8
-EUROSPORT：https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
-EUROSPORT：https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-EUROSPORT 1：https://cdn-nvm-chicago.lolokoko.tv/eurosport1.stream/chunks.m3u8
-EWTN 宗教：https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+EDGE Sport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+ESPN 美国,http://143.244.60.30/ESPN/index.m3u8
+euro news,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+euro news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+euro news,https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+euro news 法语,https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+euro news 意语,https://i.mjh.nz/SamsungTVPlus/ITAJ4500023ZX.m3u8
+EUROSPORT,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
+EUROSPORT,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+EUROSPORT 1,https://cdn-nvm-chicago.lolokoko.tv/eurosport1.stream/chunks.m3u8
+EWTN 宗教,https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 
-Family Gekijo 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-Fashion TV：https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Fashion TV Midnite：https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-FIFA+ 足球：https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-FIFA+ 足球：https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-Fight Network：https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-FilmRise Action 电影：https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
-FilmRise Classic TV：https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
-FilmRise Western 电影：https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
-Filmstream 电影：https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-Fite TV：https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
-Fox 5 New York：https://lnc-wnyw.tubi.video/index.m3u8
-FOX Business 美国：http://41.205.93.154/FOXBUSINESS/index.m3u8
-FOX Live Now 美国：https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOX Live Now 美国：https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-FRANCE 24：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-FRANCE 24：https://i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8
-FRANCE 24：https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
-fubo SPORTS 美国：https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-fubo SPORTS 美国：http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/96261.m3u8
+Family Gekijo 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion TV Midnite,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+FIFA+ 足球,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+FIFA+ 足球,https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+FilmRise Action 电影,https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
+FilmRise Classic TV,https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
+FilmRise Western 电影,https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
+Filmstream 电影,https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+Fite TV,https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+Fox 5 New York,https://lnc-wnyw.tubi.video/index.m3u8
+FOX Business 美国,http://41.205.93.154/FOXBUSINESS/index.m3u8
+FOX Live Now 美国,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX Live Now 美国,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+FRANCE 24,https://i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8
+FRANCE 24,https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+fubo SPORTS 美国,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+fubo SPORTS 美国,http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/96261.m3u8
 
-GBNEWS：https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-GCTV (Global Champion TV)：https://i.mjh.nz/SamsungTVPlus/ITBD3600001Z9.m3u8
-Global NEWS 加拿大：https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-GREAT action：http://185.19.191.2:8090/GreatAction/index.m3u8
-GREAT! movies：https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
+GBNEWS,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+GCTV (Global Champion TV),https://i.mjh.nz/SamsungTVPlus/ITBD3600001Z9.m3u8
+Global NEWS 加拿大,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+GREAT action,http://185.19.191.2:8090/GreatAction/index.m3u8
+GREAT! movies,https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
 
-HBO：https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-HBO：http://190.171.101.36/HBO/tracks-v4a1/mono.m3u8
-HBO：http://41.205.93.154/HBO/index.m3u8
-HBO+：http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO EXTREME：http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO family：http://170.254.18.106:80/HBO_FAMILY/index.m3u8
-HBO HD：https://edge1.laotv.la/live/HBO/index.m3u8
-HBO MUNDI：http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
-HBO Signature：http://170.254.18.106/HBO_SIG/index.m3u8
-HBO Signature：https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
-HBO2：http://170.254.18.106/HBO2/index.m3u8
-HBO2：http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
-HBO PLUS：http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+HBO,http://190.171.101.36/HBO/tracks-v4a1/mono.m3u8
+HBO,http://41.205.93.154/HBO/index.m3u8
+HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO EXTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
+HBO family,http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+HBO HD,https://edge1.laotv.la/live/HBO/index.m3u8
+HBO MUNDI,http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
+HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
+HBO Signature,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
+HBO2,http://170.254.18.106/HBO2/index.m3u8
+HBO2,http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
+HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
 
-H&C 赛马：https://hncfree-samsungau.amagi.tv/playlist.m3u8
-HGTV：http://170.254.18.106/HGTV/index.m3u8
-HGTV：http://143.244.60.97/HGTV/index.m3u8
-HGTV：https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
-HGTV 意大利：https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
-History：http://170.254.18.106/HISTORY/index.m3u8
-History：http://41.205.93.154/HISTORY/index.m3u8
-History Hit：https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
-Horror Machine：https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
-Hunt Channel：https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+H&C 赛马,https://hncfree-samsungau.amagi.tv/playlist.m3u8
+HGTV,http://170.254.18.106/HGTV/index.m3u8
+HGTV,http://143.244.60.97/HGTV/index.m3u8
+HGTV,https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+HGTV 意大利,https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
+History,http://170.254.18.106/HISTORY/index.m3u8
+History,http://41.205.93.154/HISTORY/index.m3u8
+History Hit,https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+Horror Machine,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+Hunt Channel,https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
-INDIA TODAY：https://feeds.intoday.in/hltapps/api/master.m3u8
-INDIA TODAY：https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-Inside Crime：https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
+INDIA TODAY,https://feeds.intoday.in/hltapps/api/master.m3u8
+INDIA TODAY,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+Inside Crime,https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
 
-Just For Laughs Gags：https://i.mjh.nz/SamsungTVPlus/ITBD600002HT.m3u8
+Just For Laughs Gags,https://i.mjh.nz/SamsungTVPlus/ITBD600002HT.m3u8
 
-K+ 韩国：http://210.210.155.35/uq2663/h/h08/index.m3u8
-Kayo Pops 日本流行音乐：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-KBS 韩国：https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8
-KBS WORLD 韩国：https://ctrl.laotv.la/live/KBS/index.m3u8
-KBS WORLD 韩国：https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBS WORLD 韩国：https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-Kordia TV 音乐：https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-Law & Crime：https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-Love Nature：http://143.244.60.30/LOVE_NATURE/index.m3u8
-Love ThePlanet：https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
+K+ 韩国,http://210.210.155.35/uq2663/h/h08/index.m3u8
+Kayo Pops 日本流行音乐,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+KBS 韩国,https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8
+KBS WORLD 韩国,https://ctrl.laotv.la/live/KBS/index.m3u8
+KBS WORLD 韩国,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD 韩国,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+Kordia TV 音乐,https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+Law & Crime,https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+Love Nature,http://143.244.60.30/LOVE_NATURE/index.m3u8
+Love ThePlanet,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
 
-M2o 音乐：https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
-Masterchef UK：https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
-MBC 韩国：https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist_w1081597033.m3u8
-MBC Action：http://213.254.12.7/mbcaction/index.m3u8
-MBC MAX：http://213.254.12.7/mbcmax/index.m3u8
-mix fm 音乐：http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
-MOTO AMERICA TV：https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
-Movie Plus 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-MOVIE SPHERE：https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-MOVIE SPHERE：https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
-Mr. Bean：http://51.159.104.29:8080/mrbean/index.m3u8
-MTV：http://170.254.18.106/MTV/index.m3u8
-MTV Hits：http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-MTV Japan：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-Music+：https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-129/fpd5-jyun_1080p/chunklist_DVR.m3u8
-MUTV 曼联足球俱乐部：https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-My Cinema Asia：http://210.210.155.37/uq2663/h/h193/index.m3u8
-My Cinema Europe：http://210.210.155.37/uq2663/h/h18/01.m3u8
-My Family Channel：http://210.210.155.37/uq2663/h/h194/index.m3u8
-My Time Movie Network：https://mytime-tcl.amagi.tv/playlist288-p.m3u8
+M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+Masterchef UK,https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
+MBC 韩国,https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist_w1081597033.m3u8
+MBC Action,http://213.254.12.7/mbcaction/index.m3u8
+MBC MAX,http://213.254.12.7/mbcmax/index.m3u8
+mix fm 音乐,http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+MOTO AMERICA TV,https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+Movie Plus 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+MOVIE SPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+MOVIE SPHERE,https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+Mr. Bean,http://51.159.104.29:8080/mrbean/index.m3u8
+MTV,http://170.254.18.106/MTV/index.m3u8
+MTV Hits,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+Music+,https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-129/fpd5-jyun_1080p/chunklist_DVR.m3u8
+MUTV 曼联足球俱乐部,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
+My Cinema Europe,http://210.210.155.37/uq2663/h/h18/01.m3u8
+My Family Channel,http://210.210.155.37/uq2663/h/h194/index.m3u8
+My Time Movie Network,https://mytime-tcl.amagi.tv/playlist288-p.m3u8
 
-NASA TV 1 美国：https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-NASA TV 1 美国：https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-Nature Time：https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-NBC：http://41.205.93.154/NBC/index.m3u8
-NBC Chicago：https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
-NBC Home：https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-NBC News Now 美国：https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-NBC News Now 美国：https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
-New Movies (Samsung)：https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-New Movies (Plex)：https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-NEWSMAX 美国：https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-next UP Live Comedy：https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-NHKG 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-NHK WORLD JAPAN：https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NICKELODEON：http://143.244.60.30/NICKELODEON/index.m3u8
-Nick Jr.：https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nickjr_dr.m3u8
-NICKTOONS 动画：http://89.254.128.5:22280/nicktoons/video.m3u8
-NIPPON TV 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-NOW 80's 音乐：https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
-NOW 90's 音乐：https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-NTV News 24 日本：https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NASA TV 1 美国,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NASA TV 1 美国,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+Nature Time,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+NBC,http://41.205.93.154/NBC/index.m3u8
+NBC Chicago,https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+NBC Home,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+NBC News Now 美国,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+NBC News Now 美国,https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
+New Movies (Samsung),https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+New Movies (Plex),https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+NEWSMAX 美国,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+next UP Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+NHKG 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
+Nick Jr.,https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nickjr_dr.m3u8
+NICKTOONS 动画,http://89.254.128.5:22280/nicktoons/video.m3u8
+NIPPON TV 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+NOW 80's 音乐,https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
+NOW 90's 音乐,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+NTV News 24 日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-Paramount NETWORK：http://170.254.18.106/PARAMOUNT/index.m3u8
-PBS History：https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
-PBS Kids：https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-PBS World：https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
-POP MAX 英国少儿频道：http://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
-Popstar! TV：https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-Premier Sports：https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/premiersportshd_qp.m3u8
-Premier Sports 1：http://202.21.104.6:88/sps-prime/index.m3u8
-Premier Sports 2：http://202.21.104.6:88/sps-play/index.m3u8
-Premier Sports 5：http://202.21.104.6:88/sps-plus/mono.m3u8
+Paramount NETWORK,http://170.254.18.106/PARAMOUNT/index.m3u8
+PBS History,https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
+PBS Kids,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+PBS World,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
+POP MAX 英国少儿频道,http://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+Popstar! TV,https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+Premier Sports,https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/premiersportshd_qp.m3u8
+Premier Sports 1,http://202.21.104.6:88/sps-prime/index.m3u8
+Premier Sports 2,http://202.21.104.6:88/sps-play/index.m3u8
+Premier Sports 5,http://202.21.104.6:88/sps-plus/mono.m3u8
 
-Rakuten Action Movies：https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Action Movies：https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
-Rakuten Action Movies 法语：https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
-Rakuten Comedy Movies：https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Comedy Movies：https://rakuten-comedymovies-1-gb.samsung.wurl.tv/3000.m3u8
-Rakuten Comedy Movies 法语：https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
-Rakuten Family 英语：https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Family 西班牙语：https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Films 法语：https://rakuten-films-francais-1-eu.rakuten.wurl.tv/3000.m3u8
-Rakuten TV Shows：https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Spotlight：https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-Rakuten Top Free：https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action Movies,https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+Rakuten Action Movies 法语,https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies,https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Comedy Movies,https://rakuten-comedymovies-1-gb.samsung.wurl.tv/3000.m3u8
+Rakuten Comedy Movies 法语,https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+Rakuten Family 英语,https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Family 西班牙语,https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Films 法语,https://rakuten-films-francais-1-eu.rakuten.wurl.tv/3000.m3u8
+Rakuten TV Shows,https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Spotlight,https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Top Free,https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-Real Madrid 皇马足球俱乐部：https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-Real Time 意大利：https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
-Real Wild 新西兰：https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-Real Wild 新西兰：https://i.mjh.nz/SamsungTVPlus/GBBB1000005IO.m3u8
-Redbox Spotlight：https://spotlight-redbox.amagi.tv/playlist.m3u8
-Red Bull TV：https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Red Bull TV：https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-REELZ：https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-Reuters 路透社：https://i.mjh.nz/SamsungTVPlus/FRBD490000195.m3u8
-Rock Action 电影：http://210.210.155.37:80/dr9445/h/h15/01.m3u8
-Rock Entertainment：http://210.210.155.37:80/dr9445/h/h16/01.m3u8
-Russia Today 俄罗斯：https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-Russia Today 俄罗斯：https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Russia Today Documentary 俄罗斯：https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+Real Madrid 皇马足球俱乐部,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+Real Time 意大利,https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
+Real Wild 新西兰,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+Real Wild 新西兰,https://i.mjh.nz/SamsungTVPlus/GBBB1000005IO.m3u8
+Redbox Spotlight,https://spotlight-redbox.amagi.tv/playlist.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+REELZ,https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+Reuters 路透社,https://i.mjh.nz/SamsungTVPlus/FRBD490000195.m3u8
+Rock Action 电影,http://210.210.155.37:80/dr9445/h/h15/01.m3u8
+Rock Entertainment,http://210.210.155.37:80/dr9445/h/h16/01.m3u8
+Russia Today 俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+Russia Today 俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Russia Today Documentary 俄罗斯,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-SBS 韩国：http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
-Secret Story 法语：https://i.mjh.nz/SamsungTVPlus/FRBC3300008XK.m3u8
-SkyNews：https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-SkyNews：http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
-SKI TV：https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-sky sports：https://bp1.mrgamingstreams.com/mrgamingskyf1.m3u8
-Sparkle Movies：https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
-Spotlight 电影：https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
-Stingray Greatest Hits 音乐：https://i.mjh.nz/SamsungTVPlus/CABD1200037BS.m3u8
-Stingray Hip Hop 音乐：https://i.mjh.nz/SamsungTVPlus/CABD1200029U0.m3u8
-Stingray Hot Country 音乐：https://i.mjh.nz/SamsungTVPlus/CABD1200025IX.m3u8
-Stingray Today's K-Pop 音乐：https://i.mjh.nz/SamsungTVPlus/CABD1200034DU.m3u8
-Story TV：https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+SBS 韩国,http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+Secret Story 法语,https://i.mjh.nz/SamsungTVPlus/FRBC3300008XK.m3u8
+SkyNews,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+SkyNews,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+SKI TV,https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+sky sports,https://bp1.mrgamingstreams.com/mrgamingskyf1.m3u8
+Sparkle Movies,https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+Spotlight 电影,https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+Stingray Greatest Hits 音乐,https://i.mjh.nz/SamsungTVPlus/CABD1200037BS.m3u8
+Stingray Hip Hop 音乐,https://i.mjh.nz/SamsungTVPlus/CABD1200029U0.m3u8
+Stingray Hot Country 音乐,https://i.mjh.nz/SamsungTVPlus/CABD1200025IX.m3u8
+Stingray Today's K-Pop 音乐,https://i.mjh.nz/SamsungTVPlus/CABD1200034DU.m3u8
+Story TV,https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 
-TAIWAN PLUS：https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-tbs 美国：http://143.244.60.30/TBS/index.m3u8
-TBS News 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-TED 演讲：https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8
-Tennis Channel：https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-The Boat Show：https://i.mjh.nz/SamsungTVPlus/ITBD10000040W.m3u8
-The Guardian：https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-The Film Detective：https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-The Lego Channel：https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-The Movie Club 印度：https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
-TNT 美国：http://208.86.19.13:81/16.stream/index.m3u8
-TNT 美国：http://170.254.18.106/TNT/index.m3u8
-Tokyo MX1 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-Trailers：https://i.mjh.nz/SamsungTVPlus/ITBA3300048YJ.m3u8
-Travelxp：https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
-Trace UK 音乐：https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-TRT WORLD 新闻：https://tv-trtworld.live.trt.com.tr/master.m3u8
-TRT WORLD 新闻：https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-True Crime UK：https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
-True History：https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
-tv Peru：https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-TV Tokyo 日本：http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-tvN 韩国：https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
-tvN Movies 韩国：http://210.210.155.37/dr9445/h/h21/index.m3u8
+TAIWAN PLUS,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+tbs 美国,http://143.244.60.30/TBS/index.m3u8
+TBS News 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+TED 演讲,https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8
+Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+The Boat Show,https://i.mjh.nz/SamsungTVPlus/ITBD10000040W.m3u8
+The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+The Film Detective,https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+The Movie Club 印度,https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+TNT 美国,http://208.86.19.13:81/16.stream/index.m3u8
+TNT 美国,http://170.254.18.106/TNT/index.m3u8
+Tokyo MX1 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+Trailers,https://i.mjh.nz/SamsungTVPlus/ITBA3300048YJ.m3u8
+Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
+Trace UK 音乐,https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+TRT WORLD 新闻,https://tv-trtworld.live.trt.com.tr/master.m3u8
+TRT WORLD 新闻,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+True Crime UK,https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
+True History,https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+tv Peru,https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+TV Tokyo 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+tvN 韩国,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+tvN Movies 韩国,http://210.210.155.37/dr9445/h/h21/index.m3u8
 
-V2Beat 音乐：https://abr.de1se01.v2beat.live/playlist.m3u8
-Vevo '90s & '00s 音乐：https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
-Vevo Pop 音乐：https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
-VH1：http://170.254.18.106/VH1/index.m3u8
+V2Beat 音乐,https://abr.de1se01.v2beat.live/playlist.m3u8
+Vevo '90s & '00s 音乐,https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
+Vevo Pop 音乐,https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+VH1,http://170.254.18.106/VH1/index.m3u8
 
-WildEarth：https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-WildEarth：https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
-Wild Planet：https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-Wild Planet：https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-WION：https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-World Poker Tour：https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-World War TV：https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
-WU TANG 功夫电影：https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
+WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+WildEarth,https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+World War TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+WU TANG 功夫电影,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
 
-XFC TV：https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+XFC TV,https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 
-Yahoo Finance：https://yahoo-roku-us.amagi.tv/playlist.m3u8
+Yahoo Finance,https://yahoo-roku-us.amagi.tv/playlist.m3u8
