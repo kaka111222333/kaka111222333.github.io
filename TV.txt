@@ -245,13 +245,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 🌏githubuser,#genre#
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
