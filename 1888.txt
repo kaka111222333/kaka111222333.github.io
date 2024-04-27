@@ -98,64 +98,11 @@ CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
 
-地方频道
-CETV早期教育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
-CETV早期教育,http://121.19.134.246:808/hls/83/index.m3u8
-CETV1,http://121.19.134.246:808/hls/62/index.m3u8
-CETV2 标清,http://121.19.134.246:808/hls/63/index.m3u8
-CETV4,http://121.19.134.246:808/hls/64/index.m3u8
-CETV4,http://59.55.35.92:20000/hls/62/index.m3u8
-
-中国天气,http://59.55.35.92:20000/hls/74/index.m3u8
-华数电影1,http://59.55.35.92:20000/hls/80/index.m3u8
-华数电影2,http://59.55.35.92:20000/hls/81/index.m3u8
-华数电影3,http://59.55.35.92:20000/hls/82/index.m3u8
-华数电影4,http://59.55.35.92:20000/hls/84/index.m3u8
-华数电影5,http://59.55.35.92:20000/hls/85/index.m3u8
-华数电影6,http://59.55.35.92:20000/hls/83/index.m3u8
-华数电影7,http://59.55.35.92:20000/hls/86/index.m3u8
-华数电影8,http://59.55.35.92:20000/hls/87/index.m3u8
-环球旅游,http://59.55.35.92:20000/hls/73/index.m3u8
-环球奇观,http://59.55.35.92:20000/hls/72/index.m3u8
-欢笑剧场,http://59.55.35.92:20000/hls/69/index.m3u8
-精彩影视,http://59.55.35.92:20000/hls/70/index.m3u8
-
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲武侠 标清,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-星空卫视 标清,http://110.72.79.92:808/hls/60/index.m3u8
-Channel V 音乐,http://110.72.79.92:808/hls/64/index.m3u8
-China Movie 标清,http://110.72.79.92:808/hls/65/index.m3u8
-NewTV潮婆辣妈,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-NewTV军旅剧场,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-NewTV中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-都市剧场,http://59.55.35.92:20000/hls/17/index.m3u8
-都市剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-电影轮播,https://pull.kktv8.com/livekktv/128600025.flv
-动漫秀场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
-重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-
 北京纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-北京卡酷少儿,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 北京卡酷少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-北京卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
-北京卡酷少儿 标清,http://59.55.35.92:20000/hls/65/index.m3u8
-北京卡酷少儿 标清,http://220.194.178.58:8888/newlive/live/hls/57/live.m3u8
-北京卡酷少儿 标清,http://121.24.99.177:8090/hls/51/index.m3u8
-北京卡酷少儿 标清,http://120.84.121.11:808/hls/144/index.m3u8
-
-上海纪实人文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 上海纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海纪实人文,http://121.24.99.177:8090/hls/108/index.m3u8
-上海纪实人文,http://121.19.134.246:808/hls/65/index.m3u8
-上海哈哈炫动,http://59.55.35.92:20000/hls/64/index.m3u8
-上海哈哈炫动 标清,http://110.72.79.92:808/hls/28/index.m3u8
 上海崇明台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-上海金山台 标清,http://livejs1.newsjs.net/jspd/playlist.m3u8
-
-江苏优漫卡通 标清,http://110.72.79.92:808/hls/31/index.m3u8
-江苏优漫卡通 标清,http://121.19.134.246:808/hls/66/index.m3u8
+上海金山台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 江苏靖江新闻,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -165,108 +112,16 @@ NewTV中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw193435
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南金鹰纪实,http://121.19.134.246:808/hls/67/index.m3u8
-湖南金鹰纪实 标清,http://111.8.242.84:9901/tsfile/live/1007_1.m3u8
 
-湖南金鹰卡通,http://59.55.35.92:20000/hls/63/index.m3u8
-湖南金鹰卡通,http://220.194.178.58:8888/newlive/live/hls/56/live.m3u8
-湖南金鹰卡通,http://121.24.99.177:8090/hls/83/index.m3u8
-湖南金鹰卡通 标清,http://110.72.79.92:808/hls/26/index.m3u8
-湖南金鹰卡通 标清,http://36.96.38.246:8888/newlive/live/hls/55/live.m3u8
-湖南金鹰卡通 标清,http://121.19.134.246:808/hls/60/index.m3u8
 
-湖南电影 标清,http://111.8.242.84:9901/tsfile/live/1005_1.m3u8
-湖南电视剧 标清,http://111.8.242.84:9901/tsfile/live/1003_1.m3u8
-湖南娱乐 标清,http://111.8.242.84:9901/tsfile/live/1002_1.m3u8
-湖南爱晚 标清,http://111.8.242.84:9901/tsfile/live/1006_1.m3u8
-
-河北公共,http://121.24.99.177:8090/hls/31/index.m3u8
-河北公共,http://121.19.134.246:808/hls/24/index.m3u8
-河北影视剧,http://121.24.99.177:8090/hls/29/index.m3u8
-河北经济生活,http://121.19.134.246:808/hls/20/index.m3u8
-河北都市,http://121.19.134.246:808/hls/21/index.m3u8
-河北影视剧,http://121.19.134.246:808/hls/22/index.m3u8
-河北少儿科教,http://121.19.134.246:808/hls/23/index.m3u8
-河北农民,http://121.19.134.246:808/hls/25/index.m3u8
-河北杂技 标清,http://121.19.134.246:808/hls/26/index.m3u8
-
-山东教育卫视,http://222.173.147.142:8888/newlive/live/hls/24/live.m3u8
-山东教育卫视,http://60.208.113.114:8001/newlive/live/hls/42/live.m3u8
-山东教育卫视 标清,http://121.24.99.177:8090/hls/60/index.m3u8
-山东教育卫视 标清,http://121.19.134.246:808/hls/61/index.m3u8
-山东教育卫视 标清,http://110.72.79.92:808/hls/36/index.m3u8
-山东新闻,http://222.173.147.142:8888/newlive/live/hls/25/live.m3u8
-山东文旅,http://222.173.147.142:8888/newlive/live/hls/21/live.m3u8
-山东生活,http://222.173.147.142:8888/newlive/live/hls/22/live.m3u8
-山东综艺,http://222.173.147.142:8888/newlive/live/hls/23/live.m3u8
-山东少儿,http://222.173.147.142:8888/newlive/live/hls/56/live.m3u8
-山东济宁综合,http://222.173.147.142:8888/newlive/live/hls/19/live.m3u8
-山东济宁公共 标清,http://222.173.147.142:8888/newlive/live/hls/20/live.m3u8
-山东济南少儿,http://60.208.113.114:8001/newlive/live/hls/41/live.m3u8
-
-河南梨园频道,http://121.19.134.246:808/hls/68/index.m3u8
-河南武术世界,http://121.19.134.246:808/hls/69/index.m3u8
-河南文物宝库,http://121.19.134.246:808/hls/71/index.m3u8
-河南国学频道 标清,http://121.19.134.246:808/hls/72/index.m3u8
-
-广东新闻,http://120.84.121.11:808/hls/124/index.m3u8
-广东新闻,http://163.197.220.190:1354/itouchtv.php?id=gdxw
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广东文化,http://163.197.220.190:1354/itouchtv.php?id=gdwh
-广东珠江,http://120.84.121.11:808/hls/122/index.m3u8
-广东珠江,https://php.17186.eu.org/gdtv/gdzj.m3u8
-广东珠江,http://171.110.199.41:8181/tsfile/live/1003_1.m3u8
-广东珠江,http://163.197.220.190:1354/itouchtv.php?id=gdzj
-广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
-广东体育,http://120.84.121.11:808/hls/170/index.m3u8
-广东体育,http://120.84.121.11:808/hls/22/index.m3u8
-广东体育,http://163.197.220.190:1354/itouchtv.php?id=gdty
-广东民生,http://120.84.121.11:808/hls/148/index.m3u8
-广东民生,https://php.17186.eu.org/gdtv/gdgg.m3u8
-广东影视,https://php.17186.eu.org/gdtv/gdys.m3u8
-广东影视,http://120.84.121.11:808/hls/142/index.m3u8
-广东影视,http://163.197.220.190:1354/itouchtv.php?id=gdys
-广东少儿,https://php.17186.eu.org/gdtv/gdse.m3u8
-广东少儿,http://120.84.121.11:808/hls/120/index.m3u8
-广东移动,http://163.197.220.190:1354/itouchtv.php?id=gdyd
-广东经济科教,https://php.17186.eu.org/gdtv/jjkj.m3u8
-广东经济科教,http://120.84.121.11:808/hls/24/index.m3u8
-广东经济科教,http://120.84.121.11:808/hls/118/index.m3u8
-广东嘉佳卡通,https://php.17186.eu.org/gdtv/jjkt.m3u8
-广东嘉佳卡通,http://120.84.121.11:808/hls/171/index.m3u8
-广东嘉佳卡通 标清,http://110.72.79.92:808/hls/12/index.m3u8
-广东嘉佳卡通 标清,http://121.24.99.177:8090/hls/52/index.m3u8
-广东岭南戏曲,http://120.84.121.11:808/hls/143/index.m3u8
-深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-
-江西都市,http://59.55.35.92:20000/hls/20/index.m3u8
-江西经济生活,http://59.55.35.92:20000/hls/21/index.m3u8
-江西影视旅游,http://59.55.35.92:20000/hls/22/index.m3u8
-江西公共农业,http://59.55.35.92:20000/hls/23/index.m3u8
-江西少儿,http://59.55.35.92:20000/hls/24/index.m3u8
-江西新闻,http://59.55.35.92:20000/hls/25/index.m3u8
-江西教育,http://59.55.35.92:20000/hls/26/index.m3u8
-
-山西黄河,http://220.194.178.58:8888/newlive/live/hls/51/live.m3u8
-山西经济,http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
-山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
-山西法治,http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
-山西文体,http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
 
 海南公共,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
 海南文旅,https://live3.hnntv.cn/srs/tv/wlpd.m3u8
 海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 
-辽宁教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
-辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
-辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
-辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
 
 宁夏经济,http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
 宁夏公共,http://stream.nxtv.com.cn/ggpd/sd/live.m3u8
