@@ -483,10 +483,6 @@ HiFi 电台,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
 都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-都江堰神树萍①,http://gcalic.v.myalicdn.com/gc/xiongmao25_1/index.m3u8
-都江堰神树坪②,http://gcalic.v.myalicdn.com/gc/xiongmao26_1/index.m3u8
-都江堰神树坪③,http://gcalic.v.myalicdn.com/gc/xiongmao22_1/index.m3u8
-
 怡然②,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
 基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
@@ -500,8 +496,6 @@ HiFi 电台,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 基地别墅①,http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
 基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
 
-核桃坪,http://gcalic.v.myalicdn.com/gc/xiongmao19_1/index.m3u8
-卧龙臭水,http://gcalic.v.myalicdn.com/gc/xiongmao17_1/index.m3u8
 大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
 成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
