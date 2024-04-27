@@ -778,7 +778,7 @@ CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m
 澳门莲花 电影,https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 
-成人直播源,#genre#
+18_2024,#genre#
 
 日本1,http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
