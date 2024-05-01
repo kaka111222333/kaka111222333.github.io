@@ -1,11 +1,11 @@
 
 🌐  台湾,#genre#
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
 中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
@@ -14,7 +14,6 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 寰宇新闻台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 寰宇财经台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视 大陆寻奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 中视 台湾志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中视 万秀猪王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
