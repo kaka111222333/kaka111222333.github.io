@@ -112,8 +112,6 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 
 
 🌐  台湾,#genre#
-
-🌐  台湾,#genre#
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
