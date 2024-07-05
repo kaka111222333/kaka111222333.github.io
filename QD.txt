@@ -186,9 +186,9 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
 法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
@@ -213,7 +213,7 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
-🌏 台湾新闻,#genre#
+🌏 台湾2,#genre#
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -358,7 +358,7 @@ TIMES,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 
 
 
-📺CCTV 组播,#genre#
+☀️ CCTV,#genre#
 CCTV-1,http://192.168.23.1:4000/udp/239.253.224.1:8000
 CCTV-2,http://192.168.23.1:4000/udp/239.253.224.3:8000
 CCTV-3,http://192.168.23.1:4000/udp/239.253.224.4:8000
@@ -405,7 +405,7 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 
 
 
-📺卫视 组播,#genre#
+☀️ 卫视,#genre#
 
 山东卫视,http://192.168.23.1:4000/udp/239.253.224.2:8000
 江苏卫视,http://192.168.23.1:4000/udp/239.253.224.28:8000
@@ -525,7 +525,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 嘉佳卡通,http://192.168.23.1:4000/udp/239.253.224.65:8000
 
 
-📺 日照,#genre#
+☀️ 日照,#genre#
 日照新闻综合,http://192.168.23.1:4000/udp/239.253.224.254:8000
 日照科教,http://192.168.23.1:4000/udp/239.253.224.253:8000
 日照公共,http://192.168.23.1:4000/udp/239.253.224.250:8000
@@ -556,7 +556,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 
 
-📺IPTV 组播,#genre#
+☀️ IPTV,#genre#
 都市剧场,http://192.168.23.1:4000/udp/239.253.224.98:8000
 都市剧场,http://192.168.23.1:4000/udp/239.253.224.178:8000
 精彩影视,http://192.168.23.1:4000/udp/239.253.224.142:8000
