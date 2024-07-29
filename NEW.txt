@@ -259,6 +259,15 @@ Asian,http://cdn.adultiptv.net/asian.m3u8
 
 
 📺 Adult,#genre#
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Brazzers,https://cdn-nvm-chicago.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+DORCEL TV,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+EROX,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+EROXXX,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+EXTASY,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Hustler,https://live.iptvxxx.net/hustlertv.m3u8
+
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
