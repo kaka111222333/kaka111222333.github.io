@@ -238,6 +238,8 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 🌏 爱自然,#genre#
 爱自然 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
 M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 MTV Hits,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
@@ -248,12 +250,7 @@ MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs1
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-俄罗斯时装,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
-世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
-时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+时装 1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
