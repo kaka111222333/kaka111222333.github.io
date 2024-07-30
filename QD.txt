@@ -92,6 +92,14 @@ CCTV-16 奥林匹克,http://iptviptv.site:9694/hls/115/index.m3u8
 CCTV-17 农业农村,http://iptviptv.site:9694/hls/116/index.m3u8
 
 🌕 卫视,#genre#
+五星体育,http://iptviptv.site:9694/hls/150/index.m3u8
+新闻综合,http://iptviptv.site:9694/hls/151/index.m3u8
+东方财经,http://iptviptv.site:9694/hls/152/index.m3u8
+第一财经,http://iptviptv.site:9694/hls/153/index.m3u8
+法治天地,http://iptviptv.site:9694/hls/154/index.m3u8
+都市频道,http://iptviptv.site:9694/hls/155/index.m3u8
+东方影视,http://iptviptv.site:9694/hls/156/index.m3u8
+上海教育,http://iptviptv.site:9694/hls/157/index.m3u8
 湖南卫视,http://iptviptv.site:9694/hls/117/index.m3u8
 浙江卫视,http://iptviptv.site:9694/hls/118/index.m3u8
 江苏卫视,http://iptviptv.site:9694/hls/119/index.m3u8
