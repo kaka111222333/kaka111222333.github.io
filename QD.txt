@@ -72,7 +72,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-CCTV,#genre#
+🌕 CCTV,#genre#
 CCTV-1 综合,http://iptviptv.site:9694/hls/100/index.m3u8
 CCTV-2 财经,http://iptviptv.site:9694/hls/101/index.m3u8
 CCTV-3 综艺,http://iptviptv.site:9694/hls/102/index.m3u8
@@ -91,7 +91,7 @@ CCTV-15 音乐,http://iptviptv.site:9694/hls/114/index.m3u8
 CCTV-16 奥林匹克,http://iptviptv.site:9694/hls/115/index.m3u8
 CCTV-17 农业农村,http://iptviptv.site:9694/hls/116/index.m3u8
 
-卫视,#genre#
+🌕 卫视,#genre#
 湖南卫视,http://iptviptv.site:9694/hls/117/index.m3u8
 浙江卫视,http://iptviptv.site:9694/hls/118/index.m3u8
 江苏卫视,http://iptviptv.site:9694/hls/119/index.m3u8
