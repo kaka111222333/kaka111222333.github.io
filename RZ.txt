@@ -317,14 +317,6 @@ CGTN,http://192.168.23.1:4000/udp/239.253.224.189:8000
 
 
 📺  地方,#genre#
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
-房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-
-四川_珙县新闻,http://mmitv.top/test/tianma.php?id=gxtv
-新疆_乌鲁木齐汉语综合,http://mmitv.top/test/tianma.php?id=utvhyzh
-云南_师宗综合,http://mmitv.top/test/tianma.php?id=sztv
-
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
