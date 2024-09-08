@@ -256,46 +256,6 @@ CGTN 俄语,http://192.168.23.1:4000/udp/239.253.224.185:8000
 
 
 
-🌐 浙江,#genre#
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-
-
-
-🌏 爱自然,#genre#
-爱自然 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-
-M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
-MTV Hits,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-时装 1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
-
 
 🌏 台湾,#genre#
 华视,rtmp://f13h.mine.nu/sat/tv111
@@ -382,4 +342,44 @@ TIMES,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 动画片,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 
 
+
+🌏 爱自然,#genre#
+
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
+
+
+MTV Hits,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+时装 1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
+
+
+
+🌐 浙江,#genre#
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
