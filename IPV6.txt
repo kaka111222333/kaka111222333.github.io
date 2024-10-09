@@ -305,5 +305,16 @@ CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
+🌐 浙江,#genre#
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
