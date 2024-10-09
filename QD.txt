@@ -194,7 +194,10 @@ CGTN 俄语,http://192.168.23.1:4000/udp/239.253.224.185:8000
 
 
 
-🌏 台湾,#genre#
+🌏 凤凰,#genre#
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=19506175306&pwd=fan2345678
+凤凰卫视,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=19506175306&pwd=fan2345678
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=19506175306&pwd=fan2345678
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
