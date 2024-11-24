@@ -197,7 +197,7 @@ CCTV-2 财经,http://192.168.122.1:4000/udp/239.253.254.232:8000
 浙江卫视,http://192.168.122.1:4000/udp/239.253.254.84:8000
 
 
-🌏 凤凰台湾,#genre#
+🌏 台湾,#genre#
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -292,8 +292,6 @@ TIMES,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
-
-
 MTV Hits,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
@@ -302,8 +300,6 @@ M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/li
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-
-
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
