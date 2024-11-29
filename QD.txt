@@ -191,7 +191,11 @@ CGTN 俄语,http://192.168.23.1:4000/udp/239.253.224.185:8000
 
 
 
-🌏 台湾,#genre#
+🌏 港台,#genre#
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
