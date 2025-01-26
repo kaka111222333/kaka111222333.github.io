@@ -116,6 +116,14 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 
 
 🌏  港台,#genre#
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
+Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -125,7 +133,6 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
