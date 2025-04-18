@@ -370,22 +370,8 @@ Ginx_TV4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 GOODTV,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-全球频道,#genre#
-amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8
-DISCOVERY亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-Disocovery(中字),http://61.221.215.25:8800/hls/1/index.m3u8
-NHK国际http://61.221.215.25:8800/hls/51/index.m3u8
-SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
-TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
-八大第一HD,http://61.221.215.25:8800/hls/55/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球(国语),http://61.221.215.25:8800/hls/57/index.m3u8
-钢琴音乐,http://61.221.215.25:8800/hls/49/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-纬来精彩HD,http://61.221.215.25:8800/hls/48/index.m3u8
-中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
 
+jdshipin,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
