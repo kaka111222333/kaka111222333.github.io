@@ -92,12 +92,17 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 
 
 新疆内蒙,#genre#
-新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
-新疆汉语综艺4,http://A/ku9/js/xjtv.js?id=xjzy
-新疆经济生活7,http://A/ku9/js/xjtv.js?id=xjjjsh
-新疆体育健康10,http://A/ku9/js/xjtv.js?id=xjtyjk
-新疆信息服务11,http://A/ku9/js/xjtv.js?id=xjxxfw
-新疆少儿12,http://A/ku9/js/xjtv.js?id=xjse
+新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
+新疆维语综合,http://A/ku9/js/xjtv.js?id=xjwyzh
+新疆哈语综合,http://A/ku9/js/xjtv.js?id=xjhyzh
+新疆综艺,http://A/ku9/js/xjtv.js?id=xjzy
+新疆维语影视,http://A/ku9/js/xjtv.js?id=xjwyys
+新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
+新疆哈语综艺,http://A/ku9/js/xjtv.js?id=xjhyzy
+新疆维语经济生活,http://A/ku9/js/xjtv.js?id=xjwyjjsh
+新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
+新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
+新疆少儿频道,http://A/ku9/js/xjtv.js?id=xjse
 
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
