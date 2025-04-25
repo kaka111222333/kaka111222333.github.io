@@ -31,7 +31,6 @@ CCTV15,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv15/
 CCTV16,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv16/
 CCTV17,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv17/
 
-央视频,#genre#
 CCTV1,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV4,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600001814
@@ -93,13 +92,8 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 
 新疆内蒙,#genre#
 新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
-新疆维语综合,http://A/ku9/js/xjtv.js?id=xjwyzh
-新疆哈语综合,http://A/ku9/js/xjtv.js?id=xjhyzh
 新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
-新疆维语影视,http://A/ku9/js/xjtv.js?id=xjwyys
 新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
-新疆哈语综艺,http://A/ku9/js/xjtv.js?id=xjhyzy
-新疆维语经济生活,http://A/ku9/js/xjtv.js?id=xjwyjjsh
 新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
 新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
 新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
