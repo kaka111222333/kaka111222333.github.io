@@ -93,8 +93,8 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 
 新疆内蒙,#genre#
 新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
-新疆汉语综艺4,http://A/ku9/js/xjtv.js?id=xjzy
-新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
+新疆综艺4,http://A/ku9/js/xjtv.js?id=xjzy
+新疆经济生活7,http://A/ku9/js/xjtv.js?id=xjjjsh
 新疆体育健康10,http://A/ku9/js/xjtv.js?id=xjtyjk
 新疆信息服务11,http://A/ku9/js/xjtv.js?id=xjxxfw
 新疆少儿12,http://A/ku9/js/xjtv.js?id=xjse
