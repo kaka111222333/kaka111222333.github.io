@@ -91,16 +91,6 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 
 
 各地,#genre#
-山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
-山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
-山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
-山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
-山东综艺,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/zypd/
-山东新闻,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/ggpd/
-山东农科,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/nkpd/
-山东文旅,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/yspd/
-山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
-
 青岛QTV-1,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/index.shtml
 青岛QTV-2,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛QTV-3,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
@@ -118,6 +108,15 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 临沂综合,http://A/ku9/js/ku9js.js?id=https://www.ilinyi.net/cms/tv/1020403
 临沂经济,http://A/ku9/js/ku9js.js?id=https://www.ilinyi.net/cms/tv/36417907
 临沂公共,http://A/ku9/js/ku9js.js?id=https://www.ilinyi.net/cms/tv/1020769
+山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
+山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
+山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
+山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
+山东综艺,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/zypd/
+山东新闻,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/ggpd/
+山东农科,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/nkpd/
+山东文旅,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/yspd/
+山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
 
 
 杭州综合,http://A/ku9/js/hztv.js?id=hzzh
