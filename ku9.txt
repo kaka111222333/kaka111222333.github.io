@@ -180,17 +180,6 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 武术,http://10.26.0.23:4000/udp/239.253.224.227:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
-香港,#genre#
-凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
-凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
-凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
-
 央视网,#genre#
 CCTV1,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
@@ -420,25 +409,16 @@ CETV3,http://A/ku9/js/ku9js.js?id=https://tv.gxtv.cn/channel/channelivePlay_67ea
 
 
 🌏 香港,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
+凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
+凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
+香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港C+频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Astro剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
 
 🌏 台湾,#genre#
