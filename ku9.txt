@@ -102,7 +102,7 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 新疆维语经济生活,http://A/ku9/js/xjtv.js?id=xjwyjjsh
 新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
 新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
-新疆少儿频道,http://A/ku9/js/xjtv.js?id=xjse
+新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
 
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
