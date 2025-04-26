@@ -273,13 +273,21 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 北京卫视4K,http://A/ku9/js/ku9js.js?id=https://www.brtn.cn/btv/btvsy_index
 
 
-各地,#genre#
+青岛,#genre#
 青岛QTV-1,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/index.shtml
 青岛QTV-2,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛QTV-3,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
 青岛QTV-4,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
 青岛QTV-5,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛QTV-6,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+
+杭州综合,http://A/ku9/js/hztv.js?id=hzzh
+杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
+杭州生活,http://A/ku9/js/hztv.js?id=hzsh
+杭州影视,http://A/ku9/js/hztv.js?id=hzys
+杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
+杭州导视,http://A/ku9/js/hztv.js?id=hzds
+
 奥帆中心,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
 太平角,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
 五四广场,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
@@ -302,12 +310,7 @@ CGTN纪录,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=6000847
 山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
 
 
-杭州综合,http://A/ku9/js/hztv.js?id=hzzh
-杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
-杭州生活,http://A/ku9/js/hztv.js?id=hzsh
-杭州影视,http://A/ku9/js/hztv.js?id=hzys
-杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
-杭州导视,http://A/ku9/js/hztv.js?id=hzds
+
 富阳新闻综合,http://A/ku9/js/hztv.js?id=fyxwzh
 
 
