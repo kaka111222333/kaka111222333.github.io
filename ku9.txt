@@ -33,6 +33,11 @@ CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+CCTV-4K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV-8K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
+CCTV风云剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 
 
