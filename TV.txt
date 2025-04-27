@@ -1119,6 +1119,23 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 
 🌏 香港,#genre#
+中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+凤凰资讯,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+凤凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+美亚电影台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+纬来体育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+Animax,http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/a/ktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
