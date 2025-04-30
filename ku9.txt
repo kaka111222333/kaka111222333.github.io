@@ -124,24 +124,21 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
 临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
-济宁综合,https://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-济宁生活,https://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
-济宁公共,webview://https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+
 威海新闻综合,webview://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
 威海都市生活,webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
 威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-泰安综合,webview://http://www.1545ts.com/zhibo/taian/zhibotatv1.html
-泰安经济生活,webview://http://www.1545ts.com/zhibo/taian/zhibotatv2.html
-枣庄新闻综合,http://A/ku9/js/ku9js.js?id=http://www.lncm.cn/zhibo/show-1.html
-枣庄经济生活,http://A/ku9/js/ku9js.js?id=http://www.lncm.cn/zhibo/show-3.html
-枣庄公共,http://A/ku9/js/ku9js.js?id=http://www.lncm.cn/zhibo/show-4.html
+泰安综合,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv1.html
+泰安经济生活,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv2.html
+枣庄公共,http://A/ku9/js/ku9js.js?id=https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/#/tv
 聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
 潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
 潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
 潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 
-黄岛电视台,http://A/ku9/js/ku9js.js?id=http://www.qwmedia.cn/tv.html?tv
+黄岛电视台,webview://http://www.qwmedia.cn/tv.html?tv
+
 
 
 
@@ -186,11 +183,11 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 江苏体育,webview://https://live.jstv.com?channelId=537
 江苏国际,webview://https://live.jstv.com?channelId=544
 优漫卡通,webview://https://live.jstv.com?channelId=543
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 南京新闻综合,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109152
 南京生活,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110094
 南京教科,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109153
@@ -283,8 +280,6 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活,webview://https://dgrtv.sun0769.com/index.php/online2/5
 
-海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
-
 
 新疆,#genre#
 新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
@@ -305,11 +300,11 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 宁夏卫视,,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
-青海卫视,http://A/ku9/js/ku9js.js?id=http://www.qhbtv.com/new_index/live/folder2650/
-西藏卫视,http://A/ku9/js/ku9js.js?id=http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
+青海卫视,http://A/ku9/js/ku9js.js?id=http://www.qhbtv.com/new_index/live/folder2646/
+青海经视,http://A/ku9/js/ku9js.js?id=http://www.qhbtv.com/new_index/live/folder2647/
+青海都市,http://A/ku9/js/ku9js.js?id=http://www.qhbtv.com/new_index/live/folder2648/
 
 
 东北,#genre#
@@ -332,6 +327,7 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 
 
 内蒙古,#genre#
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
