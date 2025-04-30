@@ -16,8 +16,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 🌐 CCTV,#genre#
+CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
-CCTV-1 综合,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
 CCTV-4 亚洲,webview://https://tv.cctv.com/live/cctv4/
@@ -38,30 +38,33 @@ CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
 CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 
-🌐 央视频,#genre#
-CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
-CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
-CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
-CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
-CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
-CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
-CCTV7,webview://https://yangshipin.cn/tv/home?pid=600004092
-CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV9,webview://https://yangshipin.cn/tv/home?pid=600004078
-CCTV10,webview://https://yangshipin.cn/tv/home?pid=600001805
-CCTV11,webview://https://yangshipin.cn/tv/home?pid=600001806
-CCTV12,webview://https://yangshipin.cn/tv/home?pid=600001807
-CCTV13,webview://https://yangshipin.cn/tv/home?pid=600001811
-CCTV14,webview://https://yangshipin.cn/tv/home?pid=600001809
-CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
-CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
-CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
-CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
+
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+
+🌐 卫视,#genre#
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+北京卫视4K,webview://https://www.brtn.cn/btv/btvsy_index
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
@@ -81,7 +84,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
 安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
 河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
-山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
 天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
 吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
 陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
