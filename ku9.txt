@@ -15,7 +15,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 
-🌏 CCTV,#genre#
+🌐 CCTV,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
@@ -37,7 +37,7 @@ CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/
 CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/
 
-🌏 央视频,#genre#
+🌐 央视频,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
