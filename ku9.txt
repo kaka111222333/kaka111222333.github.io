@@ -16,7 +16,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 🌏 CCTV,#genre#
-CCTV-1 综合,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
+CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
 CCTV-4 亚洲,webview://https://tv.cctv.com/live/cctv4/
