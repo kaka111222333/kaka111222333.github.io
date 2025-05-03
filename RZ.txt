@@ -182,6 +182,73 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 
 
 🌏  港台,#genre#
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时装FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+中國電影頻道,http://tl.061833.xyz/tl/null-6
+PopC,http://tl.061833.xyz/tl/popc
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+美亞電影台,http://tl.061833.xyz/tl/null-5
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+U,https://cdn6.163189.xyz/live/chu/stream.m3u8
+
+
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+
+
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
+
+
+
+
+無線新聞台,http://tl.061833.xyz/tl/null-11
+亞洲劇台,http://tl.061833.xyz/tl/null-13
+千禧經典台,http://tl.061833.xyz/tl/null-3
+天映经典,http://tl.061833.xyz/tl/null-1
+戲曲台,http://tl.061833.xyz/tl/null-15
+明珠台,http://tl.061833.xyz/tl/null-12
+星河频道,http://tl.061833.xyz/tl/null-7
+功夫台,http://tl.061833.xyz/tl/null-17
+粵語片台,http://tl.061833.xyz/tl/null-10
+翡翠台,http://tl.061833.xyz/tl/null
+華語劇台,http://tl.061833.xyz/tl/null-4
+黄金翡翠台,http://tl.061833.xyz/tl/null-2
+黄金华剧台,http://tl.061833.xyz/tl/null-9
+娛樂新聞台,http://tl.061833.xyz/tl/null-14
+
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
