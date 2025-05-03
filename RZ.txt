@@ -188,7 +188,7 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+Fashion TV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
