@@ -309,6 +309,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 山东,#genre#
 山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
+山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
 山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
 山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
 山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
@@ -328,6 +329,26 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 太平角,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
 五四广场,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
 太平湾,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
+快速路南京路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
+胶宁高架福州路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
+胶宁高架银川西路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
+
+日照综合,webview://https://www.rzw.com.cn/folder247/folder2217/
+临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
+临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
+威海新闻综合,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
+威海都市生活,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
+威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
+泰安综合,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv1.html
+泰安经济生活,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv2.html
+枣庄公共,http://A/ku9/js/ku9js.js?id=https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
+聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
+潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+
 快速路南京路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
 胶宁高架福州路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
 胶宁高架银川西路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
