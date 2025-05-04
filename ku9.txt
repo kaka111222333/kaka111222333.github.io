@@ -1,5 +1,7 @@
 📺 CCTV,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
 CCTV-4 亚洲,webview://https://tv.cctv.com/live/cctv4/
@@ -82,13 +84,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
 凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
-
-凤凰卫视资讯,http://A/ku9/js/ku9js.js?id=http://tv.haoqu99.com/4/fhzx.html
-凤凰卫视中文,webview://http://tv.haoqu99.com/4/fhzw.html
-凤凰卫视HK,webview://http://tv.haoqu99.com/4/fhxg.html
-
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -560,3 +555,6 @@ TRACE体育,webview://https://www.iptv345.com/?act=play&token=05dbc358c2df7aee30
 民視第一台,webview://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
 民視新聞台,webview://https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31
 民視綜艺台,webview://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
+凤凰卫视资讯,http://A/ku9/js/ku9js.js?id=http://tv.haoqu99.com/4/fhzx.html
+凤凰卫视中文,webview://http://tv.haoqu99.com/4/fhzw.html
+凤凰卫视HK,webview://http://tv.haoqu99.com/4/fhxg.html
