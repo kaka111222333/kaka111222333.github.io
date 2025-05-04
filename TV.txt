@@ -204,12 +204,10 @@ CETV1,http://192.168.192.23:4000/udp/239.253.224.55:8000
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港C+频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
@@ -224,7 +222,9 @@ PopC,http://tl.061833.xyz/tl/popc
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 美亞電影台,http://tl.061833.xyz/tl/null-5
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港C+频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 📺  专业,#genre#
 梨园频道,http://10.26.0.23:4000/udp/239.253.224.139:8000
