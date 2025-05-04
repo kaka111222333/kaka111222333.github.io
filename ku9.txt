@@ -47,7 +47,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 📺 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
-北京卫视4K,webview://https://www.brtn.cn/btv/btvsy_index
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
@@ -79,6 +78,9 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+北京卫视4K,webview://https://www.brtn.cn/btv/btvsy_index
+
+
 
 🌐 港台,#genre#
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
