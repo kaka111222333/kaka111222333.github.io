@@ -1128,17 +1128,25 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港C+频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时装FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+中國電影頻道,http://tl.061833.xyz/tl/null-6
+PopC,http://tl.061833.xyz/tl/popc
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+美亞電影台,http://tl.061833.xyz/tl/null-5
 
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Astro剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+
 
 
 🌏 台湾,#genre#
