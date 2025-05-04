@@ -461,6 +461,12 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 
 
 广东,#genre#
+南国都市,http://A/ku9/js/gz.js?id=nd
+广州综合,http://A/ku9/js/gz.js?id=zh
+广州新闻,http://A/ku9/js/gz.js?id=xw
+广州法治,http://A/ku9/js/gz.js?id=fz
+广州影视,http://A/ku9/js/gz.js?id=ys
+
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
@@ -470,7 +476,7 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=4528666d03404f24e44c1cc45d6d98f5&txTime=1955a3c2631
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=43247f9f631aa76741fcc3f24d327e28&txTime=1955a3c2632
-广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
+南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
 广州法制,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
