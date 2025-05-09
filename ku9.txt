@@ -1,7 +1,5 @@
-📺 CCTV,#genre#
+🌐 CCTV,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/
 CCTV-4 亚洲,webview://https://tv.cctv.com/live/cctv4/
@@ -45,7 +43,9 @@ CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-📺 卫视,#genre#
+
+
+🌐 卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -78,240 +78,99 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-北京卫视4K,webview://https://www.brtn.cn/btv/btvsy_index
+北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 
 
-
-🌐 港台,#genre#
+🌏 港台,#genre#
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
 凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-中國電影頻道,http://tl.061833.xyz/tl/null-6
-PopC,http://tl.061833.xyz/tl/popc
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-美亞電影台,http://tl.061833.xyz/tl/null-5
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-U,https://cdn6.163189.xyz/live/chu/stream.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港C+频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
-
-
-
-
-無線新聞台,http://tl.061833.xyz/tl/null-11
-亞洲劇台,http://tl.061833.xyz/tl/null-13
-千禧經典台,http://tl.061833.xyz/tl/null-3
-天映经典,http://tl.061833.xyz/tl/null-1
-戲曲台,http://tl.061833.xyz/tl/null-15
-明珠台,http://tl.061833.xyz/tl/null-12
-星河频道,http://tl.061833.xyz/tl/null-7
-功夫台,http://tl.061833.xyz/tl/null-17
-粵語片台,http://tl.061833.xyz/tl/null-10
-翡翠台,http://tl.061833.xyz/tl/null
-華語劇台,http://tl.061833.xyz/tl/null-4
-黄金翡翠台,http://tl.061833.xyz/tl/null-2
-黄金华剧台,http://tl.061833.xyz/tl/null-9
-娛樂新聞台,http://tl.061833.xyz/tl/null-14
-
-
-
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-
-
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-华丽翡翠台.备用,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-
-
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$LR•IPV4『线路4』
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-
-ESPN NEWS,http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
-Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-MTV LIVE,http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
-viuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-山东,#genre#
-山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
-山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
-山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
-山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
-山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
-山东综艺,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/zypd/
-山东新闻,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/ggpd/
-山东农科,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/nkpd/
-山东文旅,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/yspd/
-山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
-
-青岛新闻综合-1,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛经济生活-2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛影视-3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛文化娱乐-4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛体育休闲-5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛教育-6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-奥帆中心,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-五四广场,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-太平湾,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-快速路南京路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-胶宁高架福州路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-胶宁高架银川西路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
-
-日照综合,webview://https://www.rzw.com.cn/folder247/folder2217/
-临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
-临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
-威海新闻综合,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-泰安综合,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv1.html
-泰安经济生活,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv2.html
-枣庄公共,http://A/ku9/js/ku9js.js?id=https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
-聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
-潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+📺 江苏,#genre#
+江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
+江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
+江苏影视,https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
+江苏综艺,https://zjcn-live-play.jstv.com/live/jszy_live.m3u8
+江苏教育,https://zjcn-live-play.jstv.com/live/jsjy_live.m3u8
+江苏体育,https://zjcn-live-play.jstv.com/live/jsxx_live.m3u8
+江苏新闻,https://zjcn-live-play.jstv.com/live/jsxw_live.m3u8
+江苏国际,https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
+优漫卡通,https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
+连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
+东海,https://zjcn-live-play.jstv.com/live/donghai.m3u8
+南京,https://zjcn-live-play.jstv.com/live/nanjing.m3u8
+苏州,https://zjcn-live-play.jstv.com/live/suzhou.m3u8
+常州,https://zjcn-live-play.jstv.com/live/changzhou.m3u8
+吴江,https://zjcn-live-play.jstv.com/live/wujiang.m3u8
+六合,https://zjcn-live-play.jstv.com/live/luhe.m3u8
+无锡,https://zjcn-live-play.jstv.com/live/wuxi.m3u8
+徐州,https://zjcn-live-play.jstv.com/live/xuzhou.m3u8
+江阴,https://zjcn-live-play.jstv.com/live/jiangyin.m3u8
+邳州,https://zjcn-live-play.jstv.com/live/pizhou.m3u8
+新沂,https://zjcn-live-play.jstv.com/live/xinyi.m3u8
+贾汪,https://zjcn-live-play.jstv.com/live/jiawang.m3u8
+铜山,https://zjcn-live-play.jstv.com/live/tongshan.m3u8
+武进,https://zjcn-live-play.jstv.com/live/wujin.m3u8
+南通,https://zjcn-live-play.jstv.com/live/nantong.m3u8
+淮安,https://zjcn-live-play.jstv.com/live/huaian.m3u8
+响水,https://zjcn-live-play.jstv.com/live/xiangshui.m3u8
+盐城,https://zjcn-live-play.jstv.com/live/yancheng.m3u8
+盱眙,https://zjcn-live-play.jstv.com/live/xuyi.m3u8
+洪泽,https://zjcn-live-play.jstv.com/live/hongze.m3u8
+镇江,https://zjcn-live-play.jstv.com/live/zhenjiang.m3u8
+泰州,https://zjcn-live-play.jstv.com/live/taizhou.m3u8
+泰兴,https://zjcn-live-play.jstv.com/live/taixing.m3u8
+兴华,https://zjcn-live-play.jstv.com/live/xinghua.m3u8
+靖江,https://zjcn-live-play.jstv.com/live/jingjiang.m3u8
+宿迁,https://zjcn-live-play.jstv.com/live/suqian.m3u8
+泗阳,https://zjcn-live-play.jstv.com/live/siyang.m3u8
 
 
-浙江,#genre#
+江苏卫视,webview://https://live.jstv.com/?channelId=534
+江苏城市,webview://https://live.jstv.com?channelId=535
+江苏综艺,webview://https://live.jstv.com?channelId=556
+江苏影视,webview://https://live.jstv.com?channelId=542
+江苏新闻,webview://https://live.jstv.com?channelId=536
+江苏教育,webview://https://live.jstv.com?channelId=545
+江苏体育,webview://https://live.jstv.com?channelId=537
+江苏国际,webview://https://live.jstv.com?channelId=544
+优漫卡通,webview://https://live.jstv.com?channelId=543
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+南京新闻综合,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109152
+南京生活,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110094
+南京教科,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109153
+南京文旅纪录,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110093
+南京少儿,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110095
+
+
+
+📺 浙江,#genre#
 杭州综合,http://A/ku9/js/hztv.js?id=hzzh
 杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
 杭州生活,http://A/ku9/js/hztv.js?id=hzsh
@@ -335,33 +194,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 之江纪录,webview://https://www.cztv.com/liveTV/112
 
 
-江苏,#genre#
-江苏卫视,webview://https://live.jstv.com/?channelId=534
-江苏城市,webview://https://live.jstv.com?channelId=535
-江苏综艺,webview://https://live.jstv.com?channelId=556
-江苏影视,webview://https://live.jstv.com?channelId=542
-江苏新闻,webview://https://live.jstv.com?channelId=536
-江苏教育,webview://https://live.jstv.com?channelId=545
-江苏体育,webview://https://live.jstv.com?channelId=537
-江苏国际,webview://https://live.jstv.com?channelId=544
-优漫卡通,webview://https://live.jstv.com?channelId=543
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-南京新闻综合,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109152
-南京生活,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110094
-南京教科,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109153
-南京文旅纪录,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110093
-南京少儿,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110095
-
-
-
-
-
-
-广西,#genre#
+📺 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
@@ -374,7 +207,67 @@ CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf966370
 CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
-福建,#genre#
+📺 山东,#genre#
+青岛新闻综合-1,webview://http://www.qtv.com.cn/live/tv/index.shtml
+青岛经济生活-2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛影视-3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛文化娱乐-4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛体育休闲-5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛教育-6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+奥帆中心,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
+太平角,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
+五四广场,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
+太平湾,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
+快速路南京路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
+胶宁高架福州路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
+胶宁高架银川西路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
+
+山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
+山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
+山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
+山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
+山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
+山东综艺,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/zypd/
+山东新闻,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/ggpd/
+山东农科,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/nkpd/
+山东文旅,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/yspd/
+山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
+
+
+日照综合,webview://https://www.rzw.com.cn/folder247/folder2217/
+临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
+临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
+威海新闻综合,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
+威海都市生活,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
+威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
+泰安综合,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv1.html
+泰安经济生活,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv2.html
+枣庄公共,http://A/ku9/js/ku9js.js?id=https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
+聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
+潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+
+
+
+
+📺 西安,#genre#
+新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
+都市频道,https://xatv-yt.xiancity.cn/live/2/index.m3u8
+戏剧影视,https://xatv-yt.xiancity.cn/live/4/index.m3u8
+移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
+商务资讯,https://xatv-yt.xiancity.cn/live/3/index.m3u8
+丝路频道,https://xatv-yt.xiancity.cn/live/5/index.m3u8
+乐购购物,https://xatv-yt.xiancity.cn/live/6/index.m3u8
+
+
+
+
+
+
+📺 福建,#genre#
 福建新闻,webview://https://live.fjtv.net/xwpd/
 福建公共,webview://https://live.fjtv.net/ggpd/
 福建旅游,webview://https://live.fjtv.net/dspd/
@@ -386,8 +279,7 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 福建少儿,webview://https://live.fjtv.net/sepd/
 
 
-湖南,#genre#
-金鹰卡通,webview://https://live.mgtv.com/?channelId=287
+📺 湖南,#genre#
 湖南电影,webview://https://live.mgtv.com/?channelId=221
 湖南电视剧,webview://https://live.mgtv.com/?channelId=484
 湖南经视,webview://https://live.mgtv.com/?channelId=280
@@ -395,6 +287,7 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 湖南都市,webview://https://live.mgtv.com/?channelId=346
 湖南国际,webview://https://live.mgtv.com/?channelId=229
 金鹰纪实,webview://https://live.mgtv.com/?channelId=316
+金鹰卡通,webview://https://live.mgtv.com/?channelId=287
 湖南爱晚,webview://https://live.mgtv.com/?channelId=261
 先锋乒羽,webview://https://live.mgtv.com/?channelId=329
 快乐垂钓,webview://https://live.mgtv.com/?channelId=218
@@ -404,24 +297,9 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 
 
-上海,#genre#
-东方卫视,webview://https://live.kankanews.com/huikan/
-上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
-上海都市,webview://https://live.kankanews.com/huikan?id=4
-第一财经,webview://https://live.kankanews.com/huikan?id=5
-哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-五星体育,webview://https://live.kankanews.com/huikan?id=10
-魔都眼webview://https://live.kankanews.com/huikan?id=11
-新纪实,webview://https://live.kankanews.com/huikan?id=12
-
-南昌,#genre#
-南昌综合,http://A/ku9/js/jxtv.js?id=nczh
-南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
-南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
 
 
-
-广东,#genre#
+📺 广东,#genre#
 南国都市,http://A/ku9/js/gz.js?id=nd
 广州综合,http://A/ku9/js/gz.js?id=zh
 广州新闻,http://A/ku9/js/gz.js?id=xw
@@ -438,26 +316,44 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=4528666d03404f24e44c1cc45d6d98f5&txTime=1955a3c2631
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=43247f9f631aa76741fcc3f24d327e28&txTime=1955a3c2632
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
-广州法制,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
+广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
-广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活,webview://https://dgrtv.sun0769.com/index.php/online2/5
 
-海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
+
+📺 海南,#genre#
+海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+海南卫视,webview://http://tc.hnntv.cn//index.shtml
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
+海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
+海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
+海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
+海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+
+📺 湖北,#genre#
+湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
+湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
+湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
+湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
+湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
+湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
+湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 
 
-新疆,#genre#
+📺 新疆,#genre#
 新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
-新疆汉语综艺4,http://A/ku9/js/xjtv.js?id=xjzy
+新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
 新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
-新疆体育健康10,http://A/ku9/js/xjtv.js?id=xjtyjk
-新疆信息服务11,http://A/ku9/js/xjtv.js?id=xjxxfw
-新疆少儿12,http://A/ku9/js/xjtv.js?id=xjse
+新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
+新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
+新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
 新疆1套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆3套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
@@ -470,14 +366,53 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+
 宁夏卫视,,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
-青海卫视,http://A/ku9/js/ku9js.js?id=http://www.qhbtv.com/new_index/live/folder2650/
 西藏卫视,http://A/ku9/js/ku9js.js?id=http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 
 
-东北,#genre#
+
+📺 青海,#genre#
+青海卫视,webview://http://www.qhbtv.com/new_index/live/folder2646/
+青海经视,webview://http://www.qhbtv.com/new_index/live/folder2647/
+青海都市,webview://http://www.qhbtv.com/new_index/live/folder2648/
+
+
+
+📺 内蒙古,#genre#
+内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+
+呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+
+📺 上海,#genre#
+东方卫视,webview://https://live.kankanews.com/huikan/
+上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
+上海都市,webview://https://live.kankanews.com/huikan?id=4
+第一财经,webview://https://live.kankanews.com/huikan?id=5
+哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
+五星体育,webview://https://live.kankanews.com/huikan?id=10
+魔都眼webview://https://live.kankanews.com/huikan?id=11
+新纪实,webview://https://live.kankanews.com/huikan?id=12
+
+📺 江西,#genre#
+南昌综合,http://A/ku9/js/jxtv.js?id=nczh
+南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
+南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
+
+
+
+📺 东北,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv
 长春新闻综合,http://A/ku9/js/ku9js.js?id=https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,http://A/ku9/js/ku9js.js?id=https://chinactv.com/live/1442880767035355137.html
@@ -496,22 +431,8 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 延边综合,http://A/ku9/js/ku9js.js?id=https://www.yb983.com/ybtv2/index.html
 
 
-内蒙古,#genre#
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 
-呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-
-
-台湾,#genre#
+📺 台湾,#genre#
 凤凰资讯,webview://https://www.iptv345.com/?act=play&token=326b67c611aedb6c05f5c3e57fb21462&tid=gt&id=2
 凤凰中文,webview://https://www.iptv345.com/?act=play&token=09e4da38ec7a2fa22f156b2c1085b517&tid=gt&id=1
 中天新聞,webview://https://www.iptv345.com/?act=play&token=06aa4a8853762408141943ea8020188b&tid=gt&id=43
@@ -560,3 +481,28 @@ TRACE体育,webview://https://www.iptv345.com/?act=play&token=05dbc358c2df7aee30
 凤凰卫视资讯,http://A/ku9/js/ku9js.js?id=http://tv.haoqu99.com/4/fhzx.html
 凤凰卫视中文,webview://http://tv.haoqu99.com/4/fhzw.html
 凤凰卫视HK,webview://http://tv.haoqu99.com/4/fhxg.html
+/?act=play&token=3beef2530da8d62311c7f207cd116e8c&tid=gt&id=56
+TVBS新闻,webview://https://www.iptv345.com/?act=play&token=1e2dc3f8a4711584352ab9f8a0b59b5a&tid=gt&id=55
+TVBS欢乐,webview://https://www.iptv345.com/?act=play&token=946ed9a3533806552a6c984019820c7c&tid=gt&id=57
+台视,webview://https://www.iptv345.com/?act=play&token=297639df3515d2d3350ff38a6c5fafbf&tid=gt&id=61
+台视新闻,webview://https://www.iptv345.com/?act=play&token=a7a9189e07323a729269c24df215af88&tid=gt&id=47
+中视,webview://https://www.iptv345.com/?act=play&token=f7ce683ea792b0a3d9461326728b4ed6&tid=gt&id=60
+中视新闻,webview://https://www.iptv345.com/?act=play&token=a35c29f8db002fc88fd2e2b9a406fb90&tid=gt&id=46
+纬来育乐,webview://https://www.iptv345.com/?act=play&token=e756a86cfad804916ce9dc19025e1aed&tid=gt&id=75
+纬来日本,webview://https://www.iptv345.com/?act=play&token=5fff59eb6db62e5c6fa5d8bea8c9f64e&tid=gt&id=74
+纬来体育,webview://https://www.iptv345.com/?act=play&token=d4e706f25495248a0900c521e078f5fb&tid=gt&id=73
+華視,webview://https://www.iptv345.com/?act=play&token=160124a0e8b2541498faaa061c0989fc&tid=gt&id=63
+华视新闻,webview://https://www.iptv345.com/?act=play&token=883cac7d582133fb1e4250d0bd52d727&tid=gt&id=51
+镜新闻,webview://https://www.iptv345.com/?act=play&token=c2f4982b3dd79047ea6a7a6b67d640cc&tid=gt&id=52
+寰宇新聞,webview://https://www.iptv345.com/?act=play&token=31ff68d48d6dbcfd837f2c7eec40aec9&tid=gt&id=53
+寰宇新聞台湾,webview://https://www.iptv345.com/?act=play&token=cd46b60804340a4511cfd5948348a382&tid=gt&id=54
+三立新闻,webview://https://www.iptv345.com/?act=play&token=0da013bbb9859b62ed28195102bf295e&tid=gt&id=48
+三立台湾,webview://https://www.iptv345.com/?act=play&token=f33be221114ea7800ecf5a844633495f&tid=gt&id=65
+民視,webview://https://www.iptv345.com/?act=play&token=12e702afe3a895ed2a9e883a6e849dd7&tid=gt&id=62
+民視新聞,webview://https://www.iptv345.com/?act=play&token=d060ee6973c56594c60e2dc887754bf5&tid=gt&id=50
+民視台湾,webview://https://www.iptv345.com/?act=play&token=d1d74b82b7689c382e8d3f6357db9d25&tid=gt&id=67
+民視第一,webview://https://www.iptv345.com/?act=play&token=14d0a2117f8ea90a3a2f10deb39d6f0e&tid=gt&id=68
+民視综艺,webview://https://www.iptv345.com/?act=play&token=dfbcd6905ed1d8256952f08a381a354a&tid=gt&id=69
+民視旅游,webview://https://www.iptv345.com/?act=play&token=19bfe67ac8dab8282ed92a772e476dc2&tid=gt&id=70
+民視影剧,webview://https://www.iptv345.com/?act=play&token=7b4c7120cf3bf7c972e40e31d69eaa15&tid=gt&id=71
+VIUTV,webview://https://ww
