@@ -198,7 +198,9 @@ CETV1,http://192.168.192.23:4000/udp/239.253.224.55:8000
 
 
 🌏 香港,#genre#
-
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -211,6 +213,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 中國電影頻道,http://tl.061833.xyz/tl/null-6
 PopC,http://tl.061833.xyz/tl/popc
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
