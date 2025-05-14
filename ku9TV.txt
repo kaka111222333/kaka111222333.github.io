@@ -193,6 +193,11 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
 【央视网】,#genre#
+CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
+CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+
 CCTV1,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
 CCTV3,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv3/
