@@ -92,18 +92,7 @@ x青岛QTV-6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 浙江少儿,video://https://www.cztv.com/liveTV/108
 之江纪录,video://https://www.cztv.com/liveTV/112
 
-【广西】,#genre#
-广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-广西综艺旅游,video://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-广西都市,video://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-广西影视,video://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-广西新闻,video://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-广西国际,video://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-广西移动,video://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-
+【海南】,#genre#
 海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
 
 【江苏】,#genre#
@@ -117,11 +106,7 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 江苏国际,video://https://live.jstv.com?channelId=544
 优漫卡通,video://https://live.jstv.com?channelId=543
 
-
-
-南昌综合,http://A/ku9/js/jxtv.js?id=nczh
-南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
-南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
+南昌,video://https://www.nctv.net.cn/live?channel=1
 
 
 【福建】,#genre#
@@ -136,7 +121,7 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 福建少儿,video://https://live.fjtv.net/sepd/
 
 
-【湖南】,#genre#
+湖南,#genre#
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
 湖南电影,video://https://live.mgtv.com/?channelId=221
 湖南电视剧,video://https://live.mgtv.com/?channelId=484
@@ -179,18 +164,14 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 乌察新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
 
-
-
-
-
-市县,#genre#
+日照,#genre#
 日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
 日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
 岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
-五莲综合,video://五莲综合https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
+五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
 五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
 
 青岛,#genre#
@@ -217,8 +198,6 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 
 
 济南,#genre#
-山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
-济铁电视台,video://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
 长清综合,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
 长清生活,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
 济阳综合,video://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
@@ -230,6 +209,8 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 商河影视,video://https://iapp.shxrmtzx.com/share/dHZsLTk3LTI.html
 章丘综合,video://https://app.litenews.cn/share/dHZsLTE5NS0x.html
 章丘公共,video://https://app.litenews.cn/share/dHZsLTE5NS0y.html
+济铁电视台,video://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
+山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
 
 东营,#genre#
 东营新闻综合,video://https://www.dongyingnews.cn/v/tv/?id=0
@@ -245,6 +226,7 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 垦利新闻综合X,video://https://iapp.klrmt.cn/share/dHZsLTI2OS0z.html
 利津新闻综合,video://https://iapp.lijinnews.com/share/dHZsLTE1My0x.html
 利津文化生活,video://https://iapp.lijinnews.com/share/dHZsLTE1My0z.html
+
 潍坊,#genre#
 潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
 潍坊新闻综合,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
@@ -276,19 +258,19 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 诸城生活娱乐X,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
 
 烟台,#genre#
+龙口综合,video://https://app.litenews.cn/share/dHZsLTU3LTE.html
+龙口生活,video://https://app.litenews.cn/share/dHZsLTU3LTI.html
+莱州综合,video://https://iapp.laizhourongmei.cn/share/dHZsLTIzOS0x.html
 烟台,video://http://m.jiaodong.net/zhifuapp/dianshi/xwzhpd.html
 烟台公共,video://http://m.jiaodong.net/zhifuapp/dianshi/ggpd.html
 长岛,video://https://iapp.changdaohao.cn/share/dHZsLTE3NS0x.html
 福山X,video://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS00.html
 福山生活,video://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS01.html
 海阳综合,video://https://iapp.hyzc.cn/share/dHZsLTI1NS0x.html
-龙口综合,video://https://app.litenews.cn/share/dHZsLTU3LTE.html
-龙口生活,video://https://app.litenews.cn/share/dHZsLTU3LTI.html
 莱山综合,video://https://app.litenews.cn/share/dHZsLTI0NS00.html
 莱山影视,video://https://app.litenews.cn/share/dHZsLTI0NS02.html
 莱阳综合,video://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS00.html
 莱阳民生综艺,video://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS03.html
-莱州综合,video://https://iapp.laizhourongmei.cn/share/dHZsLTIzOS0x.html
 牟平综合,video://https://iapp.mprmt.com/share/dHZsLTI4MS0x.html
 蓬莱综合,video://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0x.html
 蓬莱综艺X,video://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0y.html
@@ -316,14 +298,17 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 
 枣庄,#genre#
 枣庄新闻综合,video://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=5
-枣庄新闻综合,video://http://www.lncm.cn/zhibo/list.php?catid=63
 枣庄新闻综合,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄新闻综合,video://http://www.lncm.cn/zhibo/list.php?catid=63
+
 枣庄经济生活,video://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=7
-枣庄经济生活,video://http://www.lncm.cn/zhibo/list-64.html
 枣庄经济生活,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄经济生活,video://http://www.lncm.cn/zhibo/list-64.html
+
 枣庄公共,video://http://www.zztvzd.com/?_hgOutLink=live/livedetail&channel_id=8
-枣庄公共,video://http://www.lncm.cn/mobile/zhibo/show-4.html
 枣庄公共,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄公共,video://http://www.lncm.cn/mobile/zhibo/show-4.html
+
 山亭综合,video://https://iapp.stqrmtzx.com/share/dHZsLTI0My0x.html
 市中区综合,video://https://iapp.zzszrm.com/share/dHZsLTIzMy0x.html
 台儿庄新闻综合,video://https://iapp.aitaierzhuang.cn/share/dHZsLTE4NS0y.html
@@ -345,10 +330,9 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 德州,#genre#
 德州新闻综合,video://http://www.dztv.tv/
 德州新闻综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0x.html
-德州经济生活,video://http://www.dztv.tv/
 德州经济生活,video://https://iapp.dztv.tv/share/dHZsLTE3OS0y.html
-德州图文,video://http://www.dztv.tv/
 德州图文,video://https://iapp.dztv.tv/share/dHZsLTE3OS05.html
+
 陵城综合,video://https://iapp.lxgdw.com/share/dHZsLTIxNS02.html
 陵城综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0zNg.html
 乐陵新闻综合,video://https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny0x.html
@@ -394,12 +378,7 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 郓城综艺,video://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0y.html
 
 济宁,#genre#
-济宁综合,video://https://www.jnnews.tv/app/tv/76
-济宁综合,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=76&page=canvas
-济宁生活,video://https://www.jnnews.tv/app/tv/152
-济宁生活,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=152&page=canvas
-济宁公共,video://https://www.jnnews.tv/app/tv/74
-济宁公共,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=74&page=canvas
+
 嘉祥新闻综合,video://https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html
 嘉祥新闻综合,video://https://web.guangdianyun.tv/tv/1306?uin=2606
 嘉祥生活,video://https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html
@@ -421,11 +400,17 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 邹城综合,video://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS0x.html
 邹城文化生活,video://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS00.html
 
+济宁综合,video://https://www.jnnews.tv/app/tv/76
+济宁综合,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=76&page=canvas
+济宁生活,video://https://www.jnnews.tv/app/tv/152
+济宁生活,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=152&page=canvas
+济宁公共,video://https://www.jnnews.tv/app/tv/74
+济宁公共,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=74&page=canvas
+
 聊城,#genre#
 聊城综合,video://http://www.lcxw.cn/kands/
 聊城综合,video://https://api.lcxw.cn/live/live_tv.html
-聊城民生,video://http://www.lcxw.cn/kands/
-聊城民生,video://https://api.lcxw.cn/live/live_tv.html
+
 茌平综合,video://https://iapp.cprmtvs.com/share/dHZsLTMxLTY.html
 茌平生活,video://https://iapp.cprmtvs.com/share/dHZsLTMxLTg.html
 东昌综合,video://https://iapp.dcfrm.cn/share/dHZsLTI2NS0x.html
@@ -445,14 +430,16 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
 临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
+沂水综合,video://https://app.litenews.cn/share/dHZsLTE0NS0x.html
+沂水生活,video://https://app.litenews.cn/share/dHZsLTE0NS0y.html
 费县综合,video://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExOQ.html
 费县生活,video://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExNw.html
 河东综合,video://https://iapp.lyhedong.com/share/dHZsLTE5MS0x.html
 河东影视,video://https://iapp.lyhedong.com/share/dHZsLTE5MS0y.html
 莒南综合,video://https://iapp.junanrongmei.cn/share/dHZsLTEwNS00.html
 莒南影视,video://https://iapp.junanrongmei.cn/share/dHZsLTEwNS01.html
-兰陵综合,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0x.html
-兰陵公共,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0y.html
+兰陵综合x,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0x.html
+兰陵公共x,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0y.html
 兰山电视台,video://https://iapp.lylsrm.cn/share/dHZsLTIwMS0x.html
 临沭综合,video://https://iapp.sdlsrm.com/share/dHZsLTE2Ny0z.html
 临沭生活,video://https://iapp.sdlsrm.com/share/dHZsLTE2Ny00.html
@@ -466,31 +453,26 @@ CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 郯城二套,video://https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html
 沂南综合,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
 沂南红色影视,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
-沂水综合,video://https://app.litenews.cn/share/dHZsLTE0NS0x.html
-沂水生活,video://https://app.litenews.cn/share/dHZsLTE0NS0y.html
 
 泰安,#genre#
-泰安综合,video://http://www.taianxinwen.com/tatv/contents/113/1.html
 泰安综合,video://http://live.1545ts.net/zhibotatv1.html
-泰安经济生活,video://http://www.taianxinwen.com/tatv/contents/113/2.html
 泰安经济生活,video://http://live.1545ts.net/zhibotatv2.html
-东平综合,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html
-东平民生,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html
-岱岳电视台,video://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
-肥城综合,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
-肥城生活,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
-宁阳综合,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
-宁阳二套,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
 泰山综合,video://https://iapp.tsqrmtzx.cn/share/dHZsLTI2My0x.html
 新泰综合,video://https://iapp.xintairongmei.cn/share/dHZsLTU5LTI.html
 新泰乡村党建,video://https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html
+东平综合,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html
+东平民生,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html
+岱岳电视台,video://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
+肥城综合x,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
+肥城生活,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
+宁阳综合,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
+宁阳二套,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
 
 威海,#genre#
-威海新闻综合,video://http://lv.weihai.tv/show.aspx?icode=13705e35636b2136b590e5a015bb801c
 威海新闻综合,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-威海都市生活,video://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
+威海新闻综合,video://http://lv.weihai.tv/show.aspx?icode=13705e35636b2136b590e5a015bb801c
 威海都市生活,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-威海海洋,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
+威海都市生活,video://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
 威海海洋,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
 环翠综合,video://https://iapp.whhccm.cn/share/dHZsLTIxMy01.html
 荣成综合,video://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEw.html
