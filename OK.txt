@@ -3,6 +3,8 @@ CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumbe
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+
+【学习强国】,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
