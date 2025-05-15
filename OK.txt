@@ -36,6 +36,18 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
 
+【江苏】,#genre#
+江苏卫视,video://https://live.jstv.com?channelId=534
+江苏城市,video://https://live.jstv.com?channelId=535
+江苏综艺,video://https://live.jstv.com?channelId=556
+江苏影视,video://https://live.jstv.com?channelId=542
+江苏新闻,video://https://live.jstv.com?channelId=536
+江苏教育,video://https://live.jstv.com?channelId=545
+江苏体育,video://https://live.jstv.com?channelId=537
+江苏国际,video://https://live.jstv.com?channelId=544
+优漫卡通,video://https://live.jstv.com?channelId=543
+
+南昌,video://https://www.nctv.net.cn/live?channel=1
 
 
 
@@ -49,6 +61,16 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 山东农科,video://https://v.iqilu.com/live/nkpd/
 山东文旅,video://https://v.iqilu.com/live/yspd/
 山东少儿,video://https://v.iqilu.com/live/sepd/
+
+【日照】,#genre#
+日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
+日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
+日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
+岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
+五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
+五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
+莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
+莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
 
 
 【青岛】,#genre#
@@ -134,18 +156,6 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 【海南】,#genre#
 海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home
 
-【江苏】,#genre#
-江苏卫视,video://https://live.jstv.com?channelId=534
-江苏城市,video://https://live.jstv.com?channelId=535
-江苏综艺,video://https://live.jstv.com?channelId=556
-江苏影视,video://https://live.jstv.com?channelId=542
-江苏新闻,video://https://live.jstv.com?channelId=536
-江苏教育,video://https://live.jstv.com?channelId=545
-江苏体育,video://https://live.jstv.com?channelId=537
-江苏国际,video://https://live.jstv.com?channelId=544
-优漫卡通,video://https://live.jstv.com?channelId=543
-
-南昌,video://https://www.nctv.net.cn/live?channel=1
 
 
 【福建】,#genre#
@@ -187,15 +197,7 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 乌察新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
 
-【日照】,#genre#
-岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
-日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
-日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
-莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
-莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
-五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
-五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
+
 
 
 
