@@ -1,7 +1,5 @@
 📺 CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
-山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
-日照综合,http://10.26.0.23:4000/udp/239.253.224.254:8000
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
 CCTV-4 亚洲,http://10.26.0.23:4000/udp/239.253.224.111:8000
@@ -9,6 +7,8 @@ CCTV-4 欧洲,http://10.26.0.23:4000/udp/239.253.224.186:8000
 CCTV-4 美洲,http://10.26.0.23:4000/udp/239.253.224.187:8000
 CCTV-5 体育,http://10.26.0.23:4000/udp/239.253.224.192:8000
 CCTV-5+体育赛事,http://10.26.0.23:4000/udp/239.253.224.80:8000
+CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
+1905电影网,http://A/ku9/js/1905.js?id=1905a
 CCTV-6 电影,http://10.26.0.23:4000/udp/239.253.224.193:8000
 CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
 CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
@@ -22,17 +22,11 @@ CCTV-12 社会与法,http://10.26.0.23:4000/udp/239.253.224.235:8000
 CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
-CCTV-16 奥林匹克,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
-CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
-CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 CCTV-4K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
@@ -40,13 +34,19 @@ CCTV-8K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=
 CCTV风云剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+
 
 
 📺 卫视,#genre#
-凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
-凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
-凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
 山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
 浙江卫视,http://10.26.0.23:4000/udp/239.253.224.84:8000
@@ -193,10 +193,10 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
 【央视网】,#genre#
-CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
-CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
-CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CCTV1,,http://A/ku9/js/ku9js.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV2,,http://A/ku9/js/ku9js.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
+CCTV4,,http://A/ku9/js/ku9js.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV13,,http://A/ku9/js/ku9js.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
 CCTV1,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,http://A/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctv2/
