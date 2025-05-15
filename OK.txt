@@ -1,10 +1,10 @@
-【新闻网】,#genre#
+【CCTV】,#genre#
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
-【学习强国】,#genre#
+【卫视】,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
@@ -160,22 +160,6 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 福建少儿,video://https://live.fjtv.net/sepd/
 
 
-湖南,#genre#
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-湖南电影,video://https://live.mgtv.com/?channelId=221
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-湖南经视,video://https://live.mgtv.com/?channelId=280
-湖南娱乐,video://https://live.mgtv.com/?channelId=344
-湖南都市,video://https://live.mgtv.com/?channelId=346
-湖南国际,video://https://live.mgtv.com/?channelId=229
-金鹰纪实,video://https://live.mgtv.com/?channelId=316
-湖南爱晚,video://https://live.mgtv.com/?channelId=261
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
-快乐垂钓,video://https://live.mgtv.com/?channelId=218
-茶频道,video://https://live.mgtv.com/?channelId=578
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-长沙综合,video://https://live.mgtv.com/?channelId=269
-长沙政法,video://https://live.mgtv.com/?channelId=254
 
 
 【上海】,#genre#
@@ -472,6 +456,23 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 乳山生活,video://https://iapp.rushanrongmei.cn/share/dHZsLTE0My05.html
 文登TV1,video://https://iapp.wendengsf.com/share/dHZsLTkxLTc.html
 文登TV2,video://https://iapp.wendengsf.com/share/dHZsLTkxLTg.html
+
+湖南x,#genre#
+金鹰卡通,video://https://live.mgtv.com/?channelId=287
+湖南电影,video://https://live.mgtv.com/?channelId=221
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+湖南经视,video://https://live.mgtv.com/?channelId=280
+湖南娱乐,video://https://live.mgtv.com/?channelId=344
+湖南都市,video://https://live.mgtv.com/?channelId=346
+湖南国际,video://https://live.mgtv.com/?channelId=229
+金鹰纪实,video://https://live.mgtv.com/?channelId=316
+湖南爱晚,video://https://live.mgtv.com/?channelId=261
+先锋乒羽,video://https://live.mgtv.com/?channelId=329
+快乐垂钓,video://https://live.mgtv.com/?channelId=218
+茶频道,video://https://live.mgtv.com/?channelId=578
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+长沙综合,video://https://live.mgtv.com/?channelId=269
+长沙政法,video://https://live.mgtv.com/?channelId=254
 
 
 
