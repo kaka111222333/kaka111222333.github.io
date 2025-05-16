@@ -51,23 +51,25 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 大爱一台,video://http://m.345iptv.com/?act=play&token=ae9c099dcdc4fbe768981b01c1dbbf18&tid=gt&id=83
 大爱二台,video://http://m.345iptv.com/?act=play&token=cdad72cc1644294
 
-【CCTV】,#genre#
+【CCTV】13,#genre#
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV7,video://https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
+CCTV4K,video://http://www.dsk.cc/p/yspzb.html?id=cctv4k
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
-远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
+党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
 
-
+【北京】,#genre#
 北京卫视官网,video://https://www.btime.com/btv/btvsy_index
 北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
-北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
 北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
+北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
 上海新闻,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
 魔都眼,video://https://www.shanghaieye.cn/Live
 上海教育,video://https://www.setv.sh.cn/#/tvshow
