@@ -342,12 +342,12 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
 凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
 凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
-中天新闻,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
+中天新聞,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 莲花卫视,webview://http://wap.macaulotustv.com/lotustvlive.html
 TVB星河,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
 TVB明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
-Now爆谷,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
+Now爆谷台,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
 TVB新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
 TVB新闻,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
 TVB翡翠,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8
@@ -360,7 +360,7 @@ TVB华丽,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
 澳視澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳視葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
 澳門Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳門体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳門體育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 澳門資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳門綜藝,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 中國電影頻道,https://live.tvfix.org/live/cmc/index.m3u8
