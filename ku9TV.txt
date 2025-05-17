@@ -1168,7 +1168,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 移动电视,http://A/ku9/js/gansu.js?id=ydds
 
 
-📺 青海西藏,#genre#
+📺 青藏,#genre#
 青海卫视,webview://http://www.qhbtv.com/new_index/live/folder2646/
 青海经视,webview://http://www.qhbtv.com/new_index/live/folder2647/
 青海都市,webview://http://www.qhbtv.com/new_index/live/folder2648/
@@ -1179,7 +1179,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 
-📺 内蒙古,#genre#
+📺 内蒙,#genre#
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
@@ -1224,7 +1224,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 延边综合,http://A/ku9/js/ku9js.js?id=https://www.yb983.com/ybtv2/index.html
 
 
-📺 虎牙web,#genre#
+📺 虎牙,#genre#
 大场面战争片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059574
 刘德华,webview://https://www.huya.com/11342424
 周星驰,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342412
@@ -1372,7 +1372,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 黑帮斗争,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342419
 黑帮片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336719
 
-【港台】345,#genre#
+港台345,#genre#
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
@@ -1429,7 +1429,7 @@ HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc
 
 
 
-【日照】,#genre#
+日照,#genre#
 日照新闻综合,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 日照科教,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
 日照公共,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
@@ -1440,7 +1440,7 @@ HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc
 莒县二套,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
 
 
-【青岛】,#genre#
+青岛,#genre#
 胶州综合,webview://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
 胶州生活,webview://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
 崂山电视台,webview://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
@@ -1471,7 +1471,7 @@ HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc
 青岛蓝睛频道,webview://https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
 
 
-【临沂】,#genre#
+临沂,#genre#
 临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
 临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
@@ -1499,13 +1499,7 @@ HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc
 沂南综合,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
 沂南红色影视,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 
-
-
-
-
-
-【济南】,#genre#
-
+济南,#genre#
 长清综合,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
 长清生活,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
 济阳综合,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
