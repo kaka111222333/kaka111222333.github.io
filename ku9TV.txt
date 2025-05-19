@@ -465,12 +465,12 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 
 
 📺 山东,#genre#
-青岛1,video://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
+青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
 青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
 太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
