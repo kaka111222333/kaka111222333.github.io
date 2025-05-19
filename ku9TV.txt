@@ -1,7 +1,4 @@
-卫视,#genre#
-CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
-1905电影网,http://A/ku9/js/1905.js?id=1905a
-
+🌐 CCTV,#genre#
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
@@ -14,6 +11,8 @@ CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4k
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
+CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
+1905电影网,http://A/ku9/js/1905.js?id=1905a
 CCTV-6 电影,webview://https://m.1905.com/m/cctv6/gzh/?app
 CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
 CCTV-7 国防军事,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
@@ -83,8 +82,7 @@ CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-
-卫视,#genre#
+🌐 央视频,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -125,6 +123,7 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
+🌐 卫视 学习,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
@@ -216,6 +215,16 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 📺 江苏,#genre#
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏城市,video://https://live.jstv.com?channelId=535
+江苏综艺,video://https://live.jstv.com?channelId=556
+江苏影视,video://https://live.jstv.com?channelId=542
+江苏新闻,video://https://live.jstv.com?channelId=536
+江苏教育,video://https://live.jstv.com?channelId=545
+江苏体育,video://https://live.jstv.com?channelId=537
+江苏国际,video://https://live.jstv.com?channelId=544
+优漫卡通,video://https://live.jstv.com?channelId=543
+
 江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
 江苏影视,https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
@@ -297,15 +306,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 宿迁,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sqzh
 泗阳,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sqsy
 
-江苏卫视,video://https://live.jstv.com/?channelId=534
-江苏城市,video://https://live.jstv.com?channelId=535
-江苏综艺,video://https://live.jstv.com?channelId=556
-江苏影视,video://https://live.jstv.com?channelId=542
-江苏新闻,video://https://live.jstv.com?channelId=536
-江苏教育,video://https://live.jstv.com?channelId=545
-江苏体育,video://https://live.jstv.com?channelId=537
-江苏国际,video://https://live.jstv.com?channelId=544
-优漫卡通,video://https://live.jstv.com?channelId=543
+
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -319,6 +320,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 📺 北京,#genre#
+北京卫视,video://https://www.btime.com/btv/btvsy_index
+
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
 北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
@@ -329,7 +332,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
 北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
 
-北京卫视,video://https://www.btime.com/btv/btvsy_index
 北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
 北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
 北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
@@ -339,15 +341,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
 
 📺 上海,#genre#
-东方卫视,http://A/ku9/js/dfws.js?id=1
-上海新闻综合,http://A/ku9/js/dfws.js?id=2
-五星体育,http://A/ku9/js/dfws.js?id=10
-魔都眼,http://A/ku9/js/dfws.js?id=11
-新纪实,http://A/ku9/js/dfws.js?id=12
-上海都市,http://A/ku9/js/dfws.js?id=4
-第一财经,http://A/ku9/js/dfws.js?id=5
-哈哈炫动,http://A/ku9/js/dfws.js?id=9
-
 东方卫视,video://https://live.kankanews.com/huikan/
 上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 上海都市,video://https://live.kankanews.com/huikan?id=4
@@ -357,6 +350,16 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 魔都眼video://https://live.kankanews.com/huikan?id=11
 新纪实,video://https://live.kankanews.com/huikan?id=12
 
+东方卫视,http://A/ku9/js/dfws.js?id=1
+上海新闻综合,http://A/ku9/js/dfws.js?id=2
+五星体育,http://A/ku9/js/dfws.js?id=10
+魔都眼,http://A/ku9/js/dfws.js?id=11
+新纪实,http://A/ku9/js/dfws.js?id=12
+上海都市,http://A/ku9/js/dfws.js?id=4
+第一财经,http://A/ku9/js/dfws.js?id=5
+哈哈炫动,http://A/ku9/js/dfws.js?id=9
+
+
 上海新闻综合,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
 魔都眼,video://https://www.shanghaieye.cn/Live
 上海教育,video://https://www.setv.sh.cn/#/tvshow
@@ -364,6 +367,29 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 上海嘉定,video://http://m.jdrmt.cn/live/jdtv/
 
 📺 浙江,#genre#
+杭州综合,video://https://www.hoolo.tv/live/
+杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
+杭州生活,video://https://tv.hoolo.tv/hzsh/
+杭州影视,video://https://tv.hoolo.tv/utv/
+杭州青少体育,video://https://tv.hoolo.tv/hzse/
+杭州导视,video://https://tv.hoolo.tv/ydds/
+
+
+浙江卫视,video://https://www.cztv.com/liveTV/101
+钱江,video://https://www.cztv.com/liveTV/102
+浙江经济生活,video://https://www.cztv.com/liveTV/103
+浙江科教影视,video://https://www.cztv.com/liveTV/104
+浙江民生休闲,video://https://www.cztv.com/liveTV/106
+浙江新闻,video://https://www.cztv.com/liveTV/107
+浙江少儿,video://https://www.cztv.com/liveTV/108
+浙江国际,video://https://www.cztv.com/liveTV/110
+之江纪录,video://https://www.cztv.com/liveTV/112
+
+宁波1,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波2,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+宁波3,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+宁波4,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
 钱江,https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f 
 浙江经济生活,https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def 
@@ -381,34 +407,28 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 杭州导视,http://A/ku9/js/hztv.js?id=hzds
 富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
-杭州综合,video://https://www.hoolo.tv/live/
-杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
-杭州生活,video://https://tv.hoolo.tv/hzsh/
-杭州影视,video://https://tv.hoolo.tv/utv/
-杭州青少体育,video://https://tv.hoolo.tv/hzse/
-杭州导视,video://https://tv.hoolo.tv/ydds/
-
-
-宁波1,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
-宁波2,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
-宁波3,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
-宁波4,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
-
-浙江卫视,video://https://www.cztv.com/liveTV/101
-钱江,video://https://www.cztv.com/liveTV/102
-浙江经济生活,video://https://www.cztv.com/liveTV/103
-浙江科教影视,video://https://www.cztv.com/liveTV/104
-浙江民生休闲,video://https://www.cztv.com/liveTV/106
-浙江新闻,video://https://www.cztv.com/liveTV/107
-浙江少儿,video://https://www.cztv.com/liveTV/108
-浙江国际,video://https://www.cztv.com/liveTV/110
-之江纪录,video://https://www.cztv.com/liveTV/112
 
 
 
 
 
 📺 山东,#genre#
+青岛1,video://http://www.qtv.com.cn/live/tv/index.shtml
+青岛2,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛3,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛4,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛5,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
+青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
+太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
+太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
+青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
+青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
+青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
+
+
+
 济南新闻综合,http://A/ku9/js/jinan.js?id=1676
 济南生活,http://A/ku9/js/jinan.js?id=1855
 济南都市,http://A/ku9/js/jinan.js?id=1807
@@ -425,19 +445,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
 聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 
-青岛1,video://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
 
 山东卫视,video://https://v.iqilu.com/live/sdtv/
 山东卫视,video://https://v.iqilu.com/live/sdtv/
@@ -762,6 +769,23 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 湖南,#genre#
+湖南电影,video://https://live.mgtv.com/?channelId=221
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+湖南经视,video://https://live.mgtv.com/?channelId=280
+湖南娱乐,video://https://live.mgtv.com/?channelId=344
+湖南都市,video://https://live.mgtv.com/?channelId=346
+湖南国际,video://https://live.mgtv.com/?channelId=229
+金鹰纪实,video://https://live.mgtv.com/?channelId=316
+金鹰卡通,video://https://live.mgtv.com/?channelId=287
+湖南爱晚,video://https://live.mgtv.com/?channelId=261
+先锋乒羽,video://https://live.mgtv.com/?channelId=329
+快乐垂钓,video://https://live.mgtv.com/?channelId=218
+茶频道,video://https://live.mgtv.com/?channelId=578
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+长沙综合,video://https://live.mgtv.com/?channelId=269
+长沙政法,video://https://live.mgtv.com/?channelId=254
+
+
 湖南娱乐,http://A/ku9/js/hunan.js?id=hnyl&key=关注公共号❤：AI科技生活
 湖南电影,http://A/ku9/js/hunan.js?id=hndy&key=关注公共号❤：AI科技生活
 湖南都市,http://A/ku9/js/hunan.js?id=hnds&key=关注公共号❤：AI科技生活
@@ -810,21 +834,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 安化综合,http://AAAA/PLTV/ku9/js/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 
 
-湖南电影,video://https://live.mgtv.com/?channelId=221
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-湖南经视,video://https://live.mgtv.com/?channelId=280
-湖南娱乐,video://https://live.mgtv.com/?channelId=344
-湖南都市,video://https://live.mgtv.com/?channelId=346
-湖南国际,video://https://live.mgtv.com/?channelId=229
-金鹰纪实,video://https://live.mgtv.com/?channelId=316
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-湖南爱晚,video://https://live.mgtv.com/?channelId=261
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
-快乐垂钓,video://https://live.mgtv.com/?channelId=218
-茶频道,video://https://live.mgtv.com/?channelId=578
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-长沙综合,video://https://live.mgtv.com/?channelId=269
-长沙政法,video://https://live.mgtv.com/?channelId=254
 
 
 
