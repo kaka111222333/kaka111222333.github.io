@@ -1,46 +1,13 @@
-🌐 CCTV,#genre#
-CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
-CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
-CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
-CCTV-4 亚洲,http://10.26.0.23:4000/udp/239.253.224.111:8000
-CCTV-4 欧洲,http://10.26.0.23:4000/udp/239.253.224.186:8000
-CCTV-4 美洲,http://10.26.0.23:4000/udp/239.253.224.187:8000
-CCTV-5 体育,http://10.26.0.23:4000/udp/239.253.224.192:8000
-CCTV-5+体育赛事,http://10.26.0.23:4000/udp/239.253.224.80:8000
+卫视,#genre#
 CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
 1905电影网,http://A/ku9/js/1905.js?id=1905a
-CCTV-6 电影,http://10.26.0.23:4000/udp/239.253.224.193:8000
-CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
-CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
-CHC影迷电影,http://10.26.0.23:4000/udp/239.253.224.154:8000
-CCTV-7 国防军事,http://10.26.0.23:4000/udp/239.253.224.233:8000
-CCTV-8 电视剧,http://10.26.0.23:4000/udp/239.253.224.194:8000
-CCTV-9 纪录,http://10.26.0.23:4000/udp/239.253.224.79:8000
-CCTV-10 科教,http://10.26.0.23:4000/udp/239.253.224.234:8000
-CCTV-11 戏曲,http://10.26.0.23:4000/udp/239.253.224.169:8000
-CCTV-12 社会与法,http://10.26.0.23:4000/udp/239.253.224.235:8000
-CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
-CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
-CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
-CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 
-CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
-CCTV-4K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
-CCTV-8K 超高清,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
-CCTV风云剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场,http://A/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600099620
-
-CCTV-1 综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
-CCTV-2 财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
-CCTV-4 亚洲,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
 CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
 CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
@@ -58,12 +25,17 @@ CCTV-9 纪录,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-10 科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
 CCTV-11 戏曲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
 CCTV-12 社会与法,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
-CCTV-13 新闻,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV-13 新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
 CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
 CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
 CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
+CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
+CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 
@@ -112,154 +84,7 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
-
-
-🌐 卫视,#genre#
-山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
-江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
-浙江卫视,http://10.26.0.23:4000/udp/239.253.224.84:8000
-安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
-东方卫视,http://10.26.0.23:4000/udp/239.253.224.86:8000
-北京卫视,http://10.26.0.23:4000/udp/239.253.224.85:8000
-北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
-广东卫视,http://10.26.0.23:4000/udp/239.253.224.90:8000
-深圳卫视,http://10.26.0.23:4000/udp/239.253.224.91:8000
-湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
-湖北卫视,http://10.26.0.23:4000/udp/239.253.224.88:8000
-天津卫视,http://10.26.0.23:4000/udp/239.253.224.89:8000
-黑龙江卫视,http://10.26.0.23:4000/udp/239.253.224.93:8000
-辽宁卫视,http://10.26.0.23:4000/udp/239.253.224.92:8000
-吉林卫视,http://10.26.0.23:4000/udp/239.253.224.173:8000
-东南卫视,http://10.26.0.23:4000/udp/239.253.224.105:8000
-河北卫视,http://10.26.0.23:4000/udp/239.253.224.112:8000
-河南卫视,http://10.26.0.23:4000/udp/239.253.224.190:8000
-云南卫视,http://10.26.0.23:4000/udp/239.253.224.196:8000
-贵州卫视,http://10.26.0.23:4000/udp/239.253.224.113:8000
-青海卫视,http://10.26.0.23:4000/udp/239.253.224.195:8000
-重庆卫视,http://10.26.0.23:4000/udp/239.253.224.38:8000
-江西卫视,http://10.26.0.23:4000/udp/239.253.224.47:8000
-广西卫视,http://10.26.0.23:4000/udp/239.253.224.197:8000
-海南卫视,http://10.26.0.23:4000/udp/239.253.224.179:8000
-四川卫视,http://10.26.0.23:4000/udp/239.253.224.180:8000
-甘肃卫视,http://10.26.0.23:4000/udp/239.253.224.74:8000
-中国交通,http://10.26.0.23:4000/udp/239.253.224.177:8000
-山西卫视,http://10.26.0.23:4000/udp/239.253.224.48:8000
-陕西卫视,http://10.26.0.23:4000/udp/239.253.224.49:8000
-四川卫视,http://10.26.0.23:4000/udp/239.253.224.50:8000
-贵州卫视,http://10.26.0.23:4000/udp/239.253.224.51:8000
-甘肃卫视,http://10.26.0.23:4000/udp/239.253.224.52:8000
-宁夏卫视,http://10.26.0.23:4000/udp/239.253.224.53:8000
-青海卫视,http://10.26.0.23:4000/udp/239.253.224.54:8000
-三沙卫视,http://10.26.0.23:4000/udp/239.253.224.171:8000
-延边卫视,http://10.26.0.23:4000/udp/239.253.224.121:8000
-内蒙古卫视,http://10.26.0.23:4000/udp/239.253.224.58:8000
-西藏卫视,http://10.26.0.23:4000/udp/239.253.224.56:8000
-新疆卫视,http://10.26.0.23:4000/udp/239.253.224.60:8000
-兵团卫视,http://10.26.0.23:4000/udp/239.253.224.57:8000
-农林卫视,http://10.26.0.23:4000/udp/239.253.224.70:8000
-CETV1,http://10.26.0.23:4000/udp/239.253.224.110:8000
-CETV2,http://10.26.0.23:4000/udp/239.253.224.107:8000
-CETV4,http://10.26.0.23:4000/udp/239.253.224.116:8000
-CETV4,http://10.26.0.23:4000/udp/239.253.224.108:8000
-CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
-广东大湾区,http://10.26.0.23:4000/udp/239.253.224.69:8000
-金鹰卡通,http://10.26.0.23:4000/udp/239.253.224.117:8000
-北京少儿,http://10.26.0.23:4000/udp/239.253.224.66:8000
-哈哈炫动,http://10.26.0.23:4000/udp/239.253.224.63:8000
-优漫卡通,http://10.26.0.23:4000/udp/239.253.224.64:8000
-嘉佳卡通,http://10.26.0.23:4000/udp/239.253.224.65:8000
-日照综合,http://10.26.0.23:4000/udp/239.253.224.254:8000
-日照科教,http://10.26.0.23:4000/udp/239.253.224.253:8000
-日照公共,http://10.26.0.23:4000/udp/239.253.224.250:8000
-岚山电视台,http://10.26.0.23:4000/udp/239.253.224.252:8000
-莒县电视台,http://10.26.0.23:4000/udp/239.253.224.251:8000
-山东少儿,http://10.26.0.23:4000/udp/239.253.224.25:8000
-山东体育,http://10.26.0.23:4000/udp/239.253.224.22:8000
-山东齐鲁,http://10.26.0.23:4000/udp/239.253.224.114:8000
-山东生活,http://10.26.0.23:4000/udp/239.253.224.151:8000
-山东综艺,http://10.26.0.23:4000/udp/239.253.224.159:8000
-山东文旅,http://10.26.0.23:4000/udp/239.253.224.160:8000
-山东新闻,http://10.26.0.23:4000/udp/239.253.224.23:8000
-山东农科,http://10.26.0.23:4000/udp/239.253.224.24:8000
-山东教育,http://10.26.0.23:4000/udp/239.253.224.59:8000
-海洋频道,http://10.26.0.23:4000/udp/239.253.224.67:8000
-梨园频道,http://10.26.0.23:4000/udp/239.253.224.139:8000
-武术世界,http://10.26.0.23:4000/udp/239.253.224.140:8000
-文物宝库,http://10.26.0.23:4000/udp/239.253.224.141:8000
-乐游,http://10.26.0.23:4000/udp/239.253.224.97:8000
-生活时尚,http://10.26.0.23:4000/udp/239.253.224.99:8000
-精彩影视,http://10.26.0.23:4000/udp/239.253.224.142:8000
-都市剧场,http://10.26.0.23:4000/udp/239.253.224.98:8000
-都市剧场,http://10.26.0.23:4000/udp/239.253.224.178:8000
-法治天地,http://10.26.0.23:4000/udp/239.253.224.96:8000
-动漫秀场,http://10.26.0.23:4000/udp/239.253.224.115:8000
-金色学堂,http://10.26.0.23:4000/udp/239.253.224.101:8000
-东方财经,http://10.26.0.23:4000/udp/239.253.224.94:8000
-家庭理财,http://10.26.0.23:4000/udp/239.253.224.148:8000
-财富天下,http://10.26.0.23:4000/udp/239.253.224.230:8000
-魅力足球,http://10.26.0.23:4000/udp/239.253.224.100:8000
-先锋乒羽,http://10.26.0.23:4000/udp/239.253.224.155:8000
-茶频道,http://10.26.0.23:4000/udp/239.253.224.143:8000
-快乐垂钓,http://10.26.0.23:4000/udp/239.253.224.144:8000
-发现之旅,http://10.26.0.23:4000/udp/239.253.224.162:8000
-中学生,http://10.26.0.23:4000/udp/239.253.224.163:8000
-老故事,http://10.26.0.23:4000/udp/239.253.224.164:8000
-新动漫,http://10.26.0.23:4000/udp/239.253.224.149:8000
-新动漫,http://10.26.0.23:4000/udp/239.253.224.157:8000
-游戏风云,http://10.26.0.23:4000/udp/239.253.224.95:8000
-四海钓鱼,http://10.26.0.23:4000/udp/239.253.224.118:8000
-先锋乒羽,http://10.26.0.23:4000/udp/239.253.224.145:8000
-书画频道,http://10.26.0.23:4000/udp/239.253.224.146:8000
-财富天下,http://10.26.0.23:4000/udp/239.253.224.147:8000
-环球旅游,http://10.26.0.23:4000/udp/239.253.224.71:8000
-优优宝贝,http://10.26.0.23:4000/udp/239.253.224.72:8000
-车迷频道,http://10.26.0.23:4000/udp/239.253.224.73:8000
-中华特产,http://10.26.0.23:4000/udp/239.253.224.76:8000
-汽摩频道,http://10.26.0.23:4000/udp/239.253.224.161:8000
-山东经济广播,http://10.26.0.23:4000/udp/239.253.224.166:8000
-生态环境,http://10.26.0.23:4000/udp/239.253.224.75:8000
-精选电影,http://10.26.0.23:4000/udp/239.253.224.210:8000
-爱电影,http://10.26.0.23:4000/udp/239.253.224.128:8000
-经典电影,http://10.26.0.23:4000/udp/239.253.224.126:8000
-红色影院,http://10.26.0.23:4000/udp/239.253.224.209:8000
-星影,http://10.26.0.23:4000/udp/239.253.224.216:8000
-喜剧影院,http://10.26.0.23:4000/udp/239.253.224.220:8000
-动作影院,http://10.26.0.23:4000/udp/239.253.224.221:8000
-家庭电影,http://10.26.0.23:4000/udp/239.253.224.218:8000
-光影,http://10.26.0.23:4000/udp/239.253.224.223:8000
-野外,http://10.26.0.23:4000/udp/239.253.224.137:8000
-音乐现场,http://10.26.0.23:4000/udp/239.253.224.202:8000
-爱综艺,http://10.26.0.23:4000/udp/239.253.224.129:8000
-少儿动画,http://10.26.0.23:4000/udp/239.253.224.127:8000
-动画,http://10.26.0.23:4000/udp/239.253.224.229:8000
-早教,http://10.26.0.23:4000/udp/239.253.224.217:8000
-好学生,http://10.26.0.23:4000/udp/239.253.224.219:8000
-经典剧场,http://10.26.0.23:4000/udp/239.253.224.211:8000
-武侠剧场,http://10.26.0.23:4000/udp/239.253.224.212:8000
-相声小品,http://10.26.0.23:4000/udp/239.253.224.136:8000
-法制,http://10.26.0.23:4000/udp/239.253.224.138:8000
-爱体育,http://10.26.0.23:4000/udp/239.253.224.109:8000
-爱体育,http://10.26.0.23:4000/udp/239.253.224.131:8000
-爱大剧,http://10.26.0.23:4000/udp/239.253.224.132:8000
-谍战剧场,http://10.26.0.23:4000/udp/239.253.224.135:8000
-军旅剧场,http://10.26.0.23:4000/udp/239.253.224.203:8000
-古装剧场,http://10.26.0.23:4000/udp/239.253.224.205:8000
-收视指南,http://10.26.0.23:4000/udp/239.253.224.124:8000
-热播剧场,http://10.26.0.23:4000/udp/239.253.224.125:8000
-城市剧场,http://10.26.0.23:4000/udp/239.253.224.201:8000
-足球,http://10.26.0.23:4000/udp/239.253.224.204:8000
-军事,http://10.26.0.23:4000/udp/239.253.224.207:8000
-地理,http://10.26.0.23:4000/udp/239.253.224.208:8000
-美人,http://10.26.0.23:4000/udp/239.253.224.213:8000
-鉴赏,http://10.26.0.23:4000/udp/239.253.224.214:8000
-国学,http://10.26.0.23:4000/udp/239.253.224.215:8000
-墨宝,http://10.26.0.23:4000/udp/239.253.224.222:8000
-戏曲,http://10.26.0.23:4000/udp/239.253.224.224:8000
-爱生活,http://10.26.0.23:4000/udp/239.253.224.225:8000
-解密,http://10.26.0.23:4000/udp/239.253.224.226:8000
-武术,http://10.26.0.23:4000/udp/239.253.224.227:8000
-美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
-
+卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -300,36 +125,36 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
-山东卫视,webview://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
-北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
-东方卫视,webview://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
-天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
-河北卫视,webview://https://www.xuexi.cn/xxqg.html?id=39f6908c16d74aeab67c78eeb37e17dd
-山西卫视,webview://https://www.xuexi.cn/xxqg.html?id=39c3c7226f754f3e9cbebd8b5f0996ee
-辽宁卫视,webview://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
-内蒙古卫视,webview://https://www.xuexi.cn/xxqg.html?id=74dd173b302c4aa9abf142e4034e0c87
-吉林卫视,webview://https://www.xuexi.cn/xxqg.html?id=0bb934949fe549e9be4ea3ff519eaec4
-黑龙江卫视,webview://https://www.xuexi.cn/xxqg.html?id=c77741c71cbb4f61bc9876826e267b51
-江苏卫视,webview://https://www.xuexi.cn/xxqg.html?id=f485de429c064333b7cce20c6bbbc905
-浙江卫视,webview://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a
-安徽卫视,webview://https://www.xuexi.cn/xxqg.html?id=633fd677b4ce40ad85b127db4307921a
-东南卫视,webview://https://www.xuexi.cn/xxqg.html?id=74cd6a0403ff4ce7829f04d4cdf4c0a5
-江西卫视,webview://https://www.xuexi.cn/xxqg.html?id=0621912339cf40109a945afafc3069e2
-河南卫视,webview://https://www.xuexi.cn/xxqg.html?id=47ebcda850e74c83897dd90ca72db658
-湖北卫视,webview://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
-广东卫视,webview://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
-广西卫视,webview://https://www.xuexi.cn/xxqg.html?id=d45e1b2dbae6465a9b2e7a14f7749119
-海南卫视,webview://https://www.xuexi.cn/xxqg.html?id=54e5f81a605e428188bf7ff21c0df64c
-四川卫视,webview://https://www.xuexi.cn/xxqg.html?id=90edcdb6a18446d594228039a519b779
-贵州卫视,webview://https://www.xuexi.cn/xxqg.html?id=d6fc64f8f5e34444ba703bb79fda5da8
-云南卫视,webview://https://www.xuexi.cn/xxqg.html?id=f79e9c261fda4c3ba35d075a51814bbd
-西藏卫视,webview://https://www.xuexi.cn/xxqg.html?id=c52bd0a9ac294559841fa39d28d2c195
-陕西卫视,webview://https://www.xuexi.cn/xxqg.html?id=63fbcee70e0140c991541b5412c9552d
-甘肃卫视,webview://https://www.xuexi.cn/xxqg.html?id=dc13ed51077a4200a8a41e5e02457fdb
-青海卫视,webview://https://www.xuexi.cn/xxqg.html?id=49718a9c8d364f6b8c6e666739e90780
-宁夏卫视,webview://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
-新疆卫视,webview://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
-兵团卫视,webview://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
+山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
+北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
+东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
+天津卫视,video://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
+河北卫视,video://https://www.xuexi.cn/xxqg.html?id=39f6908c16d74aeab67c78eeb37e17dd
+山西卫视,video://https://www.xuexi.cn/xxqg.html?id=39c3c7226f754f3e9cbebd8b5f0996ee
+辽宁卫视,video://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
+内蒙古卫视,video://https://www.xuexi.cn/xxqg.html?id=74dd173b302c4aa9abf142e4034e0c87
+吉林卫视,video://https://www.xuexi.cn/xxqg.html?id=0bb934949fe549e9be4ea3ff519eaec4
+黑龙江卫视,video://https://www.xuexi.cn/xxqg.html?id=c77741c71cbb4f61bc9876826e267b51
+江苏卫视,video://https://www.xuexi.cn/xxqg.html?id=f485de429c064333b7cce20c6bbbc905
+浙江卫视,video://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a
+安徽卫视,video://https://www.xuexi.cn/xxqg.html?id=633fd677b4ce40ad85b127db4307921a
+东南卫视,video://https://www.xuexi.cn/xxqg.html?id=74cd6a0403ff4ce7829f04d4cdf4c0a5
+江西卫视,video://https://www.xuexi.cn/xxqg.html?id=0621912339cf40109a945afafc3069e2
+河南卫视,video://https://www.xuexi.cn/xxqg.html?id=47ebcda850e74c83897dd90ca72db658
+湖北卫视,video://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
+广东卫视,video://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
+广西卫视,video://https://www.xuexi.cn/xxqg.html?id=d45e1b2dbae6465a9b2e7a14f7749119
+海南卫视,video://https://www.xuexi.cn/xxqg.html?id=54e5f81a605e428188bf7ff21c0df64c
+四川卫视,video://https://www.xuexi.cn/xxqg.html?id=90edcdb6a18446d594228039a519b779
+贵州卫视,video://https://www.xuexi.cn/xxqg.html?id=d6fc64f8f5e34444ba703bb79fda5da8
+云南卫视,video://https://www.xuexi.cn/xxqg.html?id=f79e9c261fda4c3ba35d075a51814bbd
+西藏卫视,video://https://www.xuexi.cn/xxqg.html?id=c52bd0a9ac294559841fa39d28d2c195
+陕西卫视,video://https://www.xuexi.cn/xxqg.html?id=63fbcee70e0140c991541b5412c9552d
+甘肃卫视,video://https://www.xuexi.cn/xxqg.html?id=dc13ed51077a4200a8a41e5e02457fdb
+青海卫视,video://https://www.xuexi.cn/xxqg.html?id=49718a9c8d364f6b8c6e666739e90780
+宁夏卫视,video://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
+新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
+兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
 
 
 
@@ -344,7 +169,7 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
 中天新聞,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-莲花卫视,webview://http://wap.macaulotustv.com/lotustvlive.html
+莲花卫视,video://http://wap.macaulotustv.com/lotustvlive.html
 TVB星河,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
 TVB明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
 Now爆谷台,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
@@ -472,25 +297,25 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 宿迁,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sqzh
 泗阳,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sqsy
 
-江苏卫视,webview://https://live.jstv.com/?channelId=534
-江苏城市,webview://https://live.jstv.com?channelId=535
-江苏综艺,webview://https://live.jstv.com?channelId=556
-江苏影视,webview://https://live.jstv.com?channelId=542
-江苏新闻,webview://https://live.jstv.com?channelId=536
-江苏教育,webview://https://live.jstv.com?channelId=545
-江苏体育,webview://https://live.jstv.com?channelId=537
-江苏国际,webview://https://live.jstv.com?channelId=544
-优漫卡通,webview://https://live.jstv.com?channelId=543
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏城市,video://https://live.jstv.com?channelId=535
+江苏综艺,video://https://live.jstv.com?channelId=556
+江苏影视,video://https://live.jstv.com?channelId=542
+江苏新闻,video://https://live.jstv.com?channelId=536
+江苏教育,video://https://live.jstv.com?channelId=545
+江苏体育,video://https://live.jstv.com?channelId=537
+江苏国际,video://https://live.jstv.com?channelId=544
+优漫卡通,video://https://live.jstv.com?channelId=543
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-南京新闻综合,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109152
-南京生活,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110094
-南京教科,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=109153
-南京文旅纪录,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110093
-南京少儿,http://A/ku9/js/ku9js.js?id=https://www.nbs.cn/live/?id=110095
+南京新闻综合,video://https://www.nbs.cn/live/?id=109152
+南京生活,video://https://www.nbs.cn/live/?id=110094
+南京教科,video://https://www.nbs.cn/live/?id=109153
+南京文旅纪录,video://https://www.nbs.cn/live/?id=110093
+南京少儿,video://https://www.nbs.cn/live/?id=110095
 
 
 📺 北京,#genre#
@@ -504,14 +329,14 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
 北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
 
-北京卫视,webview://https://www.btime.com/btv/btvsy_index
-北京顺义,webview://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
-北京延庆,webview://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
-北京昌平,webview://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
+北京卫视,video://https://www.btime.com/btv/btvsy_index
+北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
+北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
+北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
 
-天津滨海1,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2&type=1
-天津滨海2,webview://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
-天津宝坻,webview://https://juxian.juyun.tv/live.php?id=143100
+天津滨海1,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2&type=1
+天津滨海2,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
+天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
 
 📺 上海,#genre#
 东方卫视,http://A/ku9/js/dfws.js?id=1
@@ -523,20 +348,20 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 第一财经,http://A/ku9/js/dfws.js?id=5
 哈哈炫动,http://A/ku9/js/dfws.js?id=9
 
-东方卫视,webview://https://live.kankanews.com/huikan/
-上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
-上海都市,webview://https://live.kankanews.com/huikan?id=4
-第一财经,webview://https://live.kankanews.com/huikan?id=5
-哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-五星体育,webview://https://live.kankanews.com/huikan?id=10
-魔都眼webview://https://live.kankanews.com/huikan?id=11
-新纪实,webview://https://live.kankanews.com/huikan?id=12
+东方卫视,video://https://live.kankanews.com/huikan/
+上海新闻综合,video://https://live.kankanews.com/huikan?id=2
+上海都市,video://https://live.kankanews.com/huikan?id=4
+第一财经,video://https://live.kankanews.com/huikan?id=5
+哈哈炫动,video://https://live.kankanews.com/huikan?id=9
+五星体育,video://https://live.kankanews.com/huikan?id=10
+魔都眼video://https://live.kankanews.com/huikan?id=11
+新纪实,video://https://live.kankanews.com/huikan?id=12
 
-上海新闻综合,webview://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
-魔都眼,webview://https://www.shanghaieye.cn/Live
-上海教育,webview://https://www.setv.sh.cn/#/tvshow
-上海金山,webview://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
-上海嘉定,webview://http://m.jdrmt.cn/live/jdtv/
+上海新闻综合,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
+魔都眼,video://https://www.shanghaieye.cn/Live
+上海教育,video://https://www.setv.sh.cn/#/tvshow
+上海金山,video://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
+上海嘉定,video://http://m.jdrmt.cn/live/jdtv/
 
 📺 浙江,#genre#
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
@@ -556,29 +381,28 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 杭州导视,http://A/ku9/js/hztv.js?id=hzds
 富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
-杭州综合,webview://https://www.hoolo.tv/live/
-杭州西湖明珠,webview://https://tv.hoolo.tv/xhmz/
-杭州生活,webview://https://tv.hoolo.tv/hzsh/
-杭州影视,webview://https://tv.hoolo.tv/utv/
-杭州青少体育,webview://https://tv.hoolo.tv/hzse/
-杭州导视,webview://https://tv.hoolo.tv/ydds/
+杭州综合,video://https://www.hoolo.tv/live/
+杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
+杭州生活,video://https://tv.hoolo.tv/hzsh/
+杭州影视,video://https://tv.hoolo.tv/utv/
+杭州青少体育,video://https://tv.hoolo.tv/hzse/
+杭州导视,video://https://tv.hoolo.tv/ydds/
 
 
-宁波1,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
-宁波2,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
-宁波3,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
-宁波4,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
-宁波1,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波1,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
+宁波2,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
+宁波3,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
+宁波4,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 
-浙江卫视,webview://https://www.cztv.com/liveTV/101
-钱江,webview://https://www.cztv.com/liveTV/102
-浙江经济生活,webview://https://www.cztv.com/liveTV/103
-浙江科教影视,webview://https://www.cztv.com/liveTV/104
-浙江民生休闲,webview://https://www.cztv.com/liveTV/106
-浙江新闻,webview://https://www.cztv.com/liveTV/107
-浙江少儿,webview://https://www.cztv.com/liveTV/108
-浙江国际,webview://https://www.cztv.com/liveTV/110
-之江纪录,webview://https://www.cztv.com/liveTV/112
+浙江卫视,video://https://www.cztv.com/liveTV/101
+钱江,video://https://www.cztv.com/liveTV/102
+浙江经济生活,video://https://www.cztv.com/liveTV/103
+浙江科教影视,video://https://www.cztv.com/liveTV/104
+浙江民生休闲,video://https://www.cztv.com/liveTV/106
+浙江新闻,video://https://www.cztv.com/liveTV/107
+浙江少儿,video://https://www.cztv.com/liveTV/108
+浙江国际,video://https://www.cztv.com/liveTV/110
+之江纪录,video://https://www.cztv.com/liveTV/112
 
 
 
@@ -601,55 +425,55 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
 聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 
-青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-青岛五四广场,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-青岛奥帆中心,http://A/ku9/js/ku9js.js?id=http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-太平湾,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-青岛快速路,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-青岛胶宁高架1,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-青岛胶宁高架2,http://A/ku9/js/ku9js.js?id=https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
+青岛1,video://http://www.qtv.com.cn/live/tv/index.shtml
+青岛2,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛3,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛4,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛5,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
+青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
+太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
+太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
+青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
+青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
+青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
 
-山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
-山东卫视,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sdtv/
-山东齐鲁,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/qlpd/
-山东体育,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/typd/
-山东生活,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/shpd/
-山东综艺,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/zypd/
-山东新闻,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/ggpd/
-山东农科,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/nkpd/
-山东文旅,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/yspd/
-山东少儿,http://A/ku9/js/ku9js.js?id=https://v.iqilu.com/live/sepd/
-山东卫视,webview://https://v.iqilu.com/live/sdtv/
-山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
-山东体育,webview://https://v.iqilu.com/live/typd/
-山东生活,webview://https://v.iqilu.com/live/shpd/
-山东综艺,webview://https://v.iqilu.com/live/zypd/
-山东新闻,webview://https://v.iqilu.com/live/ggpd/
-山东农科,webview://https://v.iqilu.com/live/nkpd/
-山东文旅,webview://https://v.iqilu.com/live/yspd/
-山东少儿,webview://https://v.iqilu.com/live/sepd/
+山东卫视,video://https://v.iqilu.com/live/sdtv/
+山东卫视,video://https://v.iqilu.com/live/sdtv/
+山东齐鲁,video://https://v.iqilu.com/live/qlpd/
+山东体育,video://https://v.iqilu.com/live/typd/
+山东生活,video://https://v.iqilu.com/live/shpd/
+山东综艺,video://https://v.iqilu.com/live/zypd/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东农科,video://https://v.iqilu.com/live/nkpd/
+山东文旅,video://https://v.iqilu.com/live/yspd/
+山东少儿,video://https://v.iqilu.com/live/sepd/
+山东卫视,video://https://v.iqilu.com/live/sdtv/
+山东齐鲁,video://https://v.iqilu.com/live/qlpd/
+山东体育,video://https://v.iqilu.com/live/typd/
+山东生活,video://https://v.iqilu.com/live/shpd/
+山东综艺,video://https://v.iqilu.com/live/zypd/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东农科,video://https://v.iqilu.com/live/nkpd/
+山东文旅,video://https://v.iqilu.com/live/yspd/
+山东少儿,video://https://v.iqilu.com/live/sepd/
 
-日照综合,webview://https://www.rzw.com.cn/folder247/folder2217/
-临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
-临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
-威海新闻综合,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,http://A/ku9/js/ku9js.js?id=http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-泰安综合,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv1.html
-泰安经济生活,http://A/ku9/js/ku9js.js?id=http://www.1545ts.com/zhibo/taian/zhibotatv2.html
-枣庄公共,http://A/ku9/js/ku9js.js?id=https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
-聊城综合,webview://https://www.lcxw.cn/kands/?tag=0
-潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+日照综合,video://https://www.rzw.com.cn/folder247/folder2217/
+临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
+临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
+威海新闻综合,video://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
+威海都市生活,video://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
+威海海洋,video://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
+泰安综合,video://http://www.1545ts.com/zhibo/taian/zhibotatv1.html
+泰安经济生活,video://http://www.1545ts.com/zhibo/taian/zhibotatv2.html
+枣庄公共,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
+聊城综合,video://https://www.lcxw.cn/kands/?tag=0
+潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 
 📺 四川,#genre#
 成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
@@ -708,16 +532,16 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 📺 广西,#genre#
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-广西移动,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+广西国际,video://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+广西都市,video://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+广西影视,video://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
+广西新闻,video://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
+广西综艺旅游,video://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
+广西移动,video://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
+CETV1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV3,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
 📺 陕西,#genre#
@@ -861,15 +685,15 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 福建,#genre#
-福建新闻,webview://https://live.fjtv.net/xwpd/
-福建公共,webview://https://live.fjtv.net/ggpd/
-福建旅游,webview://https://live.fjtv.net/dspd/
-海峡卫视,webview://https://live.fjtv.net/hxtv/
-东南卫视,webview://https://live.fjtv.net/setv/
-福建电视剧,webview://https://live.fjtv.net/dsjpd/
-福建经视,webview://https://live.fjtv.net/jspd/
-福建文体,webview://https://live.fjtv.net/typd/
-福建少儿,webview://https://live.fjtv.net/sepd/
+福建新闻,video://https://live.fjtv.net/xwpd/
+福建公共,video://https://live.fjtv.net/ggpd/
+福建旅游,video://https://live.fjtv.net/dspd/
+海峡卫视,video://https://live.fjtv.net/hxtv/
+东南卫视,video://https://live.fjtv.net/setv/
+福建电视剧,video://https://live.fjtv.net/dsjpd/
+福建经视,video://https://live.fjtv.net/jspd/
+福建文体,video://https://live.fjtv.net/typd/
+福建少儿,video://https://live.fjtv.net/sepd/
 
 
 
@@ -986,21 +810,21 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 安化综合,http://AAAA/PLTV/ku9/js/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 
 
-湖南电影,webview://https://live.mgtv.com/?channelId=221
-湖南电视剧,webview://https://live.mgtv.com/?channelId=484
-湖南经视,webview://https://live.mgtv.com/?channelId=280
-湖南娱乐,webview://https://live.mgtv.com/?channelId=344
-湖南都市,webview://https://live.mgtv.com/?channelId=346
-湖南国际,webview://https://live.mgtv.com/?channelId=229
-金鹰纪实,webview://https://live.mgtv.com/?channelId=316
-金鹰卡通,webview://https://live.mgtv.com/?channelId=287
-湖南爱晚,webview://https://live.mgtv.com/?channelId=261
-先锋乒羽,webview://https://live.mgtv.com/?channelId=329
-快乐垂钓,webview://https://live.mgtv.com/?channelId=218
-茶频道,webview://https://live.mgtv.com/?channelId=578
-湖南电视剧,webview://https://live.mgtv.com/?channelId=484
-长沙综合,webview://https://live.mgtv.com/?channelId=269
-长沙政法,webview://https://live.mgtv.com/?channelId=254
+湖南电影,video://https://live.mgtv.com/?channelId=221
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+湖南经视,video://https://live.mgtv.com/?channelId=280
+湖南娱乐,video://https://live.mgtv.com/?channelId=344
+湖南都市,video://https://live.mgtv.com/?channelId=346
+湖南国际,video://https://live.mgtv.com/?channelId=229
+金鹰纪实,video://https://live.mgtv.com/?channelId=316
+金鹰卡通,video://https://live.mgtv.com/?channelId=287
+湖南爱晚,video://https://live.mgtv.com/?channelId=261
+先锋乒羽,video://https://live.mgtv.com/?channelId=329
+快乐垂钓,video://https://live.mgtv.com/?channelId=218
+茶频道,video://https://live.mgtv.com/?channelId=578
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+长沙综合,video://https://live.mgtv.com/?channelId=269
+长沙政法,video://https://live.mgtv.com/?channelId=254
 
 
 
@@ -1071,76 +895,77 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 广州法治,http://A/ku9/js/gz.js?id=fz
 广州影视,http://A/ku9/js/gz.js?id=ys
 
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
-深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
-深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
+深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
+深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
+深圳财经,video://https://www.sztv.com.cn/pindao/index.html?id=7871
+深圳少儿,video://https://www.sztv.com.cn/pindao/index.html?id=7881
+深圳移动,video://https://www.sztv.com.cn/pindao/index.html?id=7869
+深圳国际,video://https://www.sztv.com.cn/pindao/index.html?id=7944
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=4528666d03404f24e44c1cc45d6d98f5&txTime=1955a3c2631
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=43247f9f631aa76741fcc3f24d327e28&txTime=1955a3c2632
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
 广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
-东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
-东莞生活,webview://https://dgrtv.sun0769.com/index.php/online2/5
+东莞新闻综合,video://https://dgrtv.sun0769.com/index.php/online2/4
+东莞生活,video://https://dgrtv.sun0769.com/index.php/online2/5
 
 
 📺 海南,#genre#
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
-海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
-海南卫视,webview://http://tc.hnntv.cn//index.shtml
-三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
-海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
-海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
-海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
-海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
-海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+海南卫视,video://http://tc.hnntv.cn//index.shtml
+三沙卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
+海南自贸,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+海南新闻,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
+海南公共,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
+海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
+海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 
 📺 湖北,#genre#
-湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
-湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
-湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
-湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
-湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
-湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
-湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
+湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
+湖北经视,video://https://news.hbtv.com.cn/app/tv/432
+湖北综合,video://https://news.hbtv.com.cn/app/tv/433
+湖北影视,video://https://news.hbtv.com.cn/app/tv/435
+湖北生活,video://https://news.hbtv.com.cn/app/tv/436
+湖北垄上,video://https://news.hbtv.com.cn/app/tv/438
+湖北教育,video://https://news.hbtv.com.cn/app/tv/437
 
 
 📺 新疆,#genre#
+新疆1套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
+新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
+新疆4套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
+新疆5套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=17
+新疆7套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=18
+新疆8套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=19
+新疆9套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=20
+新疆10套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
+新疆11套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=22
+新疆12套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+
 新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
 新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
 新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
 新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
 新疆信息服务,http://A/ku9/js/xjtv.js?id=xjxxfw
 新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
-新疆1套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-新疆2套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
-新疆3套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
-新疆4套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=16
-新疆5套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=17
-新疆7套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=18
-新疆8套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=19
-新疆9套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=20
-新疆10套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
-新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
-新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8 
 五师双河影视,http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8 
 六师五家渠新闻综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8 
 七师胡杨河新闻综合,https://liveout.btzx.com.cn:443/ybtkau/078syl.m3u8 
-八师石河子新闻综合,webview://http://www.shznews.com/TV.html 
+八师石河子新闻综合,video://http://www.shznews.com/TV.html 
 
 
-乌鲁木齐新闻综合,http://A/ku9/js/ku9js.js?id=https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
+乌鲁木齐新闻综合,video://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
 克拉玛依,http://www.rcsxzx.com/hot/laoge.htm 
-克拉玛依影视剧场,http://A/ku9/js/ku9js.js?id=http://A/ku9/js/ku9js.js?id=http://www.rcsxzx.com/hot/laoge.htm 
-哈密,http://A/ku9/js/ku9js.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
-博州,http://A/ku9/js/ku9js.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=10134&id=24&page=canvas&live_type=1
-巴音郭楞州,http://A/ku9/js/ku9js.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
-塔城,http://A/ku9/js/ku9js.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
+克拉玛依影视剧场,video://video://http://www.rcsxzx.com/hot/laoge.htm 
+哈密,video://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
+博州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10134&id=24&page=canvas&live_type=1
+巴音郭楞州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
+塔城,video://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
 
 
 📺 宁夏,#genre#
@@ -1151,16 +976,16 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 银川文体,http://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=2047003433-3f38915f559b468f903fcab5053e8bb2-0-d536d0b56aa3e92f7a640c5ab738aaf7
 石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8 
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8 
-宁夏卫视,,http://A/ku9/js/ku9js.js?id=https://www.nxtv.com.cn/live/wsh/
+宁夏卫视,,video://https://www.nxtv.com.cn/live/wsh/
 
-西藏卫视,http://A/ku9/js/ku9js.js?id=http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
+西藏卫视,video://http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 
 
 📺 甘肃,#genre#
 兰州新闻综合,http://A/ku9/js/lanzhou.js?id=xwzh
 兰州文旅频道,http://A/ku9/js/lanzhou.js?id=wlpd
 甘肃卫视,http://A/ku9/js/gansu.js?id=gsws
-甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
+甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
 文化影视,http://A/ku9/js/gansu.js?id=whys
 公共应急,http://A/ku9/js/gansu.js?id=ggyj
 少儿频道,http://A/ku9/js/gansu.js?id=sepd
@@ -1169,9 +994,9 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 青藏,#genre#
-青海卫视,webview://http://www.qhbtv.com/new_index/live/folder2646/
-青海经视,webview://http://www.qhbtv.com/new_index/live/folder2647/
-青海都市,webview://http://www.qhbtv.com/new_index/live/folder2648/
+青海卫视,video://http://www.qhbtv.com/new_index/live/folder2646/
+青海经视,video://http://www.qhbtv.com/new_index/live/folder2647/
+青海都市,video://http://www.qhbtv.com/new_index/live/folder2648/
 
 拉萨1新闻综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
 拉萨2藏语综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
@@ -1180,7 +1005,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 内蒙,#genre#
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
+内蒙古卫视,video://https://www.nmtv.cn/liveTv
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
@@ -1206,29 +1031,29 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 东北,#genre#
-吉林卫视,webview://https://www.jlntv.cn/tv
-长春综合,http://A/ku9/js/ku9js.js?id=https://chinactv.com/live/1442880654565093377.html
-长春文旅体育,http://A/ku9/js/ku9js.js?id=https://chinactv.com/live/1442880767035355137.html
-长春市民生活,http://A/ku9/js/ku9js.js?id=https://chinactv.com/live/1442880854423678977.html
-黑龙江卫视,http://A/ku9/js/ku9js.js?id=https://www.hljtv.com/live/folder418/
-黑龙江文体,http://A/ku9/js/ku9js.js?id=https://www.hljtv.com/live/folder423/
-黑龙江影视,webview://https://www.hljtv.com/live/folder425/
-黑龙江新闻法治,webview://https://www.hljtv.com/live/folder424/
-黑龙江都市,webview://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,webview://https://www.hljtv.com/live/folder420/
-黑龙江少儿,webview://https://www.hljtv.com/live/folder422/
-哈尔滨新闻综合,http://A/ku9/js/ku9js.js?id=https://www.hrbtv.net/folder79/folder81/
-哈尔滨生活,http://A/ku9/js/ku9js.js?id=https://www.hrbtv.net/folder79/folder85/
-哈尔滨影视,http://A/ku9/js/ku9js.js?id=https://www.hrbtv.net/folder79/folder87/
-延边卫视,http://A/ku9/js/ku9js.js?id=https://www.yb983.com/cys/index.html
-延边综合,http://A/ku9/js/ku9js.js?id=https://www.yb983.com/ybtv2/index.html
+吉林卫视,video://https://www.jlntv.cn/tv
+长春综合,video://https://chinactv.com/live/1442880654565093377.html
+长春文旅体育,video://https://chinactv.com/live/1442880767035355137.html
+长春市民生活,video://https://chinactv.com/live/1442880854423678977.html
+黑龙江卫视,video://https://www.hljtv.com/live/folder418/
+黑龙江文体,video://https://www.hljtv.com/live/folder423/
+黑龙江影视,video://https://www.hljtv.com/live/folder425/
+黑龙江新闻法治,video://https://www.hljtv.com/live/folder424/
+黑龙江都市,video://https://www.hljtv.com/live/folder419/
+黑龙江农业科教,video://https://www.hljtv.com/live/folder420/
+黑龙江少儿,video://https://www.hljtv.com/live/folder422/
+哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
+延边卫视,video://https://www.yb983.com/cys/index.html
+延边综合,video://https://www.yb983.com/ybtv2/index.html
 
 
 📺 虎牙,#genre#
-大场面战争片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059574
-刘德华,webview://https://www.huya.com/11342424
-周星驰,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342412
-经典港片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352965
+大场面战争片,,video://https://www.huya.com/21059574
+刘德华,video://https://www.huya.com/11342424
+周星驰,,video://https://www.huya.com/11342412
+经典港片,,video://https://www.huya.com/11352965
 
 不挤影院,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352897
 来学历史-从秦始皇到汉武帝,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059578
@@ -1373,390 +1198,390 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 黑帮片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336719
 
 港台345,#genre#
-凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
-凤凰卫视香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
-纬来体育,webview://https://345iptv.com/?act=play&token=57c9437e4199b1cfc1e163c64de09a8b&tid=gt&id=73
-纬来育乐,webview://https://345iptv.com/?act=play&token=af27fd614d343024c3110cd61530b6b0&tid=gt&id=75
-中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
-东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-三立新闻,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-民视新闻,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-华视新闻,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
-镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-寰宇新闻台湾,webview://https://345iptv.com/?act=play&token=407a789de2a6171d1186502470676658&tid=gt&id=54
-TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
-中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
-台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
-民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
-华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
-三立台湾,webview://https://345iptv.com/?act=play&token=0265941b336fe9ae7719780184222263&tid=gt&id=65
-民视台湾,webview://https://345iptv.com/?act=play&token=c6d9df73200f4ddad8ab06ef20666b6c&tid=gt&id=67
-民事第一台,webview://https://345iptv.com/?act=play&token=c21f7de45ace20a52af824fcf8185f59&tid=gt&id=68
-民视综艺台,webview://https://345iptv.com/?act=play&token=13be0e850d86572cee368adaf13fdaeb&tid=gt&id=69
-民视旅游台,webview://https://345iptv.com/?act=play&token=1efbe9047a31f62d228c66b0ef58817d&tid=gt&id=70
-民视影剧台,webview://https://345iptv.com/?act=play&token=a6b935a8e7bfaa68380a210d1ea99562&tid=gt&id=71
-纬来日本,webview://https://345iptv.com/?act=play&token=27da63cc16ba8f4b83cd1a46a46e7c09&tid=gt&id=74
-DAZN1,webview://https://345iptv.com/?act=play&token=7865bcdc682cdf9997a1bb726b2fb280&tid=gt&id=76
-DAZN2,webview://https://345iptv.com/?act=play&token=2cc7b17d6064b80a16cc27131ca27237&tid=gt&id=77
-爱尔达体育1台,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
-爱尔达体育2台,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
-爱尔达体育3台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
-爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
-东森财经新闻,,webview://https://345iptv.com/?act=play&token=73c8b3148ebbf4c57294e70a516db7b2&tid=gt&id=45
+凤凰卫视中文台,video://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+凤凰卫视资讯台,video://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
+凤凰卫视香港台,video://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+纬来体育,video://https://345iptv.com/?act=play&token=57c9437e4199b1cfc1e163c64de09a8b&tid=gt&id=73
+纬来育乐,video://https://345iptv.com/?act=play&token=af27fd614d343024c3110cd61530b6b0&tid=gt&id=75
+中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
+东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中视新闻,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+台视新闻,video://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+三立新闻,video://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻,video://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+华视新闻,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+镜新闻,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+寰宇新闻,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+寰宇新闻台湾,video://https://345iptv.com/?act=play&token=407a789de2a6171d1186502470676658&tid=gt&id=54
+TVBS HD,video://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
+中视,video://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+台视,video://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+民视,video://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+华视,video://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+三立台湾,video://https://345iptv.com/?act=play&token=0265941b336fe9ae7719780184222263&tid=gt&id=65
+民视台湾,video://https://345iptv.com/?act=play&token=c6d9df73200f4ddad8ab06ef20666b6c&tid=gt&id=67
+民事第一台,video://https://345iptv.com/?act=play&token=c21f7de45ace20a52af824fcf8185f59&tid=gt&id=68
+民视综艺台,video://https://345iptv.com/?act=play&token=13be0e850d86572cee368adaf13fdaeb&tid=gt&id=69
+民视旅游台,video://https://345iptv.com/?act=play&token=1efbe9047a31f62d228c66b0ef58817d&tid=gt&id=70
+民视影剧台,video://https://345iptv.com/?act=play&token=a6b935a8e7bfaa68380a210d1ea99562&tid=gt&id=71
+纬来日本,video://https://345iptv.com/?act=play&token=27da63cc16ba8f4b83cd1a46a46e7c09&tid=gt&id=74
+DAZN1,video://https://345iptv.com/?act=play&token=7865bcdc682cdf9997a1bb726b2fb280&tid=gt&id=76
+DAZN2,video://https://345iptv.com/?act=play&token=2cc7b17d6064b80a16cc27131ca27237&tid=gt&id=77
+爱尔达体育1台,video://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+爱尔达体育2台,video://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+爱尔达体育3台,video://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+爱尔达体育4台,video://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+东森财经新闻,,video://https://345iptv.com/?act=play&token=73c8b3148ebbf4c57294e70a516db7b2&tid=gt&id=45
 
-明珠台,webview://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
-HOY76,webview://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
-ViuTV,webview://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
-ViuTV6,webview://http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
-翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
-无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
-TVB+,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
-有线新闻,webview://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
-香港有线18台,webview://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
-Now新闻,webview://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
-HOY78资讯台,webview://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
-HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
-港台电视32,webview://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
-港台电视31,webview://https://345iptv.com/?act=play&token=603eccee9b4ba9fe1a39be1994e47f51&tid=gt&id=26
-大爱一台,webview://http://m.345iptv.com/?act=play&token=ae9c099dcdc4fbe768981b01c1dbbf18&tid=gt&id=83
-大爱二台,webview://http://m.345iptv.com/?act=play&token=cdad72cc1644294
+明珠台,video://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
+HOY76,video://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
+ViuTV,video://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
+ViuTV6,video://http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
+翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
+无线新闻,video://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
+TVB+,video://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
+有线新闻,video://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
+香港有线18台,video://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
+Now新闻,video://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+HOY78资讯台,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
+HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
+港台电视32,video://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
+港台电视31,video://https://345iptv.com/?act=play&token=603eccee9b4ba9fe1a39be1994e47f51&tid=gt&id=26
+大爱一台,video://http://m.345iptv.com/?act=play&token=ae9c099dcdc4fbe768981b01c1dbbf18&tid=gt&id=83
+大爱二台,video://http://m.345iptv.com/?act=play&token=cdad72cc1644294
 
 
 
 
 
 日照,#genre#
-日照新闻综合,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-日照科教,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
-日照公共,webview://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
-岚山综合,webview://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
-五莲综合,webview://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
-五莲文化旅游,webview://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
-莒县综合,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
-莒县二套,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
+日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
+日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
+日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
+岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
+五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
+五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
+莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
+莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
 
 
 青岛,#genre#
-胶州综合,webview://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
-胶州生活,webview://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
-崂山电视台,webview://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
-李沧,webview://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
-即墨综合,webview://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
-即墨生活服务,webview://https://iapp.jimorongmei.com/share/dHZsLTIyMS0z.html
-莱西综合,webview://https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html
-莱西生活,webview://https://iapp.laixirongmei.cn/share/dHZsLTI1My0z.html
-平度新闻综合,webview://https://iapp.aipingduapp.com/share/dHZsLTQ1LTQ.html
-平度生活服务,webview://https://iapp.aipingduapp.com/share/dHZsLTQ1LTU.html
-黄岛综合,webview://https://iapp.qwmedia.cn/share/dHZsLTIyNy0x.html
-黄岛生活,webview://https://iapp.qwmedia.cn/share/dHZsLTIyNy0z.html
-城阳X,webview://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.htm
+胶州综合,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
+胶州生活,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
+崂山电视台,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
+李沧,video://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
+即墨综合,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
+即墨生活服务,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0z.html
+莱西综合,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html
+莱西生活,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0z.html
+平度新闻综合,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTQ.html
+平度生活服务,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTU.html
+黄岛综合,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0x.html
+黄岛生活,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0z.html
+城阳X,video://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.htm
 
-五四广场,webview://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-奥帆中心,webview://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,webview://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-太平湾,webview://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-快速路南京路,webview://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-胶宁高架福州路,webview://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-胶宁高架银川西路,webview://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
-青岛新闻综合,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛生活服务,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛影视,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛财经资讯,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛都市,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛青少旅游,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-青岛蓝睛频道,webview://https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
+五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
+奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
+太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
+太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
+快速路南京路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
+胶宁高架福州路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
+胶宁高架银川西路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
+青岛新闻综合,video://http://www.qtv.com.cn/live/tv/index.shtml
+青岛生活服务,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛影视,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛财经资讯,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛都市,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛青少旅游,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+青岛蓝睛频道,video://https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
 
 
 临沂,#genre#
-临沂综合,webview://https://www.ilinyi.net/cms/tv/1020403
-临沂经济,webview://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,webview://https://www.ilinyi.net/cms/tv/1020769
-沂水综合,webview://https://app.litenews.cn/share/dHZsLTE0NS0x.html
-沂水生活,webview://https://app.litenews.cn/share/dHZsLTE0NS0y.html
-费县综合,webview://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExOQ.html
-费县生活,webview://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExNw.html
-河东综合,webview://https://iapp.lyhedong.com/share/dHZsLTE5MS0x.html
-河东影视,webview://https://iapp.lyhedong.com/share/dHZsLTE5MS0y.html
-莒南综合,webview://https://iapp.junanrongmei.cn/share/dHZsLTEwNS00.html
-莒南影视,webview://https://iapp.junanrongmei.cn/share/dHZsLTEwNS01.html
-兰陵综合x,webview://https://iapp.llxrmtzx.com/share/dHZsLTExMy0x.html
-兰陵公共x,webview://https://iapp.llxrmtzx.com/share/dHZsLTExMy0y.html
-兰山电视台,webview://https://iapp.lylsrm.cn/share/dHZsLTIwMS0x.html
-临沭综合,webview://https://iapp.sdlsrm.com/share/dHZsLTE2Ny0z.html
-临沭生活,webview://https://iapp.sdlsrm.com/share/dHZsLTE2Ny00.html
-罗庄综合,webview://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0x.html
-罗庄影视,webview://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0xNw.html
-蒙阴综合,webview://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xMw.html
-蒙阴二套,webview://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xNQ.html
-平邑综合,webview://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS00.html
-平邑生活,webview://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS0xNA.html
-郯城综合,webview://https://iapp.tanchengtv.com/share/dHZsLTgzLTE.html
-郯城二套,webview://https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html
-沂南综合,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
-沂南红色影视,webview://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
+临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
+临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
+沂水综合,video://https://app.litenews.cn/share/dHZsLTE0NS0x.html
+沂水生活,video://https://app.litenews.cn/share/dHZsLTE0NS0y.html
+费县综合,video://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExOQ.html
+费县生活,video://https://iapp.feixianshoufa.cn/share/dHZsLTQxLTExNw.html
+河东综合,video://https://iapp.lyhedong.com/share/dHZsLTE5MS0x.html
+河东影视,video://https://iapp.lyhedong.com/share/dHZsLTE5MS0y.html
+莒南综合,video://https://iapp.junanrongmei.cn/share/dHZsLTEwNS00.html
+莒南影视,video://https://iapp.junanrongmei.cn/share/dHZsLTEwNS01.html
+兰陵综合x,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0x.html
+兰陵公共x,video://https://iapp.llxrmtzx.com/share/dHZsLTExMy0y.html
+兰山电视台,video://https://iapp.lylsrm.cn/share/dHZsLTIwMS0x.html
+临沭综合,video://https://iapp.sdlsrm.com/share/dHZsLTE2Ny0z.html
+临沭生活,video://https://iapp.sdlsrm.com/share/dHZsLTE2Ny00.html
+罗庄综合,video://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0x.html
+罗庄影视,video://https://iapp.luozhuangshoufa.cn/share/dHZsLTE0Ny0xNw.html
+蒙阴综合,video://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xMw.html
+蒙阴二套,video://https://iapp.mengyinshoufa.com/share/dHZsLTE2MS0xNQ.html
+平邑综合,video://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS00.html
+平邑生活,video://https://iapp.pyxrmt.com.cn/share/dHZsLTM0NS0xNA.html
+郯城综合,video://https://iapp.tanchengtv.com/share/dHZsLTgzLTE.html
+郯城二套,video://https://iapp.tanchengtv.com/share/dHZsLTgzLTI.html
+沂南综合,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
+沂南红色影视,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 
 济南,#genre#
-长清综合,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
-长清生活,webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
-济阳综合,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
-济阳影视,webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html
-历城综合,webview://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
-平阴综合,webview://https://app.litenews.cn/share/dHZsLTI1Ny0x.html
-平阴乡村振兴,webview://https://app.litenews.cn/share/dHZsLTI1Ny0z.html
-商河综合,webview://https://iapp.shxrmtzx.com/share/dHZsLTk3LTE.html
-商河影视,webview://https://iapp.shxrmtzx.com/share/dHZsLTk3LTI.html
-章丘综合,webview://https://app.litenews.cn/share/dHZsLTE5NS0x.html
-章丘公共,webview://https://app.litenews.cn/share/dHZsLTE5NS0y.html
-济铁电视台,webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
-山东教育卫视,webview://https://www.sdetv.com.cn/edu/pc/live/index.html
+长清综合,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
+长清生活,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
+济阳综合,video://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
+济阳影视,video://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html
+历城综合,video://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
+平阴综合,video://https://app.litenews.cn/share/dHZsLTI1Ny0x.html
+平阴乡村振兴,video://https://app.litenews.cn/share/dHZsLTI1Ny0z.html
+商河综合,video://https://iapp.shxrmtzx.com/share/dHZsLTk3LTE.html
+商河影视,video://https://iapp.shxrmtzx.com/share/dHZsLTk3LTI.html
+章丘综合,video://https://app.litenews.cn/share/dHZsLTE5NS0x.html
+章丘公共,video://https://app.litenews.cn/share/dHZsLTE5NS0y.html
+济铁电视台,video://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
+山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
 
 东营,#genre#
-东营新闻综合,webview://https://www.dongyingnews.cn/v/tv/?id=0
-东营新闻综合,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html
-东营公共,webview://https://www.dongyingnews.cn/v/tv/?id=1
-东营公共,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy0z.html
-东营科教,webview://https://www.dongyingnews.cn/v/tv/?id=2
-东营科教,webview://https://ady.dongyingnews.cn/share/dHZsLTUzNy03.html
-东营区新闻综合,webview://https://iapp.zhidongyingapp.com/share/dHZsLTE2My01.html
-东营区科教影视,webview://https://iapp.zhidongyingapp.com/share/dHZsLTE2My03.html
-广饶新闻综合,webview://https://iapp.grxrmtzx.com/share/dHZsLTIzNy0x.html
-广饶科教文艺,webview://https://iapp.grxrmtzx.com/share/dHZsLTIzNy01.html
-垦利新闻综合X,webview://https://iapp.klrmt.cn/share/dHZsLTI2OS0z.html
-利津新闻综合,webview://https://iapp.lijinnews.com/share/dHZsLTE1My0x.html
-利津文化生活,webview://https://iapp.lijinnews.com/share/dHZsLTE1My0z.html
+东营新闻综合,video://https://www.dongyingnews.cn/v/tv/?id=0
+东营新闻综合,video://https://ady.dongyingnews.cn/share/dHZsLTUzNy0x.html
+东营公共,video://https://www.dongyingnews.cn/v/tv/?id=1
+东营公共,video://https://ady.dongyingnews.cn/share/dHZsLTUzNy0z.html
+东营科教,video://https://www.dongyingnews.cn/v/tv/?id=2
+东营科教,video://https://ady.dongyingnews.cn/share/dHZsLTUzNy03.html
+东营区新闻综合,video://https://iapp.zhidongyingapp.com/share/dHZsLTE2My01.html
+东营区科教影视,video://https://iapp.zhidongyingapp.com/share/dHZsLTE2My03.html
+广饶新闻综合,video://https://iapp.grxrmtzx.com/share/dHZsLTIzNy0x.html
+广饶科教文艺,video://https://iapp.grxrmtzx.com/share/dHZsLTIzNy01.html
+垦利新闻综合X,video://https://iapp.klrmt.cn/share/dHZsLTI2OS0z.html
+利津新闻综合,video://https://iapp.lijinnews.com/share/dHZsLTE1My0x.html
+利津文化生活,video://https://iapp.lijinnews.com/share/dHZsLTE1My0z.html
 
 潍坊,#genre#
-潍坊新闻综合,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊新闻综合,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
-潍坊经济生活,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊经济生活,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
-潍坊影视综艺,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊影视综艺,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
-潍坊科教文旅,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-潍坊科教文旅,webview://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
-安丘,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
-安丘民生,webview://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
-滨海区,webview://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
-昌乐,webview://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
-昌邑,webview://https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html
-昌邑经济生活,webview://https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html
-坊子,webview://https://iapp.fzqrmtzx.cn/share/dHZsLTI4NS0x.html
-高密X,webview://https://iapp.gaominews.com/share/dHZsLTcxLTI0.htm
-高密党建农科,webview://https://iapp.gaominews.com/share/dHZsLTcxLTM4.html
-潍坊高新区,webview://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
-寒亭,webview://https://iapp.httv.cn/share/dHZsLTEzMy0x.html
-奎文,webview://https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html
-临朐,webview://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
-青州X,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
-青州文化旅游X,webview://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
-寿光,webview://https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html
-寿光蔬菜,webview://https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html
-潍城,webview://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
-诸城,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
-诸城生活娱乐X,webview://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
+潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊新闻综合,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
+潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊经济生活,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
+潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊影视综艺,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
+潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+潍坊科教文旅,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
+安丘,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
+安丘民生,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
+滨海区,video://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
+昌乐,video://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
+昌邑,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html
+昌邑经济生活,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html
+坊子,video://https://iapp.fzqrmtzx.cn/share/dHZsLTI4NS0x.html
+高密X,video://https://iapp.gaominews.com/share/dHZsLTcxLTI0.htm
+高密党建农科,video://https://iapp.gaominews.com/share/dHZsLTcxLTM4.html
+潍坊高新区,video://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
+寒亭,video://https://iapp.httv.cn/share/dHZsLTEzMy0x.html
+奎文,video://https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html
+临朐,video://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
+青州X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
+青州文化旅游X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
+寿光,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html
+寿光蔬菜,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html
+潍城,video://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
+诸城,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
+诸城生活娱乐X,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
 
 烟台,#genre#
-龙口综合,webview://https://app.litenews.cn/share/dHZsLTU3LTE.html
-龙口生活,webview://https://app.litenews.cn/share/dHZsLTU3LTI.html
-莱州综合,webview://https://iapp.laizhourongmei.cn/share/dHZsLTIzOS0x.html
-烟台,webview://http://m.jiaodong.net/zhifuapp/dianshi/xwzhpd.html
-烟台公共,webview://http://m.jiaodong.net/zhifuapp/dianshi/ggpd.html
-长岛,webview://https://iapp.changdaohao.cn/share/dHZsLTE3NS0x.html
-福山X,webview://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS00.html
-福山生活,webview://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS01.html
-海阳综合,webview://https://iapp.hyzc.cn/share/dHZsLTI1NS0x.html
-莱山综合,webview://https://app.litenews.cn/share/dHZsLTI0NS00.html
-莱山影视,webview://https://app.litenews.cn/share/dHZsLTI0NS02.html
-莱阳综合,webview://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS00.html
-莱阳民生综艺,webview://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS03.html
-牟平综合,webview://https://iapp.mprmt.com/share/dHZsLTI4MS0x.html
-蓬莱综合,webview://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0x.html
-蓬莱综艺X,webview://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0y.html
-栖霞综合,webview://https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xMg.html
-栖霞苹果,webview://https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xNA.html
-招远综合,webview://https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTI.html
-招远综艺,webview://https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTQ.html
-淄博新闻综合,webview://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
-博山区新闻,webview://https://iapp.boshanhao.cn/share/dHZsLTE3LTg.html
-博山区图文,webview://https://iapp.boshanhao.cn/share/dHZsLTE3LTk.html
-高青综合,webview://https://iapp.gqxrmt.cn/share/dHZsLTYxLTE.html
-高青影视,webview://https://iapp.gqxrmt.cn/share/dHZsLTYxLTI.html
-桓台综合,webview://https://iapp.htxw.cn/share/dHZsLTIzLTE1.html
-桓台影视,webview://https://iapp.htxw.cn/share/dHZsLTIzLTE2.html
-临淄新闻综合,webview://https://iapp.linzirongmei.cn/share/dHZsLTE1MS02.html
-临淄生活服务,webview://https://iapp.linzirongmei.cn/share/dHZsLTE1MS03.html
-沂源综合,webview://https://iapp.yyrmapp.com/share/dHZsLTIwMy02.html
-沂源生活,webview://https://iapp.yyrmapp.com/share/dHZsLTIwMy03.html
-淄川新闻,webview://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTE.html
-淄川生活,webview://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTI.html
-周村新闻,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0x.html
-周村生活,webview://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
-张店一套,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
-张店二套,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
+龙口综合,video://https://app.litenews.cn/share/dHZsLTU3LTE.html
+龙口生活,video://https://app.litenews.cn/share/dHZsLTU3LTI.html
+莱州综合,video://https://iapp.laizhourongmei.cn/share/dHZsLTIzOS0x.html
+烟台,video://http://m.jiaodong.net/zhifuapp/dianshi/xwzhpd.html
+烟台公共,video://http://m.jiaodong.net/zhifuapp/dianshi/ggpd.html
+长岛,video://https://iapp.changdaohao.cn/share/dHZsLTE3NS0x.html
+福山X,video://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS00.html
+福山生活,video://https://iapp.fuzaifushan.cn/share/dHZsLTE4OS01.html
+海阳综合,video://https://iapp.hyzc.cn/share/dHZsLTI1NS0x.html
+莱山综合,video://https://app.litenews.cn/share/dHZsLTI0NS00.html
+莱山影视,video://https://app.litenews.cn/share/dHZsLTI0NS02.html
+莱阳综合,video://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS00.html
+莱阳民生综艺,video://https://iapp.laiyangrongmei.cn/share/dHZsLTI0MS03.html
+牟平综合,video://https://iapp.mprmt.com/share/dHZsLTI4MS0x.html
+蓬莱综合,video://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0x.html
+蓬莱综艺X,video://https://iapp.xianjingpenglai.cn/share/dHZsLTEwOS0y.html
+栖霞综合,video://https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xMg.html
+栖霞苹果,video://https://iapp.aiqixiaapp.com/share/dHZsLTE2NS0xNA.html
+招远综合,video://https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTI.html
+招远综艺,video://https://iapp.zhaoyuanrongmei.com.cn/share/dHZsLTU1LTQ.html
+淄博新闻综合,video://https://web.guangdianyun.tv/tv/?id=2308&uin=3185
+博山区新闻,video://https://iapp.boshanhao.cn/share/dHZsLTE3LTg.html
+博山区图文,video://https://iapp.boshanhao.cn/share/dHZsLTE3LTk.html
+高青综合,video://https://iapp.gqxrmt.cn/share/dHZsLTYxLTE.html
+高青影视,video://https://iapp.gqxrmt.cn/share/dHZsLTYxLTI.html
+桓台综合,video://https://iapp.htxw.cn/share/dHZsLTIzLTE1.html
+桓台影视,video://https://iapp.htxw.cn/share/dHZsLTIzLTE2.html
+临淄新闻综合,video://https://iapp.linzirongmei.cn/share/dHZsLTE1MS02.html
+临淄生活服务,video://https://iapp.linzirongmei.cn/share/dHZsLTE1MS03.html
+沂源综合,video://https://iapp.yyrmapp.com/share/dHZsLTIwMy02.html
+沂源生活,video://https://iapp.yyrmapp.com/share/dHZsLTIwMy03.html
+淄川新闻,video://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTE.html
+淄川生活,video://https://iapp.zichuanrongmei.cn/share/dHZsLTc1LTI.html
+周村新闻,video://https://iapp.izhoucun.cn/share/dHZsLTI1OS0x.html
+周村生活,video://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
+张店一套,video://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
+张店二套,video://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
 
 枣庄,#genre#
-枣庄新闻综合,webview://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=5
-枣庄新闻综合,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
-枣庄新闻综合,webview://http://www.lncm.cn/zhibo/list.php?catid=63
+枣庄新闻综合,video://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=5
+枣庄新闻综合,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄新闻综合,video://http://www.lncm.cn/zhibo/list.php?catid=63
 
-枣庄经济生活,webview://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=7
-枣庄经济生活,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
-枣庄经济生活,webview://http://www.lncm.cn/zhibo/list-64.html
+枣庄经济生活,video://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=7
+枣庄经济生活,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄经济生活,video://http://www.lncm.cn/zhibo/list-64.html
 
-枣庄公共,webview://http://www.zztvzd.com/?_hgOutLink=live/livedetail&channel_id=8
-枣庄公共,webview://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
-枣庄公共,webview://http://www.lncm.cn/mobile/zhibo/show-4.html
+枣庄公共,video://http://www.zztvzd.com/?_hgOutLink=live/livedetail&channel_id=8
+枣庄公共,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/web/
+枣庄公共,video://http://www.lncm.cn/mobile/zhibo/show-4.html
 
-山亭综合,webview://https://iapp.stqrmtzx.com/share/dHZsLTI0My0x.html
-市中区综合,webview://https://iapp.zzszrm.com/share/dHZsLTIzMy0x.html
-台儿庄新闻综合,webview://https://iapp.aitaierzhuang.cn/share/dHZsLTE4NS0y.html
-薛城新闻综合,webview://https://iapp.aixuechengapp.com/share/dHZsLTM3LTg.html
-峄城综合,webview://https://iapp.yilan-app.com/share/dHZsLTIwOS0x.html
-滨城电视台,webview://https://iapp.binchengrongmei.com/share/dHZsLTI0OS0zNQ.html
-博兴综合,webview://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy0z.html
-博兴生活,webview://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy00.html
-惠民综合,webview://https://iapp.aihuimin.cn/share/dHZsLTIxMS0y.html
-惠民影视,webview://https://iapp.aihuimin.cn/share/dHZsLTIxMS0z.html
-无棣综合,webview://https://app.litenews.cn/share/dHZsLTE2OS0x.html
-无棣综艺,webview://https://app.litenews.cn/share/dHZsLTE2OS0yMQ.html
-阳信新闻综合,webview://https://iapp.yangxinrongmei.cn/share/dHZsLTIxNy0x.html
-沾化综合,webview://https://iapp.zhanhuarongmei.cn/share/dHZsLTI3Ny0x.html
-沾化综艺,webview://https://iapp.zhanhuarongmei.cn/share/dHZsLTI3Ny05.html
-邹平综合,webview://https://iapp.zpgd.net/share/dHZsLTExLTE1.html
-邹平民生,webview://https://iapp.zpgd.net/share/dHZsLTExLTE2.html
+山亭综合,video://https://iapp.stqrmtzx.com/share/dHZsLTI0My0x.html
+市中区综合,video://https://iapp.zzszrm.com/share/dHZsLTIzMy0x.html
+台儿庄新闻综合,video://https://iapp.aitaierzhuang.cn/share/dHZsLTE4NS0y.html
+薛城新闻综合,video://https://iapp.aixuechengapp.com/share/dHZsLTM3LTg.html
+峄城综合,video://https://iapp.yilan-app.com/share/dHZsLTIwOS0x.html
+滨城电视台,video://https://iapp.binchengrongmei.com/share/dHZsLTI0OS0zNQ.html
+博兴综合,video://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy0z.html
+博兴生活,video://https://iapp.zhihuiboxing.cn/share/dHZsLTIwNy00.html
+惠民综合,video://https://iapp.aihuimin.cn/share/dHZsLTIxMS0y.html
+惠民影视,video://https://iapp.aihuimin.cn/share/dHZsLTIxMS0z.html
+无棣综合,video://https://app.litenews.cn/share/dHZsLTE2OS0x.html
+无棣综艺,video://https://app.litenews.cn/share/dHZsLTE2OS0yMQ.html
+阳信新闻综合,video://https://iapp.yangxinrongmei.cn/share/dHZsLTIxNy0x.html
+沾化综合,video://https://iapp.zhanhuarongmei.cn/share/dHZsLTI3Ny0x.html
+沾化综艺,video://https://iapp.zhanhuarongmei.cn/share/dHZsLTI3Ny05.html
+邹平综合,video://https://iapp.zpgd.net/share/dHZsLTExLTE1.html
+邹平民生,video://https://iapp.zpgd.net/share/dHZsLTExLTE2.html
 
 德州,#genre#
-德州新闻综合,webview://http://www.dztv.tv/
-德州新闻综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0x.html
-德州经济生活,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0y.html
-德州图文,webview://https://iapp.dztv.tv/share/dHZsLTE3OS05.html
+德州新闻综合,video://http://www.dztv.tv/
+德州新闻综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0x.html
+德州经济生活,video://https://iapp.dztv.tv/share/dHZsLTE3OS0y.html
+德州图文,video://https://iapp.dztv.tv/share/dHZsLTE3OS05.html
 
-陵城综合,webview://https://iapp.lxgdw.com/share/dHZsLTIxNS02.html
-陵城综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0zNg.html
-乐陵新闻综合,webview://https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny0x.html
-乐陵新闻综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS02OQ.html
-乐陵城市生活,webview://https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny01.html
-乐陵城市生活,webview://https://iapp.dztv.tv/share/dHZsLTE3OS03MQ.html
-临邑综合,webview://https://iapp.lyxrmtzx.com/share/dHZsLTQ5LTM.html
-平原综合,webview://https://iapp.pyxwapp.com/share/dHZsLTE5LTI.html
-平原综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0zMg.html
-齐河综合,webview://https://iapp.qiherongmei.com/share/dHZsLTI1MS04.html
-齐河综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0yNw.html
-庆云综合,webview://https://iapp.qyxrmtzx.cn/share/dHZsLTUtOQ.html
-庆云综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS02NQ.html
-庆云生活,webview://https://iapp.qyxrmtzx.cn/share/dHZsLTUtNw.html
-庆云生活,webview://https://iapp.dztv.tv/share/dHZsLTE3OS02Nw.html
-武城综合,webview://https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTQ.html
-武城综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS01NA.html
-武城综艺影视,webview://https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTY.html
-武城综艺影视,webview://https://iapp.dztv.tv/share/dHZsLTE3OS01OA.html
-夏津综合,webview://https://iapp.xjrm.com/share/dHZsLTIyMy0x.html
-夏津综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0yMQ.html
-夏津公共,webview://https://iapp.xjrm.com/share/dHZsLTIyMy0y.html
-夏津公共,webview://https://iapp.dztv.tv/share/dHZsLTE3OS0yMw.html
-禹城综合,webview://https://iapp.ycrongmeiti.cn/share/dHZsLTIzNS0x.html
-禹城综合,webview://https://iapp.dztv.tv/share/dHZsLTE3OS00OA.html
-禹城综艺,webview://https://iapp.ycrongmeiti.cn/share/dHZsLTIzNS0z.html
-禹城综艺,webview://https://iapp.dztv.tv/share/dHZsLTE3OS01MA.html
-菏泽新闻,webview://https://web.guangdianyun.tv/tv/3492?uin=4042
-菏泽经济,webview://https://web.guangdianyun.tv/tv/3493?uin=4042
-菏泽影视,webview://https://web.guangdianyun.tv/tv/3520?uin=4042
-成武综合,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html
-成武综艺,webview://https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html
-曹县综合,webview://https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html
-东明新闻综合,webview://https://iapp.dongmingrongmei.cn/share/dHZsLTExMS0y.html
-定陶新闻,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html
-定陶综艺,webview://https://iapp.aidingtao.cn/share/dHZsLTI3LTg.html
-鄄城综合,webview://https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0xODY.html
-巨野新闻,webview://https://iapp.juyerongmei.cn/share/dHZsLTEzOS0x.html
-牡丹区新闻综合,webview://https://iapp.hzmdrm.cn/share/dHZsLTIxOS02.html
-牡丹区综艺,webview://https://iapp.hzmdrm.cn/share/dHZsLTIxOS0xNw.html
-单县综合,webview://https://iapp.sdmlsz.com/share/dHZsLTE1NS0y.html
-郓城新闻,webview://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0z.html
-郓城综艺,webview://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0y.html
+陵城综合,video://https://iapp.lxgdw.com/share/dHZsLTIxNS02.html
+陵城综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0zNg.html
+乐陵新闻综合,video://https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny0x.html
+乐陵新闻综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS02OQ.html
+乐陵城市生活,video://https://iapp.laolingrongmei.cn/share/dHZsLTI2Ny01.html
+乐陵城市生活,video://https://iapp.dztv.tv/share/dHZsLTE3OS03MQ.html
+临邑综合,video://https://iapp.lyxrmtzx.com/share/dHZsLTQ5LTM.html
+平原综合,video://https://iapp.pyxwapp.com/share/dHZsLTE5LTI.html
+平原综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0zMg.html
+齐河综合,video://https://iapp.qiherongmei.com/share/dHZsLTI1MS04.html
+齐河综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0yNw.html
+庆云综合,video://https://iapp.qyxrmtzx.cn/share/dHZsLTUtOQ.html
+庆云综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS02NQ.html
+庆云生活,video://https://iapp.qyxrmtzx.cn/share/dHZsLTUtNw.html
+庆云生活,video://https://iapp.dztv.tv/share/dHZsLTE3OS02Nw.html
+武城综合,video://https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTQ.html
+武城综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS01NA.html
+武城综艺影视,video://https://iapp.wuchengrmtzx.cn/share/dHZsLTMzLTY.html
+武城综艺影视,video://https://iapp.dztv.tv/share/dHZsLTE3OS01OA.html
+夏津综合,video://https://iapp.xjrm.com/share/dHZsLTIyMy0x.html
+夏津综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS0yMQ.html
+夏津公共,video://https://iapp.xjrm.com/share/dHZsLTIyMy0y.html
+夏津公共,video://https://iapp.dztv.tv/share/dHZsLTE3OS0yMw.html
+禹城综合,video://https://iapp.ycrongmeiti.cn/share/dHZsLTIzNS0x.html
+禹城综合,video://https://iapp.dztv.tv/share/dHZsLTE3OS00OA.html
+禹城综艺,video://https://iapp.ycrongmeiti.cn/share/dHZsLTIzNS0z.html
+禹城综艺,video://https://iapp.dztv.tv/share/dHZsLTE3OS01MA.html
+菏泽新闻,video://https://web.guangdianyun.tv/tv/3492?uin=4042
+菏泽经济,video://https://web.guangdianyun.tv/tv/3493?uin=4042
+菏泽影视,video://https://web.guangdianyun.tv/tv/3520?uin=4042
+成武综合,video://https://iapp.cwcmc.cn/share/dHZsLTEzMS0x.html
+成武综艺,video://https://iapp.cwcmc.cn/share/dHZsLTEzMS0y.html
+曹县综合,video://https://iapp.caoxianrongmei.cn/share/dHZsLTg3LTI.html
+东明新闻综合,video://https://iapp.dongmingrongmei.cn/share/dHZsLTExMS0y.html
+定陶新闻,video://https://iapp.aidingtao.cn/share/dHZsLTI3LTc.html
+定陶综艺,video://https://iapp.aidingtao.cn/share/dHZsLTI3LTg.html
+鄄城综合,video://https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0xODY.html
+巨野新闻,video://https://iapp.juyerongmei.cn/share/dHZsLTEzOS0x.html
+牡丹区新闻综合,video://https://iapp.hzmdrm.cn/share/dHZsLTIxOS02.html
+牡丹区综艺,video://https://iapp.hzmdrm.cn/share/dHZsLTIxOS0xNw.html
+单县综合,video://https://iapp.sdmlsz.com/share/dHZsLTE1NS0y.html
+郓城新闻,video://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0z.html
+郓城综艺,video://https://iapp.ycrmtzx.com.cn/share/dHZsLTEzNS0y.html
 
 济宁,#genre#
 
-嘉祥新闻综合,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html
-嘉祥新闻综合,webview://https://web.guangdianyun.tv/tv/1306?uin=2606
-嘉祥生活,webview://https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html
-嘉祥生活,webview://https://web.guangdianyun.tv/tv/1307?uin=2606
-金乡综合,webview://https://iapp.jxrm.net/share/dHZsLTEyOS0y.html
-金乡生活,webview://https://iapp.jxrm.net/share/dHZsLTEyOS00.html
-梁山综合,webview://https://iapp.lsrmapp.com/share/dHZsLTg5LTE.html
-曲阜新闻综合,webview://https://iapp.jinriqufu.com/share/dHZsLTEzLTE.html
-任城新闻综合,webview://https://iapp.rcrmt.cn/share/dHZsLTczLTg.html
-任城影视娱乐,webview://https://iapp.rcrmt.cn/share/dHZsLTczLTk.html
-泗水新闻综合,webview://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
-泗水文化生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
-汶上综合,webview://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
-汶上生活,webview://https://iapp.wstvs.com/share/dHZsLTMwMS0z.html
-鱼台新闻,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html
-鱼台生活,webview://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTE1.html
-兖州新闻,webview://https://app.litenews.cn/share/dHZsLTIzMS0x.html
-兖州生活,webview://https://app.litenews.cn/share/dHZsLTIzMS0z.html
-邹城综合,webview://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS0x.html
-邹城文化生活,webview://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS00.html
+嘉祥新闻综合,video://https://iapp.jxtvs.cn/share/dHZsLTI3My0x.html
+嘉祥新闻综合,video://https://web.guangdianyun.tv/tv/1306?uin=2606
+嘉祥生活,video://https://iapp.jxtvs.cn/share/dHZsLTI3My0z.html
+嘉祥生活,video://https://web.guangdianyun.tv/tv/1307?uin=2606
+金乡综合,video://https://iapp.jxrm.net/share/dHZsLTEyOS0y.html
+金乡生活,video://https://iapp.jxrm.net/share/dHZsLTEyOS00.html
+梁山综合,video://https://iapp.lsrmapp.com/share/dHZsLTg5LTE.html
+曲阜新闻综合,video://https://iapp.jinriqufu.com/share/dHZsLTEzLTE.html
+任城新闻综合,video://https://iapp.rcrmt.cn/share/dHZsLTczLTg.html
+任城影视娱乐,video://https://iapp.rcrmt.cn/share/dHZsLTczLTk.html
+泗水新闻综合,video://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
+泗水文化生活,video://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
+汶上综合,video://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
+汶上生活,video://https://iapp.wstvs.com/share/dHZsLTMwMS0z.html
+鱼台新闻,video://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTU.html
+鱼台生活,video://https://iapp.ytxrmtzx.com/share/dHZsLTYzLTE1.html
+兖州新闻,video://https://app.litenews.cn/share/dHZsLTIzMS0x.html
+兖州生活,video://https://app.litenews.cn/share/dHZsLTIzMS0z.html
+邹城综合,video://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS0x.html
+邹城文化生活,video://https://iapp.zcsrmtzx.cn/share/dHZsLTE4MS00.html
 
-济宁综合,webview://https://www.jnnews.tv/app/tv/76
-济宁综合,webview://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=76&page=canvas
-济宁生活,webview://https://www.jnnews.tv/app/tv/152
-济宁生活,webview://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=152&page=canvas
-济宁公共,webview://https://www.jnnews.tv/app/tv/74
-济宁公共,webview://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=74&page=canvas
+济宁综合,video://https://www.jnnews.tv/app/tv/76
+济宁综合,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=76&page=canvas
+济宁生活,video://https://www.jnnews.tv/app/tv/152
+济宁生活,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=152&page=canvas
+济宁公共,video://https://www.jnnews.tv/app/tv/74
+济宁公共,video://https://app.jnnews.tv/video/videojs/index?site_id=10001&id=74&page=canvas
 
 聊城,#genre#
-聊城综合,webview://http://www.lcxw.cn/kands/
-聊城综合,webview://https://api.lcxw.cn/live/live_tv.html
+聊城综合,video://http://www.lcxw.cn/kands/
+聊城综合,video://https://api.lcxw.cn/live/live_tv.html
 
-茌平综合,webview://https://iapp.cprmtvs.com/share/dHZsLTMxLTY.html
-茌平生活,webview://https://iapp.cprmtvs.com/share/dHZsLTMxLTg.html
-东昌综合,webview://https://iapp.dcfrm.cn/share/dHZsLTI2NS0x.html
-东阿综合,webview://https://iapp.decmc.cn/share/dHZsLTk1LTIy.html
-东阿综艺,webview://https://iapp.decmc.cn/share/dHZsLTk1LTI5.html
-高唐综合,webview://https://iapp.gaotangrongmei.com/share/dHZsLTQzLTE.html
-高唐综艺,webview://https://iapp.gaotangrongmei.com/share/dHZsLTQzLTU.html
-冠县综合,webview://https://iapp.guanxianrongmei.com/share/dHZsLTc5LTE.html
-临清综合,webview://https://iapp.lqrmtzx.cn/share/dHZsLTY1LTI.html
-临清经济信息,webview://https://iapp.lqrmtzx.cn/share/dHZsLTY1LTU.html
-莘县综合,webview://https://iapp.sdsxrm.cn/share/dHZsLTE4My0x.html
-莘县生活,webview://https://iapp.sdsxrm.cn/share/dHZsLTE4My01.html
-阳谷综合,webview://https://iapp.ygxrm.cn/share/dHZsLTgxLTE.html
-阳谷影视,webview://https://iapp.ygxrm.cn/share/dHZsLTgxLTEw.html
+茌平综合,video://https://iapp.cprmtvs.com/share/dHZsLTMxLTY.html
+茌平生活,video://https://iapp.cprmtvs.com/share/dHZsLTMxLTg.html
+东昌综合,video://https://iapp.dcfrm.cn/share/dHZsLTI2NS0x.html
+东阿综合,video://https://iapp.decmc.cn/share/dHZsLTk1LTIy.html
+东阿综艺,video://https://iapp.decmc.cn/share/dHZsLTk1LTI5.html
+高唐综合,video://https://iapp.gaotangrongmei.com/share/dHZsLTQzLTE.html
+高唐综艺,video://https://iapp.gaotangrongmei.com/share/dHZsLTQzLTU.html
+冠县综合,video://https://iapp.guanxianrongmei.com/share/dHZsLTc5LTE.html
+临清综合,video://https://iapp.lqrmtzx.cn/share/dHZsLTY1LTI.html
+临清经济信息,video://https://iapp.lqrmtzx.cn/share/dHZsLTY1LTU.html
+莘县综合,video://https://iapp.sdsxrm.cn/share/dHZsLTE4My0x.html
+莘县生活,video://https://iapp.sdsxrm.cn/share/dHZsLTE4My01.html
+阳谷综合,video://https://iapp.ygxrm.cn/share/dHZsLTgxLTE.html
+阳谷影视,video://https://iapp.ygxrm.cn/share/dHZsLTgxLTEw.html
 
 
 泰安,#genre#
-泰安综合,webview://http://live.1545ts.net/zhibotatv1.html
-泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
-泰山综合,webview://https://iapp.tsqrmtzx.cn/share/dHZsLTI2My0x.html
-新泰综合,webview://https://iapp.xintairongmei.cn/share/dHZsLTU5LTI.html
-新泰乡村党建,webview://https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html
-东平综合,webview://https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html
-东平民生,webview://https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html
-岱岳电视台,webview://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
-肥城综合x,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
-肥城生活,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
-宁阳综合,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
-宁阳二套,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
+泰安综合,video://http://live.1545ts.net/zhibotatv1.html
+泰安经济生活,video://http://live.1545ts.net/zhibotatv2.html
+泰山综合,video://https://iapp.tsqrmtzx.cn/share/dHZsLTI2My0x.html
+新泰综合,video://https://iapp.xintairongmei.cn/share/dHZsLTU5LTI.html
+新泰乡村党建,video://https://iapp.xintairongmei.cn/share/dHZsLTU5LTM.html
+东平综合,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html
+东平民生,video://https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html
+岱岳电视台,video://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
+肥城综合x,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
+肥城生活,video://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
+宁阳综合,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
+宁阳二套,video://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
 
 威海,#genre#
-威海新闻综合,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-威海新闻综合,webview://http://lv.weihai.tv/show.aspx?icode=13705e35636b2136b590e5a015bb801c
-威海都市生活,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-威海都市生活,webview://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
-威海海洋,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
-环翠综合,webview://https://iapp.whhccm.cn/share/dHZsLTIxMy01.html
-荣成综合,webview://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEw.html
-荣成生活,webview://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEx.html
-乳山综合,webview://https://iapp.rushanrongmei.cn/share/dHZsLTE0My04.html
-乳山生活,webview://https://iapp.rushanrongmei.cn/share/dHZsLTE0My05.html
-文登TV1,webview://https://iapp.wendengsf.com/share/dHZsLTkxLTc.html
-文登TV2,webview://https://iapp.wendengsf.com/share/dHZsLTkxLTg.html
+威海新闻综合,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
+威海新闻综合,video://http://lv.weihai.tv/show.aspx?icode=13705e35636b2136b590e5a015bb801c
+威海都市生活,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
+威海都市生活,video://http://lv.weihai.tv/show.aspx?icode=8bfc704cbba598e76540f5d4f61a0e03
+威海海洋,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
+环翠综合,video://https://iapp.whhccm.cn/share/dHZsLTIxMy01.html
+荣成综合,video://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEw.html
+荣成生活,video://https://iapp.rcsrmtzx.cn/share/dHZsLTc3LTEx.html
+乳山综合,video://https://iapp.rushanrongmei.cn/share/dHZsLTE0My04.html
+乳山生活,video://https://iapp.rushanrongmei.cn/share/dHZsLTE0My05.html
+文登TV1,video://https://iapp.wendengsf.com/share/dHZsLTkxLTc.html
+文登TV2,video://https://iapp.wendengsf.com/share/dHZsLTkxLTg.html
 /share/dHZsLTExNy01.html
-泗水文化生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
-汶上综合,webview://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
-汶上生活,webview://https://iapp.wstvs.com/s
+泗水文化生活,video://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
+汶上综合,video://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
+汶上生活,video://https://iapp.wstvs.com/s
