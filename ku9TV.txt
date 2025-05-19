@@ -15,8 +15,8 @@ CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
 1905电影网,http://A/ku9/js/1905.js?id=1905a
 CCTV-6 电影,webview://https://m.1905.com/m/cctv6/gzh/?app
 CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
-CCTV-7 国防军事,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
-CCTV-7 国防军事,webview://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
+CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/0/0rmhlm/zxrm/jhzh/4611577.shtml
 CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
 CCTV-7 国防军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
 CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
@@ -83,6 +83,7 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 🌐 央视频,#genre#
+
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -162,13 +163,13 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
 凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
+澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+中天新聞,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
 凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
 凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
 凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
 凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
-中天新聞,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-莲花卫视,video://http://wap.macaulotustv.com/lotustvlive.html
 TVB星河,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
 TVB明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
 Now爆谷台,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
@@ -179,15 +180,6 @@ TVB翡翠,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
 TVB华丽,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
 澳門資訊,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
 
-
-
-澳視澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳視葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-澳門Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳門體育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-澳門資訊,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳門綜藝,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-中國電影頻道,https://live.tvfix.org/live/cmc/index.m3u8
 
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
