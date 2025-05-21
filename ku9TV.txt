@@ -242,7 +242,51 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 凤凰卫视中文台,video://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,video://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,video://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+📺 北京,#genre#
+北京卫视,video://https://www.btime.com/btv/btvsy_index
+北京卫视,http://A/ku9/js/bjtime.js?id=bjws
+北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
+北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
+北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
+北京影视,http://A/ku9/js/bjtime.js?id=bjys
+北京财经,http://A/ku9/js/bjtime.js?id=bjcj
+北京生活,http://A/ku9/js/bjtime.js?id=bjsh
+卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
+北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
 
+北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
+北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
+北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
+
+天津滨海1,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2&type=1
+天津滨海2,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
+天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
+
+📺 上海,#genre#
+东方卫视,video://https://live.kankanews.com/huikan/
+上海新闻综合,video://https://live.kankanews.com/huikan?id=2
+上海都市,video://https://live.kankanews.com/huikan?id=4
+第一财经,video://https://live.kankanews.com/huikan?id=5
+哈哈炫动,video://https://live.kankanews.com/huikan?id=9
+五星体育,video://https://live.kankanews.com/huikan?id=10
+魔都眼video://https://live.kankanews.com/huikan?id=11
+新纪实,video://https://live.kankanews.com/huikan?id=12
+
+东方卫视,http://A/ku9/js/dfws.js?id=1
+上海新闻综合,http://A/ku9/js/dfws.js?id=2
+五星体育,http://A/ku9/js/dfws.js?id=10
+魔都眼,http://A/ku9/js/dfws.js?id=11
+新纪实,http://A/ku9/js/dfws.js?id=12
+上海都市,http://A/ku9/js/dfws.js?id=4
+第一财经,http://A/ku9/js/dfws.js?id=5
+哈哈炫动,http://A/ku9/js/dfws.js?id=9
+
+
+上海新闻综合,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
+魔都眼,video://https://www.shanghaieye.cn/Live
+上海教育,video://https://www.setv.sh.cn/#/tvshow
+上海金山,video://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
+上海嘉定,video://http://m.jdrmt.cn/live/jdtv/
 
 📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
 江苏卫视,video://https://live.jstv.com/?channelId=534
@@ -349,52 +393,7 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 南京少儿,video://https://www.nbs.cn/live/?id=110095
 
 
-📺 北京,#genre#
-北京卫视,video://https://www.btime.com/btv/btvsy_index
 
-北京卫视,http://A/ku9/js/bjtime.js?id=bjws
-北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
-北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
-北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
-北京影视,http://A/ku9/js/bjtime.js?id=bjys
-北京财经,http://A/ku9/js/bjtime.js?id=bjcj
-北京生活,http://A/ku9/js/bjtime.js?id=bjsh
-卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
-北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
-
-北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
-北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
-北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
-
-天津滨海1,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2&type=1
-天津滨海2,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
-天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
-
-📺 上海,#genre#
-东方卫视,video://https://live.kankanews.com/huikan/
-上海新闻综合,video://https://live.kankanews.com/huikan?id=2
-上海都市,video://https://live.kankanews.com/huikan?id=4
-第一财经,video://https://live.kankanews.com/huikan?id=5
-哈哈炫动,video://https://live.kankanews.com/huikan?id=9
-五星体育,video://https://live.kankanews.com/huikan?id=10
-魔都眼video://https://live.kankanews.com/huikan?id=11
-新纪实,video://https://live.kankanews.com/huikan?id=12
-
-东方卫视,http://A/ku9/js/dfws.js?id=1
-上海新闻综合,http://A/ku9/js/dfws.js?id=2
-五星体育,http://A/ku9/js/dfws.js?id=10
-魔都眼,http://A/ku9/js/dfws.js?id=11
-新纪实,http://A/ku9/js/dfws.js?id=12
-上海都市,http://A/ku9/js/dfws.js?id=4
-第一财经,http://A/ku9/js/dfws.js?id=5
-哈哈炫动,http://A/ku9/js/dfws.js?id=9
-
-
-上海新闻综合,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
-魔都眼,video://https://www.shanghaieye.cn/Live
-上海教育,video://https://www.setv.sh.cn/#/tvshow
-上海金山,video://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
-上海嘉定,video://http://m.jdrmt.cn/live/jdtv/
 
 📺 浙江,#genre#
 杭州综合,video://https://www.hoolo.tv/live/
