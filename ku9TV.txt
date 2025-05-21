@@ -124,7 +124,7 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
-🌐 卫视 学习,#genre#
+
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
@@ -165,27 +165,13 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-中天新聞,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
-凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
-凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
-凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
-TVB星河,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
-TVB明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
-Now爆谷台,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
-TVB新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
-TVB新闻,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
-TVB翡翠,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8
-TVB翡翠,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
-TVB华丽,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
-澳門資訊,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
 
 
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -204,7 +190,7 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-🌏港台345,#genre#
+🌏 港台,#genre#
 中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
 东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
 中视新闻,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
