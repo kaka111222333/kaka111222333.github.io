@@ -244,7 +244,7 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 凤凰卫视香港台,video://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 
 
-📺 江苏,#genre#,referer:"https://api.chinaaudiovisual.cn"
+📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
 江苏卫视,video://https://live.jstv.com/?channelId=534
 江苏城市,video://https://live.jstv.com?channelId=535
 江苏综艺,video://https://live.jstv.com?channelId=556
