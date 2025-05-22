@@ -200,17 +200,17 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 镜新闻,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
 寰宇新闻,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新闻台湾,video://https://345iptv.com/?act=play&token=407a789de2a6171d1186502470676658&tid=gt&id=54
-TVBS HD,video://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
+TVBS,video://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
 中视,video://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
 台视,video://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
 民视,video://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
 华视,video://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
 三立台湾,video://https://345iptv.com/?act=play&token=0265941b336fe9ae7719780184222263&tid=gt&id=65
-民视台湾,video://https://345iptv.com/?act=play&token=c6d9df73200f4ddad8ab06ef20666b6c&tid=gt&id=67
-民事第一台,video://https://345iptv.com/?act=play&token=c21f7de45ace20a52af824fcf8185f59&tid=gt&id=68
-民视综艺台,video://https://345iptv.com/?act=play&token=13be0e850d86572cee368adaf13fdaeb&tid=gt&id=69
-民视旅游台,video://https://345iptv.com/?act=play&token=1efbe9047a31f62d228c66b0ef58817d&tid=gt&id=70
-民视影剧台,video://https://345iptv.com/?act=play&token=a6b935a8e7bfaa68380a210d1ea99562&tid=gt&id=71
+民視台湾,video://https://345iptv.com/?act=play&token=c6d9df73200f4ddad8ab06ef20666b6c&tid=gt&id=67
+民視第一台,video://https://345iptv.com/?act=play&token=c21f7de45ace20a52af824fcf8185f59&tid=gt&id=68
+民視綜藝台,video://https://345iptv.com/?act=play&token=13be0e850d86572cee368adaf13fdaeb&tid=gt&id=69
+民視旅遊台,video://https://345iptv.com/?act=play&token=1efbe9047a31f62d228c66b0ef58817d&tid=gt&id=70
+民視影劇台,video://https://345iptv.com/?act=play&token=a6b935a8e7bfaa68380a210d1ea99562&tid=gt&id=71
 纬来体育,video://https://345iptv.com/?act=play&token=57c9437e4199b1cfc1e163c64de09a8b&tid=gt&id=73
 纬来育乐,video://https://345iptv.com/?act=play&token=af27fd614d343024c3110cd61530b6b0&tid=gt&id=75
 纬来日本,video://https://345iptv.com/?act=play&token=27da63cc16ba8f4b83cd1a46a46e7c09&tid=gt&id=74
