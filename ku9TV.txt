@@ -400,7 +400,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 张家港,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=szzjg
 南通,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=ntxw
 连云港,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=lygxw
-东海,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=lygdh
 淮安,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hazh
 盱眙,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=haxy
 洪泽,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hahz
@@ -440,7 +439,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 杭州青少体育,video://https://tv.hoolo.tv/hzse/
 杭州导视,video://https://tv.hoolo.tv/ydds/
 
-
 浙江卫视,video://https://www.cztv.com/liveTV/101
 钱江,video://https://www.cztv.com/liveTV/102
 浙江经济生活,video://https://www.cztv.com/liveTV/103
@@ -473,11 +471,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 杭州导视,http://A/ku9/js/hztv.js?id=hzds
 富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
-
-
-
-
-
 📺 山东,#genre#
 青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
 青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
@@ -492,8 +485,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
 青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
 青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
-
-
 
 济南新闻综合,http://A/ku9/js/jinan.js?id=1676
 济南生活,http://A/ku9/js/jinan.js?id=1855
@@ -547,74 +538,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
 潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-
-📺 四川,#genre#
-成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
-成都经济,http://A/ku9/js/cdtv.js?id=cdjjzx
-成都生活,http://A/ku9/js/cdtv.js?id=cddssh
-成都影视,http://A/ku9/js/cdtv.js?id=cdyswy
-成都公共,http://A/ku9/js/cdtv.js?id=cdgg
-成都少儿,http://A/ku9/js/cdtv.js?id=cdse
-
-成都蓉城先锋,http://A/ku9/js/cdtv.js?id=cdrcxf
-
-金牛电视台,http://A/ku9/js/cdtv.js?id=jntv
-双流综合,http://A/ku9/js/cdtv.js?id=slzh
-温江电视台,http://A/ku9/js/cdtv.js?id=wjtv
-高新电视台,http://A/ku9/js/cdtv.js?id=gxtv
-新津电视台,http://A/ku9/js/cdtv.js?id=xjtv
-大邑综合,http://A/ku9/js/cdtv.js?id=dyxwzh
-彭州电视台,http://A/ku9/js/cdtv.js?id=pztv
-蒲江电视台,http://A/ku9/js/cdtv.js?id=pjtv
-锦江电视台,http://A/ku9/js/cdtv.js?id=jjtv
-金堂电视台,http://A/ku9/js/cdtv.js?id=jttv
-郫都新闻综合,http://A/ku9/js/cdtv.js?id=pdxwzh
-龙泉综合,http://A/ku9/js/cdtv.js?id=lqzh
-青羊电视台,http://A/ku9/js/cdtv.js?id=qytv
-青白江电视台,http://A/ku9/js/cdtv.js?id=qbjtv
-崇州电视1套,http://A/ku9/js/cdtv.js?id=cztv
-都江堰电视台,http://A/ku9/js/cdtv.js?id=djytv
-成华有线,http://A/ku9/js/cdtv.js?id=chyx
-邛崃电视台,http://A/ku9/js/cdtv.js?id=qltv
-武侯电视台,http://A/ku9/js/cdtv.js?id=whtv
-新都电视台,http://A/ku9/js/cdtv.js?id=xdzh
-简阳新闻综合,http://A/ku9/js/cdtv.js?id=jyxwzh
-
-资阳新闻综合,http://A/ku9/js/anyue.js?id=1
-雁江频道,http://A/ku9/js/anyue.js?id=4
-雁江频道,http://A/ku9/js/anyue.js?id=7
-安岳综合,http://A/ku9/js/anyue.js?id=10
-资阳新闻综合,http://A/ku9/js/anyue.js?id=12
-
-
-四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv
-四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv
-四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv
-四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv
-峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
-
-
-📺 云南,#genre#
-云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
-云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
-云娃娃3南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
-康旅频道,http://A/ku9/js/yunnan.js?id=yunnangonggong
-澜湄国际,http://A/ku9/js/yunnan.js?id=yunnanguoji
-云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
-
-
-
-📺 广西,#genre#
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-广西移动,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
 📺 陕西,#genre#
@@ -769,10 +692,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 福建少儿,video://https://live.fjtv.net/sepd/
 
 
-
-
-
-
 ﻿📺 河北,#genre#
 河北卫视,http://A/ku9/js/hebeidf.js?id=hbws&key=FKJ
 河北经济,http://A/ku9/js/hebeidf.js?id=jjsh&key=FKJ
@@ -899,13 +818,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 嘉禾新闻综合,http://AAAA/PLTV/ku9/js/hny.js?id=jhxwzh&key=关注公共号❤：AI科技生活
 安化综合,http://AAAA/PLTV/ku9/js/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 
-
-
-
-
-
 📺 河南,#genre#
-
 郑州新闻综合,http://A/ku9/js/zhengzhou.js?id=595660085175275520&key=关注公共号❤：AI科技生活
 郑州商都频道,http://A/ku9/js/zhengzhou.js?id=595659997191360512&key=关注公共号❤：AI科技生活
 郑州文体旅游,http://A/ku9/js/zhengzhou.js?id=595659904266555392&key=关注公共号❤：AI科技生活
@@ -1007,8 +920,74 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 湖北垄上,video://https://news.hbtv.com.cn/app/tv/438
 湖北教育,video://https://news.hbtv.com.cn/app/tv/437
 
+📺 江西,#genre#
+南昌综合,http://A/ku9/js/jxtv.js?id=nczh
+南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
+南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
+📺 西南,#genre#
+成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
+成都经济,http://A/ku9/js/cdtv.js?id=cdjjzx
+成都生活,http://A/ku9/js/cdtv.js?id=cddssh
+成都影视,http://A/ku9/js/cdtv.js?id=cdyswy
+成都公共,http://A/ku9/js/cdtv.js?id=cdgg
+成都少儿,http://A/ku9/js/cdtv.js?id=cdse
 
-📺 新疆,#genre#
+成都蓉城先锋,http://A/ku9/js/cdtv.js?id=cdrcxf
+
+金牛电视台,http://A/ku9/js/cdtv.js?id=jntv
+双流综合,http://A/ku9/js/cdtv.js?id=slzh
+温江电视台,http://A/ku9/js/cdtv.js?id=wjtv
+高新电视台,http://A/ku9/js/cdtv.js?id=gxtv
+新津电视台,http://A/ku9/js/cdtv.js?id=xjtv
+大邑综合,http://A/ku9/js/cdtv.js?id=dyxwzh
+彭州电视台,http://A/ku9/js/cdtv.js?id=pztv
+蒲江电视台,http://A/ku9/js/cdtv.js?id=pjtv
+锦江电视台,http://A/ku9/js/cdtv.js?id=jjtv
+金堂电视台,http://A/ku9/js/cdtv.js?id=jttv
+郫都新闻综合,http://A/ku9/js/cdtv.js?id=pdxwzh
+龙泉综合,http://A/ku9/js/cdtv.js?id=lqzh
+青羊电视台,http://A/ku9/js/cdtv.js?id=qytv
+青白江电视台,http://A/ku9/js/cdtv.js?id=qbjtv
+崇州电视1套,http://A/ku9/js/cdtv.js?id=cztv
+都江堰电视台,http://A/ku9/js/cdtv.js?id=djytv
+成华有线,http://A/ku9/js/cdtv.js?id=chyx
+邛崃电视台,http://A/ku9/js/cdtv.js?id=qltv
+武侯电视台,http://A/ku9/js/cdtv.js?id=whtv
+新都电视台,http://A/ku9/js/cdtv.js?id=xdzh
+简阳新闻综合,http://A/ku9/js/cdtv.js?id=jyxwzh
+
+资阳新闻综合,http://A/ku9/js/anyue.js?id=1
+雁江频道,http://A/ku9/js/anyue.js?id=4
+雁江频道,http://A/ku9/js/anyue.js?id=7
+安岳综合,http://A/ku9/js/anyue.js?id=10
+资阳新闻综合,http://A/ku9/js/anyue.js?id=12
+
+四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv
+四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv
+四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv
+四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv
+峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
+
+云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
+云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
+云娃娃3南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
+康旅频道,http://A/ku9/js/yunnan.js?id=yunnangonggong
+澜湄国际,http://A/ku9/js/yunnan.js?id=yunnanguoji
+云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
+
+广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
+广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
+广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
+广西移动,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
+CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+
+
+📺 西北,#genre#
 新疆1套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
@@ -1042,33 +1021,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 巴音郭楞州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
 塔城,video://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
 
-
-📺 宁夏,#genre#
-宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
-宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
-银川公共,http://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=2047003360-0911317aa34f4ed4b41b901dea63cd33-0-a7087c16facd79edbaf02551ca74fc4c
-银川生活,http://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=2047003417-dcdd449844a342e6b94327dc8f9a460f-0-cfe6b90673d38f1b0e9757ed2c02294e
-银川文体,http://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=2047003433-3f38915f559b468f903fcab5053e8bb2-0-d536d0b56aa3e92f7a640c5ab738aaf7
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8 
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8 
-宁夏卫视,,video://https://www.nxtv.com.cn/live/wsh/
-
-西藏卫视,video://http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
-
-
-📺 甘肃,#genre#
-兰州新闻综合,http://A/ku9/js/lanzhou.js?id=xwzh
-兰州文旅频道,http://A/ku9/js/lanzhou.js?id=wlpd
-甘肃卫视,http://A/ku9/js/gansu.js?id=gsws
-甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
-文化影视,http://A/ku9/js/gansu.js?id=whys
-公共应急,http://A/ku9/js/gansu.js?id=ggyj
-少儿频道,http://A/ku9/js/gansu.js?id=sepd
-科教频道,http://A/ku9/js/gansu.js?id=kjpd
-移动电视,http://A/ku9/js/gansu.js?id=ydds
-
-
-📺 青藏,#genre#
 青海卫视,video://http://www.qhbtv.com/new_index/live/folder2646/
 青海经视,video://http://www.qhbtv.com/new_index/live/folder2647/
 青海都市,video://http://www.qhbtv.com/new_index/live/folder2648/
@@ -1078,8 +1030,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 拉萨3文化旅游,http://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
 
 
-
-📺 内蒙,#genre#
 内蒙古卫视,video://https://www.nmtv.cn/liveTv
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
@@ -1093,15 +1043,30 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 巴彦淖尔,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 赤峰,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-1,https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
+宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
+银川公共,http://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=2047003360-0911317aa34f4ed4b41b901dea63cd33-0-a7087c16facd79edbaf02551ca74fc4c
+银川生活,http://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=2047003417-dcdd449844a342e6b94327dc8f9a460f-0-cfe6b90673d38f1b0e9757ed2c02294e
+银川文体,http://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=2047003433-3f38915f559b468f903fcab5053e8bb2-0-d536d0b56aa3e92f7a640c5ab738aaf7
+石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8 
+石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8 
+宁夏卫视,,video://https://www.nxtv.com.cn/live/wsh/
+
+西藏卫视,video://http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 
 
 
+兰州新闻综合,http://A/ku9/js/lanzhou.js?id=xwzh
+兰州文旅频道,http://A/ku9/js/lanzhou.js?id=wlpd
+甘肃卫视,http://A/ku9/js/gansu.js?id=gsws
+甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
+文化影视,http://A/ku9/js/gansu.js?id=whys
+公共应急,http://A/ku9/js/gansu.js?id=ggyj
+少儿频道,http://A/ku9/js/gansu.js?id=sepd
+科教频道,http://A/ku9/js/gansu.js?id=kjpd
+移动电视,http://A/ku9/js/gansu.js?id=ydds
 
-📺 江西,#genre#
-南昌综合,http://A/ku9/js/jxtv.js?id=nczh
-南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
-南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
+
 
 
 
@@ -1122,158 +1087,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
 延边卫视,video://https://www.yb983.com/cys/index.html
 延边综合,video://https://www.yb983.com/ybtv2/index.html
-
-
-📺 虎牙,#genre#
-大场面战争片,,video://https://www.huya.com/21059574
-刘德华,video://https://www.huya.com/11342424
-周星驰,,video://https://www.huya.com/11342412
-经典港片,,video://https://www.huya.com/11352965
-
-不挤影院,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352897
-来学历史-从秦始皇到汉武帝,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059578
-西游记解说,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/30296971
-西游记,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/26355861
-87版红楼梦,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/30080221
-新三国,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352944
-老三国,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602081
-新水浒,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342384
-五福星,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11282233
-使徒行者,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23734256
-倚天屠龙记,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23734246
-八点档,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/880261
-冯小刚,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352906
-刑事侦缉档案,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23734169
-创世纪,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23749083
-剧集_地下交通站,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342433
-剧集_士兵突击,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11319774
-剧集_庆余年,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352960
-
-
-剧集_武林外传,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059598
-剧集_爱情公寓,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336726
-剧集_纪晓岚,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342396
-
-剧集_邻里一家亲,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342426
-剧集_雍正王朝,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342439
-功夫片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352941
-动作电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602077
-发哥,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342387
-变形金刚,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059596
-古墓系列,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352913
-古天乐,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602041
-古装片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336590
-周星星,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336587
-周海媚,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11279247
-周润发,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342387
-喜乐影院,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059580
-喜剧,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352877
-喜剧专场,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602044
-国产,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352973
-国产悬疑,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342395
-大唐双龙传,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23728674
-大时代,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865161
-剧集_天龙八部97版,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23903123
-妙手仁心,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23829543
-嫣然影厅,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601977
-孙悟空,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23735126
-宇宙,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342428
-寻秦记,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23864973
-小马的直播间,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23749096
-小鬼头,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352963
-张卫健版西游记,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23728660
-强森,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059581
-徐克,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352909
-徐峥,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602043
-快意江湖,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342435
-怪兽,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059577
-怪兽系列,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059554
-成龙,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342386
-战争,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059592
-扫黄先锋,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23903196
-推荐,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602041
-搞笑_陈翔六点半,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11274154
-搞笑喜剧,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342423
-搞笑恐怖,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601960
-救援,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059594
-斗罗大陆,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352906
-斯坦森,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059588
-星爷,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342412
-曾江,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601981
-李连杰,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342390
-林正英,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342421
-枪战,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059579
-梁家辉,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342429
-梁朝伟版鹿鼎记,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23734183
-楚汉骄雄,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23740156
-欢笑影院,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352894
-武侠,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342427
-死神来了,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352903
-沈腾,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601968
-法证先锋,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23863804
-洗冤录,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23903130
-洪金宝,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11279251
-海盗,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059595
-港片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602043
-漫威,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602034
-灾难片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602075
-热血,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352934
-犯罪片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352974
-玄幻,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342414
-王晶,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602058
-甄子丹,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352935
-盗墓,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059552
-神雕侠侣,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865171
-笑傲江湖,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865142
-笑看风云,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865058
-罪犯,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352962
-英叔,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342421
-蘑菇影厅,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601981
-蜘蛛侠,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059599
-解说_乌贼说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16604522
-解说_亮哥讲电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16144175
-解说_冷君说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16739452
-解说_大象放映室,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21277391
-解说_小冉看电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/17341907
-解说_小川侃电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/15870999
-解说_恐怖电影解说,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16741179
-解说_扁豆看电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16028551
-解说_斌哥漫说,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/18632116
-解说_涵哥评电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16865726
-解说_科幻梦工场,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/15152155
-解说_续哥说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/24396472
-解说_老皮讲电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16968572
-解说_虎妞说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/20343144
-解说_越哥说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/15894162
-解说_阿斗说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/13303478
-解说_阿翔说电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16868935
-解说_阿良说剧,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/20488841
-解说_鱼丸电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/16615910
-解说_鹿哥电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/24396360
-解说_默爷侃电影,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/17204307
-警匪,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352886
-许冠英,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601972
-许氏三杰,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11602033
-谍战,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059585
-谍战片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059587
-贺岁,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601971
-贺岁片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11601986
-赛车,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11279247
-超异能族,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059586
-邱淑贞,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352949
-金枝欲孽,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865036
-鉴证实录,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23903183
-镖行天下,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352969
-陀枪师姐,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23860039
-高分动作,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352884
-高能反转,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352887
-鹿鼎记小春版,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/23865080
-黄渤,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352876
-黑帮斗争,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11342419
-黑帮片,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11336719
-
-
-
 
 
 
