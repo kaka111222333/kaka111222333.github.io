@@ -1568,4 +1568,4 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 /share/dHZsLTExNy01.html
 泗水文化生活,video://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
 汶上综合,video://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
-汶上生活,video://https://iapp.wstvs.com/s
+汶上生活,video://https://iapp.wstvs.com/share/dHZsLTMwMS0z.html
