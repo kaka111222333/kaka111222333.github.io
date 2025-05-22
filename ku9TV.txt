@@ -165,31 +165,10 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
-
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
-🌏 港台,#genre#
 中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
 东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
 中视新闻,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
@@ -241,6 +220,24 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 凤凰卫视中文台,video://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,video://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,video://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
 📺 北京,#genre#
 北京卫视,video://https://www.btime.com/btv/btvsy_index
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
