@@ -35,7 +35,7 @@ CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
-
+CCTV-1 香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 
 
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/
