@@ -442,9 +442,21 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -452,34 +464,9 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-
-民视,rtmp://f13h.mine.nu/sat/tv051
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-momoTV,rtmp://f13h.mine.nu/sat/tv761
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
-
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -488,6 +475,7 @@ Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 
 🌏  各地,#genre#
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
