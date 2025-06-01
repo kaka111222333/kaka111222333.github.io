@@ -279,35 +279,17 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
-📺 北京,#genre#
-北京卫视,video://https://www.btime.com/btv/btvsy_index
+📺 北京上海,#genre#
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
 北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
-北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
 北京影视,http://A/ku9/js/bjtime.js?id=bjys
 北京财经,http://A/ku9/js/bjtime.js?id=bjcj
 北京生活,http://A/ku9/js/bjtime.js?id=bjsh
 卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
 北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
+北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
 
-北京顺义,video://http://web.sydst.chinamcloud.com/sydst_html/dszb/55291758.shtml?share=true
-北京延庆,video://https://nwww.yanqingrmzx.com/html/rft/live.html?channelId=0150d66417844cbea1baf553e32eac83&type=1
-北京昌平,video://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
-
-天津滨海1,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=8450fb309c3745ab8956af56a2d498a2&type=1
-天津滨海2,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
-天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
-
-📺 上海,#genre#
-东方卫视,video://https://live.kankanews.com/huikan/
-上海新闻综合,video://https://live.kankanews.com/huikan?id=2
-上海都市,video://https://live.kankanews.com/huikan?id=4
-第一财经,video://https://live.kankanews.com/huikan?id=5
-哈哈炫动,video://https://live.kankanews.com/huikan?id=9
-五星体育,video://https://live.kankanews.com/huikan?id=10
-魔都眼video://https://live.kankanews.com/huikan?id=11
-新纪实,video://https://live.kankanews.com/huikan?id=12
 
 东方卫视,http://A/ku9/js/dfws.js?id=1
 上海新闻综合,http://A/ku9/js/dfws.js?id=2
@@ -319,22 +301,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 哈哈炫动,http://A/ku9/js/dfws.js?id=9
 
 
-上海新闻综合,video://https://bp-share.bestv.com.cn/live/livePage.html?liveId=6156
-魔都眼,video://https://www.shanghaieye.cn/Live
-上海教育,video://https://www.setv.sh.cn/#/tvshow
-上海金山,video://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
-上海嘉定,video://http://m.jdrmt.cn/live/jdtv/
-
 📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
-江苏卫视,video://https://live.jstv.com/?channelId=534
-江苏城市,video://https://live.jstv.com?channelId=535
-江苏综艺,video://https://live.jstv.com?channelId=556
-江苏影视,video://https://live.jstv.com?channelId=542
-江苏新闻,video://https://live.jstv.com?channelId=536
-江苏教育,video://https://live.jstv.com?channelId=545
-江苏体育,video://https://live.jstv.com?channelId=537
-江苏国际,video://https://live.jstv.com?channelId=544
-优漫卡通,video://https://live.jstv.com?channelId=543
 
 江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
@@ -373,6 +340,16 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 靖江,https://zjcn-live-play.jstv.com/live/jingjiang.m3u8
 宿迁,https://zjcn-live-play.jstv.com/live/suqian.m3u8
 泗阳,https://zjcn-live-play.jstv.com/live/siyang.m3u8
+
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏城市,video://https://live.jstv.com?channelId=535
+江苏综艺,video://https://live.jstv.com?channelId=556
+江苏影视,video://https://live.jstv.com?channelId=542
+江苏新闻,video://https://live.jstv.com?channelId=536
+江苏教育,video://https://live.jstv.com?channelId=545
+江苏体育,video://https://live.jstv.com?channelId=537
+江苏国际,video://https://live.jstv.com?channelId=544
+优漫卡通,video://https://live.jstv.com?channelId=543
 
 江苏卫视,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsws
 江苏城市,http://A/ku9/js/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jscs
