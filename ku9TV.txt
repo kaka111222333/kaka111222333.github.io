@@ -111,6 +111,10 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 日照公共,http://10.26.0.23:4000/udp/239.253.224.250:8000
 岚山电视台,http://10.26.0.23:4000/udp/239.253.224.252:8000
 莒县电视台,http://10.26.0.23:4000/udp/239.253.224.251:8000
+
+五莲,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
+五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
+
 山东少儿,http://10.26.0.23:4000/udp/239.253.224.25:8000
 山东体育,http://10.26.0.23:4000/udp/239.253.224.22:8000
 山东齐鲁,http://10.26.0.23:4000/udp/239.253.224.114:8000
@@ -402,17 +406,6 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 重温经典小品,http://A/ku9/js/虎牙.js?id=29982631
 百家讲坛,http://A/ku9/js/虎牙.js?id=11602032
 
-日照,#genre#
-日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
-日照综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
-
-五莲,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
-五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
-莒县,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
-莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
-岚山,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
-
 
 青岛,#genre#
 胶州,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
@@ -428,6 +421,13 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 黄岛综合,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0x.html
 黄岛生活,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0z.html
 城阳X,video://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.htm
+
+青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
+青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 
 五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
 奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
@@ -905,73 +905,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1 
 
 
-📺 青岛,#genre#
-青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
 
-济南新闻综合,http://A/ku9/js/jinan.js?id=1676
-济南生活,http://A/ku9/js/jinan.js?id=1855
-济南都市,http://A/ku9/js/jinan.js?id=1807
-济南文旅体育,http://A/ku9/js/jinan.js?id=1842
-济南少儿,http://A/ku9/js/jinan.js?id=2234
-济南鲁中,http://A/ku9/js/jinan.js?id=1857
-
-威海海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8 
-威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
-威海新闻综合,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8 
-菏泽新闻,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-菏泽经济,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-菏泽影视,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
-聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
-聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
-
-
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东齐鲁,video://https://v.iqilu.com/live/qlpd/
-山东体育,video://https://v.iqilu.com/live/typd/
-山东生活,video://https://v.iqilu.com/live/shpd/
-山东综艺,video://https://v.iqilu.com/live/zypd/
-山东新闻,video://https://v.iqilu.com/live/ggpd/
-山东农科,video://https://v.iqilu.com/live/nkpd/
-山东文旅,video://https://v.iqilu.com/live/yspd/
-山东少儿,video://https://v.iqilu.com/live/sepd/
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东齐鲁,video://https://v.iqilu.com/live/qlpd/
-山东体育,video://https://v.iqilu.com/live/typd/
-山东生活,video://https://v.iqilu.com/live/shpd/
-山东综艺,video://https://v.iqilu.com/live/zypd/
-山东新闻,video://https://v.iqilu.com/live/ggpd/
-山东农科,video://https://v.iqilu.com/live/nkpd/
-山东文旅,video://https://v.iqilu.com/live/yspd/
-山东少儿,video://https://v.iqilu.com/live/sepd/
-
-日照综合,video://https://www.rzw.com.cn/folder247/folder2217/
-临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
-临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
-威海新闻综合,video://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,video://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,video://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-泰安综合,video://http://www.1545ts.com/zhibo/taian/zhibotatv1.html
-泰安经济生活,video://http://www.1545ts.com/zhibo/taian/zhibotatv2.html
-枣庄公共,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
-聊城综合,video://https://www.lcxw.cn/kands/?tag=0
-潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 
 
 📺 陕西,#genre#
