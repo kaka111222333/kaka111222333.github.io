@@ -1057,24 +1057,25 @@ CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 
 
 日照,#genre#
-日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
-日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
 日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
-岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
-五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
+日照综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
+日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
+
+五莲,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
 五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
-莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
+莒县,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
+岚山,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 
 
 青岛,#genre#
-胶州综合,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
+胶州,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
 胶州生活,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
-崂山电视台,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
+崂山,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
 李沧,video://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
-即墨综合,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
+即墨,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
 即墨生活服务,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0z.html
-莱西综合,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html
+莱西,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html
 莱西生活,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0z.html
 平度新闻综合,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTQ.html
 平度生活服务,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTU.html
