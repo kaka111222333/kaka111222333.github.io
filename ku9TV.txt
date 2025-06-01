@@ -302,7 +302,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
 📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
-
+连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
 江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
 江苏影视,https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
@@ -312,8 +312,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 江苏新闻,https://zjcn-live-play.jstv.com/live/jsxw_live.m3u8
 江苏国际,https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
 优漫卡通,https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
-连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
-东海,https://zjcn-live-play.jstv.com/live/donghai.m3u8
+
 南京,https://zjcn-live-play.jstv.com/live/nanjing.m3u8
 苏州,https://zjcn-live-play.jstv.com/live/suzhou.m3u8
 常州,https://zjcn-live-play.jstv.com/live/changzhou.m3u8
