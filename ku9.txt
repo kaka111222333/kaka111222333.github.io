@@ -1088,7 +1088,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 📺 虎牙,#genre#
-大场面战争片,,video://https://www.huya.com/21059574
+大场面战争片,video://https://www.huya.com/21059574
 刘德华,video://https://www.huya.com/11342424
 周星驰,,video://https://www.huya.com/11342412
 经典港片,,video://https://www.huya.com/11352965
@@ -1241,15 +1241,14 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 日照,#genre#
-日照新闻综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
+日照综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
 日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
-岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 五莲综合,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
 五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
 莒县综合,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
-
+岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 
 青岛,#genre#
 胶州综合,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
