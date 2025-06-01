@@ -41,6 +41,9 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 🌐 卫视,#genre#
+凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
+凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
+凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
 浙江卫视,http://10.26.0.23:4000/udp/239.253.224.84:8000
@@ -199,17 +202,7 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
 
-🌏 港台,#genre#
-凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
-凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
-凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
-澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
-澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-
-法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-
+🌏 台湾,#genre#
 中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
 东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
 中视新闻,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
@@ -278,6 +271,13 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
 
 📺 北京,#genre#
 北京卫视,video://https://www.btime.com/btv/btvsy_index
