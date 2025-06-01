@@ -408,6 +408,13 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
 📺 浙江,#genre#
+杭州综合,http://A/ku9/js/hztv.js?id=hzzh
+杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
+杭州生活,http://A/ku9/js/hztv.js?id=hzsh
+杭州影视,http://A/ku9/js/hztv.js?id=hzys
+杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
+杭州导视,http://A/ku9/js/hztv.js?id=hzds
+富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 杭州综合,video://https://www.hoolo.tv/live/
 杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
 杭州生活,video://https://tv.hoolo.tv/hzsh/
@@ -439,15 +446,9 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 浙江少儿,https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9 
 浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a 
 之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1 
-杭州综合,http://A/ku9/js/hztv.js?id=hzzh
-杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
-杭州生活,http://A/ku9/js/hztv.js?id=hzsh
-杭州影视,http://A/ku9/js/hztv.js?id=hzys
-杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
-杭州导视,http://A/ku9/js/hztv.js?id=hzds
-富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
-📺 山东,#genre#
+
+📺 青岛,#genre#
 青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
 青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
@@ -584,8 +585,6 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 西安丝路频道,https://xatv-yt.xiancity.cn/live/5/index.m3u8
 
 
-
-📺 山西,#genre#
 山西卫视,http://A/ku9/js/shenzhen.js?id=sxiws
 山西经济,http://A/ku9/js/shenzhen.js?id=sxjj
 山西影视,http://A/ku9/js/shenzhen.js?id=sxys
@@ -656,7 +655,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 宣城综合,http://A/ku9/js/anhuidf.js?id=xczh&key=关注公共号❤：AI科技生活
 
 
-📺 福建,#genre#
+
 福建新闻,video://https://live.fjtv.net/xwpd/
 福建公共,video://https://live.fjtv.net/ggpd/
 福建旅游,video://https://live.fjtv.net/dspd/
@@ -667,15 +666,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 福建文体,video://https://live.fjtv.net/typd/
 福建少儿,video://https://live.fjtv.net/sepd/
 
-
-﻿📺 河北,#genre#
-河北卫视,http://A/ku9/js/hebeidf.js?id=hbws&key=FKJ
-河北经济,http://A/ku9/js/hebeidf.js?id=jjsh&key=FKJ
-农民频道,http://A/ku9/js/hebeidf.js?id=nmpd&key=FKJ
-河北都市,http://A/ku9/js/hebeidf.js?id=hbds&key=FKJ
-河北影视剧,http://A/ku9/js/hebeidf.js?id=hbys&key=FKJ
-河北少儿科教,http://A/ku9/js/hebeidf.js?id=sekj&key=FKJ
-河北公共,http://A/ku9/js/hebeidf.js?id=hbgg&key=FKJ
 
 石家庄新闻综合,http://A/ku9/js/shijiaz.js?id=4
 石家庄城市服务,http://A/ku9/js/shijiaz.js?id=5
