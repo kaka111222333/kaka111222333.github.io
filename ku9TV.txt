@@ -13,7 +13,6 @@ CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
 CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
 CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
 CHC影迷电影,http://10.26.0.23:4000/udp/239.253.224.154:8000
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 CCTV-7 国防军事,http://10.26.0.23:4000/udp/239.253.224.233:8000
 CCTV-8 电视剧,http://10.26.0.23:4000/udp/239.253.224.194:8000
 CCTV-9 纪录,http://10.26.0.23:4000/udp/239.253.224.79:8000
@@ -26,7 +25,7 @@ CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
 CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
-
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
@@ -34,11 +33,7 @@ CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveR
 CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
-CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264
-CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
-CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+
 
 🌐 卫视,#genre#
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
@@ -50,7 +45,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
 东方卫视,http://10.26.0.23:4000/udp/239.253.224.86:8000
 北京卫视,http://10.26.0.23:4000/udp/239.253.224.85:8000
-北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
 北京纪实科教,http://10.26.0.23:4000/udp/239.253.224.165:8000
 广东卫视,http://10.26.0.23:4000/udp/239.253.224.90:8000
 深圳卫视,http://10.26.0.23:4000/udp/239.253.224.91:8000
@@ -99,7 +93,7 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 哈哈炫动,http://10.26.0.23:4000/udp/239.253.224.63:8000
 优漫卡通,http://10.26.0.23:4000/udp/239.253.224.64:8000
 嘉佳卡通,http://10.26.0.23:4000/udp/239.253.224.65:8000
-
+北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
