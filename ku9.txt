@@ -291,6 +291,7 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
 
+连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
 江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
 江苏城市,https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
 江苏影视,https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
@@ -300,7 +301,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 江苏新闻,https://zjcn-live-play.jstv.com/live/jsxw_live.m3u8
 江苏国际,https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
 优漫卡通,https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
-连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
 南京,https://zjcn-live-play.jstv.com/live/nanjing.m3u8
 苏州,https://zjcn-live-play.jstv.com/live/suzhou.m3u8
 常州,https://zjcn-live-play.jstv.com/live/changzhou.m3u8
@@ -395,7 +395,7 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 
-📺 浙江,#genre#
+📺 各地,#genre#
 杭州综合,video://https://www.hoolo.tv/live/
 杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
 杭州生活,video://https://tv.hoolo.tv/hzsh/
@@ -437,11 +437,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
 
-
-
-
-
-📺 山东,#genre#
 青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
 青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
 青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
@@ -511,7 +506,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
 潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 
-📺 四川,#genre#
 成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
 成都经济,http://A/ku9/js/cdtv.js?id=cdjjzx
 成都生活,http://A/ku9/js/cdtv.js?id=cddssh
@@ -557,7 +551,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
 
 
-📺 云南,#genre#
 云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
 云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
 云娃娃3南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
@@ -566,8 +559,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
 
 
-
-📺 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
@@ -579,8 +570,6 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
-
-📺 陕西,#genre#
 
 陕西卫视,http://A/ku9/js/shaanxi2.js?id=1131
 陕西起点http://stream.snrtv.com/sxbc-star-inHJPS.m3u8
@@ -648,8 +637,6 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 西安丝路频道,https://xatv-yt.xiancity.cn/live/5/index.m3u8
 
 
-
-📺 山西,#genre#
 山西卫视,http://A/ku9/js/shenzhen.js?id=sxiws
 山西经济,http://A/ku9/js/shenzhen.js?id=sxjj
 山西影视,http://A/ku9/js/shenzhen.js?id=sxys
@@ -694,7 +681,7 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 运城-1,http://A/ku9/js/shanxidf.js?id=4
 保德综合,http://A/ku9/js/baode.js?id=https://rmtzx.bdxrmtzx.com/api/media/channelMore?siteId=1%26pageNoNum=1%26pageSizeNum=9%26typeId=1
 
-📺 安徽,#genre#
+
 安徽卫视,http://A/ku9/js/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
 安徽国际,http://A/ku9/js/anhui.js?id=ahgj&key=关注公共号❤：AI科技生活
 安徽经济生活,http://A/ku9/js/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
@@ -720,7 +707,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 宣城综合,http://A/ku9/js/anhuidf.js?id=xczh&key=关注公共号❤：AI科技生活
 
 
-📺 福建,#genre#
 福建新闻,video://https://live.fjtv.net/xwpd/
 福建公共,video://https://live.fjtv.net/ggpd/
 福建旅游,video://https://live.fjtv.net/dspd/
@@ -732,11 +718,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 福建少儿,video://https://live.fjtv.net/sepd/
 
 
-
-
-
-
-﻿📺 河北,#genre#
 河北卫视,http://A/ku9/js/hebeidf.js?id=hbws&key=FKJ
 河北经济,http://A/ku9/js/hebeidf.js?id=jjsh&key=FKJ
 农民频道,http://A/ku9/js/hebeidf.js?id=nmpd&key=FKJ
@@ -797,7 +778,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 张家口公共频道,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 
 
-📺 湖南,#genre#
 湖南电影,video://https://live.mgtv.com/?channelId=221
 湖南电视剧,video://https://live.mgtv.com/?channelId=484
 湖南经视,video://https://live.mgtv.com/?channelId=280
@@ -864,11 +844,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 
-
-
-
-📺 河南,#genre#
-
 郑州新闻综合,http://A/ku9/js/zhengzhou.js?id=595660085175275520&key=关注公共号❤：AI科技生活
 郑州商都频道,http://A/ku9/js/zhengzhou.js?id=595659997191360512&key=关注公共号❤：AI科技生活
 郑州文体旅游,http://A/ku9/js/zhengzhou.js?id=595659904266555392&key=关注公共号❤：AI科技生活
@@ -926,7 +901,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 河南公共,http://A/ku9/js/henan.js?id=hngg&key=关注公共号❤：AI科技生活
 河南乡村,http://A/ku9/js/henan.js?id=hnxc&key=关注公共号❤：AI科技生活
 
-📺 广东,#genre#
 南国都市,http://A/ku9/js/gz.js?id=nd
 广州综合,http://A/ku9/js/gz.js?id=zh
 广州新闻,http://A/ku9/js/gz.js?id=xw
@@ -948,8 +922,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 东莞新闻综合,video://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活,video://https://dgrtv.sun0769.com/index.php/online2/5
 
-
-📺 海南,#genre#
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
@@ -961,7 +933,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 
-📺 湖北,#genre#
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 湖北经视,video://https://news.hbtv.com.cn/app/tv/432
 湖北综合,video://https://news.hbtv.com.cn/app/tv/433
@@ -971,7 +942,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 湖北教育,video://https://news.hbtv.com.cn/app/tv/437
 
 
-📺 新疆,#genre#
+📺 西北,#genre#
 新疆1套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
@@ -1006,7 +977,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 塔城,video://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
 
 
-📺 宁夏,#genre#
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 银川公共,http://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=2047003360-0911317aa34f4ed4b41b901dea63cd33-0-a7087c16facd79edbaf02551ca74fc4c
@@ -1018,8 +988,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 西藏卫视,video://http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 
-
-📺 甘肃,#genre#
 兰州新闻综合,http://A/ku9/js/lanzhou.js?id=xwzh
 兰州文旅频道,http://A/ku9/js/lanzhou.js?id=wlpd
 甘肃卫视,http://A/ku9/js/gansu.js?id=gsws
@@ -1030,8 +998,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 科教频道,http://A/ku9/js/gansu.js?id=kjpd
 移动电视,http://A/ku9/js/gansu.js?id=ydds
 
-
-📺 青藏,#genre#
 青海卫视,video://http://www.qhbtv.com/new_index/live/folder2646/
 青海经视,video://http://www.qhbtv.com/new_index/live/folder2647/
 青海都市,video://http://www.qhbtv.com/new_index/live/folder2648/
@@ -1040,9 +1006,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 拉萨2藏语综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 拉萨3文化旅游,http://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
 
-
-
-📺 内蒙,#genre#
 内蒙古卫视,video://https://www.nmtv.cn/liveTv
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
@@ -1057,11 +1020,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 赤峰,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 1,https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-
-
-
-
-📺 江西,#genre#
 南昌综合,http://A/ku9/js/jxtv.js?id=nczh
 南昌文旅,http://A/ku9/js/jxtv.js?id=ncds
 南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
@@ -1087,11 +1045,132 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 延边综合,video://https://www.yb983.com/ybtv2/index.html
 
 
-📺 虎牙,#genre#
+📺 虎牙电影,#genre#
+星爷,http://A/ku9/js/虎牙.js?id=11342412
+周星星,http://A/ku9/js/虎牙.js?id=11336587
+林正英,http://A/ku9/js/虎牙.js?id=11342421
+周润发,http://A/ku9/js/虎牙.js?id=11342387
+成龙,http://A/ku9/js/虎牙.js?id=11342386
+李连杰,http://A/ku9/js/虎牙.js?id=11342390
+洪金宝,http://A/ku9/js/虎牙.js?id=11279251
+梁家辉,http://A/ku9/js/虎牙.js?id=11342429
+刘德华,http://A/ku9/js/虎牙.js?id=11342424
+王晶,http://A/ku9/js/虎牙.js?id=11602058
+许冠英,http://A/ku9/js/虎牙.js?id=11601972
+五福星,http://A/ku9/js/虎牙.js?id=11282233
+邱淑贞,http://A/ku9/js/虎牙.js?id=11352949
+徐克,http://A/ku9/js/虎牙.js?id=11352909
+沈腾,http://A/ku9/js/虎牙.js?id=11601968
+黄渤,http://A/ku9/js/虎牙.js?id=11352876
+强森,http://A/ku9/js/虎牙.js?id=21059581
+漫威,http://A/ku9/js/虎牙.js?id=11602034
+宇宙,http://A/ku9/js/虎牙.js?id=11342428
+怪兽,http://A/ku9/js/虎牙.js?id=21059577
+武侠,http://A/ku9/js/虎牙.js?id=11342427
+警匪,http://A/ku9/js/虎牙.js?id=11352886
+罪犯,http://A/ku9/js/虎牙.js?id=11352962
+枪战,http://A/ku9/js/虎牙.js?id=21059579
+海盗,http://A/ku9/js/虎牙.js?id=21059595
+赛车,http://A/ku9/js/虎牙.js?id=11279247
+推荐,http://A/ku9/js/虎牙.js?id=11602041
+救援,http://A/ku9/js/虎牙.js?id=21059594
+热血,http://A/ku9/js/虎牙.js?id=11352934
+盗墓,http://A/ku9/js/虎牙.js?id=21059552
+贺岁,http://A/ku9/js/虎牙.js?id=11601971
+玄幻,http://A/ku9/js/虎牙.js?id=11342414
+谍战,http://A/ku9/js/虎牙.js?id=21059585
+战争,http://A/ku9/js/虎牙.js?id=21059592
+喜剧,http://A/ku9/js/虎牙.js?id=11352877
+港片,http://A/ku9/js/虎牙.js?id=11602043
+国产,http://A/ku9/js/虎牙.js?id=11352973
+斯坦森,http://A/ku9/js/虎牙.js?id=21059588
+小鬼头,http://A/ku9/js/虎牙.js?id=11352963
+八点档,http://A/ku9/js/虎牙.js?id=880261
+蜘蛛侠,http://A/ku9/js/虎牙.js?id=21059599
+贺岁片,http://A/ku9/js/虎牙.js?id=11601986
+功夫片,http://A/ku9/js/虎牙.js?id=11352941
+黑帮片,http://A/ku9/js/虎牙.js?id=11336719
+丧尸片,http://A/ku9/js/虎牙.js?id=21059578
+灾难片,http://A/ku9/js/虎牙.js?id=11602075
+谍战片,http://A/ku9/js/虎牙.js?id=21059587
+战争片,http://A/ku9/js/虎牙.js?id=21059574
+犯罪片,http://A/ku9/js/虎牙.js?id=11352974
+古装片,http://A/ku9/js/虎牙.js?id=11336590
+高分动作,http://A/ku9/js/虎牙.js?id=11352884
+动作电影,http://A/ku9/js/虎牙.js?id=11602077
+搞笑喜剧,http://A/ku9/js/虎牙.js?id=11342423
+喜剧专场,http://A/ku9/js/虎牙.js?id=11602044
+欢笑影院,http://A/ku9/js/虎牙.js?id=11352894
+不挤影院,http://A/ku9/js/虎牙.js?id=11352897
+国产悬疑,http://A/ku9/js/虎牙.js?id=11342395
+快意江湖,http://A/ku9/js/虎牙.js?id=11342435
+黑帮斗争,http://A/ku9/js/虎牙.js?id=11342419
+嫣然影厅,http://A/ku9/js/虎牙.js?id=11601977
+许氏三杰,http://A/ku9/js/虎牙.js?id=11602033
+经典港片,http://A/ku9/js/虎牙.js?id=11352965
+镖行天下,http://A/ku9/js/虎牙.js?id=11352969
+高能反转,http://A/ku9/js/虎牙.js?id=11352887
+喜乐影院,http://A/ku9/js/虎牙.js?id=21059580
+蘑菇影厅,http://A/ku9/js/虎牙.js?id=11601981
+搞笑恐怖,http://A/ku9/js/虎牙.js?id=11601960
+死神来了,http://A/ku9/js/虎牙.js?id=11352903
+变形金刚,http://A/ku9/js/虎牙.js?id=21059596
+怪兽系列,http://A/ku9/js/虎牙.js?id=21059554
+86版红楼梦,http://A/ku9/js/虎牙.js?id=30080221
+济公,http://A/ku9/js/虎牙.js?id=29870731
+剧集_老三国,http://A/ku9/js/虎牙.js?id=11602081
+剧集_新三国,http://A/ku9/js/虎牙.js?id=11352944
+剧集_新水浒,http://A/ku9/js/虎牙.js?id=11342384
+剧集_纪晓岚,http://A/ku9/js/虎牙.js?id=11342396
+剧集_庆余年,http://A/ku9/js/虎牙.js?id=11352960
+剧集_雍正王朝,http://A/ku9/js/虎牙.js?id=11342439
+剧集_士兵突击,http://A/ku9/js/虎牙.js?id=11342430
+剧集_爱情公寓,http://A/ku9/js/虎牙.js?id=11336726
+剧集_武林外传,http://A/ku9/js/虎牙.js?id=21059598
+剧集_地下交通站,http://A/ku9/js/虎牙.js?id=11342433
+剧集_邻里一家亲,http://A/ku9/js/虎牙.js?id=11342426
+搞笑_陈翔六点半,http://A/ku9/js/虎牙.js?id=11274154
+解说_斌哥漫说,http://A/ku9/js/虎牙.js?id=18632116
+解说_小川侃电影,http://A/ku9/js/虎牙.js?id=15870999
+解说_阿良说剧,http://A/ku9/js/虎牙.js?id=20488841
+解说_鱼丸电影,http://A/ku9/js/虎牙.js?id=16615910
+解说_阿斗说电影,http://A/ku9/js/虎牙.js?id=13303478
+解说_扁豆看电影,http://A/ku9/js/虎牙.js?id=16028551
+解说_大象放映室,http://A/ku9/js/虎牙.js?id=21277391
+解说_科幻梦工场,http://A/ku9/js/虎牙.js?id=15152155
+解说_亮哥讲电影,http://A/ku9/js/虎牙.js?id=16144175
+解说_越哥说电影,http://A/ku9/js/虎牙.js?id=15894162
+解说_涵哥评电影,http://A/ku9/js/虎牙.js?id=16865726
+恐怖电影「解说」,http://A/ku9/js/虎牙.js?id=23419131
+斗罗大陆,http://A/ku9/js/虎牙.js?id=11352906
+电视剧•1「解说」,http://A/ku9/js/虎牙.js?id=21277391
+美剧「解说」,http://A/ku9/js/虎牙.js?id=20488841
+七龙珠「解说」,http://A/ku9/js/虎牙.js?id=25650806
+止戈电影「解说」,http://A/ku9/js/虎牙.js?id=19863777
+挨饿德•1「其他」,http://A/ku9/js/虎牙.js?id=20985858
+互扇巴掌大赛「其他」,http://A/ku9/js/虎牙.js?id=20072873
+荒野求生「其他」,http://A/ku9/js/虎牙.js?id=593667
+野行者「其他」,http://A/ku9/js/虎牙.js?id=20072663
+音乐石榴「音乐」,http://A/ku9/js/虎牙.js?id=17091681
+治愈•放松「音乐」,http://A/ku9/js/虎牙.js?id=21241811
+阅读•学习「音乐」,http://A/ku9/js/虎牙.js?id=21241813
+茶啊二中「动画」,http://A/ku9/js/虎牙.js?id=11213191
+哆啦A梦「动漫」,http://A/ku9/js/虎牙.js?id=11601963
+航海王「动漫」,http://A/ku9/js/虎牙.js?id=16913382
+七龙珠「动漫」,http://A/ku9/js/虎牙.js?id=11601966
+猫和老鼠「动漫」,http://A/ku9/js/虎牙.js?id=11352879
+中华小当家「动漫」,http://A/ku9/js/虎牙.js?id=11342413
+海绵宝宝,http://A/ku9/js/虎牙.js?id=11352919
+机器猫,http://A/ku9/js/虎牙.js?id=11601963
+重温春晚爆笑,http://A/ku9/js/虎牙.js?id=11602068
+重温经典小品,http://A/ku9/js/虎牙.js?id=29982631
+百家讲坛,http://A/ku9/js/虎牙.js?id=11602032
+
+
 大场面战争片,video://https://www.huya.com/21059574
 刘德华,video://https://www.huya.com/11342424
-周星驰,,video://https://www.huya.com/11342412
-经典港片,,video://https://www.huya.com/11352965
+周星驰,video://https://www.huya.com/11342412
+经典港片,video://https://www.huya.com/11352965
 
 不挤影院,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/11352897
 来学历史-从秦始皇到汉武帝,http://A/ku9/js/huyaweb.js?id=https://www.huya.com/21059578
