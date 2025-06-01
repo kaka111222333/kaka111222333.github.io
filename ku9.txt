@@ -164,7 +164,7 @@ CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-🌐 央视频,#genre#
+🌐 卫视,#genre#
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -942,7 +942,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 湖北教育,video://https://news.hbtv.com.cn/app/tv/437
 
 
-📺 西北,#genre#
 新疆1套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
@@ -1025,8 +1024,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 南昌资讯,http://A/ku9/js/jxtv.js?id=nczx
 
 
-
-📺 东北,#genre#
 吉林卫视,video://https://www.jlntv.cn/tv
 长春综合,video://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,video://https://chinactv.com/live/1442880767035355137.html
@@ -1319,7 +1316,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 
-日照,#genre#
+日照青岛,#genre#
 日照综合,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=6
 日照科教,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=12
 日照公共,video://http://fxkhd.rzw.com.cn/?_hgOutLink=live/livedetail&channel_id=13
@@ -1329,7 +1326,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
 岚山综合,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 
-青岛,#genre#
 胶州综合,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
 胶州生活,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
 崂山电视台,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
@@ -1360,7 +1356,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 青岛蓝睛频道,video://https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
 
 
-临沂,#genre#
+临沂济南,#genre#
 临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
 临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
@@ -1388,7 +1384,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 沂南综合,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny02.html
 沂南红色影视,video://https://iapp.12345yinanshoufa.cn/share/dHZsLTE3Ny03.html
 
-济南,#genre#
+
 长清综合,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
 长清生活,video://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
 济阳综合,video://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
@@ -1418,35 +1414,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 利津新闻综合,video://https://iapp.lijinnews.com/share/dHZsLTE1My0x.html
 利津文化生活,video://https://iapp.lijinnews.com/share/dHZsLTE1My0z.html
 
-潍坊,#genre#
-潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊新闻综合,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
-潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊经济生活,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
-潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊影视综艺,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
-潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-潍坊科教文旅,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
-安丘,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
-安丘民生,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
-滨海区,video://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
-昌乐,video://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
-昌邑,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html
-昌邑经济生活,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html
-坊子,video://https://iapp.fzqrmtzx.cn/share/dHZsLTI4NS0x.html
-高密X,video://https://iapp.gaominews.com/share/dHZsLTcxLTI0.htm
-高密党建农科,video://https://iapp.gaominews.com/share/dHZsLTcxLTM4.html
-潍坊高新区,video://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
-寒亭,video://https://iapp.httv.cn/share/dHZsLTEzMy0x.html
-奎文,video://https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html
-临朐,video://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
-青州X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
-青州文化旅游X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
-寿光,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html
-寿光蔬菜,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html
-潍城,video://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
-诸城,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
-诸城生活娱乐X,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
+
 
 烟台,#genre#
 龙口综合,video://https://app.litenews.cn/share/dHZsLTU3LTE.html
@@ -1486,6 +1454,35 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 周村生活,video://https://iapp.izhoucun.cn/share/dHZsLTI1OS0z.html
 张店一套,video://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
 张店二套,video://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
+潍坊,#genre#
+潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+潍坊新闻综合,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
+潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+潍坊经济生活,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
+潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+潍坊影视综艺,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
+潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+潍坊科教文旅,video://https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
+安丘,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy0z.html
+安丘民生,video://https://iapp.aianqiu.cn/share/dHZsLTEzNy00.html
+滨海区,video://https://iapp.wfbhrmt.cn/share/dHZsLTE5OS0x.html
+昌乐,video://https://iapp.clxrmtzx.cn/share/dHZsLTEtMw.html
+昌邑,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTE.html
+昌邑经济生活,video://https://iapp.changyirongmei.com/share/dHZsLTQ3LTI.html
+坊子,video://https://iapp.fzqrmtzx.cn/share/dHZsLTI4NS0x.html
+高密X,video://https://iapp.gaominews.com/share/dHZsLTcxLTI0.htm
+高密党建农科,video://https://iapp.gaominews.com/share/dHZsLTcxLTM4.html
+潍坊高新区,video://https://iapp.wegood.wang/share/dHZsLTQyMS0xNA.html
+寒亭,video://https://iapp.httv.cn/share/dHZsLTEzMy0x.html
+奎文,video://https://iapp.wfkwrm.com/share/dHZsLTEyNy0xNw.html
+临朐,video://https://iapp.yunshanglinqu.cn/share/dHZsLTIwNS0zOQ.html
+青州X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0y.html
+青州文化旅游X,video://https://iapp.qingzhounews.cn/share/dHZsLTEyNS0z.html
+寿光,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0x.html
+寿光蔬菜,video://https://iapp.sgrmt.com/share/dHZsLTI3OS0z.html
+潍城,video://https://iapp.wcrmawckhd.cn/share/dHZsLTE1LTM.html
+诸城,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yMw.html
+诸城生活娱乐X,video://https://iapp.52zhucheng.cn/share/dHZsLTExNS0yNQ.html
 
 枣庄,#genre#
 枣庄新闻综合,video://http://www.zztvzd.com?_hgOutLink=live/livedetail&channel_id=5
