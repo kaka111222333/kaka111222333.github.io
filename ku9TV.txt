@@ -444,7 +444,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
 临沂,#genre#
-临沂,video://https://www.ilinyi.net/cms/tv/1020403
+临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
 临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
 临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
 沂水综合,video://https://app.litenews.cn/share/dHZsLTE0NS0x.html
