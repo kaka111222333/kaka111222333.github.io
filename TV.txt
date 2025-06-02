@@ -34,6 +34,9 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 
 📺  卫视,#genre#
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
 安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
