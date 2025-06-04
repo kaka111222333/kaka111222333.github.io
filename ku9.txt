@@ -94,7 +94,7 @@ CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4k
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
 CCTV-6 电影,http://A/ku9/js/1905.js?id=cctv6
-1905电影网,http://A/ku9/js/1905.js?id=1905a
+1905国内电影,http://A/ku9/js/1905.js?id=1905a
 1905国外电影,http://A/ku9/js/1905.js?id=1905b
 CCTV-6 电影,webview://https://m.1905.com/m/cctv6/gzh/?app
 CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
