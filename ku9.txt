@@ -95,9 +95,6 @@ CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
 CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
 CCTV-4 亚洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
-
-CCTV-4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
-CCTV-8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
 CCTV-4 欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
 CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
@@ -114,10 +111,10 @@ CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
 1905国内电影,video://https://m.1905.com/m/xl/live/
 1905国内电影,http://A/ku9/js/1905.js?id=1905a
 1905国外电影,http://A/ku9/js/1905.js?id=1905b
-CCTV-7 军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV-7 军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
-CCTV-7 军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
-CCTV-7 军事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
+CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-7 国防军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
+CCTV-7 国防军事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
 
 CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
 CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
@@ -145,7 +142,8 @@ CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html
 CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
 CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
-
+CCTV-4K 超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
 CECTV-1 汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-2 国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CECTV-3 国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
