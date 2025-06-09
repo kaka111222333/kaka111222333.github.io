@@ -80,112 +80,72 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 🌐 CCTV,#genre#
-CCTV-1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV-1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
-CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV-1,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
-CCTV-1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
-CCTV-1,webview://https://tv.cctv.com/live/cctv1/
-CCTV-1,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
-CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
-CCTV-2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV-2,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
-CCTV-2,webview://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
-CCTV-2,webview://https://vod.cctv.cn/cctv/cctvh5/cctv2/2023/05/cctv2_share/index.html
-CCTV-2,webview://https://tv.cctv.com/live/cctv2/
-CCTV-2,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
-CCTV-2,webview://https://www.yangshipin.cn/tv/home?pid=600001800
-CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV-3,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
-CCTV-3,webview://https://tv.cctv.com/live/cctv3/m/
-CCTV-3,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
-CCTV-3,webview://https://yangshipin.cn/tv/home?pid=600001801
-CCTV-4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-CCTV-4,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
-CCTV-4,webview://https://m.miguvideo.com/m/liveDetail/631780421?channelId=10010001005
-CCTV-4,webview://https://tv.cctv.com/live/cctv4/m/
-CCTV-4,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
-CCTV-4,webview://https://www.yangshipin.cn/tv/home?pid=600001814
-CCTV-5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$党建
-CCTV-5,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
-CCTV-5,webview://https://tv.cctv.com/live/cctv5/$央视网
-CCTV-5,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/
-CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818$央视频
-CCTV-6,video://https://m.1905.com/m/cctv6/gzh/
-CCTV-6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV-6,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
-CCTV-6,webview://https://m.1905.com/m/cctv6/gzh/
-CCTV-6,webview://https://tv.cctv.com/live/cctv6/
-CCTV-6,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
-CCTV-6,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV-1 综合,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 
-1905国内电影,video://https://m.1905.com/m/xl/live/
-1905国内电影,http://A/ku9/js/1905.js?id=1905a
-1905环球经典,http://A/ku9/js/1905.js?id=1905b
-CCTV-7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV-7,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
-CCTV-7,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
-CCTV-7,webview://https://tv.cctv.com/live/cctv7/m/
-CCTV-7,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
-CCTV-7,webview://https://www.yangshipin.cn/tv/home?pid=600004092
-CCTV-8,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
-CCTV-8,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/
-CCTV-8,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV-9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV-9,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
-CCTV-9,webview://https://tv.cctv.com/live/cctvjilu/m/
-CCTV-9,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/
-CCTV-9,webview://https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV-10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV-10,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
-CCTV-10,webview://https://tv.cctv.com/live/cctv10/
-CCTV-10,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/
-CCTV-10,webview://https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV-11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV-11,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
-CCTV-11,webview://https://tv.cctv.com/live/cctv11/
-CCTV-11,webview://https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV-12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV-12,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
-CCTV-12,webview://https://tv.cctv.com/live/cctv12/
-CCTV-12,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
-CCTV-12,webview://https://www.yangshipin.cn/tv/home?pid=600001807
-CCTV-13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-CCTV-13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-CCTV-13,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
-CCTV-13,webview://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
-CCTV-13,webview://https://tv.cctv.com/live/cctv13/
-CCTV-13,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv13/
-CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
-CCTV-14,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
-CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
-CCTV-14,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
-CCTV-14,webview://https://www.yangshipin.cn/tv/home?pid=600001809
-CCTV-15,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
-CCTV-15,webview://https://tv.cctv.com/live/cctv15/
-CCTV-15,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/
-CCTV-15,webview://https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV-16,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
-CCTV-16,webview://https://tv.cctv.com/live/cctv16/
-CCTV-16,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
-CCTV-16,webview://https://www.yangshipin.cn/tv/home?pid=600098637
-CCTV-17,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
-CCTV-17,webview://https://tv.cctv.com/live/cctv17/
-CCTV-17,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
-CCTV-17,webview://https://www.yangshipin.cn/tv/home?pid=600001810
-CCTV-5+,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV-5+,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
-CCTV-5+,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/
+CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 
+CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
+CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
+
+CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
+CCTV-4 亚洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
 
 CCTV-4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV-8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV4欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
-CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
-CCTV4欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
-CCTV4美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
-CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
-CCTV4美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
+CCTV-4 欧洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctveurope/
+CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
+CCTV-4 美洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvamerica/
+CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$党建
+CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5/$央视网
+CCTV-5 体育,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/
+
+CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
+CCTV-5+体育赛事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/
+CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh/
+CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
+1905国内电影,video://https://m.1905.com/m/xl/live/
+1905国内电影,http://A/ku9/js/1905.js?id=1905a
+1905国外电影,http://A/ku9/js/1905.js?id=1905b
+CCTV-7 军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV-7 军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-7 军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
+CCTV-7 军事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
+
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
+CCTV-8 电视剧,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/
+
+CCTV-9 纪录,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV-9 纪录,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
+CCTV-9 纪录,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/
+
+CCTV-10 科教,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV-10 科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
+CCTV-10 科教,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/
+CCTV-11 戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV-11 戏曲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
+CCTV-11 戏曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV-12 社会与法,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
+CCTV-12 社会与法,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
+CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
+CCTV-14 少儿,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
+CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
+CCTV-15 音乐,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/
+CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
+CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
+CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
+CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
+
 CECTV-1 汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-2 国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CECTV-3 国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
