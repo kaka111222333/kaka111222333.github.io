@@ -325,11 +325,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelld=1
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311
-第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
-
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
