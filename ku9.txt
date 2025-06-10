@@ -144,10 +144,10 @@ CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html
 CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
 CCTV-4K 超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
-CECTV汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CECTV国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CECTV国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CECTV国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CEC汉语文化,video://http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,video://http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,video://http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 CGTN,video://https://www.cgtn.com/tv
 CGTN纪录,video://https://www.cgtn.com/channel/documentary
