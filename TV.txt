@@ -31,7 +31,7 @@ CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
-
+气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 📺  卫视,#genre#
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
