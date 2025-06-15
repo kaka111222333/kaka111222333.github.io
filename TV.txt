@@ -237,7 +237,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 🌏  浙江,#genre#
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
