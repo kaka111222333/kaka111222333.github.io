@@ -21,12 +21,6 @@ CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
@@ -34,9 +28,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 📺  卫视,#genre#
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
 安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
@@ -93,6 +84,53 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 优漫卡通,http://10.26.0.23:4000/udp/239.253.224.64:8000
 嘉佳卡通,http://10.26.0.23:4000/udp/239.253.224.65:8000
 
+🌏 港台,#genre#
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+澳门莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
+香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
+
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 
 📺  日照,#genre#
@@ -390,43 +428,6 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 189 食叔肥肠鹅,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033379-0-0-2321e8dcc8049dd5833ded28592aa557&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3579472476&vid=5831581271697130378&abtest=all
 190 食叔馍包羊腿,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033428-0-0-1ae329bc1264912e601d4e999f52cd24&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028519303&vid=778061406411546269&abtest=all
 
-
-
-
-🌏  国际,#genre#
-法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-澳门莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-民视,rtmp://f13h.mine.nu/sat/tv051
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-momoTV,rtmp://f13h.mine.nu/sat/tv761
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 
 🌏  各地,#genre#
