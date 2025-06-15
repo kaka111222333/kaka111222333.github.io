@@ -103,7 +103,7 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
