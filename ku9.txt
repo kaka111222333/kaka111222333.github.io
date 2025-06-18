@@ -1,4 +1,3 @@
-
 🌐 CCTV,#genre#
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1 综合,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
@@ -28,7 +27,6 @@ CCTV-5+体育赛事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/c
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh/
 CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
-1905国内电影,video://https://m.1905.com/m/xl/live/
 1905国内电影,http://A/ku9/js/1905.js?id=1905a
 1905国外电影,http://A/ku9/js/1905.js?id=1905b
 CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
@@ -325,6 +323,12 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
+香港RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+香港RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+香港RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+香港RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 
 中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
