@@ -555,7 +555,35 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 
-📺 各地,#genre#
+📺 山东JS,#genre#
+山东卫视,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
+山东新闻,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
+山东齐鲁,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
+山东体育,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7
+山东生活,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9
+山东综艺,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11
+山东文旅,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wlpd&channelid=13
+山东农科,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=nkpd&channelid=15
+山东少儿,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sepd&channelid=17
+日照,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
+聊城,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
+滨州,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
+枣庄,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023
+东营,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
+
+济南,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=jndst&channelid=29883
+淄博,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010
+烟台,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=ytdst&channelid=100012
+潍坊,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wfdst&channelid=100013
+泰安,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=tadst&channelid=100015
+威海,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=whdst&channelid=100016
+临沂,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lydst&channelid=100019
+德州,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020
+菏泽,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
+
+
+
+
 杭州综合,video://https://www.hoolo.tv/live/
 杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
 杭州生活,video://https://tv.hoolo.tv/hzsh/
