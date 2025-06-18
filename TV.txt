@@ -41,6 +41,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 东方卫视,http://10.26.0.23:4000/udp/239.253.224.86:8000
 北京卫视,http://10.26.0.23:4000/udp/239.253.224.85:8000
 北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
+北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 北京纪实科教,http://10.26.0.23:4000/udp/239.253.224.165:8000
 湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
 金鹰纪实,http://10.26.0.23:4000/udp/239.253.224.103:8000
@@ -153,7 +154,6 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-北京纪实科教,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 求索纪录,http://10.26.0.23:4000/udp/239.253.224.231:8000
 梨园频道,http://10.26.0.23:4000/udp/239.253.224.139:8000
 武术世界,http://10.26.0.23:4000/udp/239.253.224.140:8000
