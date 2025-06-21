@@ -106,9 +106,9 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 中天亚洲,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
 中天综合,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天娱乐,http://ali.hlspull.yximgs.com/live/167ztyl.flv
-寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
+寰宇新聞,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
 民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-民视闽南,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
+民视台湾,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
 东森超视,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
 东森综合,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
 八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
