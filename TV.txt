@@ -116,32 +116,20 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 ELta娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线华丽粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
-无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-无线星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
+tvbs新聞,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+纬來精采,http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-DAZN体育,rtmp://f13h.mine.nu/sat/tv731
 有线综合,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
 有线新闻,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 无线翡翠,http://ali.hlspull.yximgs.com/live/awei_jade.flv
-Plus综合,http://ali.hlspull.yximgs.com/live/awei_j2.flv
+TVB Plus,http://ali.hlspull.yximgs.com/live/awei_j2.flv
 Now爆谷,http://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
 
 
 
