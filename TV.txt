@@ -116,17 +116,6 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 ELta娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-tvbs新聞,http://61.221.215.25:8800/hls/9/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-有线综合,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-有线新闻,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-无线翡翠,http://ali.hlspull.yximgs.com/live/awei_jade.flv
-TVB Plus,http://ali.hlspull.yximgs.com/live/awei_j2.flv
 Now爆谷,http://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -168,7 +157,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 
-📺  日照,#genre#
+📺  山东,#genre#
 日照综合,http://10.26.0.23:4000/udp/239.253.224.254:8000
 日照科教,http://10.26.0.23:4000/udp/239.253.224.253:8000
 日照公共,http://10.26.0.23:4000/udp/239.253.224.250:8000
