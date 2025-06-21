@@ -120,7 +120,7 @@ ELta娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 tvbs新聞,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 有线综合,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
 有线新闻,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
