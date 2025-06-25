@@ -93,6 +93,7 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 哈哈炫动,http://10.26.0.23:4000/udp/239.253.224.63:8000
 优漫卡通,http://10.26.0.23:4000/udp/239.253.224.64:8000
 嘉佳卡通,http://10.26.0.23:4000/udp/239.253.224.65:8000
+南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 🌏 港台,#genre#
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
@@ -258,11 +259,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 武术,http://10.26.0.23:4000/udp/239.253.224.227:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
-
-
-
 🌏  浙江,#genre#
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
