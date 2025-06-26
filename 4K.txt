@@ -107,27 +107,6 @@ CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 
-中天新闻,http://ali.hlspull.yximgs.com/live/167_ztxw.flv
-中天新闻+,http://ali.hlspull.yximgs.com/live/167ztxw2.flv
-中天亚洲,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-中天综合,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
-中天娱乐,http://ali.hlspull.yximgs.com/live/167ztyl.flv
-寰宇新聞,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
-民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-民视台湾,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-东森超视,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-东森综合,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-ELta娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Now爆谷,http://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
-Now星影,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
-
-
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
