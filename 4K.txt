@@ -1,4 +1,4 @@
-📺 4K,#genre#
+📺  4K超高清,#genre#
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
 深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
@@ -12,7 +12,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
 
 
-📺 CCTV,#genre#
+📺  CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
@@ -540,7 +540,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 网络春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 
-新白娘子传奇,#genre#,
+新白娘子传奇,#genre#
 第01集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online.com/20221207/29685_3aa793d0/2000k/hls/mixed.m3u8
@@ -592,5 +592,12 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
 第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
 
-
+NEW,#genre#
+中国国际少儿 ,http://livesec.mudu.tv/watch/bk8coj.m3u8
+中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
+每经AI电视,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+中经电视,http://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
+CCTV怀旧剧场,http://www.dsk.cc/p/yspzb.html?id=hjjc
+CCTV第一剧场,http://www.dsk.cc/p/yspzb.html?id=dyjc
+CCTV8K超高清,http://www.dsk.cc/p/yspzb.html?id=cctv8k
 
