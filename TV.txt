@@ -28,12 +28,11 @@ CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+香港RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+香港RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
 香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-香港RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
 多画面,http://10.26.0.23:4000/udp/239.253.224.167:8000
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
@@ -47,13 +46,12 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 北京纪实科教,http://10.26.0.23:4000/udp/239.253.224.165:8000
-湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
-金鹰纪实,http://10.26.0.23:4000/udp/239.253.224.103:8000
 广东卫视,http://10.26.0.23:4000/udp/239.253.224.90:8000
 广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
 深圳卫视,http://10.26.0.23:4000/udp/239.253.224.91:8000
 深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
-天津卫视,http://10.26.0.23:4000/udp/239.253.224.89:8000
+湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
+金鹰纪实,http://10.26.0.23:4000/udp/239.253.224.103:8000
 黑龙江卫视,http://10.26.0.23:4000/udp/239.253.224.93:8000
 辽宁卫视,http://10.26.0.23:4000/udp/239.253.224.92:8000
 吉林卫视,http://10.26.0.23:4000/udp/239.253.224.173:8000
@@ -90,7 +88,7 @@ CETV2,http://10.26.0.23:4000/udp/239.253.224.107:8000
 CETV4,http://10.26.0.23:4000/udp/239.253.224.116:8000
 CETV4,http://10.26.0.23:4000/udp/239.253.224.108:8000
 CETV1,http://10.26.0.23:4000/udp/239.253.224.55:8000
-广东大湾区,http://10.26.0.23:4000/udp/239.253.224.69:8000
+天津卫视,http://10.26.0.23:4000/udp/239.253.224.89:8000
 金鹰卡通,http://10.26.0.23:4000/udp/239.253.224.117:8000
 北京少儿,http://10.26.0.23:4000/udp/239.253.224.66:8000
 哈哈炫动,http://10.26.0.23:4000/udp/239.253.224.63:8000
