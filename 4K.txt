@@ -15,7 +15,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 📺  CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
-香港RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
 CCTV-4 亚洲,http://10.26.0.23:4000/udp/239.253.224.111:8000
@@ -42,8 +42,8 @@ CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
-香港RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-香港RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 CGTN纪录 香港,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 CGTN 香港,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 多画面,http://10.26.0.23:4000/udp/239.253.224.167:8000
