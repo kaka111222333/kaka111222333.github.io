@@ -132,7 +132,7 @@ CNN,http://61.216.11.93:49981/stream/channelid/881277234?profile=webtv-h264-aac-
 TLC,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
 Videoland Movies,http://61.216.11.93:49981/stream/channelid/1222093986?profile=webtv-h264-aac-mpegts
 信吉电视,http://61.216.11.93:49981/stream/channelid/166215564?profile=webtv-h264-aac-mpegts
-NHK,http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
+日本NHK,http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
 
 
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
