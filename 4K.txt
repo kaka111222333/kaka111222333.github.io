@@ -14,6 +14,10 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+每经AI电视,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+中经电视,http://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
+
+
 
 📺  CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
@@ -609,12 +613,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
 第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
 
-NEW,#genre#
-中国国际少儿 ,http://livesec.mudu.tv/watch/bk8coj.m3u8
-中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
-每经AI电视,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-中经电视,http://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
-CCTV怀旧剧场,http://www.dsk.cc/p/yspzb.html?id=hjjc
-CCTV第一剧场,http://www.dsk.cc/p/yspzb.html?id=dyjc
-CCTV8K超高清,http://www.dsk.cc/p/yspzb.html?id=cctv8k
+
+
+
 
