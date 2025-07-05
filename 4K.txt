@@ -8,7 +8,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊yemingjkl
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
 艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -28,9 +28,6 @@ CCTV-4 美洲,http://10.26.0.23:4000/udp/239.253.224.187:8000
 CCTV-5 体育,http://10.26.0.23:4000/udp/239.253.224.192:8000
 CCTV-5+体育赛事,http://10.26.0.23:4000/udp/239.253.224.80:8000
 CCTV-6 电影,http://10.26.0.23:4000/udp/239.253.224.193:8000
-1905国内电影,http://150.138.77.132:10037/1905电影网.php?id=1905
-1905电影网,http://120.76.248.139/live/lunbo/ssdy.m3u8
-1905国内电影,https://tv.666150.xyz/1905.php
 CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
 CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
 CHC影迷电影,http://10.26.0.23:4000/udp/239.253.224.154:8000
@@ -227,6 +224,9 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 生态环境标清,http://10.26.0.23:4000/udp/239.253.224.75:8000
 
 📺  电影,#genre#
+1905国内电影,http://150.138.77.132:10037/1905电影网.php?id=1905
+1905武侠电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
+1905国内电影,https://tv.666150.xyz/1905.php
 精选电影,http://10.26.0.23:4000/udp/239.253.224.210:8000
 爱电影,http://10.26.0.23:4000/udp/239.253.224.128:8000
 经典电影,http://10.26.0.23:4000/udp/239.253.224.126:8000
