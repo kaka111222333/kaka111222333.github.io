@@ -28,6 +28,9 @@ CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
 1905国内电影,http://A/ku9/js/1905.js?id=1905a
 1905国外电影,http://A/ku9/js/1905.js?id=1905b
+1905武侠电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
+1905国内电影,http://150.138.77.132:10037/1905电影网.php?id=1905
+1905国内电影,https://tv.666150.xyz/1905.php
 CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
 CCTV-7 国防军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
