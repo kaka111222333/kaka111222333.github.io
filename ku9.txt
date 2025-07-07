@@ -1139,17 +1139,13 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 湖北教育,video://https://news.hbtv.com.cn/app/tv/437
 
 📺 新疆,#genre#
-新疆1套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
-新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
-新疆4套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
-新疆5套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=17
-新疆7套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
-新疆8套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+新疆汉语综艺,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
+新疆体育健康,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
+新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 
-新疆卫视1,http://A/ku9/js/xjtv.js?id=xjws
+新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
 新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
-新疆经济生活,http://A/ku9/js/xjtv.js?id=xjjjsh
 新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
 新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
 五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8 
