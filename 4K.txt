@@ -1,4 +1,4 @@
-北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
+爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
@@ -8,10 +8,8 @@ TLC,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
-爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
 艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
-法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
 
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 
