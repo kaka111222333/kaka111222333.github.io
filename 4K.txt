@@ -7,12 +7,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000$日照联通
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000$日照联通
-山东少儿,http://10.26.0.23:4000/udp/239.253.224.25:8000$日照联通
-动漫秀场,http://10.26.0.23:4000/udp/239.253.224.115:8000$日照联通
-北京少儿,http://10.26.0.23:4000/udp/239.253.224.66:8000$日照联通
-金鹰卡通,http://10.26.0.23:4000/udp/239.253.224.117:8000$日照联通卡
-
 RTHK33,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
@@ -20,6 +14,10 @@ CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
+CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000$日照联通
+山东少儿,http://10.26.0.23:4000/udp/239.253.224.25:8000$日照联通
+动漫秀场,http://10.26.0.23:4000/udp/239.253.224.115:8000$日照联通
+北京少儿,http://10.26.0.23:4000/udp/239.253.224.66:8000$日照联通
+金鹰卡通,http://10.26.0.23:4000/udp/239.253.224.117:8000$日照联通卡
 
