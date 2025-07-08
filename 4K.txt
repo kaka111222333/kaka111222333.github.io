@@ -1,8 +1,6 @@
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
