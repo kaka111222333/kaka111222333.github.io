@@ -1,5 +1,9 @@
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
+广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
+深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
