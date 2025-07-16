@@ -1,16 +1,22 @@
 🌐 CCTV,#genre#
-CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV-1 综合,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886$央视新闻
+CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103$央视新闻
+CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952$央视新闻
+CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228$央视新闻
+CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
+1905国内电影,http://A/ku9/js/1905.js?id=1905a
+1905国外电影,http://A/ku9/js/1905.js?id=1905b
+
+
 CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
-CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
 
 CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/
 
-CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
 CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
 CCTV-4 亚洲,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv4/
 CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
@@ -23,14 +29,15 @@ CCTV-5 体育,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5/
 
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
 CCTV-5+体育赛事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv5plus/
-CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh/
+
 CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
-1905国内电影,http://A/ku9/js/1905.js?id=1905a
-1905国外电影,http://A/ku9/js/1905.js?id=1905b
+
 1905武侠电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
 1905国内电影,http://150.138.77.132:10037/1905电影网.php?id=1905
 1905国内电影,https://tv.666150.xyz/1905.php
+
+CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
 CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
 CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
 CCTV-7 国防军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
@@ -52,7 +59,7 @@ CCTV-11 戏曲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype
 CCTV-11 戏曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
 CCTV-12 社会与法,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
 CCTV-12 社会与法,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
-CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+
 CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
 CCTV-14 少儿,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
