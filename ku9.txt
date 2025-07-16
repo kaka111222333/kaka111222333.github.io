@@ -7,7 +7,7 @@ CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
 1905国内电影,http://A/ku9/js/1905.js?id=1905a$JS
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$JS
 
-
+河南党员网,#genre#
 CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
 CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
 CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
@@ -29,7 +29,7 @@ CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党�
 
 
 
-
+ CCTV,#genre#
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/
@@ -99,14 +99,13 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 CETV-4,webview://https://edu.cctv.com/cetv/
 
 
-
-CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+ CCTV,#genre#
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV-1 香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
-CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+
 CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
 CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
 CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
