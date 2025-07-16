@@ -40,8 +40,7 @@ CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
 CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
-CCTV-7 国防军
-事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
 CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
 CCTV-9 纪录,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
 CCTV-10 科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
