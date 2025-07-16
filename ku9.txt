@@ -2,6 +2,7 @@
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886$央视新闻
 CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103$央视新闻
 CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952$央视新闻
+CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
 CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228$央视新闻
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
 1905国内电影,http://A/ku9/js/1905.js?id=1905a$JS
@@ -53,7 +54,6 @@ CCTV-5+体育赛事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/c
 CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
 
 
-CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
 
 
 CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
