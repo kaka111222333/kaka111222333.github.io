@@ -8,7 +8,7 @@ CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
 1905国内电影,http://A/ku9/js/1905.js?id=1905a$JS
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$JS
 
-河南党员网,#genre#
+河南党员,#genre#
 CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
 CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
 CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
