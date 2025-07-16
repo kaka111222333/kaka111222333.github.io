@@ -39,6 +39,19 @@ CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
+CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
+CCTV-7 国防军
+事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
+CCTV-9 纪录,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
+CCTV-10 科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
+CCTV-11 戏曲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
+CCTV-12 社会与法,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
+CCTV-13 新闻,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
+CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
+CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
+CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
+CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
 
 
 
@@ -60,30 +73,32 @@ CCTV-6 电影,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv6/
 
 
 
-CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+
 CCTV-7 国防军事,webview://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
 CCTV-7 国防军事,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv7/
 
 CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
+
+
 CCTV-8 电视剧,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv8/
 
-CCTV-9 纪录,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
 CCTV-9 纪录,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvjilu/
 
-CCTV-10 科教,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
+
+
+
+
+
 CCTV-10 科教,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv10/
-CCTV-11 戏曲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
 CCTV-11 戏曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
-CCTV-12 社会与法,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
+
 CCTV-12 社会与法,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv12/
-CCTV-14 少儿,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
 CCTV-14 少儿,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctvchild/
-CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
+
+
 CCTV-15 音乐,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv15/
-CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
+
 CCTV-16 奥林匹克,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv16/
-CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
 CCTV-17 农业农村,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv17/
 CCTV-4K 超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816
