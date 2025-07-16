@@ -24,7 +24,7 @@ CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党�
 河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14$河南党员教育
 河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15$河南党员教育
 河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
-
+党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
 
 
 
