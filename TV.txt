@@ -265,6 +265,58 @@ CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 新动漫,http://10.26.0.23:4000/udp/239.253.224.157:8000
 中学生,http://10.26.0.23:4000/udp/239.253.224.163:8000
 
+🌐 AKTV,#genre#
+Love Nature,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+天映经典频道,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+天映频道,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+美亞電影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+好萊塢電影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+新加坡新传媒5,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+新加坡新传媒8,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+新加坡新传媒U,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+新加坡亚洲新闻,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+龙华日韩,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+Animax,http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+緯來體育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+凤凰卫视,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+明珠剧集,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+無線新聞,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+翡翠剧集,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠综合,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+鳳凰衛視香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+日本新闻24h,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+
+
 🌏  浙江,#genre#
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
 浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
