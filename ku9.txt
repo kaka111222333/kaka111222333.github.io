@@ -83,7 +83,7 @@ CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb
 CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html$广西网
 CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html$广西网
 
-央视频,#genre#
+
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800$央视频
 CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814$央视频
