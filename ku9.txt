@@ -176,7 +176,7 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
 卫视官网,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
+北京卫视,video://https://www.btime.com/btv/btvsy_index
 江苏卫视,video://https://live.jstv.com/?channelId=534
 东方卫视,video://https://live.kankanews.com/huikan?id=1
 浙江卫视,video://https://www.cztv.com/liveTV/101
@@ -225,13 +225,6 @@ CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党�
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-
-香港RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-香港RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-香港RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-香港RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-
 
 中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
 东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
@@ -296,16 +289,20 @@ FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+香港RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+香港RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+香港RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+香港RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+
 
 港湾直播,#genre#
 CCTV1,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-0-0-0.html
@@ -368,9 +365,8 @@ CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-78-0.h
 龙华日韩,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-104-0.html
 台湾+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
 📺 北京,#genre#
-北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京卫视,video://https://www.btime.com/btv/btvsy_index
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
+北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
 北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
 北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
