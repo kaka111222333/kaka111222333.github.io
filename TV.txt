@@ -199,9 +199,8 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 每经AI电视,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 中经电视,http://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
+
 📺  电影,#genre#
-1905武侠电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
-1905国内电影,http://150.138.77.132:10037/1905电影网.php?id=1905
 1905国内电影,https://tv.666150.xyz/1905.php
 精选电影,http://10.26.0.23:4000/udp/239.253.224.210:8000
 爱电影,http://10.26.0.23:4000/udp/239.253.224.128:8000
