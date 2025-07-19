@@ -1,14 +1,13 @@
-新闻网,#genre#
+CCTV新闻网,#genre#
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886$央视新闻
+CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103$央视新闻
 CCTV-4 亚洲,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952$央视新闻
 CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
 CCTV-13 新闻,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228$央视新闻
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
-1905国内电影,http://A/ku9/js/1905.js?id=1905a$JS
-1905国外电影,http://A/ku9/js/1905.js?id=1905b$JS
-
-
+1905国内电影,http://A/ku9/js/1905.js?id=1905a$1905
+1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
 
 央视影音,#genre#
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1$央视影音
@@ -60,16 +59,6 @@ CEC国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,video://https://www.cgtn.com/tv
 CGTN纪录,video://https://www.cgtn.com/channel/documentary
 
-
-CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-CETV-4,webview://https://edu.cctv.com/cetv/
-CETV-4,video://https://edu.cctv.com/cetv/
-
-
-
-央视网,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/$央视网
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/$央视网
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/$央视网
@@ -90,7 +79,10 @@ CCTV-14 少儿,webview://https://tv.cctv.com/live/cctvchild/$央视网
 CCTV-15 音乐,webview://https://tv.cctv.com/live/cctv15/$央视网
 CCTV-16 奥林匹克,webview://https://tv.cctv.com/live/cctv16/$央视网
 CCTV-17 农业农村,webview://https://tv.cctv.com/live/cctv17/$央视网
-
+CETV-4,webview://https://edu.cctv.com/cetv/
+CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html$广西网
+CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html$广西网
+CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html$广西网
 
 央视频,#genre#
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
@@ -155,20 +147,20 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d$学习强国
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c$学习强国
 天津卫视,video://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d$学习强国
+江苏卫视,video://https://www.xuexi.cn/xxqg.html?id=f485de429c064333b7cce20c6bbbc905$学习强国
+浙江卫视,video://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a$学习强国
+安徽卫视,video://https://www.xuexi.cn/xxqg.html?id=633fd677b4ce40ad85b127db4307921a$学习强国
+广东卫视,video://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6$学习强国
 河北卫视,video://https://www.xuexi.cn/xxqg.html?id=39f6908c16d74aeab67c78eeb37e17dd$学习强国
 山西卫视,video://https://www.xuexi.cn/xxqg.html?id=39c3c7226f754f3e9cbebd8b5f0996ee$学习强国
 辽宁卫视,video://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428$学习强国
 内蒙古卫视,video://https://www.xuexi.cn/xxqg.html?id=74dd173b302c4aa9abf142e4034e0c87$学习强国
 吉林卫视,video://https://www.xuexi.cn/xxqg.html?id=0bb934949fe549e9be4ea3ff519eaec4$学习强国
 黑龙江卫视,video://https://www.xuexi.cn/xxqg.html?id=c77741c71cbb4f61bc9876826e267b51$学习强国
-江苏卫视,video://https://www.xuexi.cn/xxqg.html?id=f485de429c064333b7cce20c6bbbc905$学习强国
-浙江卫视,video://https://www.xuexi.cn/xxqg.html?id=0b0936946bd7416fa80aaeb4072f369a$学习强国
-安徽卫视,video://https://www.xuexi.cn/xxqg.html?id=633fd677b4ce40ad85b127db4307921a$学习强国
 东南卫视,video://https://www.xuexi.cn/xxqg.html?id=74cd6a0403ff4ce7829f04d4cdf4c0a5$学习强国
 江西卫视,video://https://www.xuexi.cn/xxqg.html?id=0621912339cf40109a945afafc3069e2$学习强国
 河南卫视,video://https://www.xuexi.cn/xxqg.html?id=47ebcda850e74c83897dd90ca72db658$学习强国
 湖北卫视,video://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d$学习强国
-广东卫视,video://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6$学习强国
 广西卫视,video://https://www.xuexi.cn/xxqg.html?id=d45e1b2dbae6465a9b2e7a14f7749119$学习强国
 海南卫视,video://https://www.xuexi.cn/xxqg.html?id=54e5f81a605e428188bf7ff21c0df64c$学习强国
 四川卫视,video://https://www.xuexi.cn/xxqg.html?id=90edcdb6a18446d594228039a519b779$学习强国
@@ -289,6 +281,7 @@ HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23
 港台电视31,video://https://345iptv.com/?act=play&token=603eccee9b4ba9fe1a39be1994e47f51&tid=gt&id=26
 大爱一台,video://http://m.345iptv.com/?act=play&token=ae9c099dcdc4fbe768981b01c1dbbf18&tid=gt&id=83
 大爱二台,video://http://m.345iptv.com/?act=play&token=cdad72cc1644294
+
 凤凰卫视中文台,video://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,video://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,video://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
@@ -314,8 +307,66 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-
-
+港湾直播,#genre#
+CCTV1,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-0-0-0.html
+CCTV1,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-0-0.html
+HBO HD,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-7-0.html
+美亚电影台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
+凤凰卫视,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-4-0.html
+凤凰资讯,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
+中天亚洲,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
+东森新闻,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-21-0.html
+超视,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-25-0.html
+东森综合,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-26-0.html
+寰宇新闻,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-35-0.html
+八大第一台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-36-0.html
+TVBS欢乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
+翡翠台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-0-0.html
+菜单翡翠台·东南亚版,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-1-0.html
+HOY78,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
+明珠台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-12-0.html
+TVB plus,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-25-0.html
+ViuTV,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-26-0.html
+八大精彩台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-7-0.html
+采昌,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-21-0.html
+cnex,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-23-0.html
+好莱坞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-38-0.html
+年代新闻,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
+八大综合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
+momotv,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-53-0.html
+ELTA娱乐,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-55-0.html
+ELTV生活英语台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-57-0.html
+非凡商业,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-60-0.html
+民视台湾台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-61-0.html
+古典音乐台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-62-0.html
+国会频道1,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-64-0.html
+国会频道2,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-65-0.html
+GOODTV,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-66-0.html
+GOOD2,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-67-0.html
+TVBS精彩台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-68-0.html
+公视戏剧,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-70-0.html
+HakkaTV,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-72-0.html
+韩国娱乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-77-0.html
+BBC,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-73-0.html
+CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-78-0.html
+寰宇财经台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-81-0.html
+台视新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-0.html
+中视新闻,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-84-0.html
+靖天国际台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
+靖天欢乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-88-0.html
+靖天日本台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-90-0.html
+靖天映画,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-92-0.html
+靖天育乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-93-0.html
+靖天资讯台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-95-0.html
+民视第一台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
+靖洋卡通台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-97-0.html
+靖洋戏剧台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
+龙华电影,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-100-0.html
+龙华经典,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-101-0.html
+龙华卡通,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-102-0.html
+龙华偶像,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-103-0.html
+龙华日韩,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-104-0.html
+台湾+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
 📺 北京,#genre#
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京卫视,video://https://www.btime.com/btv/btvsy_index
