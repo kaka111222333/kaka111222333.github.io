@@ -1,4 +1,4 @@
-CCTV新闻网,#genre#
+CCTV,#genre#
 CCTV-1 综合,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886$央视新闻
 CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV-2 财经,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103$央视新闻
@@ -9,7 +9,6 @@ CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
 1905国内电影,http://A/ku9/js/1905.js?id=1905a$1905
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
 
-央视影音,#genre#
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1$央视影音
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2$央视影音
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3$央视影音
@@ -142,6 +141,30 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
 CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
 
+卫视官网,#genre#
+山东卫视,video://https://v.iqilu.com/live/sdtv/$官网
+北京卫视,video://https://www.btime.com/btv/btvsy_index$官网
+江苏卫视,video://https://live.jstv.com/?channelId=534$官网
+东方卫视,video://https://live.kankanews.com/huikan?id=1$官网
+浙江卫视,video://https://www.cztv.com/liveTV/101$官网
+黑龙江卫视,video://https://www.hljtv.com/live/folder418/$官网
+海南卫视,video://http://tc.hnntv.cn/$官网
+深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867$官网
+东南卫视,video://https://live.fjtv.net/setv/$官网
+贵州卫视,video://https://www.gzstv.com/tv/ch01$官网
+安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0$官网
+河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0$官网
+吉林卫视,video://https://www.jlntv.cn/tv?id=104$官网
+山西卫视,video://https://www.sxrtv.com/tv/index.shtml$官网
+陕西卫视,video://http://live.snrtv.com/star$官网
+甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#$官网
+云南卫视,video://https://www.yntv.cn/live.html$官网
+内蒙古卫视,video://https://www.nmtv.cn/liveTv$官网
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1$官网
+
+书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
+
 学习强国,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b$学习强国
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d$学习强国
@@ -173,30 +196,6 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 宁夏卫视,video://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488$学习强国
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb$学习强国
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249$学习强国
-
-卫视官网,#genre#
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-北京卫视,video://https://www.btime.com/btv/btvsy_index
-江苏卫视,video://https://live.jstv.com/?channelId=534
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-浙江卫视,video://https://www.cztv.com/liveTV/101
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/
-海南卫视,video://http://tc.hnntv.cn/
-深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867
-东南卫视,video://https://live.fjtv.net/setv/
-贵州卫视,video://https://www.gzstv.com/tv/ch01
-安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-吉林卫视,video://https://www.jlntv.cn/tv?id=104
-山西卫视,video://https://www.sxrtv.com/tv/index.shtml
-陕西卫视,video://http://live.snrtv.com/star
-甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#
-云南卫视,video://https://www.yntv.cn/live.html
-内蒙古卫视,video://https://www.nmtv.cn/liveTv
-新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-
-书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
-党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
 
 河南党员,#genre#
