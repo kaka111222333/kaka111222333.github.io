@@ -139,33 +139,26 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138$央视频
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403$央视频
 CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
+CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
+CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
+CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
+CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4$河南党员教育
+CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5$河南党员教育
+CCTV-9 纪录,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6$河南党员教育
+CCTV-10 科教,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7$河南党员教育
+CCTV-11 戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8$河南党员教育
+CCTV-12 社会与法,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9$河南党员教育$河南党员教育
+CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党员教育
+北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11$河南党员教育
+浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12$河南党员教育
+河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13$河南党员教育
+河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14$河南党员教育
+河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15$河南党员教育
+河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
+党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
 
 
-卫视官网,#genre#
-山东卫视,video://https://v.iqilu.com/live/sdtv/$官网
-北京卫视,video://https://www.btime.com/btv/btvsy_index$官网
-江苏卫视,video://https://live.jstv.com/?channelId=534$官网
-东方卫视,video://https://live.kankanews.com/huikan?id=1$官网
-浙江卫视,video://https://www.cztv.com/liveTV/101$官网
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/$官网
-海南卫视,video://http://tc.hnntv.cn/$官网
-深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867$官网
-东南卫视,video://https://live.fjtv.net/setv/$官网
-贵州卫视,video://https://www.gzstv.com/tv/ch01$官网
-安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0$官网
-河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0$官网
-吉林卫视,video://https://www.jlntv.cn/tv?id=104$官网
-山西卫视,video://https://www.sxrtv.com/tv/index.shtml$官网
-陕西卫视,video://http://live.snrtv.com/star$官网
-甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#$官网
-云南卫视,video://https://www.yntv.cn/live.html$官网
-内蒙古卫视,video://https://www.nmtv.cn/liveTv$官网
-新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1$官网
-
-书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
-党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
-
-学习强国,#genre#
+卫视,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b$学习强国
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d$学习强国
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c$学习强国
@@ -197,25 +190,29 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb$学习强国
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249$学习强国
 
+山东卫视,video://https://v.iqilu.com/live/sdtv/$官网
+北京卫视,video://https://www.btime.com/btv/btvsy_index$官网
+江苏卫视,video://https://live.jstv.com/?channelId=534$官网
+东方卫视,video://https://live.kankanews.com/huikan?id=1$官网
+浙江卫视,video://https://www.cztv.com/liveTV/101$官网
+黑龙江卫视,video://https://www.hljtv.com/live/folder418/$官网
+海南卫视,video://http://tc.hnntv.cn/$官网
+深圳卫视,video://https://www.sztv.com.cn/dianshi.shtml?id=7867$官网
+东南卫视,video://https://live.fjtv.net/setv/$官网
+贵州卫视,video://https://www.gzstv.com/tv/ch01$官网
+安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0$官网
+河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0$官网
+吉林卫视,video://https://www.jlntv.cn/tv?id=104$官网
+山西卫视,video://https://www.sxrtv.com/tv/index.shtml$官网
+陕西卫视,video://http://live.snrtv.com/star$官网
+甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#$官网
+云南卫视,video://https://www.yntv.cn/live.html$官网
+内蒙古卫视,video://https://www.nmtv.cn/liveTv$官网
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1$官网
 
-河南党员,#genre#
-CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
-CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
-CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
-CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4$河南党员教育
-CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5$河南党员教育
-CCTV-9 纪录,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6$河南党员教育
-CCTV-10 科教,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7$河南党员教育
-CCTV-11 戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8$河南党员教育
-CCTV-12 社会与法,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9$河南党员教育$河南党员教育
-CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党员教育
-北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11$河南党员教育
-浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12$河南党员教育
-河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13$河南党员教育
-河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14$河南党员教育
-河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15$河南党员教育
-河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
-党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
+书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
+党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
+
 
 
 🌏 港台,#genre#
