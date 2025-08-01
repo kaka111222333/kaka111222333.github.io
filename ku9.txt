@@ -299,66 +299,6 @@ CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/strea
 香港RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 
-港湾直播,#genre#
-CCTV1,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-0-0-0.html
-CCTV1,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-0-0.html
-HBO HD,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-7-0.html
-美亚电影台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
-凤凰卫视,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-4-0.html
-凤凰资讯,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
-中天亚洲,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
-东森新闻,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-21-0.html
-超视,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-25-0.html
-东森综合,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-26-0.html
-寰宇新闻,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-35-0.html
-八大第一台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-36-0.html
-TVBS欢乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
-翡翠台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-0-0.html
-菜单翡翠台·东南亚版,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-1-0.html
-HOY78,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
-明珠台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-12-0.html
-TVB plus,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-25-0.html
-ViuTV,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-26-0.html
-八大精彩台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-7-0.html
-采昌,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-21-0.html
-cnex,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-23-0.html
-好莱坞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-38-0.html
-年代新闻,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
-八大综合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
-momotv,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-53-0.html
-ELTA娱乐,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-55-0.html
-ELTV生活英语台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-57-0.html
-非凡商业,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-60-0.html
-民视台湾台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-61-0.html
-古典音乐台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-62-0.html
-国会频道1,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-64-0.html
-国会频道2,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-65-0.html
-GOODTV,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-66-0.html
-GOOD2,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-67-0.html
-TVBS精彩台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-68-0.html
-公视戏剧,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-70-0.html
-HakkaTV,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-72-0.html
-韩国娱乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-77-0.html
-BBC,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-73-0.html
-CNN,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-78-0.html
-寰宇财经台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-81-0.html
-台视新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-0.html
-中视新闻,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-84-0.html
-靖天国际台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
-靖天欢乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-88-0.html
-靖天日本台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-90-0.html
-靖天映画,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-92-0.html
-靖天育乐台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-93-0.html
-靖天资讯台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-95-0.html
-民视第一台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
-靖洋卡通台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-97-0.html
-靖洋戏剧台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
-龙华电影,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-100-0.html
-龙华经典,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-101-0.html
-龙华卡通,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-102-0.html
-龙华偶像,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-103-0.html
-龙华日韩,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-104-0.html
-台湾+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
 📺 北京,#genre#
 北京卫视,video://https://www.btime.com/btv/btvsy_index
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
