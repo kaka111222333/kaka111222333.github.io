@@ -83,11 +83,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
-爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
-艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
-法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
-Nick Jr,http://61.216.11.93:49981/stream/channelid/580636100?profile=webtv-h264-aac-mpegts
+
 緯來電影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
 緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
 民視,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
@@ -103,7 +99,7 @@ TLC,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-
 Videoland Movies,http://61.216.11.93:49981/stream/channelid/1222093986?profile=webtv-h264-aac-mpegts
 信吉电视,http://61.216.11.93:49981/stream/channelid/166215564?profile=webtv-h264-aac-mpegts
 日本NHK,http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
-
+Nick Jr,http://61.216.11.93:49981/stream/channelid/580636100?profile=webtv-h264-aac-mpegts
 
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -139,6 +135,10 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
+爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
+艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$肥羊yemingjkl
 
 📺  专业,#genre#
 求索纪录,http://10.26.0.23:4000/udp/239.253.224.231:8000
