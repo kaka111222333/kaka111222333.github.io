@@ -1,9 +1,4 @@
-北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
-广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
-深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
-CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
@@ -26,17 +21,16 @@ CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
-
-
-
+CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
+广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
+深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-
-
 緯來電影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
 緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
 Hollywood,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
