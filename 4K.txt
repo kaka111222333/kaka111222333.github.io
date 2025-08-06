@@ -1,3 +1,91 @@
-安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
+📺  CCTV,#genre#
+CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
+CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
+CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
+CCTV-4 亚洲,http://10.26.0.23:4000/udp/239.253.224.111:8000
+CCTV-4 欧洲,http://10.26.0.23:4000/udp/239.253.224.186:8000
+CCTV-4 美洲,http://10.26.0.23:4000/udp/239.253.224.187:8000
+CCTV-5 体育,http://10.26.0.23:4000/udp/239.253.224.192:8000
+CCTV-5+体育赛事,http://10.26.0.23:4000/udp/239.253.224.80:8000
+CCTV-6 电影,http://10.26.0.23:4000/udp/239.253.224.193:8000
+CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
+CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
+CHC影迷电影,http://10.26.0.23:4000/udp/239.253.224.154:8000
+CCTV-7 国防军事,http://10.26.0.23:4000/udp/239.253.224.233:8000
+CCTV-8 电视剧,http://10.26.0.23:4000/udp/239.253.224.194:8000
+CCTV-9 纪录,http://10.26.0.23:4000/udp/239.253.224.79:8000
+CCTV-10 科教,http://10.26.0.23:4000/udp/239.253.224.234:8000
+CCTV-11 戏曲,http://10.26.0.23:4000/udp/239.253.224.169:8000
+CCTV-12 社会与法,http://10.26.0.23:4000/udp/239.253.224.235:8000
+CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
+CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
+CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
+CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+
+📺  卫视,#genre#
+安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
+
+緯來電影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+緯來綜合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
+Hollywood,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+CINEMAX,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+民視,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
+八大第一,http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
+八大综合,http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
+东森超视,http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
+年代MUCH,http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
+TVBS欢乐,http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
+CNN,http://61.216.11.93:49981/stream/channelid/881277234?profile=webtv-h264-aac-mpegts
+TLC,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
+CINEMAX,http://61.216.11.93:49981/stream/channelid/1222093986?profile=webtv-h264-aac-mpegts
+信吉电视,http://61.216.11.93:49981/stream/channelid/166215564?profile=webtv-h264-aac-mpegts
+日本NHK,http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
+Nick Jr,http://61.216.11.93:49981/stream/channelid/580636100?profile=webtv-h264-aac-mpegts
+
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
+艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
+
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
