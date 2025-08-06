@@ -25,6 +25,11 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 📺  卫视,#genre#
 安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
+北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
+广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
+深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
 凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
@@ -68,24 +73,7 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 momoTV,rtmp://f13h.mine.nu/sat/tv761
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
-艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
 
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+
