@@ -1,4 +1,4 @@
-CCTV,#genre#
+CCTV央视影音,#genre#
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1$央视影音
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2$央视影音
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3$央视影音
@@ -24,9 +24,7 @@ CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype
 CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17$央视影音
 
-
-
-卫视,#genre#
+学习强国,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b$学习强国
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d$学习强国
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c$学习强国
@@ -58,6 +56,8 @@ CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb$学习强国
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249$学习强国
 
+
+官网,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/$官网
 北京卫视,video://https://www.btime.com/btv/btvsy_index$官网
 江苏卫视,video://https://live.jstv.com/?channelId=534$官网
@@ -228,6 +228,8 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138$央视频
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403$央视频
 CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
+
+河南党员,#genre#
 CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
 CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
 CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
@@ -246,6 +248,8 @@ CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党�
 河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
 党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
 
+
+央视网m,#genre#
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/$央视网m
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/$央视网m
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/$央视网m
@@ -274,6 +278,7 @@ CEC国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,video://https://www.cgtn.com/tv
 CGTN纪录,video://https://www.cgtn.com/channel/documentary
 
+央视网,#genre#
 CCTV-1 综合,webview://https://tv.cctv.com/live/cctv1/$央视网
 CCTV-2 财经,webview://https://tv.cctv.com/live/cctv2/$央视网
 CCTV-3 综艺,webview://https://tv.cctv.com/live/cctv3/$央视网
