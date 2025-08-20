@@ -85,7 +85,7 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
 纬来综合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
-好莱坞,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+Hollywood,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
 CINEMAX,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
 民視,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
 东森超视,http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
