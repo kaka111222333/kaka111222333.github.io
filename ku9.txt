@@ -319,15 +319,6 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
 
 📺 上海,#genre#
-东方卫视,http://A/ku9/js/dfws.js?id=1
-上海新闻综合,http://A/ku9/js/dfws.js?id=2
-五星体育,http://A/ku9/js/dfws.js?id=10
-魔都眼,http://A/ku9/js/dfws.js?id=11
-新纪实,http://A/ku9/js/dfws.js?id=12
-上海都市,http://A/ku9/js/dfws.js?id=4
-第一财经,http://A/ku9/js/dfws.js?id=5
-哈哈炫动,http://A/ku9/js/dfws.js?id=9
-
 东方卫视,video://https://live.kankanews.com/huikan/
 上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 上海都市,video://https://live.kankanews.com/huikan?id=4
