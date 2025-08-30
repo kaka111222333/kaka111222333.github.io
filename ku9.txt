@@ -24,6 +24,17 @@ CCTV-15 音乐,webview://https://app.cctv.com/special/m/livevod/index.html?vtype
 CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 CCTV-17 农业农村,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17$央视影音
 
+📺 央视新闻,#genre#
+CCTV-4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV-4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTC-7,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+CCTV-7,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV-9,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+CCTV-10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+
 学习强国,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b$学习强国
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d$学习强国
