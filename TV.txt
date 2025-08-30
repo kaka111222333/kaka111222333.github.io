@@ -77,10 +77,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 
 🌐 港台,#genre#
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
