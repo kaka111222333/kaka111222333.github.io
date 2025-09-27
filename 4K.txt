@@ -24,22 +24,41 @@ CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 
-📺 4K超高清,#genre#
+📺 卫视 4K,#genre#
 山东卫视4K,http://10.26.0.23:4000/udp/239.253.224.172:8000
+山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
+
 江苏卫视4K,http://10.26.0.23:4000/udp/239.253.224.133:8000
+江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
+
 浙江卫视4K,http://10.26.0.23:4000/udp/239.253.224.27:8000
+浙江卫视,http://10.26.0.23:4000/udp/239.253.224.84:8000
+
 东方卫视4K,http://10.26.0.23:4000/udp/239.253.224.176:8000
-湖南卫视4K,http://10.26.0.23:4000/udp/239.253.224.28:8000
-四川卫视4K,http://10.26.0.23:4000/udp/239.253.224.123:8000
+东方卫视,http://10.26.0.23:4000/udp/239.253.224.86:8000
+
 北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
-广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
+北京卫视,http://10.26.0.23:4000/udp/239.253.224.85:8000
+
+湖南卫视4K,http://10.26.0.23:4000/udp/239.253.224.28:8000
+湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
+
+四川卫视4K,http://10.26.0.23:4000/udp/239.253.224.123:8000
+四川卫视,http://10.26.0.23:4000/udp/239.253.224.180:8000
+
+广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000 
+广东卫视,http://10.26.0.23:4000/udp/239.253.224.90:8000
+
 深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
+深圳卫视,http://10.26.0.23:4000/udp/239.253.224.91:8000
+
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
- 
+
+
 
 
 🌐  景区,#genre#
@@ -50,27 +69,3 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
 青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
 青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
-都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-怡然②,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
-基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
-基地母子园①,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-基地母子园②,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
-基地幼儿园①,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
-基地幼儿园②,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-基地成年园①,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-基地成年园②,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
-基地别墅①,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-基地别墅①,http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
-基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-
-大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
-成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
