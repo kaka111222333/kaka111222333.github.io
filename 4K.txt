@@ -1,17 +1,126 @@
-4K 超高清,#genre#
+📺  CCTV,#genre#
+CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
+CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
+CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
+CCTV-4 亚洲,http://10.26.0.23:4000/udp/239.253.224.111:8000
+CCTV-4 欧洲,http://10.26.0.23:4000/udp/239.253.224.186:8000
+CCTV-4 美洲,http://10.26.0.23:4000/udp/239.253.224.187:8000
+CCTV-5 体育,http://10.26.0.23:4000/udp/239.253.224.192:8000
+CCTV-5+体育赛事,http://10.26.0.23:4000/udp/239.253.224.80:8000
+CCTV-6 电影,http://10.26.0.23:4000/udp/239.253.224.193:8000
+CHC家庭影院,http://10.26.0.23:4000/udp/239.253.224.152:8000
+CHC动作电影,http://10.26.0.23:4000/udp/239.253.224.153:8000
+CHC影迷电影,http://10.26.0.23:4000/udp/239.253.224.154:8000
+CCTV-7 国防军事,http://10.26.0.23:4000/udp/239.253.224.233:8000
+CCTV-8 电视剧,http://10.26.0.23:4000/udp/239.253.224.194:8000
+CCTV-9 纪录,http://10.26.0.23:4000/udp/239.253.224.79:8000
+CCTV-10 科教,http://10.26.0.23:4000/udp/239.253.224.234:8000
+CCTV-11 戏曲,http://10.26.0.23:4000/udp/239.253.224.169:8000
+CCTV-12 社会与法,http://10.26.0.23:4000/udp/239.253.224.235:8000
+CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
+CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
+CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
+CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+
+📺 4K超高清,#genre#
+山东卫视4K,http://10.26.0.23:4000/udp/239.253.224.172:8000
+江苏卫视4K,http://10.26.0.23:4000/udp/239.253.224.133:8000
+浙江卫视4K,http://10.26.0.23:4000/udp/239.253.224.27:8000
+东方卫视4K,http://10.26.0.23:4000/udp/239.253.224.176:8000
+湖南卫视4K,http://10.26.0.23:4000/udp/239.253.224.28:8000
+四川卫视4K,http://10.26.0.23:4000/udp/239.253.224.123:8000
 北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
 广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
 深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
-山东卫视4K,http://10.26.0.23:4000/udp/239.253.224.172:8000
-东方卫视4K,http://10.26.0.23:4000/udp/239.253.224.176:8000
-江苏卫视4K,http://10.26.0.23:4000/udp/239.253.224.133:8000
-浙江卫视4K,http://10.26.0.23:4000/udp/239.253.224.27:8000
-湖南卫视4K,http://10.26.0.23:4000/udp/239.253.224.28:8000
-四川卫视4K,http://10.26.0.23:4000/udp/239.253.224.123:8000
-教育,#genre#
-CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
-CCTV-9 纪录,http://10.26.0.23:4000/udp/239.253.224.79:8000
-CCTV-10 科教,http://10.26.0.23:4000/udp/239.253.224.234:8000
+CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+
+🌐 港台,#genre#
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+法国时装4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+公视,rtmp://f13h.mine.nu/sat/tv771
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
+艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
+
+
+🌏  浙江,#genre#
+浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
+浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
+浙江钱江,https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f 
+浙江经济,https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def 
+浙江科教,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f 
+浙江民生,https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-282c3b532279f2b8bad8ebde1b41632f 
+浙江新闻,https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-d7a412e81007d77a8c8e9b582efd7ee3 
+浙江少儿,https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9  
+之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1 
+
+
+🌐  景区,#genre#
+青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+青岛太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+怡然②,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+基地母子园①,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+基地母子园②,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+基地幼儿园①,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+基地幼儿园②,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+基地成年园①,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+基地成年园②,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+基地别墅①,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+基地别墅①,http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
+基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+
+大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
