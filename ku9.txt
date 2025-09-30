@@ -1,5 +1,4 @@
-☀️ IPTV,#group#
-☀️ CCTV,#genre#
+📺  CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.224.77:8000
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.224.232:8000
 CCTV-3 综艺,http://10.26.0.23:4000/udp/239.253.224.191:8000
@@ -22,20 +21,51 @@ CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.224.175:8000
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.224.170:8000
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.224.168:8000
-CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 多画面,http://10.26.0.23:4000/udp/239.253.224.167:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
-☀️ 卫视,#genre#
+📺  超高清,#genre#
+山东卫视,http://10.26.0.23:4000/udp/239.253.224.172:8000
+江苏卫视,http://10.26.0.23:4000/udp/239.253.224.133:8000
+浙江卫视,http://10.26.0.23:4000/udp/239.253.224.27:8000
+东方卫视,http://10.26.0.23:4000/udp/239.253.224.176:8000
+北京卫视,http://10.26.0.23:4000/udp/239.253.224.200:8000
+广东卫视,http://10.26.0.23:4000/udp/239.253.224.108:8000
+深圳卫视,http://10.26.0.23:4000/udp/239.253.224.61:8000
+湖南卫视,http://10.26.0.23:4000/udp/239.253.224.28:8000
+四川卫视,http://10.26.0.23:4000/udp/239.253.224.123:8000
+CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
+爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+📺  日照,#genre#
+日照综合,http://10.26.0.23:4000/udp/239.253.224.254:8000
+日照科教,http://10.26.0.23:4000/udp/239.253.224.253:8000
+日照公共,http://10.26.0.23:4000/udp/239.253.224.250:8000
+岚山电视台,http://10.26.0.23:4000/udp/239.253.224.252:8000
+莒县电视台,http://10.26.0.23:4000/udp/239.253.224.251:8000
+山东体育,http://10.26.0.23:4000/udp/239.253.224.22:8000
+山东齐鲁,http://10.26.0.23:4000/udp/239.253.224.114:8000
+山东生活,http://10.26.0.23:4000/udp/239.253.224.151:8000
+山东综艺,http://10.26.0.23:4000/udp/239.253.224.159:8000
+山东文旅,http://10.26.0.23:4000/udp/239.253.224.160:8000
+山东新闻,http://10.26.0.23:4000/udp/239.253.224.23:8000
+山东农科,http://10.26.0.23:4000/udp/239.253.224.24:8000
+海洋频道,http://10.26.0.23:4000/udp/239.253.224.67:8000
+
+📺  卫视,#genre#
 山东卫视,http://10.26.0.23:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.23:4000/udp/239.253.224.83:8000
-安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
 浙江卫视,http://10.26.0.23:4000/udp/239.253.224.84:8000
 东方卫视,http://10.26.0.23:4000/udp/239.253.224.86:8000
 北京卫视,http://10.26.0.23:4000/udp/239.253.224.85:8000
-北京纪实科教,http://10.26.0.23:4000/udp/239.253.224.165:8000
 广东卫视,http://10.26.0.23:4000/udp/239.253.224.90:8000
 深圳卫视,http://10.26.0.23:4000/udp/239.253.224.91:8000
 湖南卫视,http://10.26.0.23:4000/udp/239.253.224.82:8000
+四川卫视,http://10.26.0.23:4000/udp/239.253.224.180:8000
+安徽卫视,http://10.26.0.23:4000/udp/239.253.224.87:8000
+北京纪实科教,http://10.26.0.23:4000/udp/239.253.224.165:8000
 金鹰纪实,http://10.26.0.23:4000/udp/239.253.224.103:8000
 黑龙江卫视,http://10.26.0.23:4000/udp/239.253.224.93:8000
 辽宁卫视,http://10.26.0.23:4000/udp/239.253.224.92:8000
@@ -51,7 +81,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 江西卫视,http://10.26.0.23:4000/udp/239.253.224.47:8000
 广西卫视,http://10.26.0.23:4000/udp/239.253.224.197:8000
 海南卫视,http://10.26.0.23:4000/udp/239.253.224.179:8000
-四川卫视,http://10.26.0.23:4000/udp/239.253.224.180:8000
 新疆卫视,http://10.26.0.23:4000/udp/239.253.224.60:8000
 西藏卫视,http://10.26.0.23:4000/udp/239.253.224.56:8000
 兵团卫视,http://10.26.0.23:4000/udp/239.253.224.57:8000
@@ -61,23 +90,12 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 
 山西卫视,http://10.26.0.23:4000/udp/239.253.224.48:8000
 陕西卫视,http://10.26.0.23:4000/udp/239.253.224.49:8000
-四川卫视,http://10.26.0.23:4000/udp/239.253.224.50:8000
-贵州卫视,http://10.26.0.23:4000/udp/239.253.224.51:8000
-青海卫视,http://10.26.0.23:4000/udp/239.253.224.54:8000
 三沙卫视,http://10.26.0.23:4000/udp/239.253.224.171:8000
 延边卫视,http://10.26.0.23:4000/udp/239.253.224.121:8000
 内蒙古卫视,http://10.26.0.23:4000/udp/239.253.224.58:8000
 农林卫视,http://10.26.0.23:4000/udp/239.253.224.70:8000
 
-北京卫视4K,http://10.26.0.23:4000/udp/239.253.224.200:8000
-广东卫视4K,http://10.26.0.23:4000/udp/239.253.224.108:8000
-深圳卫视4K,http://10.26.0.23:4000/udp/239.253.224.61:8000
-爱上4K,http://10.26.0.23:4000/udp/239.253.224.102:8000
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-
-
-
-☀️ 专业,#genre#
+📺  专业,#genre#
 求索纪录,http://10.26.0.23:4000/udp/239.253.224.231:8000
 梨园频道,http://10.26.0.23:4000/udp/239.253.224.139:8000
 武术世界,http://10.26.0.23:4000/udp/239.253.224.140:8000
@@ -94,7 +112,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 生态环境,http://10.26.0.23:4000/udp/239.253.224.119:8000
 中华特产,http://10.26.0.23:4000/udp/239.253.224.76:8000
 汽摩频道,http://10.26.0.23:4000/udp/239.253.224.161:8000
-家庭理财,http://10.26.0.23:4000/udp/239.253.224.148:8000
 财富天下,http://10.26.0.23:4000/udp/239.253.224.230:8000
 先锋乒羽,http://10.26.0.23:4000/udp/239.253.224.155:8000
 茶频道,http://10.26.0.23:4000/udp/239.253.224.143:8000
@@ -108,26 +125,9 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 环球旅游,http://10.26.0.23:4000/udp/239.253.224.71:8000
 车迷频道,http://10.26.0.23:4000/udp/239.253.224.73:8000
 山东经济广播,http://10.26.0.23:4000/udp/239.253.224.166:8000
-生态环境标清,http://10.26.0.23:4000/udp/239.253.224.75:8000
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-每经AI电视,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+生态环境,http://10.26.0.23:4000/udp/239.253.224.75:8000
 
-☀️ 山东,#genre#
-日照综合,http://10.26.0.23:4000/udp/239.253.224.254:8000
-日照科教,http://10.26.0.23:4000/udp/239.253.224.253:8000
-日照公共,http://10.26.0.23:4000/udp/239.253.224.250:8000
-岚山电视台,http://10.26.0.23:4000/udp/239.253.224.252:8000
-莒县电视台,http://10.26.0.23:4000/udp/239.253.224.251:8000
-山东体育,http://10.26.0.23:4000/udp/239.253.224.22:8000
-山东齐鲁,http://10.26.0.23:4000/udp/239.253.224.114:8000
-山东生活,http://10.26.0.23:4000/udp/239.253.224.151:8000
-山东综艺,http://10.26.0.23:4000/udp/239.253.224.159:8000
-山东文旅,http://10.26.0.23:4000/udp/239.253.224.160:8000
-山东新闻,http://10.26.0.23:4000/udp/239.253.224.23:8000
-山东农科,http://10.26.0.23:4000/udp/239.253.224.24:8000
-海洋频道,http://10.26.0.23:4000/udp/239.253.224.67:8000
-
-☀️ 电影,#genre#
+📺  电影,#genre#
 精选电影,http://10.26.0.23:4000/udp/239.253.224.210:8000
 爱电影,http://10.26.0.23:4000/udp/239.253.224.128:8000
 经典电影,http://10.26.0.23:4000/udp/239.253.224.126:8000
@@ -167,7 +167,44 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.224.122:8000
 武术,http://10.26.0.23:4000/udp/239.253.224.227:8000
 美妆,http://10.26.0.23:4000/udp/239.253.224.228:8000
 
-☀️ 少儿,#genre#
+🌐  港台,#genre#
+澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+法国时装,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+公视,rtmp://f13h.mine.nu/sat/tv771
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+爱自然4K,P2p://starvod.xyz:19806/ba87030233c046908d7c7bfaa3ff9df6.ts
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
+艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
+
+📺  少儿,#genre#
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.224.236:8000
 CETV1,http://10.26.0.23:4000/udp/239.253.224.110:8000
 CETV2,http://10.26.0.23:4000/udp/239.253.224.107:8000
@@ -178,7 +215,6 @@ CETV4,http://10.26.0.23:4000/udp/239.253.224.116:8000
 北京少儿,http://10.26.0.23:4000/udp/239.253.224.66:8000
 金鹰卡通,http://10.26.0.23:4000/udp/239.253.224.117:8000
 嘉佳卡通,http://10.26.0.23:4000/udp/239.253.224.65:8000
-哈哈炫动,http://10.26.0.23:4000/udp/239.253.224.63:8000
 优漫卡通,http://10.26.0.23:4000/udp/239.253.224.64:8000
 优优宝贝,http://10.26.0.23:4000/udp/239.253.224.72:8000
 少儿动画,http://10.26.0.23:4000/udp/239.253.224.127:8000
@@ -191,9 +227,52 @@ CETV4,http://10.26.0.23:4000/udp/239.253.224.116:8000
 CGTN 纪录,http://10.26.0.23:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.23:4000/udp/239.253.224.189:8000
 
+🌏  浙江,#genre#
+浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
+浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
+浙江钱江,https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f 
+浙江经济,https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def 
+浙江科教,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f 
+浙江民生,https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-282c3b532279f2b8bad8ebde1b41632f 
+浙江新闻,https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-d7a412e81007d77a8c8e9b582efd7ee3 
+浙江少儿,https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9  
+之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1 
 
 
-🌐 CCTV,#group#
+🌐  景区,#genre#
+青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+青岛太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
+青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+怡然②,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+基地母子园①,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+基地母子园②,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+基地幼儿园①,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+基地幼儿园②,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+基地成年园①,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+基地成年园②,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+基地别墅①,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+基地别墅①,http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
+基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+
+大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+
+
 🌐 央视影音,#genre#
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1$央视影音
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2$央视影音
@@ -244,6 +323,39 @@ CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816$央视�
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658$央视频
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655$央视频
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513$央视频
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309$央视频
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521$央视频
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483$央视频
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520$央视频
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532$央视频
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475$央视频
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508$央视频
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485$央视频
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481$央视频
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509$央视频
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498$央视频
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405$央视频
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505$央视频
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506$央视频
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531$央视频
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516$央视频
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525$央视频
+东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484$央视频
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490$央视频
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503$央视频
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493$央视频
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137$央视频
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400$央视频
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408$央视频
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737$央视频
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401$央视频
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402$央视频
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407$央视频
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406$央视频
+新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138$央视频
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403$央视频
+CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
 🌐 河南党员,#genre#
 CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
@@ -291,7 +403,6 @@ CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb
 CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html$广西网
 CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html$广西网
 
-🌐 央视网m,#genre#
 CCTV-1 综合,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/$央视网m
 CCTV-2 财经,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv2/$央视网m
 CCTV-3 综艺,webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv3/$央视网m
@@ -320,7 +431,6 @@ CEC国际健康,video://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN,video://https://www.cgtn.com/tv
 CGTN纪录,video://https://www.cgtn.com/channel/documentary
 
-🌐 央视新闻,#genre#
 CCTV-4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
@@ -331,12 +441,6 @@ CCTV-9,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNu
 CCTV-10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
 CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 
-
-🌏 港台,#group#
-🌏 港台 py,#genre#
-凤凰卫视,http://A/ku9/py/fhshow.py?id=fhzw
-凤凰资讯,http://A/ku9/py/fhshow.py?id=fhzx
-凤凰香港,http://A/ku9/py/fhshow.py?id=fhhk
 
 🌏 港台 js,#genre#
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
@@ -425,7 +529,6 @@ CCTV-1 香港,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/strea
 
 🌏 港台,#genre#
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-
 纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
 纬来综合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
 Hollywood,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
@@ -477,8 +580,8 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$肥羊
 艺术音乐4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$肥羊yemingjkl
 
-🔆 卫视,#group#
-🔆 官网,#genre#
+
+🔆 卫视官网,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/$官网
 北京卫视,video://https://www.btime.com/btv/btvsy_index$官网
 江苏卫视,video://https://live.jstv.com/?channelId=534$官网
@@ -502,41 +605,6 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 书画频道,http://211.103.180.178:8233/live_hls/hdmi.m3u8
 党员远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 
-
-🔆 央视频,#genre#
-山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513$央视频
-北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309$央视频
-江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521$央视频
-东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483$央视频
-浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520$央视频
-安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532$央视频
-湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475$央视频
-湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508$央视频
-广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485$央视频
-深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481$央视频
-广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509$央视频
-黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498$央视频
-吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405$央视频
-辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505$央视频
-海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506$央视频
-重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531$央视频
-四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516$央视频
-河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525$央视频
-东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484$央视频
-贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490$央视频
-江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503$央视频
-河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493$央视频
-天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137$央视频
-陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400$央视频
-甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408$央视频
-宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737$央视频
-内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401$央视频
-云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402$央视频
-山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407$央视频
-青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406$央视频
-新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138$央视频
-西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403$央视频
-CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
 🔆 学习强国,#genre#
 山东卫视,video://https://www.xuexi.cn/xxqg.html?id=15d651d2389d46ba86eda710fcc1f68b$学习强国
