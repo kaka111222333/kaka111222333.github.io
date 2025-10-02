@@ -20,12 +20,16 @@ CCTV-12 社会与法,http://10.26.0.123:4000/udp/239.253.224.235:8000
 CCTV-13 新闻,http://10.26.0.123:4000/udp/239.253.224.175:8000
 CCTV-14 少儿,http://10.26.0.123:4000/udp/239.253.224.236:8000
 CCTV-15 音乐,http://10.26.0.123:4000/udp/239.253.224.170:8000
+CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 CCTV-17 农业农村,http://10.26.0.123:4000/udp/239.253.224.168:8000
 CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 多画面,http://10.26.0.123:4000/udp/239.253.224.167:8000
 
 
 📺  卫视,#genre#
+凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
+凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
+凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 山东卫视,http://10.26.0.123:4000/udp/239.253.224.78:8000
 江苏卫视,http://10.26.0.123:4000/udp/239.253.224.83:8000
 浙江卫视,http://10.26.0.123:4000/udp/239.253.224.84:8000
@@ -1644,9 +1648,6 @@ CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党�
 
 
 🌏  港台,#genre#
-凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
-凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
-凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 澳门莲花,video://http://wap.macaulotustv.com/lotustvlive.html
 
