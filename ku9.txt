@@ -200,7 +200,7 @@ CETV4,http://10.26.0.123:4000/udp/239.253.224.116:8000
 CGTN 纪录,http://10.26.0.123:4000/udp/239.253.224.188:8000
 CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 
-北京 js,#genre#
+🌐  北京,#genre#
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京卫视,video://https://www.btime.com/btv/btvsy_index
 北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
@@ -217,7 +217,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 天津滨海2,video://https://www.jbh.tjbh.com/html/rft/live.html?channelId=d681fd177ed74d8ca37eaeed1709a440&type=1
 天津宝坻,video://https://juxian.juyun.tv/live.php?id=143100
 
-上海video,#genre#
+🌐  上海,#genre#
 东方卫视,video://https://live.kankanews.com/huikan/
 上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 上海都市,video://https://live.kankanews.com/huikan?id=4
@@ -235,7 +235,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 
 
 
-📺 江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
+🌐  江苏,#genre#,DE=-1#SC=-1#HEADERS={"referer":"https://api.chinaaudiovisual.cn"}#JS=null#PB=null#HOST=null#PBO=0#IJKAD=-1#TSO=0"
 
 连云港,https://zjcn-live-play.jstv.com/live/lianyungang.m3u8
 江苏卫视,https://zjcn-live-play.jstv.com/live/jsws_live.m3u8
@@ -338,7 +338,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 南京文旅纪录,video://https://www.nbs.cn/live/?id=110093
 南京少儿,video://https://www.nbs.cn/live/?id=110095
 
-📺 浙江,#genre#
+🌐  浙江,#genre#
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
 浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
 浙江钱江,https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f 
@@ -365,7 +365,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 宁波4,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 
 
-📺 杭州js,#genre#
+🌐  杭州,#genre#
 杭州综合,http://A/ku9/js/hztv.js?id=hzzh
 杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
 杭州生活,http://A/ku9/js/hztv.js?id=hzsh
@@ -381,7 +381,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 杭州导视,video://https://tv.hoolo.tv/ydds/
 
 
-山东 js,#genre#
+山东,#genre#
 山东卫视,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
 山东新闻,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
 山东齐鲁,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
@@ -401,7 +401,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 山东文旅,video://https://v.iqilu.com/live/yspd/
 山东少儿,video://https://v.iqilu.com/live/sepd/
 
-山东地市 js,#genre#
+山东地市,#genre#
 日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 聊城,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
 滨州,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
@@ -452,7 +452,6 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 
-青岛 video,#genre#
 青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
 青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
 太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
@@ -766,7 +765,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 汶上综合,video://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
 汶上生活,video://https://iapp.wstvs.com/s
 
-济南js,#genre#
+济南,#genre#
 济南新闻综合,http://A/ku9/js/jinan.js?id=1676
 济南生活,http://A/ku9/js/jinan.js?id=1855
 济南都市,http://A/ku9/js/jinan.js?id=1807
@@ -774,7 +773,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 济南少儿,http://A/ku9/js/jinan.js?id=2234
 济南鲁中,http://A/ku9/js/jinan.js?id=1857
 
-威海 m3u8,#genre#
+威海,#genre#
 威海海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8 
 威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 威海新闻综合,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8 
@@ -785,7 +784,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 
 
-广东js,#genre#
+🌐  广东,#genre#
 南国都市,http://A/ku9/js/gz.js?id=nd
 广州综合,http://A/ku9/js/gz.js?id=zh
 广州新闻,http://A/ku9/js/gz.js?id=xw
@@ -798,7 +797,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
 
 
-深圳video,#genre#
+🌐  深圳,#genre#
 深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
@@ -809,9 +808,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 东莞新闻综合,video://https://dgrtv.sun0769.com/index.php/online2/4
 东莞生活,video://https://dgrtv.sun0769.com/index.php/online2/5
 
-
-📺 西南,#group#
-📺 四川,#genre#
+🌐  四川,#genre#
 成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
 成都经济,http://A/ku9/js/cdtv.js?id=cdjjzx
 成都生活,http://A/ku9/js/cdtv.js?id=cddssh
@@ -849,7 +846,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 安岳综合,http://A/ku9/js/anyue.js?id=10
 资阳新闻综合,http://A/ku9/js/anyue.js?id=12
 
-云南,#genre#
+🌐  云南,#genre#
 云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
 云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
 云南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
@@ -857,7 +854,7 @@ CGTN,http://10.26.0.123:4000/udp/239.253.224.189:8000
 云南国际,http://A/ku9/js/yunnan.js?id=yunnanguoji
 云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
 
-广西,#genre#
+🌐  广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
@@ -870,8 +867,7 @@ CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf966370
 CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
-中原,#group#
-陕西,#genre#
+🌐  陕西,#genre#
 陕西卫视,http://A/ku9/js/shaanxi2.js?id=1131
 陕西新闻资讯,http://A/ku9/js/shaanxi2.js?id=1127
 陕西都市青春,http://A/ku9/js/shaanxi2.js?id=1128
@@ -935,7 +931,7 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 西安商务资讯,https://xatv-yt.xiancity.cn/live/3/index.m3u8
 西安丝路频道,https://xatv-yt.xiancity.cn/live/5/index.m3u8
 
-山西,#genre#
+🌐  山西,#genre#
 太原新闻综合,http://A/ku9/js/shenzhen.js?id=tyxwzh
 太原经济生活,http://A/ku9/js/shenzhen.js?id=tyjjsh
 太原社教法制,http://A/ku9/js/shenzhen.js?id=tysjfz
@@ -952,8 +948,7 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 阳泉科教,http://A/ku9/js/shanxi.js?id=yqkj
 
 
-安徽福建河北,#group#
-安徽,#genre#
+🌐  安徽,#genre#
 安徽卫视,http://A/ku9/js/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
 安徽国际,http://A/ku9/js/anhui.js?id=ahgj&key=关注公共号❤：AI科技生活
 安徽经济生活,http://A/ku9/js/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
@@ -971,7 +966,7 @@ https://www.tcsrm.cn/tvradio/tcggpd.html
 合肥教育法治,http://A/ku9/js/hefei.js?id=4
 CCTV1,http://A/ku9/js/hefei.js?id=6
 
-福建,#genre#
+🌐  福建,#genre#
 福建新闻,video://https://live.fjtv.net/xwpd/
 福建公共,video://https://live.fjtv.net/ggpd/
 福建旅游,video://https://live.fjtv.net/dspd/
@@ -982,7 +977,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 福建文体,video://https://live.fjtv.net/typd/
 福建少儿,video://https://live.fjtv.net/sepd/
 
-河北,#genre#
+🌐  河北,#genre#
 石家庄新闻综合,http://A/ku9/js/shijiaz.js?id=4
 石家庄城市服务,http://A/ku9/js/shijiaz.js?id=5
 石家庄文化娱乐,http://A/ku9/js/shijiaz.js?id=6
@@ -994,8 +989,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 张家口新闻,https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
 张家口公共频道,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 
-📺 湖南,#group#
-湖南video,#genre#
+🌐  湖南,#genre#
 湖南电影,video://https://live.mgtv.com/?channelId=221
 湖南电视剧,video://https://live.mgtv.com/?channelId=484
 湖南经视,video://https://live.mgtv.com/?channelId=280
@@ -1012,7 +1006,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 长沙综合,video://https://live.mgtv.com/?channelId=269
 长沙政法,video://https://live.mgtv.com/?channelId=254
 
-湖南js,#genre#
 湖南娱乐,http://A/ku9/js/hunan.js?id=hnyl&key=关注公共号❤：AI科技生活
 湖南电影,http://A/ku9/js/hunan.js?id=hndy&key=关注公共号❤：AI科技生活
 湖南都市,http://A/ku9/js/hunan.js?id=hnds&key=关注公共号❤：AI科技生活
@@ -1060,8 +1053,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 嘉禾新闻综合,http://AAAA/PLTV/ku9/js/hny.js?id=jhxwzh&key=关注公共号❤：AI科技生活
 安化综合,http://AAAA/PLTV/ku9/js/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 
-📺 河南,#group#
-河南js,#genre#
+🌐  河南,#genre#
 郑州新闻综合,http://A/ku9/js/zhengzhou.js?id=595660085175275520&key=关注公共号❤：AI科技生活
 郑州商都频道,http://A/ku9/js/zhengzhou.js?id=595659997191360512&key=关注公共号❤：AI科技生活
 郑州文体旅游,http://A/ku9/js/zhengzhou.js?id=595659904266555392&key=关注公共号❤：AI科技生活
@@ -1119,11 +1111,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 河南公共,http://A/ku9/js/henan.js?id=hngg&key=关注公共号❤：AI科技生活
 河南乡村,http://A/ku9/js/henan.js?id=hnxc&key=关注公共号❤：AI科技生活
 
-
-
-📺 南方,#group#
-
-海南video,#genre#
+🌐  海南,#genre#
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
 三沙卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
@@ -1134,8 +1122,12 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 
 
-📺 新疆,#group#
-新疆video,#genre#
+🌐  新疆,#genre#
+新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
+新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
+新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
+新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
+
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆汉语综艺,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
 新疆体育健康,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
@@ -1153,11 +1145,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 巴音郭楞州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
 塔城,video://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
 
-新疆js,#genre#
-新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
-新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
-新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
-新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
+
 
 
 
@@ -1193,8 +1181,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 1,https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 
-📺 东北,#group#
-东北video,#genre#
+🌐  东北,#genre#
 吉林卫视,video://https://www.jlntv.cn/tv
 长春综合,video://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,video://https://chinactv.com/live/1442880767035355137.html
@@ -1209,7 +1196,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 
-📺 虎牙电影,#group#
+🌐  虎牙电影,#group#
 星爷,http://A/ku9/js/虎牙.js?id=11342412
 周星星,http://A/ku9/js/虎牙.js?id=11336587
 林正英,http://A/ku9/js/虎牙.js?id=11342421
