@@ -24,3 +24,14 @@ CCTV-10 科教,http://10.26.0.123:4000/udp/239.253.224.234:8000
 广东卫视,http://10.26.0.123:4000/udp/239.253.224.90:8000
 深圳卫视,http://10.26.0.123:4000/udp/239.253.224.91:8000
 四川卫视,http://10.26.0.123:4000/udp/239.253.224.180:8000
+
+4K代理,#genre#
+东方卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
+江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
+浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
+山东卫视4K,https://itv.809899.xyz/4k.php?id=sd4k
+湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k
+广东卫视4K,https://itv.809899.xyz/4k.php?id=gd4k
+四川卫视4K,https://itv.809899.xyz/4k.php?id=sc4k
+深圳卫视4K,https://itv.809899.xyz/4k.php?id=sz4k
+北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
