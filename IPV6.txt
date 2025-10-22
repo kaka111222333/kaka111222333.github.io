@@ -79,18 +79,16 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
 游戏风云,http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 
-📺 4K 超高清,#genre#
-广东卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
-深圳卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
-北京卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
-CCTV-4K超高清,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
-山东卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
-湖南卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
-浙江卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
-江苏卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
-东方卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227331/527738511.smil
-四川卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
-
+📺 山东,#genre#
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 
 📺 青岛,#genre#
 青岛QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
@@ -105,17 +103,6 @@ CCTV-4K超高清,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smi
 胶州新闻,http://150.138.8.143/00/SNM/CHANNEL00001074/index.m3u8
 莱西综合,http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
 平度电视台,http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
-
-📺 山东,#genre#
-山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
-山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-山东农科,http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
-山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
-山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东文旅,http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
-山东教育,http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 
 📺 市县,#genre#
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
@@ -258,460 +245,210 @@ CCTV-4K超高清,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smi
 泰安宁阳,http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
 泰安宁阳公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 
+🌐超高清,#genre#
+CCTV-4K超高清,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
+山东卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
+北京卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
+东方卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227331/527738511.smil
+江苏卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
+浙江卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
+广东卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
+深圳卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
+四川卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
+湖南卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
 
+🌐  凤凰,#genre#
+凤凰卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227409/497429879.smil
+凤凰资讯,rtsp://150.138.8.132/PLTV/88888888/224/3221227280/516918666.smil
+凤凰香港,rtsp://150.138.8.132/PLTV/88888888/224/3221227291/516918680.smil
+新加坡亚洲新闻,rtsp://150.138.8.132/PLTV/88888888/224/3221227422/517070372.smil
+NHK WORLD,rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
+澳视Macau,rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
+法兰西24,rtsp://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil
+DW,rtsp://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil
+中华特产,rtsp://150.138.8.132/PLTV/88888888/224/3221227315/523620991.smil
+海洋频道,rtsp://150.138.8.132/PLTV/88888888/224/3221227353/449855977.smil
+9屏,rtsp://150.138.8.132/PLTV/88888888/224/3221226598/10000100000000060000000003878453_0.smil
 
-🏮 春晚,#genre#
-春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-网络春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+🌐  备用,#genre#
+CCTV-1,rtsp://150.138.8.132/PLTV/88888888/224/3221226103/10000100000000060000000002902003_0.smil
+CCTV-2,rtsp://150.138.8.132/PLTV/88888888/224/3221226173/10000100000000060000000003110715_0.smil
+CCTV-3,rtsp://150.138.8.132/PLTV/88888888/224/3221227134/415322505.smil
+CCTV-4,rtsp://150.138.8.132/PLTV/88888888/224/3221226179/10000100000000060000000003110724_0.smil
+CCTV-5,rtsp://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil
+CCTV-5+,rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil
+CCTV-6,rtsp://150.138.8.132/PLTV/88888888/224/3221227213/432747447.smil
+CCTV-7,rtsp://150.138.8.132/PLTV/88888888/224/3221226175/10000100000000060000000003110716_0.smil
+CCTV-8,rtsp://150.138.8.132/PLTV/88888888/224/3221227031/410248915.smil
+CCTV-9,rtsp://150.138.8.132/PLTV/88888888/224/3221226177/10000100000000060000000003110720_0.smil
+CCTV-10,rtsp://150.138.8.132/PLTV/88888888/224/3221226181/10000100000000060000000003110727_0.smil
+CCTV-11,rtsp://150.138.8.132/PLTV/88888888/224/3221226826/395256095.smil
+CCTV-12,rtsp://150.138.8.132/PLTV/88888888/224/3221226183/10000100000000060000000003110728_0.smil
+CCTV-13,rtsp://150.138.8.132/PLTV/88888888/224/3221226767/395256391.smil
+CCTV-14,rtsp://150.138.8.132/PLTV/88888888/224/3221226185/10000100000000060000000003110729_0.smil
+CCTV-15,rtsp://150.138.8.132/PLTV/88888888/224/3221226736/395256223.smil
+CCTV-17,rtsp://150.138.8.132/PLTV/88888888/224/3221226366/10000100000000060000000003766311_0.smil
+山东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil
+山东齐鲁,rtsp://150.138.8.132/PLTV/88888888/224/3221226119/10000100000000060000000002952439_0.smil
+山东文旅,rtsp://150.138.8.132/PLTV/88888888/224/3221226233/10000100000000060000000003385231_0.smil
+山东生活,rtsp://150.138.8.132/PLTV/88888888/224/3221226276/10000100000000060000000003357334_0.smil
+山东综艺,rtsp://150.138.8.132/PLTV/88888888/224/3221226235/10000100000000060000000003385298_0.smil
+山东体育,rtsp://150.138.8.132/PLTV/88888888/224/3221226139/10000100000000060000000003064319_0.smil
+山东新闻,rtsp://150.138.8.132/PLTV/88888888/224/3221226137/10000100000000060000000003064294_0.smil
+山东农科,rtsp://150.138.8.132/PLTV/88888888/224/3221226279/10000100000000060000000003687322_0.smil
+山东少儿,rtsp://150.138.8.132/PLTV/88888888/224/3221226810/391572871.smil
+山东教育,rtsp://150.138.8.132/PLTV/88888888/224/3221226219/10000100000000060000000003301182_0.smil
+湖南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226187/10000100000000060000000003110730_0.smil
+浙江卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226090/10000100000000060000000002709093_0.smil
+东方卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226150/10000100000000060000000002807413_0.smil
+江苏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226063/10000100000000060000000002709090_0.smil
+北京卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226061/10000100000000060000000002709089_0.smil
+安徽卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226189/10000100000000060000000003110731_0.smil
+天津卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226211/10000100000000060000000003301168_0.smil
+辽宁卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226209/10000100000000060000000003301163_0.smil
+深圳卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226088/10000100000000060000000002709106_0.smil
+东南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226154/10000100000000060000000002885447_0.smil
+湖北卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226207/10000100000000060000000003301162_0.smil
+广东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226067/10000100000000060000000002709095_0.smil
+黑龙江卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226065/10000100000000060000000002709094_0.smil
+重庆卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226671/10000100000000060000000004141140_0.smil
+贵州卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226213/10000100000000060000000003301172_0.smil
+江西卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226215/10000100000000060000000003301175_0.smil
+河北卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226217/10000100000000060000000003301180_0.smil
+海南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226845/397438344.smil
+四川卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226842/397438339.smil
+山西卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226015/10000100000000060000000002706922_0.smil
+河南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227129/410142845.smil
+广西卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227214/438782489.smil
+吉林卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227161/411800545.smil
+云南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227210/438782321.smil
+陕西卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil
+内蒙古卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226034/10000100000000060000000002706931_0.smil
+宁夏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226040/10000100000000060000000002706934_0.smil
+新疆卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226042/10000100000000060000000002706935_0.smil
+甘肃卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226832/402020797.smil
+青海卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227104/438782477.smil
+西藏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226019/10000100000000060000000002706936_0.smil
+金鹰卡通,rtsp://150.138.8.132/PLTV/88888888/224/3221227164/443837474.smil
+KAKU少儿,rtsp://150.138.8.132/PLTV/88888888/224/3221227167/448429701.smil
+优漫卡通,rtsp://150.138.8.132/PLTV/88888888/224/3221226066/10000100000000060000000002706940_0.smil
+金鹰纪实,rtsp://150.138.8.132/PLTV/88888888/224/3221226221/10000100000000060000000003301183_0.smil
+兵团卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226726/10000100000000060000000004141145_0.smil
+农林卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226697/10000100000000060000000004141149_0.smil
+中国交通,rtsp://150.138.8.132/PLTV/88888888/224/3221226801/392270229.smil
+三沙卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226775/395256446.smil
+嘉佳卡通,rtsp://150.138.8.132/PLTV/88888888/224/3221226740/395256412.smil
+厦门卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221226771/395256452.smil
+中国教育-1,rtsp://150.138.8.132/PLTV/88888888/224/3221226744/395256464.smil
+中国教育-2,rtsp://150.138.8.132/PLTV/88888888/224/3221226834/395256487.smil
+中国教育-4,rtsp://150.138.8.132/PLTV/88888888/224/3221227187/456916096.smil
 
-💝 美食,#genre#
-鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
-地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
-河蟹一锅烩,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all
-红曲酱鸭,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655033521-0-0-f906c86fac0f9d712e6b40db422982b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0121635443&vid=6641467693514512194&abtest=all
-红烧海茄子,https://vd2.bdstatic.com/mda-ne9adpzib1w2s7i6/480p/h264/1652168146543774177/mda-ne9adpzib1w2s7i6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034801-0-0-619992652cfa0b8d01757056583c773a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1401746639&vid=10650375313183094889&abtest=all
-红烧猪蹄尾,https://vd2.bdstatic.com/mda-ndp7arg08yycud5e/480p/h264_delogo/1650778031719082935/mda-ndp7arg08yycud5e.mp4?auth_key=1655035241-0-0-12f7145bb87ea14d123af8da6070771a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1841691460&vid=6859572154973162023&abtest=all
-鸿运猪头,https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035359-0-0-e2b5b52787d54808740e5abc56f67794&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1959759277&vid=11845744374558766684&abtest=all
-姜辣棒骨,https://vd2.bdstatic.com/mda-nda9532dzfpmrpjb/480p/h264_delogo/1649660429454395375/mda-nda9532dzfpmrpjb.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035937-0-0-e8dc2cb7fe4807a23083c7a22a38899c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2537470207&vid=17829729200355816866&abtest=all
-炕锅羊头,https://vd2.bdstatic.com/mda-ndkbtvkkzmzry5gr/hd/cae_h264_delogo/1650858156241136824/mda-ndkbtvkkzmzry5gr.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035320-0-0-148e9e7804a8284edd6678b00cb60beb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1920864857&vid=8826414521234968806&abtest=all
-捞汁小龙虾,https://vd3.bdstatic.com/mda-ne387zfv91c5g2k5/480p/h264_delogo/1651645733563996673/mda-ne387zfv91c5g2k5.mp4?auth_key=1655034938-0-0-f67414abe6c0fd2af2b35924a0197a6f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1538686534&vid=6515617102699814471&abtest=all
-撸串啦,https://vd2.bdstatic.com/mda-ne48i7vifyexiccb/480p/h264_delogo/1651732938900046773/mda-ne48i7vifyexiccb.mp4?auth_key=1655034895-0-0-a942e737aa44f790ad5d3f354b2f51d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1495944959&vid=6742202792636338419&abtest=all
-麻辣田螺,https://vd2.bdstatic.com/mda-nebbx1csfuye4nu0/480p/h264/1652344240987321761/mda-nebbx1csfuye4nu0.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034713-0-0-01a4b4618e1e3b9e24080b6f8b58bbb4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1313440992&vid=3348990192010659836&abtest=all
-麻辣兔头,https://vd2.bdstatic.com/mda-ndr9vd3muu069myi/480p/h264_delogo/1650956744271709907/mda-ndr9vd3muu069myi.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035207-0-0-35a7618c2c86d9455e0d8550e048ead7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1807001502&vid=10868651239061775579&abtest=all
-麻辣小龙虾,https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035125-0-0-f68c0c5448e434f9570361e845bdce0d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1725743161&vid=9743722764712261597&abtest=all
-梅菜扣肉,https://vd4.bdstatic.com/mda-ndc94dad3mfaia93/480p/h264_delogo/1649832429929756958/mda-ndc94dad3mfaia93.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035906-0-0-de5eee241441d09558105da7eef5dc68&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2506904726&vid=10980852652573181338&abtest=all
-美食厨房4K,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8
-沙爆猪皮,https://vd4.bdstatic.com/mda-ndf8dwrz9uh2jd8c/480p/h264_delogo/1650090435537246451/mda-ndf8dwrz9uh2jd8c.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035817-0-0-51cfeb1fdaec099abf9bfd6b3be247c6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2417515619&vid=2583787435660992218&abtest=all
-260买十来只小甲鱼,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
-霸王牛尾,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
-肥肠鹅,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033379-0-0-2321e8dcc8049dd5833ded28592aa557&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3579472476&vid=5831581271697130378&abtest=all
-干锅牛蛙,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
-虎皮鸵鸟爪,https://vd4.bdstatic.com/mda-net93dwtcueu4u9j/480p/h264/1653721609596437460/mda-net93dwtcueu4u9j.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033214-0-0-825f8d2c687a49dabb7fc3d51fe1a29f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3414454485&vid=7156446621409829348&abtest=all
-鸡腰炖黄鳝,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
-酱焖牛棒骨,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
-烤全羊,https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?auth_key=1655032801-0-0-c8d833cb709c3ab2f446cabb536dbf78&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3001806496&vid=6993374896454500535&abtest=all
-辣卤驼头,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
-馍包羊腿,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033428-0-0-1ae329bc1264912e601d4e999f52cd24&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028519303&vid=778061406411546269&abtest=all
-牛膝盖骨,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033339-0-0-fccf02e69c19c9227ebee50760846d7e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3539483479&vid=8419620275932311899&abtest=all
-铁桶烤鸡,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
-雪山驼掌,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
-四蹄同烩,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033628-0-0-ad9c96bb17140c4d2d2f0a2ac1ab2acf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0228464890&vid=9369566642451833404&abtest=all
-酸菜泥鳅,https://vd4.bdstatic.com/mda-ndh7bpuzvpswnwp2/480p/h264_delogo/1650260306760166423/mda-ndh7bpuzvpswnwp2.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035790-0-0-f89005c95d654eed989de592e96986be&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2390503988&vid=10996931384139378668&abtest=all
-糖醋牛排,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034849-0-0-30a90703c068320a18a17d308cd93f61&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1449510204&vid=394264423709055760&abtest=all
-土匪酥干,https://vd2.bdstatic.com/mda-ndua1tez8vc7zr5z/480p/h264_delogo/1651217539984001622/mda-ndua1tez8vc7zr5z.mp4?auth_key=1655035071-0-0-49402cbadff899380a97b36cc4c6108e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1671740184&vid=13634275945822664360&abtest=all
-土窑牛排,https://vd2.bdstatic.com/mda-ndm8dt5dpp8cu3qr/480p/h264_delogo/1650609098214913198/mda-ndm8dt5dpp8cu3qr.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035280-0-0-e2d56922b2c5db9e61b7f6a850d148ca&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1880957770&vid=3785894731500586863&abtest=all
-土窑乳猪,https://vd3.bdstatic.com/mda-nds73vki5mn28pfm/480p/h264_delogo/1651038226344965832/mda-nds73vki5mn28pfm.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035158-0-0-4ded17b4474485bc7b777496f24a613a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1758484472&vid=16145146088565215341&abtest=all
-兔包鸡,https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035021-0-0-5df18cbf9592a36078f609ffabfc46a4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1621918400&vid=9952112813454050741&abtest=all
-乡村720元大牛头,https://vd3.bdstatic.com/mda-mc7kjm87ud7vw1c8/hd/cae_h264_nowatermark/1615188038/mda-mc7kjm87ud7vw1c8.mp4?auth_key=1655032395-0-0-76d69c967dbb28da26cd146b4aca203f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2595302168&vid=3563264366474391721&abtest=all
-乡村1100买头羊,https://vd4.bdstatic.com/mda-kghmm8wqwjvp97gm/hd/mda-kghmm8wqwjvp97gm.mp4?auth_key=1655032152-0-0-e46ffacd02ed77fb1e67b3ad5a8fcff0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2352305816&vid=17960476347117941562&abtest=all
-羊捆肠,https://vd2.bdstatic.com/mda-ne26rr7p33rsj1y2/480p/h264_delogo/1651553280160812392/mda-ne26rr7p33rsj1y2.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034984-0-0-0666823b4ae21283ba2882e471b26e6b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1584919948&vid=9594074250590617930&abtest=all
-羊杂火锅,https://vd2.bdstatic.com/mda-nde9j23ddgrpi71z/480p/h264_delogo/1650006049614014696/mda-nde9j23ddgrpi71z.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035873-0-0-2143d9b864f19b301bedb0a00da25984&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2473527228&vid=18167929374050651526&abtest=all
-猪肉脯,https://vd2.bdstatic.com/mda-neg8b0x05h7m10p0/480p/h264/1652767840097582134/mda-neg8b0x05h7m10p0.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033590-0-0-1c34d0e5c49e2665ceb69f50ccf08d84&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0190428084&vid=8563202664943920713&abtest=all
-板肠螺狮粉,https://vd4.bdstatic.com/mda-nd98hi8r73ztrpya/480p/h264_delogo/1649573004142585909/mda-nd98hi8r73ztrpya.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036003-0-0-dabd15ea0dd95129755c956d50da5fef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2603471359&vid=8288566267298198452&abtest=all 
-大锅台,https://vd3.bdstatic.com/mda-nd89jph9c9hh7rcf/480p/h264_delogo/1649488575217940578/mda-nd89jph9c9hh7rcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036071-0-0-5289bacc04858b3cb16d1e5fcb442da2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2671193173&vid=10128460658145386557&abtest=all 
-盐焗鄂龟,https://vd3.bdstatic.com/mda-nd7c2f8nq4hcnrkn/480p/h264_delogo/1649407459996974581/mda-nd7c2f8nq4hcnrkn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036140-0-0-f311eaf138660e84836cc8ce5559e7b2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2740696995&vid=8924502782467213214&abtest=all 
-果香排骨,https://vd3.bdstatic.com/mda-nd68ai08aj0ewj9s/480p/h264_delogo/1649313333330734786/mda-nd68ai08aj0ewj9s.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036207-0-0-feb91443f39a8905fd834a69b4170c6d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2807567938&vid=15309846064687821084&abtest=all 
-铁板鱿鱼,https://vd2.bdstatic.com/mda-nd47jpggnervrjev/480p/h264_delogo/1649138428625881592/mda-nd47jpggnervrjev.mp4?auth_key=1655036357-0-0-ac3c5503cbaae86d97c9a0b315d19524&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2957492859&vid=3160589265422527523&abtest=all 
-脆皮猪手,https://vd3.bdstatic.com/mda-nd37fvbi8ns75v8k/480p/h264_delogo/1649051367811032897/mda-nd37fvbi8ns75v8k.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036409-0-0-f2e5408b79d1f40315a8f33c67fdf6fb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3009075188&vid=7860934379477494781&abtest=all 
-牛架子,https://vd2.bdstatic.com/mda-nd18ibhe9e17sxv0/480p/h264_delogo/1648880628803892130/mda-nd18ibhe9e17sxv0.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036457-0-0-b0bac9742c6ace4561c8f521c1bcaf85&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3057160852&vid=11761064184755722546&abtest=all 
-乾坤牛肚,https://vd3.bdstatic.com/mda-ncsc455a412m4wha/480p/h264_delogo/1648370949637453882/mda-ncsc455a412m4wha.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036517-0-0-3c7b1fe1382c869d73153c5f225316e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3117533700&vid=8833269090986204171&abtest=all 
-羊肚包肉,https://vd4.bdstatic.com/mda-ncp8q87kp3k72s2q/480p/h264_delogo/1648103282514140679/mda-ncp8q87kp3k72s2q.mp4?auth_key=1655036552-0-0-26326f5e83ed8aaef67958a0ae1307e5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3152576612&vid=8371238473959379275&abtest=all 
-鱼泡羊肉,https://vd3.bdstatic.com/mda-nck76h2megnj3mbh/480p/h264_delogo/1647841284503494555/mda-nck76h2megnj3mbh.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036589-0-0-880e0f1de125181b5b9bb5f6476c661e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3189017543&vid=10780357048643047061&abtest=all 
-红烧马鞍桥,https://vd4.bdstatic.com/mda-nci8vdhp6s1ppcg8/480p/h264_delogo/1647672848908064952/mda-nci8vdhp6s1ppcg8.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036663-0-0-0818d0aeb59ba3a9eb89b30505ea46f5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3263147606&vid=11272322946744536045&abtest=all 
-牛肉汤,https://vd3.bdstatic.com/mda-ncg7mynaykcnexuw/480p/h264_delogo/1647496893316677116/mda-ncg7mynaykcnexuw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036697-0-0-5049e23603faba336b89cd56fa14bd35&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3297611495&vid=10038164832874949087&abtest=all 
-神仙鱼,https://vd2.bdstatic.com/mda-ncdake1irkteqcts/hd/cae_h264_delogo/1647328530650446610/mda-ncdake1irkteqcts.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036727-0-0-943957648229a52d6cd45f70f37bf7c1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3327891567&vid=9846910266670772519&abtest=all 
-五花肉卷,https://vd4.bdstatic.com/mda-nca7q9hnjmqh2iw6/hd/cae_h264_delogo/1646984324539660807/mda-nca7q9hnjmqh2iw6.mp4?auth_key=1655036757-0-0-85759a1b396a5484fea9719f6289ddba&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3356934915&vid=13602902236587799952&abtest=all 
-扒鸡,https://vd3.bdstatic.com/mda-nc8a1imqiriahjd2/hd/cae_h264_delogo/1646811978078057591/mda-nc8a1imqiriahjd2.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036784-0-0-ec2770049bd45db0649cd03b54cc0881&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3384576631&vid=2238279565543294477&abtest=all 
-碳烤牛蛙,https://vd2.bdstatic.com/mda-nc78zsmegndnzq8b/480p/h264_delogo/1646722879137832380/mda-nc78zsmegndnzq8b.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036807-0-0-53893a25709e7523ab7ce56c7572d59a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3407937406&vid=10249442721586817393&abtest=all 
-烤娃娃鱼,https://vd3.bdstatic.com/mda-nc581x9xhdu2hy97/480p/h264_delogo/1646547280542647694/mda-nc581x9xhdu2hy97.mp4?auth_key=1655036844-0-0-f8a7a7558c735830c08499beccabf494&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3444083058&vid=3100447263476279517&abtest=all 
-涮羊肉,https://vd4.bdstatic.com/mda-nc283zcb1sdxffh7/hd/cae_h264_delogo/1646291832305806760/mda-nc283zcb1sdxffh7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036890-0-0-1f0a25db613c7f055b83d3360d685703&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3489993008&vid=5652375772588317958&abtest=all 
-香辣猪蹄,https://vd4.bdstatic.com/mda-nc0aebyi54haejjg/480p/h264_delogo/1646121677309172816/mda-nc0aebyi54haejjg.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036937-0-0-2865b0b013f873a5389ff7815f4ca2c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3537905780&vid=13069224770405265005&abtest=all 
-铁板羊腰,https://vd3.bdstatic.com/mda-nbs76a3f70kr1p7z/480p/h264_delogo/1645939971169058430/mda-nbs76a3f70kr1p7z.mp4?auth_key=1655036969-0-0-f0668b07563e01efce1109fa29fe1493&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3569246752&vid=503945329068855314&abtest=all 
-干锅驴排,https://vd2.bdstatic.com/mda-nbr9bdfxwcr4gycy/480p/h264_delogo/1645859749729497000/mda-nbr9bdfxwcr4gycy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037028-0-0-817e5db534adce46fbcdd34b08b07d93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028654692&vid=662793154143694639&abtest=all 
-猪肚鸡,https://vd3.bdstatic.com/mda-nbp9ei7iz1phjnq9/hd/cae_h264_delogo/1645687952128151129/mda-nbp9ei7iz1phjnq9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037069-0-0-791c4af47a2ed975ecd114bfe7f8c447&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0069680214&vid=5082689025159486327&abtest=all 
-土窑甲鱼,https://vd2.bdstatic.com/mda-nbj8z1k8ea5utxd7/hd/cae_h264_nowatermark_delogo/1645341838851808364/mda-nbj8z1k8ea5utxd7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655037104-0-0-bfaf717ba909ebe3aa949a51546ab548&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0104238481&vid=5574764205239806126&abtest=all 
-牛鞭火锅,https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?auth_key=1655037133-0-0-427317304b03c7650d491c3e00826159&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0133329035&vid=2874643620946063398&abtest=all 
-熏肥肠,https://vd2.bdstatic.com/mda-nbe3mtgtsfcp7kdg/hd/cae_h264_nowatermark_delogo/1644908120637406906/mda-nbe3mtgtsfcp7kdg.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037170-0-0-b568e06ec50c50788e98cda08d2a9d51&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0170849634&vid=3395772809045714873&abtest=all 
-全汤肥牛,https://vd2.bdstatic.com/mda-nbc9jdz0e547ga0m/hd/cae_h264_nowatermark_delogo/1644738793530014099/mda-nbc9jdz0e547ga0m.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037211-0-0-e333e4727bdc8a4ee1e333a40f3686fc&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0211510296&vid=7226776632075914153&abtest=all 
-叫花牛蹄,https://vd3.bdstatic.com/mda-nb82f0r4ehxpchn9/hd/cae_h264_nowatermark_delogo/1644394964122599695/mda-nb82f0r4ehxpchn9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037263-0-0-72228e882810c7c4f1b5ed3d1b3a49f2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0262954778&vid=10258566865842026441&abtest=all 
-香辣驴头,https://vd4.bdstatic.com/mda-nb5d0hz6bv4tckwf/hd/cae_h264_nowatermark_delogo/1644141076715754303/mda-nb5d0hz6bv4tckwf.mp4?auth_key=1655037321-0-0-ad3a7ff1165836492d89d0304bfa3ba9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0321420638&vid=10996736921375310032&abtest=all 
-羊蹄血肠,https://vd2.bdstatic.com/mda-nb39vepdxvigcrjn/hd/cae_h264_nowatermark_delogo/1643960728217969923/mda-nb39vepdxvigcrjn.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037353-0-0-d21426c37711f030a5b0bafbfb2e0dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0353654814&vid=12816752308784095343&abtest=all 
-海鲜凤爪,https://vd3.bdstatic.com/mda-nb09atbmh54tx1dy/hd/cae_h264_nowatermark_delogo/1643700081927987800/mda-nb09atbmh54tx1dy.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037387-0-0-76617b8afcbb944c6f96a9fa2161dc1f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0387224320&vid=3323052900774976687&abtest=all 
-肥肠鸡,https://vd2.bdstatic.com/mda-nav961ga5d6njuf7/hd/cae_h264_nowatermark_delogo/1643528150130489648/mda-nav961ga5d6njuf7.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037446-0-0-accb9993f5c56712f68eb6bcc10d5ad8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0446210838&vid=5728774520691302739&abtest=all 
-驴杂火锅,https://vd4.bdstatic.com/mda-natd8fqhddamndcf/hd/cae_h264_nowatermark_delogo/1643363346179801123/mda-natd8fqhddamndcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037476-0-0-10212199bd20ee9e8e27f08d6839767e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0476545798&vid=1160656646864348805&abtest=all 
-叫花牛头,https://vd4.bdstatic.com/mda-nan9ayjfqc79ntag/hd/cae_h264_nowatermark_delogo/1642922236652462702/mda-nan9ayjfqc79ntag.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037547-0-0-a3a12bca1468489eb04fe7ef4bb3fa4d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0547883043&vid=780864674833455805&abtest=all 
-牛肉酱,https://vd2.bdstatic.com/mda-nak7x5f1rjgqq2ub/hd/cae_h264_nowatermark_delogo/1642746165515514357/mda-nak7x5f1rjgqq2ub.mp4?auth_key=1655037586-0-0-6bbce1807e3e90d609b92d0a2197f761&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0586464048&vid=8482998811716257270&abtest=all 
-牛骨髓,https://vd2.bdstatic.com/mda-nai94ia9vzvb3mv3/hd/cae_h264_nowatermark_delogo/1642578572157820446/mda-nai94ia9vzvb3mv3.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037613-0-0-0dcd67e03bedc80216d0a2cce793ad67&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0613036666&vid=18227113013263922370&abtest=all 
-蒜蓉虾尾,https://vd4.bdstatic.com/mda-naf8hkrjgwxbj8us/hd/cae_h264_nowatermark_delogo/1642316302701242007/mda-naf8hkrjgwxbj8us.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037642-0-0-0a2e5f66d87800fcd27948a991534731&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0642633258&vid=16462556052025207878&abtest=all 
-麻辣八爪,https://vd2.bdstatic.com/mda-nad9szzn7242x8k7/hd/cae_h264_nowatermark_delogo/1642145445591674821/mda-nad9szzn7242x8k7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037674-0-0-9d8cd549c13645d23be6d079717822c0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0674246809&vid=11217872974709049113&abtest=all 
-垛子牛肉,https://vd4.bdstatic.com/mda-nabavj4c221wxqgt/hd/cae_h264_nowatermark_delogo/1641976216670988470/mda-nabavj4c221wxqgt.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037702-0-0-5e1ecf0dfc77228c16ed7d4c65438c20&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0702394694&vid=5092052976139988822&abtest=all 
-涮火锅,https://vd4.bdstatic.com/mda-na67fq41v8myeed4/hd/cae_h264_delogo/1643273295594908296/mda-na67fq41v8myeed4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037770-0-0-4a73db93fe978b091e64dd51427c0fff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0770662256&vid=3361054794105641742&abtest=all 
-肥肠鱼泡,https://vd3.bdstatic.com/mda-na49ic0ymwjgkt65/hd/cae_h264_nowatermark/1641370280555230626/mda-na49ic0ymwjgkt65.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037809-0-0-c6b16d17b2ed99174c6e4b83a747b500&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0809773334&vid=10525180761364610031&abtest=all 
-牛肉生蚝,https://vd3.bdstatic.com/mda-na39suky43apd0y1/hd/cae_h264_delogo/1642482679484559135/mda-na39suky43apd0y1.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037836-0-0-abe38e70f64a1f717b3aa90c4172bfce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0836912986&vid=5854775358506483714&abtest=all 
-固始鹅块,https://vd2.bdstatic.com/mda-na19ij023wzim6xu/hd/cae_h264_delogo/1643521798902946428/mda-na19ij023wzim6xu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037875-0-0-83ff535f19cdb74b404736586bef5858&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0875764428&vid=16420128698490995780&abtest=all 
-一品锅,https://vd2.bdstatic.com/mda-mmw8zpq9h1du2uk3/hd/cae_h264_nowatermark/1640934182747498850/mda-mmw8zpq9h1du2uk3.mp4?auth_key=1655037915-0-0-e5f34e2c8c6c22a05759b8fea89d145a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0915558658&vid=3534618154135369010&abtest=all 
-压牛头,https://vd4.bdstatic.com/mda-mmu8h5nnkp1t2nx0/hd/cae_h264_nowatermark/1640765166397502440/mda-mmu8h5nnkp1t2nx0.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037944-0-0-f50ab04c7a5b2b0222cbdfe18027060a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0944182032&vid=10952301425040950838&abtest=all 
-胡辣羊头,https://vd4.bdstatic.com/mda-mms71px4squvd00p/hd/cae_h264_nowatermark/1640590775126218266/mda-mms71px4squvd00p.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037970-0-0-a8de30df388bf4bc4334bfd499064a93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0970541550&vid=5534693109837298442&abtest=all 
-霸王兔,https://vd4.bdstatic.com/mda-mmp7he34swdh6gsw/hd/cae_h264_delogo/1643140446383773433/mda-mmp7he34swdh6gsw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038013-0-0-9d4d0895582fe798566151e3ffe1c128&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1013375367&vid=11350547968857944275&abtest=all 
-肥肠甲鱼,https://vd3.bdstatic.com/mda-mmm8c3hewxedh66d/hd/cae_h264_nowatermark/1640158495064205292/mda-mmm8c3hewxedh66d.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038036-0-0-a2c8c1beff9caa0baf15149aba16f9ef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1036844022&vid=14079846926121003957&abtest=all 
-杀猪菜,https://vd4.bdstatic.com/mda-mmh8enzg9dufcjew/hd/cae_h264_delogo/1643148855922505652/mda-mmh8enzg9dufcjew.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038099-0-0-f2f4d73fdf23b80f24d750f784037649&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1098964941&vid=10983940605509037492&abtest=all 
-牛瘪火锅,https://vd2.bdstatic.com/mda-mme8fmkv8b99th0e/hd/cae_h264_delogo/1643344430820658205/mda-mme8fmkv8b99th0e.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038136-0-0-81d4655b92f38756cbe75d3a09c26844&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1136892942&vid=1972881066801322336&abtest=all 
-酱棒骨,https://vd2.bdstatic.com/mda-mm8fhq5q5ub8k0fm/hd/cae_h264_delogo/1643145997435947974/mda-mm8fhq5q5ub8k0fm.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655038187-0-0-47495a72bdb3b8751273d7fe7f22cce2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1187024924&vid=1438651096142046489&abtest=all 
-筋头八脑,https://vd4.bdstatic.com/mda-mm47strdf2zeu4x9/hd/cae_h264_nowatermark/1638685530136559736/mda-mm47strdf2zeu4x9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038221-0-0-d4a3a109f5b1e85d136affb47a86bb85&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1221486302&vid=18427407725363244422&abtest=all 
-铁板猪蹄,https://vd4.bdstatic.com/mda-mm19upe0w7ez7w6a/hd/cae_h264_delogo/1643294485844966415/mda-mm19upe0w7ez7w6a.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038299-0-0-b66f9251670a14d75602c7838d5c37bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1299363477&vid=15953743817154897422&abtest=all 
-古法烧鸽,https://vd3.bdstatic.com/mda-mm099uaj0ke9fihc/hd/cae_h264_delogo/1643394054911732959/mda-mm099uaj0ke9fihc.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038328-0-0-24729d553323f678544e3a29d8ba535a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1328609491&vid=4857230690725699951&abtest=all 
-煎猪舌,https://vd2.bdstatic.com/mda-mkuai8ivt3av9zkj/hd/cae_h264_delogo/1643299213879017531/mda-mkuai8ivt3av9zkj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038368-0-0-396cfe3bedebc336cc2ed04124775e60&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1368877154&vid=13877551118599665393&abtest=all 
-牛头宴,https://vd3.bdstatic.com/mda-mks9y8dy7impm9c2/hd/cae_h264_nowatermark/1638008851889524241/mda-mks9y8dy7impm9c2.mp4?auth_key=1655038417-0-0-201ef016f55053537c8da92303367c58&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1417127944&vid=8187387678536469261&abtest=all 
-火鸡闷饭,https://vd2.bdstatic.com/mda-mkq8kvnx6xptxf62/hd/cae_h264_delogo/1643237169792138546/mda-mkq8kvnx6xptxf62.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038464-0-0-cd37771d3548a72466dea893a0dbf87c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1464024416&vid=3383676781628031336&abtest=all 
-猪排,https://vd2.bdstatic.com/mda-mkm7k6965dm764xt/hd/cae_h264_delogo/1643526460358125506/mda-mkm7k6965dm764xt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038501-0-0-cd3f36aa1bf073be8a1e1f96562c1a92&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1501192171&vid=13984215507878282966&abtest=all 
-姜辣牛排,https://vd4.bdstatic.com/mda-mkj9mb2e0d3uxz46/hd/cae_h264_delogo/1643237569847823147/mda-mkj9mb2e0d3uxz46.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038533-0-0-8de2c016e06c678c89ba08a5843daba1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1533733823&vid=3612463229561403288&abtest=all 
-肥肠鱼,https://vd2.bdstatic.com/mda-mki991c4a5swccnt/hd/cae_h264_delogo/1643280018825014036/mda-mki991c4a5swccnt.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038570-0-0-1c5547e05f4f5705b839082f37bb9a41&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1570434797&vid=13602866446155427753&abtest=all 
-白水羊头,https://vd2.bdstatic.com/mda-mkha4vvyawp5r1qm/hd/cae_h264_nowatermark/1637222214759381999/mda-mkha4vvyawp5r1qm.mp4?auth_key=1655038602-0-0-60675b1329861d9006a970785c381982&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1602639633&vid=8593366559295747886&abtest=all 
-猪脑花,https://vd4.bdstatic.com/mda-mke8ye6thivbi3ee/hd/cae_h264_nowatermark/1636960733213609865/mda-mke8ye6thivbi3ee.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038654-0-0-a01673c426577deb519aea5ae1f79260&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1654280990&vid=4689139380671627088&abtest=all 
-羊肉暖锅,https://vd2.bdstatic.com/mda-mkc905af4gw0k2k4/hd/cae_h264_nowatermark/1636787396972251106/mda-mkc905af4gw0k2k4.mp4?auth_key=1655038682-0-0-ed11dc83a6da1af49e377b9c91cca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1682380047&vid=2068483150629839983&abtest=all 
+CCTV-4K超高清,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
+广东卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
+深圳卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
+北京卫视4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
+海看4K,rtsp://150.138.8.132/PLTV/88888888/224/3221226251/10000100000000060000000003524990_0.smil
 
-麻辣香锅,https://vd2.bdstatic.com/mda-mkb9ewc5ncirbt3w/hd/cae_h264_nowatermark/1636703902467648330/mda-mkb9ewc5ncirbt3w.mp4?auth_key=1655038715-0-0-f4b23575749b0571d12220478b66e94c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1715331197&vid=3626079908275042619&abtest=all 
-烤五花,https://vd2.bdstatic.com/mda-mkabgb9y5zicbhy7/hd/cae_h264_delogo/1643148675355964834/mda-mkabgb9y5zicbhy7.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038744-0-0-5336098a2609e69f43c3729f9c18a462&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1744659768&vid=4787275538437731463&abtest=all 
-鱼羊鲜,https://vd2.bdstatic.com/mda-mk89gvesx7b3v2sp/hd/cae_h264_nowatermark/1636442796730604113/mda-mk89gvesx7b3v2sp.mp4?auth_key=1655038776-0-0-4e3b8ba097a617bb9c4436c85a66d52f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1776628144&vid=65227182157962730&abtest=all 
-崩锅鸵鸟脖,https://vd2.bdstatic.com/mda-mk29gjfuymjq6z7t/hd/cae_h264_delogo/1643133846880662509/mda-mk29gjfuymjq6z7t.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038873-0-0-2cd82618c7c77a4aa118207982ddf2b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1873581778&vid=5751203570637112090&abtest=all 
-黄焖驴脖,https://vd2.bdstatic.com/mda-mk1b152f98nfbyeg/hd/cae_h264_delogo/1643242176265692385/mda-mk1b152f98nfbyeg.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038910-0-0-8710dd5059b5b62dafe30e51f6c7bee3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1910211417&vid=7865035269210948249&abtest=all 
-盐焗大闸蟹,https://vd4.bdstatic.com/mda-mjra3nnad32gvkr8/hd/cae_h264_delogo/1643309159026103358/mda-mjra3nnad32gvkr8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038963-0-0-dd131205c7c11ffd66a98bf1bc5e45f9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1963489709&vid=4503363676344203388&abtest=all 
-大龙虾,https://vd3.bdstatic.com/mda-mjk90p9g5wc9n1at/hd/cae_h264_delogo/1643288388530304311/mda-mjk90p9g5wc9n1at.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038990-0-0-e7fc879f362baf07da9a0651252050e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1990929487&vid=18056752908014310824&abtest=all 
-火焰醉鹅,https://vd3.bdstatic.com/mda-mjiatn4qf193dt08/hd/cae_h264_delogo/1643345184575680334/mda-mjiatn4qf193dt08.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048025-0-0-eb09c86ea67d1a51c8fff3936c87a2b3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0225267198&vid=10095541657962494981&abtest=all 
-海鲜火锅,https://vd2.bdstatic.com/mda-mjf9wydtwjykhs8g/hd/cae_h264_delogo/1643288227647929268/mda-mjf9wydtwjykhs8g.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048110-0-0-1b5723da8043f318e4f297a496d11810&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0310512780&vid=10889186030930338226&abtest=all 
-碳烤三宝,https://vd2.bdstatic.com/mda-mje8f2z5nvnaqxx5/hd/cae_h264_delogo/1643299933931628442/mda-mje8f2z5nvnaqxx5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048140-0-0-5d03ea95219590cc74e1e90b924bddc5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0340633722&vid=9207932154469744116&abtest=all 
-土窑猪排,https://vd3.bdstatic.com/mda-mja9808byebsih24/hd/cae_h264_delogo/1643145464986574279/mda-mja9808byebsih24.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655048267-0-0-1d7ade69fcb79230184aaa069b510ea8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0467544216&vid=15395825279250866027&abtest=all 
-糟鱼,https://vd2.bdstatic.com/mda-mj99qt5jmnr68x9i/hd/cae_h264_delogo/1643396392968044649/mda-mj99qt5jmnr68x9i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048300-0-0-fae488d44b10a521238a5234e764f7b7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0500244543&vid=5445321693841193463&abtest=all 
-肉蟹宝,https://vd2.bdstatic.com/mda-mj897xs5u8n50cqf/hd/cae_h264_delogo/1643245062609277571/mda-mj897xs5u8n50cqf.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1655048513-0-0-3af3d3f930d27a02d99be3a7381dcbb6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0713138864&vid=3501958299112196580&abtest=all 
-臭味相投,https://vd2.bdstatic.com/mda-mj68mqz61txfmbux/hd/cae_h264_delogo/1643398555352482143/mda-mj68mqz61txfmbux.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1655048547-0-0-abbe5df99e3cb8d44af4c92089f225df&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0747290485&vid=9316133598782000133&abtest=all 
-一圣两吃,https://vd3.bdstatic.com/mda-mj49wzs4nbtipw7r/hd/cae_h264_delogo/1643347230722924103/mda-mj49wzs4nbtipw7r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655048583-0-0-65cf41e665dd7b4812ed17980ccbffc9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0783812465&vid=1474341097213281207&abtest=all 
-肥肠鸵鸟,https://vd4.bdstatic.com/mda-mj3aznj03miqb90i/hd/cae_h264_delogo/1643395222269072007/mda-mj3aznj03miqb90i.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048674-0-0-23dde4a707f273c5830644acd423c431&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0874377330&vid=12582352752573451618&abtest=all 
-椒麻牛肚,https://vd3.bdstatic.com/mda-miubaf6hcyy7rg7j/hd/cae_h264_nowatermark/1632904973218649172/mda-miubaf6hcyy7rg7j.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048805-0-0-6ca2ac26020f1192d67d9a3b83618d27&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1005115126&vid=9974431401705543867&abtest=all 
-驴板肠,https://vd3.bdstatic.com/mda-mir98exz23pc0kag/hd/cae_h264_delogo/1643268269600619303/mda-mir98exz23pc0kag.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048865-0-0-f6df485c633ad487360c0f98afdfa900&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1065728472&vid=12213425554589901517&abtest=all 
-熏牛头,https://vd3.bdstatic.com/mda-mipad2w74c5ve16r/hd/cae_h264_nowatermark/1632470564677186726/mda-mipad2w74c5ve16r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049037-0-0-e49ca33b1492c8b406181a9550448c03&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1237735318&vid=3564792331748451907&abtest=all 
-茄汁牛排,https://vd2.bdstatic.com/mda-min84pfus06fa5ty/hd/cae_h264_delogo/1643399692479309748/mda-min84pfus06fa5ty.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049079-0-0-3cf5aadaddada521ac98deb187aaaf70&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1278959445&vid=12380583999886786330&abtest=all 
-红油鳄龟,https://vd4.bdstatic.com/mda-mimebnr7cbwe87gv/hd/cae_h264_nowatermark/1632306810020853183/mda-mimebnr7cbwe87gv.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049116-0-0-4b32cb0be0bc2bf4e634c3bda8b1e682&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1316915657&vid=11735119155283246522&abtest=all 
-甲鱼两吃,https://vd2.bdstatic.com/mda-mik9hqxvc3d7wfa9/hd/cae_h264_nowatermark/1632209792414825761/mda-mik9hqxvc3d7wfa9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049248-0-0-9c2321e6483cb05142c2a38b3a85f9cd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1448796100&vid=517908038500912846&abtest=all 
-烘扒牛蹄,https://vd2.bdstatic.com/mda-mij8cz664p3uf8f7/hd/cae_h264_delogo/1643355302897838535/mda-mij8cz664p3uf8f7.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049329-0-0-03f42b172d3932a556db82503b22933c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1529538392&vid=8056477574405400816&abtest=all 
-骆驼脖子,https://vd2.bdstatic.com/mda-mih4j16kyuayu48t/hd/cae_h264_nowatermark/1631954645472769915/mda-mih4j16kyuayu48t.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049902-0-0-a87e7ee8d479f9a46f780e08d8d382b6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2102649959&vid=13449991231537939716&abtest=all 
-红油烧兔,https://vd3.bdstatic.com/mda-mif1ufq0yid8d08t/hd/cae_h264_nowatermark/1631771666930725095/mda-mif1ufq0yid8d08t.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655049952-0-0-7f8441ab416ccfcc7a766d4c08eade76&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2152259891&vid=4192445000353986497&abtest=all 
-蜂窝煤,https://vd2.bdstatic.com/mda-ncu8qjqrixkbq4dh/hd/cae_h264_delogo/1648539013955836156/mda-ncu8qjqrixkbq4dh.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655050058-0-0-6e30cdf0f83910724e55ae6df0cd3110&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2258630461&vid=16950748271499815250&abtest=all 
-虎皮鸵鸟腿,https://vd4.bdstatic.com/mda-micb4mbwu92afiyy/hd/cae_h264_delogo/1643265872305837504/mda-micb4mbwu92afiyy.mp4?auth_key=1655204273-0-0-238a9cb75af69f1212d3643bb3fef1e9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1673451331&vid=8217499499106446478&abtest=all 
-土窑烤羊头,https://vd3.bdstatic.com/mda-miaa4mvnh3tvdx5v/hd/cae_h264_delogo/1643285147008260737/mda-miaa4mvnh3tvdx5v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204366-0-0-31089ea4b9f00316d88a72090d166c07&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1766676433&vid=14138898109607446197&abtest=all 
-全羊宴,https://vd2.bdstatic.com/mda-mi8b8n1fapkfzy30/hd/cae_h264_nowatermark/1631177030299243081/mda-mi8b8n1fapkfzy30.mp4?auth_key=1655204410-0-0-3251cfef0e96bbbe4193a73d6a4cd92f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1810327203&vid=2629651966226721826&abtest=all 
-牛肉干,https://vd2.bdstatic.com/mda-mi69jfdzkvwnvbvs/hd/cae_h264_delogo/1643393450199617691/mda-mi69jfdzkvwnvbvs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204438-0-0-d5ebeacf2fcce06a01ab59547e29108c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1838395857&vid=5493966352868834919&abtest=all 
-胡辣汤,https://vd4.bdstatic.com/mda-ncw71ypxk54z5rx2/480p/h264_delogo/1648709839751364673/mda-ncw71ypxk54z5rx2.mp4?auth_key=1655204973-0-0-a24496324963aee8848cfa3f212e6353&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2373877974&vid=5478542402655261562&abtest=all 
-水煮毛肚,https://vd3.bdstatic.com/mda-ncq9rn183n6gnvs7/480p/h264_delogo/1648192109377463064/mda-ncq9rn183n6gnvs7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655205004-0-0-f98169ef2f34b0e782d65225cc0256e1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2404287018&vid=4898549614574730434&abtest=all 
-石头烤肉,https://vd3.bdstatic.com/mda-mi4ab8i1w6w4y5jj/hd/cae_h264_nowatermark/1630828286668238373/mda-mi4ab8i1w6w4y5jj.mp4?auth_key=1655224094-0-0-4c0c81d29b6d8e6396e0250d44b739b1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3494340903&vid=11287013436425742467&abtest=all 
-酱汁乳鸽,https://vd2.bdstatic.com/mda-mi2a6c3jc2a7j6hd/hd/cae_h264_nowatermark/1630655129237630780/mda-mi2a6c3jc2a7j6hd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224244-0-0-f07eacc56aaadd6ee5e73c1cd0cebcf2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0044502052&vid=13481194564157475203&abtest=all 
-麻辣驴大排,https://vd2.bdstatic.com/mda-mi0arbxk7eckrcew/hd/cae_h264_nowatermark/1630484038350026458/mda-mi0arbxk7eckrcew.mp4?auth_key=1655224296-0-0-c1b64c518a1a522853ebe41160bf097a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0096043637&vid=9221544344203440669&abtest=all 
-沸腾牛蛙,https://vd2.bdstatic.com/mda-mhvcn4mm0rmj7syn/hd/cae_h264_nowatermark/1630315204572443001/mda-mhvcn4mm0rmj7syn.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224348-0-0-4a80964a994c7215f2db7d72f06740ed&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0148343145&vid=2481039587542546049&abtest=all 
-香焖驴板肠,https://vd2.bdstatic.com/mda-mhuagwk8xqy4r0f3/hd/cae_h264_delogo/1643139533885975965/mda-mhuagwk8xqy4r0f3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224381-0-0-e70ac774b4f198c04cb31c91e4eeb8dd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0181458419&vid=7010485010016896710&abtest=all 
-辣卤羊头,https://vd2.bdstatic.com/mda-mht8xwcyw34qjw51/hd/cae_h264_delogo/1650783822006328405/mda-mht8xwcyw34qjw51.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224505-0-0-65823773e481cc498567701e3714ea0c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0305335743&vid=17644310508529398649&abtest=all 
-红烧牛鞭,https://vd3.bdstatic.com/mda-mhr9cvdz49zuvkv0/hd/cae_h264_nowatermark/1629962253314476344/mda-mhr9cvdz49zuvkv0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224544-0-0-62f9615455168cd152d260c49c3221bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0344050121&vid=4418756710345833871&abtest=all 
-贴秋瓢,https://vd2.bdstatic.com/mda-mhqa861qis0kfjpj/hd/cae_h264_nowatermark/1629878157460960116/mda-mhqa861qis0kfjpj.mp4?auth_key=1655224923-0-0-9d3d66298772db18dce66755a5d02fe8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0723344016&vid=11966217770318394920&abtest=all 
-香辣梭子蟹,https://vd4.bdstatic.com/mda-mhpb0c0wncgxc46z/hd/cae_h264_nowatermark/1629793200922512800/mda-mhpb0c0wncgxc46z.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224994-0-0-53acf433a09b5b308d3ab5bf40ddf34d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0794778106&vid=8439739901543690368&abtest=all 
-驴肉焖饼子,https://vd3.bdstatic.com/mda-mhkb8qqr7tfs2ayv/hd/cae_h264_nowatermark/1629533560474289772/mda-mhkb8qqr7tfs2ayv.mp4?auth_key=1655225037-0-0-41643ab13c15f208522e48dafc914584&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0837458498&vid=12177150870923519991&abtest=all 
-驴皮阿胶膏,https://vd2.bdstatic.com/mda-mhh9vz373qs26apd/hd/cae_h264_delogo/1643135339221745617/mda-mhh9vz373qs26apd.mp4?auth_key=1655257329-0-0-4dc784191a762c1877b4eaf12470f05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0729258624&vid=1665905482183797316&abtest=all 
-龙凤一锅焖,https://vd4.bdstatic.com/mda-mhc9q24e8aanyqfq/hd/cae_h264_nowatermark/1628843986055712987/mda-mhc9q24e8aanyqfq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257406-0-0-bfc3d2f0c45a002785a3a2f18fca2d74&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0806911487&vid=12345621156566779145&abtest=all 
-叫花青蟹,https://vd4.bdstatic.com/mda-mhba45j94002q00p/hd/cae_h264_nowatermark/1628754279184882298/mda-mhba45j94002q00p.mp4?auth_key=1655257441-0-0-74939346279b1eecf1a476d32f39ac05&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0841777840&vid=4195214514960735448&abtest=all 
-扒驼掌,https://vd4.bdstatic.com/mda-mhb4sz7fqievqwxg/hd/cae_h264_delogo/1643265199711533630/mda-mhb4sz7fqievqwxg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257473-0-0-3be13ddbcdf137baed05768d390dc854&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0873668924&vid=7727774398821896768&abtest=all 
-卤牛舌,https://vd4.bdstatic.com/mda-mha9ctbvx0p7xpeg/hd/cae_h264_nowatermark/1628666552624701166/mda-mha9ctbvx0p7xpeg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257501-0-0-304a2529a6a9b285d3d10fc72149c2a5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0901421755&vid=9780762439742807862&abtest=all 
-过桥排骨,https://vd2.bdstatic.com/mda-mh7bjjwcystw4mc0/hd/cae_h264_delogo/1643280138786882129/mda-mh7bjjwcystw4mc0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257532-0-0-39d708415d86377f72b07876b181ab28&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0932409639&vid=9573940101718703463&abtest=all 
-火焰牛皮,https://vd4.bdstatic.com/mda-mh59qup45zfydi76/hd/cae_h264_delogo/1643402078497614460/mda-mh59qup45zfydi76.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257632-0-0-e9787ed2e8e0b476aea7c4b9cb58491c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1032799780&vid=6518944304030781195&abtest=all 
-脆皮猪肘,https://vd2.bdstatic.com/mda-mh1a8fdarfcwwvt3/hd/cae_h264_nowatermark/1627890689120474219/mda-mh1a8fdarfcwwvt3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257682-0-0-562ba571a9bf1f12fce74cf2f88c8fc5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1082723646&vid=13827458971573168633&abtest=all 
-干锅牛尾巴,https://vd4.bdstatic.com/mda-mgmav7wcir7rb2f8/480p/h264/1626940245358233958/mda-mgmav7wcir7rb2f8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257764-0-0-685dbaa14b4a1b5075b9e96504dae580&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1164351639&vid=10080784919998694375&abtest=all 
-霸王别姬,https://vd3.bdstatic.com/mda-mgi998wmg5qes8g2/hd/cae_h264_delogo/1643130574446747111/mda-mgi998wmg5qes8g2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257820-0-0-017a7323d60393592ee33fbe01a28c44&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1220661886&vid=12964101256118071361&abtest=all 
-脆皮烤猪,https://vd3.bdstatic.com/mda-mgg9yf7wyikj32c2/hd/cae_h264_delogo/1643273699666316067/mda-mgg9yf7wyikj32c2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257842-0-0-515dfd1a4aef8a88a19488cf6ec089e0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1242905262&vid=795571103159919221&abtest=all 
-干锅牛蹄,https://vd2.bdstatic.com/mda-mge91ri2iru3wykc/hd/cae_h264_nowatermark/1626337351411778855/mda-mge91ri2iru3wykc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257870-0-0-a78cfff1dce4370d8671a8d667fdd05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1270126781&vid=7910494474868230546&abtest=all 
-甲鱼红烧肉,https://vd3.bdstatic.com/mda-mgd8m926mxmzpvyk/hd/cae_h264_nowatermark/1626246546733040179/mda-mgd8m926mxmzpvyk.mp4?auth_key=1655257895-0-0-d7b1041f9019885ad6749decf3b4c419&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1295580996&vid=8651845722237068177&abtest=all 
-烤鸵鸟,https://vd2.bdstatic.com/mda-mgc7ieuztjvigy0b/hd/cae_h264_delogo/1643347652547661468/mda-mgc7ieuztjvigy0b.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538663-0-0-5302b6b49c1bb17f568ba0afc8e8ce45&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1263535191&vid=18402895477617002606&abtest=all 
-牛肚,https://vd3.bdstatic.com/mda-mgaahyx05kc17shj/hd/cae_h264_delogo/1643148219873544123/mda-mgaahyx05kc17shj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538716-0-0-e365bcfff0dc3b1d59452851d1a061c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1316564528&vid=124207598866063251&abtest=all 
-沙爆羊肚肉,https://vd4.bdstatic.com/mda-mg989gmh31icebre/hd/cae_h264_nowatermark/1625900251935570127/mda-mg989gmh31icebre.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538741-0-0-4c666dd44b3d88113922d41e0f5afba4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1341651933&vid=12602458672085290732&abtest=all 
-牛肺子,https://vd2.bdstatic.com/mda-mg7a6urjmv62ep6j/hd/cae_h264_delogo/1643394378221081282/mda-mg7a6urjmv62ep6j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538775-0-0-d4e97b88fb3550d150d8f2b160bc2cb8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1375821774&vid=5881689645627090853&abtest=all 
-麻辣虾尾,https://vd4.bdstatic.com/mda-mg68s8tqk7821s6k/hd/cae_h264_nowatermark/1625641172105934010/mda-mg68s8tqk7821s6k.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538969-0-0-7bfccc324c52478736dc70e062094866&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1569373880&vid=11811291272039624762&abtest=all 
-牛皮,https://vd3.bdstatic.com/mda-mg4916xjzdk0tr5s/hd/cae_h264_delogo/1643147151354144679/mda-mg4916xjzdk0tr5s.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539016-0-0-46cdcc3b3fb035bb27f5c1b7e847ee23&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1616623044&vid=3330231390494912694&abtest=all 
-盐焗蜗牛,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539042-0-0-b6d7d9647510a88457f7ce7d89a7bc53&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1642439863&vid=13411255577314359660&abtest=all 
-土窑焖牛肝,https://vd2.bdstatic.com/mda-mfv9tjrkir997dti/hd/cae_h264_delogo/1643341066464883120/mda-mfv9tjrkir997dti.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539100-0-0-8461a5d8bdcaca4e07452a05a96452a8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1700682143&vid=1135914335542454643&abtest=all 
-麻辣牛蹄筋,https://vd2.bdstatic.com/mda-mft9aa1avhs9g0ph/hd/cae_h264_delogo/1643339235177987078/mda-mft9aa1avhs9g0ph.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539192-0-0-6ec30acd4a6af58127c4d1ea5c2be6ca&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1792820059&vid=8208704483460990256&abtest=all 
-麻辣海阔,https://vd2.bdstatic.com/mda-mfs99rqhgpt6v934/hd/cae_h264_delogo/1643303636102225625/mda-mfs99rqhgpt6v934.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539217-0-0-ebd2aaf57f08cf8f2ac3de4ff34a3cf3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1817594664&vid=9950505995046552920&abtest=all 
-甲鱼牛宝腰子,https://vd3.bdstatic.com/mda-mfr98jrwgy0yib25/hd/cae_h264_delogo/1643299176541153962/mda-mfr98jrwgy0yib25.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539292-0-0-d837a2f38715ccfe24261b3ccc2884e6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1892535846&vid=8382022140161735924&abtest=all 
-猪杂下酒菜,https://vd2.bdstatic.com/mda-mfq99v3i80gwe49e/hd/cae_h264_nowatermark/1624604580248864865/mda-mfq99v3i80gwe49e.mp4?auth_key=1655539325-0-0-5a56d16cf543e0bd5d3ed31f30ff714d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1925817603&vid=10648258954728214356&abtest=all 
-烤牛头,https://vd3.bdstatic.com/mda-mfn8rxujpfike758/hd/cae_h264_nowatermark/1624432761274873194/mda-mfn8rxujpfike758.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539425-0-0-2a1641d72c0a3f5ba1870b50b83d7b25&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2025095327&vid=18112967870396033807&abtest=all 
-醋焖牛棒骨,https://vd4.bdstatic.com/mda-mfk8c204weuzvhxa/hd/cae_h264_delogo/1643147501963347947/mda-mfk8c204weuzvhxa.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539585-0-0-24b9fe9d219b0f49b06df39857209fe9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2185448310&vid=5252020132714521845&abtest=all 
-烤鳄鱼,https://vd2.bdstatic.com/mda-mfj7wkcb3ugdjps5/hd/cae_h264_nowatermark/1624172723749332267/mda-mfj7wkcb3ugdjps5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539649-0-0-a175fefb3807e7439b792c13e1aed199&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2249886013&vid=12025283582895359559&abtest=all 
-糖熏羊腿,https://vd2.bdstatic.com/mda-mfg8vfbmg467mf0j/hd/cae_h264_nowatermark/1623912912615331814/mda-mfg8vfbmg467mf0j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540034-0-0-229eac90b59ad78cfc6309c3d70ca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2634275153&vid=11714533152811144599&abtest=all 
-铁锅炖鳄鱼,https://vd2.bdstatic.com/mda-mffa8f1tufiwpwtr/hd/cae_h264_nowatermark/1623829700798483965/mda-mffa8f1tufiwpwtr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540065-0-0-313bc3b6b4df827ff2f37dbe061d1057&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2665644554&vid=6992502162957399959&abtest=all
-乡村食叔1100买头羊,https://vd4.bdstatic.com/mda-kghmm8wqwjvp97gm/hd/mda-kghmm8wqwjvp97gm.mp4?auth_key=1655032152-0-0-e46ffacd02ed77fb1e67b3ad5a8fcff0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2352305816&vid=17960476347117941562&abtest=all
-乡村食叔720元大牛头,https://vd3.bdstatic.com/mda-mc7kjm87ud7vw1c8/hd/cae_h264_nowatermark/1615188038/mda-mc7kjm87ud7vw1c8.mp4?auth_key=1655032395-0-0-76d69c967dbb28da26cd146b4aca203f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2595302168&vid=3563264366474391721&abtest=all
-食叔260买十来只小甲鱼,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
-食叔铁桶烤鸡,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
-食叔雪山驼掌,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
-食叔烤全羊,https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?auth_key=1655032801-0-0-c8d833cb709c3ab2f446cabb536dbf78&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3001806496&vid=6993374896454500535&abtest=all
-食叔鸡腰炖黄鳝,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
-食叔霸王牛尾,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
-食叔辣卤驼头,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
-食叔干锅牛蛙,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
-食叔虎皮鸵鸟爪,https://vd4.bdstatic.com/mda-net93dwtcueu4u9j/480p/h264/1653721609596437460/mda-net93dwtcueu4u9j.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033214-0-0-825f8d2c687a49dabb7fc3d51fe1a29f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3414454485&vid=7156446621409829348&abtest=all
-食叔酱焖牛棒骨,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
-食叔牛膝盖骨,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033339-0-0-fccf02e69c19c9227ebee50760846d7e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3539483479&vid=8419620275932311899&abtest=all
-食叔肥肠鹅,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033379-0-0-2321e8dcc8049dd5833ded28592aa557&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3579472476&vid=5831581271697130378&abtest=all
-食叔馍包羊腿,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033428-0-0-1ae329bc1264912e601d4e999f52cd24&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028519303&vid=778061406411546269&abtest=all
+CCTV-4 欧洲,rtsp://150.138.8.132/PLTV/88888888/224/3221227070/409210222.smil
+CCTV-4 美洲,rtsp://150.138.8.132/PLTV/88888888/224/3221227105/409210218.smil
+CGTN 英语,rtsp://150.138.8.132/PLTV/88888888/224/3221226976/409209237.smil
+CGTN 纪录,rtsp://150.138.8.132/PLTV/88888888/224/3221226991/409210231.smil
+CGTN 西班牙语,rtsp://150.138.8.132/PLTV/88888888/224/3221226980/409210242.smil
+CGTN 法语,rtsp://150.138.8.132/PLTV/88888888/224/3221227074/409210237.smil
+CGTN 阿拉伯语,rtsp://150.138.8.132/PLTV/88888888/224/3221227109/409210246.smil
+CGTN 俄语,rtsp://150.138.8.132/PLTV/88888888/224/3221227113/409209241.smil
+CCTV NEWS,rtsp://150.138.8.132/PLTV/88888888/224/3221226112/10000100000000060000000002713888_0.smil
+生态环境,rtsp://150.138.8.132/PLTV/88888888/224/3221227276/505952660.smil
+延边卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227334/469553263.smil
+中学生,rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
+都市剧场,rtsp://150.138.8.132/PLTV/88888888/224/3221227147/443330119.smil
+精彩影视,rtsp://150.138.8.132/PLTV/88888888/224/3221227155/443330176.smil
+动漫秀场,rtsp://150.138.8.132/PLTV/88888888/224/3221227297/443309884.smil
+新动漫,rtsp://150.138.8.132/PLTV/88888888/224/3221227333/443330107.smil
+优优宝贝,rtsp://150.138.8.132/PLTV/88888888/224/3221227023/410462866.smil
+武术世界,rtsp://150.138.8.132/PLTV/88888888/224/3221227337/443330026.smil
+快乐垂钓,rtsp://150.138.8.132/PLTV/88888888/224/3221227156/443330036.smil
+先锋乒羽,rtsp://150.138.8.132/PLTV/88888888/224/3221227286/443330141.smil
+四海钓鱼,rtsp://150.138.8.132/PLTV/88888888/224/3221227449/527408516.smil
+求索纪录,rtsp://150.138.8.132/PLTV/88888888/224/3221227231/457055034.smil
+梨园,rtsp://150.138.8.132/PLTV/88888888/224/3221227282/443330131.smil
+金色学堂,rtsp://150.138.8.132/PLTV/88888888/224/3221227262/443309935.smil
+生活时尚,rtsp://150.138.8.132/PLTV/88888888/224/3221227325/443310000.smil
+乐游,rtsp://150.138.8.132/PLTV/88888888/224/3221227139/443310012.smil
+法治天地,rtsp://150.138.8.132/PLTV/88888888/224/3221227152/443310024.smil
+游戏风云,rtsp://150.138.8.132/PLTV/88888888/224/3221227143/443310036.smil
+东方财经,rtsp://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil
+文物宝库,rtsp://150.138.8.132/PLTV/88888888/224/3221227341/443330186.smil
+茶,rtsp://150.138.8.132/PLTV/88888888/224/3221227290/443330153.smil
+书画,rtsp://150.138.8.132/PLTV/88888888/224/3221227163/443330165.smil
+财富天下,rtsp://150.138.8.132/PLTV/88888888/224/3221226206/10000100000000060000000002936465_0.smil
+环球旅游,rtsp://150.138.8.132/PLTV/88888888/224/3221227149/410462831.smil
+CHC家庭影院,rtsp://150.138.8.132/PLTV/88888888/224/3221227188/454656891.smil
+CHC影迷电影,rtsp://150.138.8.132/PLTV/88888888/224/3221227180/454656879.smil
+CHC动作电影,rtsp://150.138.8.132/PLTV/88888888/224/3221227184/454656910.smil
+山东广播电视台经济广播,rtsp://150.138.8.132/PLTV/88888888/224/3221227366/490711725.smil
+山东广播电视台交通广播,rtsp://150.138.8.132/PLTV/88888888/224/3221227370/495807202.smil
+北京纪实科教,rtsp://150.138.8.132/PLTV/88888888/224/3221226225/10000100000000060000000003301187_0.smil
+汽摩频道,rtsp://150.138.8.132/PLTV/88888888/224/3221227346/479155502.smil
+
+📺  景区,#genre#
+青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
+青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
+青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
+青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+怡然②,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+基地母子园①,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+基地母子园②,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+基地幼儿园①,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+基地幼儿园②,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+基地成年园①,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+基地成年园②,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+基地别墅①,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+基地别墅①,http://gccnchwc.v.cdn20.com/gc/xiongmao09_1.flv
+基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+
+大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 
 
 
-
-💝 咪咕电影,#genre#
-惊奇队长2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/969/5105240969/media/5105240969_5229088474_56.mp4
-幸福来接龙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/188/5105277188/media/5105277188_5229127101_56.mp4
-爆裂点,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/690/5105268690/media/5105268690_5228344247_56.mp4
-魔法奇缘2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/620/5105240620/media/5105240620_5222537798_56.mp4
-流浪地球2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/616/5105087616/media/5105087616_5103711432_56.mp4
-满江红,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/102/630/5105102630/media/5105102630_5111092406_56.mp4
-芭比,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/179/332/5105179332/media/5105179332_5184976960_56.mp4
-芭比（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/179/364/5105179364/media/5105179364_5185020498_56.mp4
-飞驰人生,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/075/226/5102075226/media/5102075226_5176203387_56.mp4
-变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
-惊奇队长2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/275/5105268275/media/5105268275_5229092646_56.mp4
-爆裂点（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/268/638/5105268638/media/5105268638_5228345105_56.mp4
-刀尖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/045/985/5102045985/media/5102045985_5225281674_56.mp4
-飞鸭向前冲,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/253/783/5105253783/media/5105253783_5229877318_56.mp4
-飞鸭向前冲（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/253/786/5105253786/media/5105253786_5229085495_56.mp4
-铜梅奇案,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/204/719/5105204719/media/5105204719_5192396505_56.mp4
-连环局（2023）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/229/006/5105229006/media/5105229006_5209789986_56.mp4
-少女卡米拉,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/115/5105277115/media/5105277115_5228354378_56.mp4
-2023微博电影之夜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/127/486/5105127486/media/5105127486_5142745280_56.mp4
-威尼斯惊魂夜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/283/5105240283/media/5105240283_5221633869_56.mp4
-威尼斯惊魂夜（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/280/5105240280/media/5105240280_5221635639_56.mp4
-火山挚恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/219/142/5105219142/media/5105219142_5216816716_56.mp4
-火山挚恋（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/219/320/5105219320/media/5105219320_5216817669_56.mp4
-金爵电影论坛：开幕论坛，光影连接世界与中国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/221/5105128221/media/5105128221_5136334098_56.mp4
-奥本海默,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/210/263/5105210263/media/5105210263_5218204577_56.mp4
-禁锢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/139/123/5105139123/media/5105139123_5196361338_56.mp4
-茶啊二中,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/187/764/5105187764/media/5105187764_5179792273_56.mp4
-奥本海默（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/210/264/5105210264/media/5105210264_5218205065_56.mp4
-第25届上海国际电影节金爵盛典内场,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/212/5105128212/media/5105128212_5135498509_56.mp4
-长安三万里,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/194/082/5105194082/media/5105194082_5185169968_56.mp4
-玩命三日,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/497/804/5102497804/media/5102497804_5010862977_56.mp4
-GT赛车：极速狂飙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/219/049/5105219049/media/5105219049_5211432582_56.mp4
-GT赛车：极速狂飙（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/228/095/5105228095/media/5105228095_5211436706_56.mp4
-荒野咖啡馆,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/695/069/5102695069/media/5102695069_5183263521_56.mp4
-松江往事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/551/808/5103551808/media/5103551808_5011653460_56.mp4
-夺宝奇兵：命运转盘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/194/678/5105194678/media/5105194678_5208762626_56.mp4
-夺宝奇兵：命运转盘（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/201/632/5105201632/media/5105201632_5208836112_56.mp4
-憋住·别笑,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/187/705/5105187705/media/5105187705_5179790519_56.mp4
-疯狂元素城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/015/5105125015/media/5105125015_5208799011_56.mp4
-别叫我“赌神”,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/152/230/5105152230/media/5105152230_5160978257_56.mp4
-疯狂元素城（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/200/333/5105200333/media/5105200333_5208770236_56.mp4
-银河护卫队3,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/119/953/5105119953/media/5105119953_5165542739_56.mp4
-谁杀死了尼尔森先生？,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/277/132/5105277132/media/5105277132_5228360009_56.mp4
-欢喜哥的春天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/454/927/5103454927/media/5103454927_5010377798_56.mp4
-一起走过,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/405/394/5103405394/media/5103405394_5009985072_56.mp4
-人生路不熟,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/131/5105137131/media/5105137131_5146366209_56.mp4
-银河护卫队3（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/148/912/5105148912/media/5105148912_5165534411_56.mp4
-检察风云,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/432/5105125432/media/5105125432_5133001628_56.mp4
-长空之王,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/433/5105125433/media/5105125433_5137544788_56.mp4
-爱乐骑士,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/619/5105240619/media/5105240619_5219454987_56.mp4
-倍儿喜欢你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/555/790/5103555790/media/5103555790_5108218900_56.mp4
-龙马精神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/125/423/5105125423/media/5105125423_5131378242_56.mp4
-路上,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/101/854/5105101854/media/5105101854_5110054462_56.mp4
-辣警狂花1,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/082/688/5105082688/media/5105082688_5090573432_56.mp4
-宇宙探索编辑部,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/108/316/5105108316/media/5105108316_5117782528_56.mp4
-草台班子：套路奇兵,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/104/319/5105104319/media/5105104319_5112280105_56.mp4
-父母的婚事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/625/5105086625/media/5105086625_5110010003_56.mp4
-梦想森林,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/107/931/5105107931/media/5105107931_5115780607_56.mp4
-忠犬八公,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/104/576/5105104576/media/5105104576_5113514210_56.mp4
-辣警狂花3,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/433/5105086433/media/5105086433_5095056625_56.mp4
-辣警狂花2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/084/878/5105084878/media/5105084878_5093250410_56.mp4
-郭富山,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/618/5105087618/media/5105087618_5099300276_56.mp4
-波士顿连环命案,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/616/5105240616/media/5105240616_5219425588_56.mp4
-望道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/937/5105068937/media/5105068937_5131379344_56.mp4
-杜鹃花儿开,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/109/492/5105109492/media/5105109492_5118138353_56.mp4
-我不是葫芦瓢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/617/5105087617/media/5105087617_5109507771_56.mp4
-地心危机,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/083/341/5105083341/media/5105083341_5106121359_56.mp4
-不止不休,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/529/191/5102529191/media/5102529191_5112221778_56.mp4
-藏历一年,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/612/5105087612/media/5105087612_5107763691_56.mp4
-雪岭猎人传说,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/613/5105087613/media/5105087613_5112237575_56.mp4
-谁开的枪,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/609/5105087609/media/5105087609_5104882208_56.mp4
-小初,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/619/5105087619/media/5105087619_5104835409_56.mp4
-哆啦A梦：大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
-回廊亭,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/077/036/5105077036/media/5105077036_5108250018_56.mp4
-大爱撑天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/070/908/5105070908/media/5105070908_5102930661_56.mp4
-哆啦A梦：大雄与天空的理想乡（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
-不二兄弟,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/084/033/5105084033/media/5105084033_5101014610_56.mp4
-断网（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/859/5105087859/media/5105087859_5097001237_56.mp4
-断网,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/077/039/5105077039/media/5105077039_5096997515_56.mp4
-大人父母官,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/610/5105087610/media/5105087610_5100940016_56.mp4
-此情可问天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/615/5105087615/media/5105087615_5099297359_56.mp4
-爱在咫尺间,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/194/5105087194/media/5105087194_5097233165_56.mp4
-会考试的猛犸象,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/367/504/5102367504/media/5102367504_5099299527_56.mp4
-极速保镖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/068/854/5105068854/media/5105068854_5087501449_56.mp4
-中国乒乓之绝地反击,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/124/027/5103124027/media/5103124027_5105840875_56.mp4
-绿色的声音,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/611/5105087611/media/5105087611_5112270814_56.mp4
-蚁人与黄蜂女：量子狂潮,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/066/729/5105066729/media/5105066729_5103698808_56.mp4
-蚁人与黄蜂女：量子狂潮（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/075/5105093075/media/5105093075_5103699861_56.mp4
-冰山下的守望者,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/622/5105087622/media/5105087622_5097233930_56.mp4
-书记日记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/203/5105080203/media/5105080203_5087815657_56.mp4
-岗上花开,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/583/250/5103583250/media/5103583250_5097447948_56.mp4
-可不可以不要离开我,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/070/330/5105070330/media/5105070330_5076928601_56.mp4
-深爱,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/714/883/5102714883/media/5102714883_5091243493_56.mp4
-我的青春不再见,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/068/270/5105068270/media/5105068270_5075240309_56.mp4
-天降神运,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/857/5105068857/media/5105068857_5099822409_56.mp4
-山乡宁静,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/068/268/5105068268/media/5105068268_5095464255_56.mp4
-绝境峭壁岭,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/088/066/5105088066/media/5105088066_5184294909_56.mp4
-深海巨蟒,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/053/190/5105053190/media/5105053190_5090549740_56.mp4
-网络谜踪2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/227/618/5105227618/media/5105227618_5217182810_56.mp4
-深海,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/239/150/5102239150/media/5102239150_5106242791_56.mp4
-毒舌律师,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/130/693/5105130693/media/5105130693_5148622329_56.mp4
-无名,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/094/425/5105094425/media/5105094425_5104328263_56.mp4
-抬头见喜,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/050/790/5105050790/media/5105050790_5076112880_56.mp4
-毒舌律师（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/139/436/5105139436/media/5105139436_5148623960_56.mp4
-妈妈，我不想坐牢,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/086/958/5105086958/media/5105086958_5117712454_56.mp4
-绝望主夫,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/049/000/5105049000/media/5105049000_5052793870_56.mp4
-想见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/053/335/5105053335/media/5105053335_5091188707_56.mp4
-橡树餐厅,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/048/771/5105048771/media/5105048771_5075762502_56.mp4
-遗嘱囧事,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/020/5105027020/media/5105027020_5045788874_56.mp4
-阿凡达：水之道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/004/544/5101004544/media/5101004544_5091261956_56.mp4
-变身攻略,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/048/768/5105048768/media/5105048768_5051306440_56.mp4
-摇滚藏獒：乘风破浪,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/087/607/5105087607/media/5105087607_5119252322_56.mp4
-阿凡达：水之道（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/728/5105080728/media/5105080728_5091264010_56.mp4
-夏至廊桥,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/053/330/5105053330/media/5105053330_5095056227_56.mp4
-梦想的面具,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/872/5105046872/media/5105046872_5050710843_56.mp4
-依恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/047/196/5105047196/media/5105047196_5049929756_56.mp4
-断线之后,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/229/005/5105229005/media/5105229005_5210702330_56.mp4
-奇迹小子,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/887/5105046887/media/5105046887_5075571066_56.mp4
-老人与经书,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/041/858/5105041858/media/5105041858_5048162532_56.mp4
-厨师杰克冒险记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/217/543/5105217543/media/5105217543_5212639156_56.mp4
-第25届上海国际电影节金爵奖颁奖典礼内场,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/128/217/5105128217/media/5105128217_5140316466_56.mp4
-银河护卫队：假日特辑,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/451/5105240451/media/5105240451_5217249672_56.mp4
-别让我走,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/341/5105044341/media/5105044341_5049915642_56.mp4
-因爱而伟大,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/202/5105044202/media/5105044202_5048181481_56.mp4
-我的三平方,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/228/5105044228/media/5105044228_5090640783_56.mp4
-我心向上,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/041/722/5105041722/media/5105041722_5068040116_56.mp4
-扫黑行动,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/550/5105032550/media/5105032550_5070039368_56.mp4
-老兵刀锋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/628/5105033628/media/5105033628_5044988125_56.mp4
-不一样的九零后,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/045/5105027045/media/5105027045_5049893074_56.mp4
-您好，北京,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/631/5105033631/media/5105033631_5071780299_56.mp4
-冒牌车王,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/033/625/5105033625/media/5105033625_5070032611_56.mp4
-大话女儿国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/016/5105014016/media/5105014016_5067370030_56.mp4
-结伴前行,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/259/037/5105259037/media/5105259037_5222865165_56.mp4
-铃芽之旅（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/205/437/5105205437/media/5105205437_5195916136_56.mp4
-铃芽之旅,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
-青蛙王子历险记2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/015/756/5105015756/media/5105015756_5090426324_56.mp4
-天之书,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/025/5105014025/media/5105014025_5040004591_56.mp4
-黑豹2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/073/5105093073/media/5105093073_5104372025_56.mp4
-黑豹2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5102/438/611/5102438611/media/5102438611_5104382868_56.mp4
-陪你在全世界长大,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/541/5105032541/media/5105032541_5075542133_56.mp4
-你好，珠峰,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/327/214/5102327214/media/5102327214_5044009043_56.mp4
-小丑奇缘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/032/537/5105032537/media/5105032537_5090554946_56.mp4
-冻伤的鲤鱼,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/269/418/5105269418/media/5105269418_5227349050_56.mp4
-爱在井冈,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/723/5105027723/media/5105027723_5075748731_56.mp4
-春水繁星,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/991/5105029991/media/5105029991_5071493160_56.mp4
-爆裂蝴蝶,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/735/5105027735/media/5105027735_5066629682_56.mp4
-林深时见麓,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/994/5105029994/media/5105029994_5090537248_56.mp4
-我的遗憾和你有关,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/029/996/5105029996/media/5105029996_5043997787_56.mp4
-丹顶鹤,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/028/190/5105028190/media/5105028190_5067121871_56.mp4
-福尔摩斯小姐：伦敦厄运,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/017/066/5105017066/media/5105017066_5039035382_56.mp4
-殊途陌路,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/027/718/5105027718/media/5105027718_5070817096_56.mp4
-一百分女人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/026/954/5105026954/media/5105026954_5066535611_56.mp4
-少年蒙克,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/074/730/5101074730/media/5101074730_5226757525_56.mp4
-我是霸王龙,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/044/159/5105044159/media/5105044159_5067182149_56.mp4
-新灰姑娘2,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/039/433/5105039433/media/5105039433_5071483428_56.mp4
-新大头儿子和小头爸爸5：我的外星朋友,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/011/5105014011/media/5105014011_5041607703_56.mp4
-爱情天梯,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/023/5105014023/media/5105014023_5066475448_56.mp4
-木奖杯,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/354/5105004354/media/5105004354_5039029809_56.mp4
-永远的战士,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/555/5103625555/media/5103625555_5032548193_56.mp4
-九兰,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/082/5105004082/media/5105004082_5036262250_56.mp4
-杨蓉的世界,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/098/5105004098/media/5105004098_5034590475_56.mp4
-热汤,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/563/538/5103563538/media/5103563538_5034243226_56.mp4
-我要和你在一起,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/327/663/5102327663/media/5102327663_5034244570_56.mp4
-奇妙能力哥,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/628/003/5103628003/media/5103628003_5184294017_56.mp4
-临时乘客,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/501/5103623501/media/5103623501_5031010989_56.mp4
-情丝万缕,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/262/220/5105262220/media/5105262220_5224413214_56.mp4
-追光万里,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/879/5105046879/media/5105046879_5075545489_56.mp4
-哥，你好,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/004/362/5105004362/media/5105004362_5164601373_56.mp4
-狼群,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/522/5103620522/media/5103620522_5034244810_56.mp4
-木偶奇遇记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/093/547/5105093547/media/5105093547_5138283563_56.mp4
-我是条咸鱼,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/596/097/5103596097/media/5103596097_5031011149_56.mp4
-鬼吹灯之精绝古城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/624/103/5103624103/media/5103624103_5031336546_56.mp4
-光影帝国,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/219/143/5105219143/media/5105219143_5205764957_56.mp4
-证明,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/443/5103623443/media/5103623443_5031008996_56.mp4
-铁拳行动,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/050/5105004050/media/5105004050_5034343176_56.mp4
-在河之洲,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/151/140/5105151140/media/5105151140_5158891699_56.mp4
-爱情的代驾,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/367/5105004367/media/5105004367_5035480741_56.mp4
-最好的道别,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/581/5103625581/media/5103625581_5035505948_56.mp4
-世界上最爱我的人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/002/868/5105002868/media/5105002868_5032568441_56.mp4
-钢甲战队,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/521/5103620521/media/5103620521_5037508224_56.mp4
-哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
-小小足球队,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/381/5105004381/media/5105004381_5035598546_56.mp4
-我的英雄,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/620/523/5103620523/media/5103620523_5034580143_56.mp4
-红星闪亮,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/036/5105004036/media/5105004036_5031413972_56.mp4
-山海经之再见怪兽,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/618/055/5103618055/media/5103618055_5032565952_56.mp4
-坠落（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/071/035/5105071035/media/5105071035_5096528689_56.mp4
-坠落,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/071/026/5105071026/media/5105071026_5096513397_56.mp4
-致命记忆之花开双生,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/625/448/5103625448/media/5103625448_5166426402_56.mp4
-铁血战士：狩猎,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/624/358/5103624358/media/5103624358_5208717990_56.mp4
-独行月球,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/256/5103615256/media/5103615256_5034391012_56.mp4
-忍者神龟：崛起（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/078/641/5105078641/media/5105078641_5097528469_56.mp4
-忍者神龟：崛起,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/075/464/5105075464/media/5105075464_5097460852_56.mp4
-明日战记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/031/207/5102031207/media/5102031207_5070727553_56.mp4
-明日战记（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/026/966/5105026966/media/5105026966_5066621870_56.mp4
-新铁弓缘,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/014/002/5105014002/media/5105014002_5035299264_56.mp4
-猪猪侠大电影·海洋日记,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/357/5105004357/media/5105004357_5035305861_56.mp4
-筋饼之恋,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/438/5103623438/media/5103623438_5031010184_56.mp4
-我们遇见松花湖,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/580/5103625580/media/5103625580_5049881113_56.mp4
-我们的样子像极了爱情,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/628/763/5103628763/media/5103628763_5031595161_56.mp4
-遇见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/623/716/5103623716/media/5103623716_5027577042_56.mp4
-黎乡遇见你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/595/258/5103595258/media/5103595258_5020546436_56.mp4
-疯了！桂宝之三星夺宝,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/615/255/5103615255/media/5103615255_5106589322_56.mp4
-北方无故人,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/596/098/5103596098/media/5103596098_5031429541_56.mp4
-开心超人之英雄的心,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/779/5103615779/media/5103615779_5031343087_56.mp4
-一直一直都很喜欢你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/626/126/5103626126/media/5103626126_5031504765_56.mp4
-药·不要,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/621/241/5103621241/media/5103621241_5029791720_56.mp4
-罗曼蒂克之城,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/433/5103615433/media/5103615433_5027042048_56.mp4
-冲出地球,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5102/238/745/5102238745/media/5102238745_5029766880_56.mp4
-龙女孩,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/012/175/5105012175/media/5105012175_5037547713_56.mp4
-侏罗纪大乐园,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/374/5105004374/media/5105004374_5035597694_56.mp4
-最美青春献给你,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/625/447/5103625447/media/5103625447_5031501253_56.mp4
-少年陈真之乱世英雄,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/774/5103615774/media/5103615774_5030240803_56.mp4
-刺猬索尼克2（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/231/846/5105231846/media/5105231846_5230702839_56.mp4
-孤独的守望者,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/615/778/5103615778/media/5103615778_5028610457_56.mp4
-ICU病房,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/046/792/5105046792/media/5105046792_5067192487_56.mp4
-珠峰队长,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/370/5105004370/media/5105004370_5035305020_56.mp4
-你是我的春天,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5103/614/054/5103614054/media/5103614054_5023970915_56.mp4
-
+📺  河北,#genre#
+保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+邯郸新闻综合,http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸公共频道,http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+鹿泉一套,http://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+鹿泉二套,http://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+昌黎综合频道,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+清河新闻综合,http://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河经济综艺,http://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘文娱,http://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+涞水新闻频道,http://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 浙江,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
