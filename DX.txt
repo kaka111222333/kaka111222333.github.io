@@ -247,16 +247,14 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 泰安宁阳公共,http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
 
 🌐 景区,#genre#
-直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 青岛五四广场,http://video11.qtv.com.cn/aqdwsgc2022/manifest.m3u8
 青岛奥帆中心,http://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
 青岛太平角,http://video10.qtv.com.cn/aqdtp2022/manifest.m3u8
-青岛太平湾,http://video10.qtv.com.cn/sxt203/manifest.m3u8
-青岛胶州湾,http://video10.qtv.com.cn/sxt200/manifest.m3u8
-青岛浮山湾,http://video10.qtv.com.cn/sxt202/manifest.m3u8
 青岛快速路1,http://video10.qtv.com.cn/sxt1/manifest.m3u8
 青岛快速路2,http://video10.qtv.com.cn/sxt3/manifest.m3u8
 青岛快速路3,http://video10.qtv.com.cn/sxt2/manifest.m3u8
+
+直播中国,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
@@ -284,15 +282,7 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 
 
 
-📺  地方,#genre#
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
-房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-
-四川_珙县新闻,http://mmitv.top/test/tianma.php?id=gxtv
-新疆_乌鲁木齐汉语综合,http://mmitv.top/test/tianma.php?id=utvhyzh
-云南_师宗综合,http://mmitv.top/test/tianma.php?id=sztv
-
+📺  河北,#genre#
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
@@ -310,10 +300,8 @@ CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 望都综合频道,http://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
 徐水综合频道,http://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
 丰宁综合频道,http://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-丰宁娱乐频道,http://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
 平泉综合频道,http://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 平泉影视频道,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 兴隆综合频道,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兴隆影视频道,http://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
