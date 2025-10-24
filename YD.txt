@@ -112,23 +112,22 @@ CGTN纪录,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com
 陕西农林卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8
 
 🌐 专业,#genre#
-SiTV法治天地,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8
-SiTV乐游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8
-SiTV金色学堂,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8
-SiTV生活时尚,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8
-SiTV都市频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8
-SiTV游戏风云,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8
-SiTV东方财经,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8
-SiTV劲爆体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8
+法治天地,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8
+乐游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8
+金色学堂,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8
+生活时尚,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8
+都市频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8
+游戏风云,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8
+东方财经,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8
+劲爆体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8
 北京纪实科教,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8
 求索纪录,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000667/index.m3u8
-湖南金鹰纪实,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8
-河南文物宝库,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8
-河南梨园,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8
-河南武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8
-湖南快乐垂钓,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8
+金鹰纪实,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8
+文物宝库,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8
+梨园频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8
+武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8
+快乐垂钓,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8
 湖南茶,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8
-重庆汽摩,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000702/index.m3u8
 中学生,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000673/index.m3u8
 书画,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8
 中华特产,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000672/index.m3u8
@@ -136,7 +135,8 @@ SiTV劲爆体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.z
 重庆汽摩,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000711/index.m3u8
 环球旅游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000643/index.m3u8
 江苏财富天下,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8
-
+精彩影视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8
+热血剧场,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002032/index.m3u8
 🌐 山东,#genre#
 日照公共,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001100/index.m3u8
 日照新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000262/index.m3u8
@@ -202,6 +202,7 @@ SiTV劲爆体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.z
 烟台公共,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8
 牟平,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8
 牟平生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001077/index.m3u8
+寿光？,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000702/index.m3u8
 莒县,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001014/index.m3u8
 诸城,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8
 
@@ -228,20 +229,6 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
-KBS 1TV,http://mytv.dothome.co.kr/ch/public/1.php
-KBS 2TV,http://mytv.dothome.co.kr/ch/public/3.php
-KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php
-SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-SBS JTV,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-MBC Chuncheon,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-MBC Chungbuk,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-MBC Daegu,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-MBC Daejeon,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-MBC Mokpo,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 4K超清 223 ,#genre#
 CCTV4K,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000382/index.m3u8
