@@ -1,0 +1,853 @@
+CCTV1#CCTV1,cctv-1,CCTV-1,CCTV-1 综合,CCTV1综合
+CCTV2#CCTV2,cctv-2,CCTV-2,CCTV-2 财经,CCTV2财经
+CCTV3#CCTV3,cctv-3,CCTV3,CCTV-3 综艺,CCTV3综艺
+CCTV4#CCTV4,cctv-4,CCTV-4,CCTV-4 国际,CCTV4国际,CCTV-4 中文国际,CCTV-4中文国际,CCTV-4 亚洲
+CCTV5#CCTV5,cctv-5,CCTV-5,CCTV-5 体育,CCTV5体育
+CCTV6#CCTV6,cctv-6,CCTV-6,CCTV-6 电影,CCTV6电影
+1905#1905,1905国内电影,1905国外电影,1905环球电影,1905电影网,1905武侠电影,1905邵氏电影
+CCTV7#CCTV7,cctv-7,CCTV-7,CCTV-7 军事,CCTV-7 国防军事,CCTV-7国防军事,CCTV7国防军事,CCTV7军事,CCTV7国防
+CCTV8#CCTV8,cctv-8,CCTV-8,CCTV-8 电视剧,CCTV8电视剧
+CCTV9#CCTV9,cctv-9,CCTV-9,CCTV-9 纪录,CCTV9纪录
+CCTV10#CCTV10,cctv-10,CCTV-10,CCTV-10 科教,CCTV10科教
+CCTV11#CCTV11,cctv-11,CCTV-11,CCTV-11 戏曲,CCTV11戏曲
+CCTV12#CCTV12,cctv-12,CCTV-12,CCTV-12 法制,CCTV12法制,CCTV-12 社会与法,CCTV12社会与法
+CCTV13#CCTV13,cctv-13,CCTV-13,CCTV-13 新闻,CCTV13新闻
+CCTV14#CCTV14,cctv-14,CCTV-14,CCTV-14 少儿,CCTV14少儿
+CCTV15#CCTV15,cctv-15,CCTV-15,CCTV-15 音乐,CCTV15音乐
+CCTV16#CCTV16,cctv-16,CCTV-16,CCTV-16 奥林匹克,CCTV16奥林匹克
+CCTV17#CCTV17,cctv-17,CCTV-17,CCTV-17 农业,CCTV17农业,CCTV-17 农业农村,CCTV-17农业农村
+CCTV5+#CCTV5+,cctv-5+,CCTV-5+,CCTV-5+赛事,CCTV-5+ 体育赛事,CCTV-5+体育赛事,CCTV5⁺,CCTV-5⁺,CCTV-5⁺体育赛事,CCTV5+ 体育赛事
+CCTV4K#CCTV-4K,cctv-4k,CCTV-4K 超高清,CCTV-4K超高清,CCTV4K
+CCTV8K#CCTV-8K,cctv-8k,CCTV-8K 超高清,CCTV-8K超高清,CCTV8K
+
+Shandong#山东卫视,山东经济广播
+Shandong#山东卫视4K,山东卫视 4K,山东卫视 4K超高清
+Shandong1#山东齐鲁
+Shandong2#山东体育,山东体育休闲,山东体育+
+Shandong3#山东农科
+Shandong4#山东新闻
+Shandong5#山东少儿
+Shandong6#山东文旅
+Shandong7#山东综艺
+Shandong8#山东生活
+Shandongjy#山东教育,山东教育卫视,山东教育电视台
+
+Anhui#安徽卫视
+Anhui#安徽卫视4K,安徽卫视 4K,安徽卫视4K超高清
+Anhui1#安徽经济生活
+Anhui2#安徽影视
+Anhui3#安徽公共
+Anhui4#安徽综艺体育
+Anhui5#安徽农业科教
+Anhui6#安徽国际
+
+Beijing#北京卫视,北京国际
+Beijing4K#北京卫视4K,北京卫视 4K,北京卫视 4K超高清
+Beijing1#北京新闻
+Beijing2#北京财经
+Beijing3#北京文艺
+Beijing4#北京影视
+Beijing5#北京纪实科教,北京冬奥纪实,冬奥纪实
+Beijing6#北京体育休闲
+Beijing7#北京生活
+Beijing8#北京少儿,Kaku动画,卡酷少儿
+Beijing9#北京纪实科教8K
+Beijing10#北京体育休闲4K
+bj4kcq#北京IPTV 4K
+bjdjk#大健康
+bjmctv#北京萌宠,北京IPTV 萌宠TV
+bjtbb#北京淘Baby,北京IPTV 淘BABY
+bjtdy#北京淘电影,北京IPTV 淘电影
+bjtjc#北京淘剧场,北京IPTV 淘剧场
+bjtjcai#北京淘精彩,北京IPTV 淘精彩
+bjtyl#北京淘娱乐,北京IPTV 淘娱乐
+qhdx#清华大学,清华电视台,清华大学电视台
+
+ShanghaiDongfang#东方卫视,上海东方卫视
+ShanghaiDongfang#东方卫视4K,东方卫视 4K,东方卫视 4K超高清
+Shanghai1#上海新闻综合,上海东方影视,东方影视,上海ICS外语,上海ICS,上海外语,五星体育
+Shanghai2#上海都市
+Shanghai6#上海教育
+Shanghaileyou#乐游
+Shanghaidfcj#东方财经,上海东方财经
+Shanghaidmxc#动漫秀场
+Shanghaidsjc#都市剧场
+Shanghaidycj#第一财经
+Shanghaifztd#法治天地
+Shanghaihhxd#哈哈炫动
+Shanghaihxjc4k#欢笑剧场4K
+Shanghaihxjchd#欢笑剧场
+Shanghaijbty#劲爆体育
+Shanghaijcys#精彩影视
+Shanghaijsqc#极速汽车
+Shanghaijsrw#纪实人文,上海纪实人文
+Shanghaijsxt#金色学堂
+Shanghaiqcxj#七彩戏剧
+Shanghaiqjs#全纪实
+Shanghaishss#生活时尚
+Shanghaixfc#幸福彩
+Shanghaixsj#新视觉
+
+
+Guangxi#广西卫视
+Guangxi#广西卫视4K,广西卫视 4K,广西卫视 4K超高清
+Guangxi1#广西新闻,广西综艺,广西都市,广西影视,广西国际
+
+Guangdong#广东卫视,大湾区卫视,广东大湾区
+Guangdong4K#广东卫视4K,广东卫视 4K,广东卫视 4K超高清
+Guangdong1#广东新闻,广东民生,广东影视,广东4K,#广东体育,广东少儿,广东经济科教,广东国际,广东珠江,广东大湾区,南方卫视,大湾区卫视,广东岭南,广东房产,广东现代教育,现代教育,广东现代教育,广东移动
+Guangdongjjkt#广东嘉佳卡通,嘉佳卡通
+Guangzhou1#广州综合,广州新闻,广州法制,广州竞赛,广州影视,广州南国都市,南国都市
+
+Shenzhen#深圳卫视
+Shenzhen#深圳卫视4K,深圳卫视 4K,深圳卫视 4K超高清
+Shenzhen1#深圳都市,深圳电视剧,深圳公共,深圳财经生活,深圳娱乐,深圳少儿,深圳国际,深圳体育健康,深圳宝安,深圳龙岗,深圳众创
+Shenzhendvsh#DV生活
+
+Jiangsu#江苏卫视
+Jiangsu#江苏卫视4K,江苏卫视 4K,江苏卫视 4K超高清
+Jiangsu1#江苏新闻,江苏城市,江苏综艺,江苏影视,江苏体育休闲,江苏体育,江苏国际,江苏教育,江苏学习
+Jiangsuymkt#优漫卡通
+Jiangsuliangzhuang#靓妆,靓妆频道
+连云港#连云港电视台,连云港新闻综合,连云港公共,连云港
+赣榆#赣榆电视台,赣榆
+
+
+
+Zhejiang#浙江卫视
+Zhejiang#浙江卫视4K,浙江卫视 4K,浙江卫视 4K超高清
+Zhejiang1#浙江钱江
+Zhejiang2#浙江经济
+Zhejiang3#浙江科教
+Zhejiang4#浙江民生
+Zhejiang5#浙江新闻
+Zhejiang6#浙江少儿
+Zhejiang7#浙江国际
+Zhejiang8#之江纪录
+
+Tianjin#天津卫视
+Tianjin#天津卫视4K,天津卫视 4K,天津卫视 4K超高清
+Tianjin1#天津新闻,天津文艺,天津影视,天津都市,天津体育,天津教育,天津少儿
+
+Jiangxi#江西卫视
+Jiangxi#江西卫视4K,江西卫视 4K,江西卫视 4K超高清
+Jiangxi1#江西都市,江西经济生活,江西影视旅游,江西公共农业,江西少儿,江西新闻
+
+FujianDongnan#东南卫视,福建东南卫视
+FujianDongnan#东南卫视4K,福建东南卫视4K东南卫视 4K,东南卫视 4K超高清
+Fujian#福建综合,福建乡村公共,福建新闻,福建电视剧,福建旅游,福建经济,福建体育,福建少儿,福建教育
+FujianHaixia#海峡卫视,福建海峡卫视,福建海峡
+FujianXiamen#厦门卫视
+
+Sichuan#四川卫视
+Sichuan#四川卫视4K,四川卫视 4K,四川卫视 4K超高清
+Sichuan1#四川经济,四川文化旅游,四川新闻,四川影视文艺,四川妇女儿童,四川乡村,四川科教,四川峨眉电影,峨眉电影,四川康巴,康巴卫视
+Sichuan9#4K超高清电影
+Chengdu#成都新闻综合,成都经济资讯,成都都市生活,成都影视文艺,成都公共,成都少儿,成都温江,成都城西
+
+Chongqing#重庆卫视,重庆影视,重庆新闻,重庆科教,重庆社会与法,重庆文体娱乐,重庆风尚生活,重庆新农村,重庆少儿,汽摩频道,重庆汽摩
+Chongqing#重庆卫视4K,重庆卫视 4K,重庆卫视 4K超高清
+
+Yunnan#云南卫视
+Yunnan#云南卫视4K,云南卫视 4K,云南卫视 4K超高清
+Yunnan1#云南都市,云南娱乐,云南公共,云南少儿,云南生活资讯,云南影视
+Yunnan6#云南国际,澜湄国际
+
+Guizhou#贵州卫视
+Guizhou#贵州卫视4K,贵州卫视 4K,贵州卫视 4K超高清
+Guizhou1#贵州公共,贵州文艺,贵州大众生活,贵州旅游,贵州科教健康,贵州经济
+
+Hainan#海南卫视
+Hainan#海南卫视4K,海南卫视 4K,海南卫视 4K超高清
+Hainan1#海南经济,海南新闻,海南公共,海南文旅,海南少儿
+Sansha#三沙卫视
+
+Hebei#河北卫视
+Hebei#河北卫视4K,河北卫视 4K,河北卫视 4K超高清
+Hebei1#河北经济生活,河北都市,河北影视剧,河北少儿,河北公共
+Hebeinmpd#河北农民,农民频道
+
+Henan#河南卫视
+Henan#河南卫视4K,河南卫视 4K,河南卫视 4K超高清
+Henan1#河南都市,河南民生,河南法制,河南电视剧,河南国际,河南新闻,河南公共,河南乡村
+Henanlypd#梨园频道
+Henanwssj#武术世界
+Henanwwbk#文物宝库
+
+Hubei#湖北卫视
+Hubei#湖北卫视4K,湖北卫视 4K,湖北卫视 4K超高清
+Hubei1#湖北综合,湖北影视,湖北教育,湖北生活,湖北公共新闻,湖北经视,湖北垄上
+Wuhan1#武汉新闻综合,武汉电视剧,武汉科技生活,武汉经济,武汉文体,武汉外语,武汉少儿,武汉教育
+
+
+
+Hunan#湖南卫视
+Hunan#湖南卫视4K,湖南卫视 4K,湖南卫视 4K超高清
+Hunan1#湖南经视
+Hunan2#湖南都市
+Hunan3#湖南爱晚
+Hunan4#湖南国际
+Hunan5#湖南娱乐
+Hunan6#湖南电影
+Hunan7#湖南电视剧
+Hunan8#湖南教育
+Hunan9#湖南金鹰纪实,金鹰纪实
+Hunan10#湖南金鹰卡通,金鹰卡通
+Hunan11#湖南快乐垂钓,快乐垂钓
+Hunan12#湖南茶频道,茶频道
+Hunan13#湖南先锋乒羽,先锋乒羽
+
+Shanxi#陕西卫视
+Shanxi#陕西卫视4K,陕西卫视 4K,陕西卫视 4K超高清
+Shanxi1#陕西新闻资讯
+Shanxi2#陕西都市青春
+Shanxi3#陕西生活
+Shanxi4#陕西影视
+Shanxi5#陕西公共
+Shanxi6#陕西体育休闲
+Shanxi7#陕西西部电影,西部电影
+
+Shanxi_#山西卫视
+Shanxi_#山西卫视4K,山西卫视 4K,山西卫视 4K超高清
+Shanxi1_#山西经济科技,山西影视,山西社会与法,山西公共
+
+ShanxiHuanghe#黄河电视台
+ShanxiNonglin#陕西农林,农林卫视
+
+
+Heilongjiang#黑龙江卫视,黑龙江卫视 4K
+Heilongjiang1#黑龙江新闻法治,黑龙江文体,黑龙江影视,黑龙江都市,黑龙江公共农科,黑龙江少儿
+
+
+
+Jilin#吉林卫视,吉林卫视 4K
+Jilin1#吉林公共新闻,吉林都市,吉林生活,吉林影视,吉林乡村,吉林综艺文化
+Jilindbxq#吉林戏曲,东北戏曲
+Jilinlqpd#篮球频道,吉林篮球
+Yanbian#延边卫视
+
+Liaoning#辽宁卫视
+Liaoning#辽宁卫视4K,辽宁卫视 4K,辽宁卫视 4K超高清
+Liaoning1#辽宁都市,辽宁影视剧,辽宁教育青少,辽宁生活,辽宁公共,辽宁体育,辽宁经济,辽宁北方
+Dalian#大连新闻综合,大连生活,大连公共,大连文体,大连影视,大连少儿,大连财经
+
+
+Gansu#甘肃卫视,甘肃卫视 4K
+Gansu1#甘肃都市,甘肃经济,甘肃文化影视,甘肃少儿,甘肃公共应急
+
+Ningxia#宁夏卫视,宁夏卫视 4K
+Ningxia1#宁夏公共,宁夏经济,宁夏影视,宁夏少儿
+
+Qinghai#青海卫视,青海卫视 4K
+Qinghai1#青海经视,青海都市,安多卫视
+
+Neimeng#内蒙古卫视,内蒙古卫视 4K,内蒙古新闻综合,内蒙古文体娱乐,内蒙古经济生活,内蒙古农牧,内蒙古少儿
+巴彦淖尔#巴彦淖尔
+鄂尔多斯#鄂尔多斯
+包头#包头
+赤峰#赤峰
+乌兰察布#乌兰察布
+呼和浩特#呼和浩特
+
+
+
+Xinjiang#新疆卫视,新疆卫视 4K
+Xinjiang1#新疆维语新闻综合,新疆哈语新闻综合,新疆汉语综艺,新疆维语影视,新疆经济生活,新疆哈语综艺,新疆维语经济生活,新疆体育健康,新疆信息服务,新疆少儿
+Bingtuan#兵团卫视
+
+Xizang#西藏卫视,西藏卫视 4K
+Xizang1#西藏影视文化,西藏经济生活
+
+
+
+
+RTHK31#RTHK31,香港RTHK31
+RTHK32#RTHK32,香港RTHK32
+RTHK33#CCTV-1 香港,CCTV-1香港,RTHK33,香港RTHK33
+RTHK34#CGTN纪录 香港,RTHK34,香港RTHK34
+RTHK35#CGTN 香港,RTHK35,香港RTHK35
+CCTV4mz#CCTV-4 美洲
+CCTV4oz#CCTV-4 欧洲
+CCTVbqkj#CCTV兵器科技,兵器科技
+CCTVdszn#CCTV电视指南,电视指南
+CCTVdyjc#CCTV第一剧场,第一剧场
+CCTVfyjc#CCTV风云剧场,风云剧场
+CCTVfyyy#CCTV风云音乐,风云音乐
+CCTVfyzq#CCTV风云足球,风云足球
+CCTVgefwq#CCTV高尔夫网球,高尔夫网球
+CCTVhjjc#CCTV怀旧剧场,怀旧剧场
+CCTVnxss#CCTV女性时尚,女性时尚
+CCTVsjdl#CCTV世界地理,世界地理
+CCTVwsjk#CCTV卫生健康,卫生健康
+CCTVystq#CCTV央视台球,央视台球
+CCTVyswhjp#CCTV文化精品,央视文化精品,CCTV央视文化精品
+CNDfxzl#发现之旅,CCTV发现之旅
+CNDlgs#老故事,CCTV老故事
+CNDxkdm#新科动漫,CCTV新科动漫
+CNDzqzx证券资讯,CCTV证券资讯
+CNDzxs#中学生,CCTV中学生
+CHC1#CHC高清电影,CHC影迷电影
+CHC2#CHC家庭影院
+CHC3#CHC动作电影
+CETV1#cetv1-高清,cetv-1,cetv-1hd,CETV-1高清,中国教育1,CETV1,教育1台,中国教育-1,CETV-1
+CETV2#cetv2-高清,cetv-2,cetv-2hd,CETV-2高清,中国教育2,CETV2,教育2台,中国教育-2,CETV-2
+CETV3#cetv3-高清,cetv-3,cetv-3hd,CETV-3高清,中国教育3,CETV3,教育3台,中国教育-3,CETV-3
+CETV4#cetv4-高清,cetv-4,cetv-4hd,CETV-4高清,中国教育4,CETV4,教育4台,中国教育-4,CETV-4
+CETVzqjy#早期教育
+CGTN#CGTN,CGTN英语
+CGTNalby#CGTN阿拉伯语,CGTN阿拉伯语,CGTN阿语,CGTN中东,CGTN 中东
+CGTNey#,CGTN俄语,,CGTN 俄语
+CGTNfy#CGTN法语,CGTN 法语
+CGTNjilu#CGTN纪录,CGTN 纪录
+CGTNxbyy#CGTN西班牙语,CGTN西班牙,CGTN西语,CGTN 西语
+重温经典#重温经典
+重温经典影视#重温经典影视
+jczy#精彩综艺
+IPTV3#爱综艺,收视指南,相声小品,美人,美妆,国学,爱生活,,,
+IPTV5#爱体育,,,,,,,,
+IPTV6#精选电影,爱电影,经典电影,红色影院,星影,喜剧影院,动作影院,家庭影院,家庭电影,光影,,
+IPTV8#爱大剧,经典剧场,武侠剧场,热播剧场,城市剧场,,,,
+IPTV10#野外,地理,鉴赏,墨宝,解密,,,
+IPTV11#戏曲,
+IPTV12#法制
+IPTV14#少儿动画,早教,好学生,动画,新动漫,
+IPTV15#音乐现场
+谍战剧场#谍战剧场
+军事#军旅剧场,军事,武术
+古装剧场#古装剧场
+足球#足球
+sthj#生态环境,生态环境标清
+
+日照电视台#日照综合-1,日照科教-2,日照公共-3,日照房车-4,日照新闻综合1,日照科教2,日照公共3,日照房车4,日照综合,日照新闻,日照科教,日照公共,日照房车,日照新闻综合,日照
+岚山#岚山电视台,岚山,岚山综合,日照岚山
+莒县#莒县综合,莒县电视台,日照莒县,莒县
+五莲#五莲新闻综合,五莲综合,日照五莲,五莲
+hypd#海洋频道
+
+
+
+青岛#青岛-1,青岛综合-1,青岛-1,青岛生活-2,青岛-2,青岛影视-3,青岛-3,青岛休闲-4,青岛-4,青岛都市-5,青岛-5,青岛少儿-6,青岛-6,李沧电视台,城阳电视台,青岛QTV-1,青岛QTV-2,青岛QTV-3,青岛QTV-4,青岛QTV-5,青岛QTV-6
+青岛栈桥#青岛太平角,青岛太平湾,青岛胶州湾,青岛浮山湾,青岛快速路1,青岛快速路2,青岛快速路3
+青岛五四#青岛五四广场,五四广场,青岛奥帆中心,奥帆中心
+黄岛#黄岛电视台,黄岛新闻,黄岛生活,青岛黄岛生活,青岛黄岛新闻,黄岛
+即墨#即墨电视台,即墨综合,即墨生活服务,即墨生活,青岛即墨,即墨
+胶州#胶州新闻,胶州电视台,胶州综合,胶州生活,青岛胶州,胶州
+崂山#崂山电视台,崂山,崂山新闻,崂山综合,青岛崂山
+莱西#莱西综合,莱西电视台,莱西,青岛莱西
+平度#平度电视台,平度综合,青岛平度,平度
+
+济南新闻综合#济南,济南综合,济南新闻综合,济南鲁中
+济南都市#济南都市
+济南少儿#济南少儿
+济南生活#济南生活
+济南文旅体育#济南文旅体育
+济南娱乐#济南娱乐
+济南教育#济南教育
+平阴#平阴,平阴综合,长清平阴
+长清#长清,长清综合,济南长清
+商河#商河,商河综合,济南商河
+济阳#济阳,济阳综合,济南济阳
+平阴#平阴,平阴综合,济南平阴
+历城#历城,历城综合,济南历城
+
+济宁#济宁综合,济宁教育,济宁公共,济宁
+沂水综合#沂水综合,济宁沂水综合,济宁沂水,沂水
+沂水生活#沂水生活,济宁沂水生活
+济宁高新#济宁高新,济宁高新区
+曲阜#曲阜,曲阜综合,济宁曲阜
+兖州#兖州,兖州综合,济宁兖州
+鱼台综合#鱼台综合,鱼台,济宁鱼台综合
+鱼台生活#鱼台生活,济宁鱼台生活
+任城#任城综合,任城-1,任城-2,济宁任城-1,济宁任城-2
+嘉祥#嘉祥,嘉祥,济宁嘉祥
+邹城#邹城,邹城综合,济宁邹城
+梁山#梁山,梁山综合,济宁梁山
+
+潍坊#潍坊1,潍坊2,潍坊3,潍坊4,潍坊,潍坊公共,潍坊科教文化,潍坊经济生活
+潍坊高新区#潍坊高新区
+高密#高密,高密综合,潍坊高密
+寿光#寿光,寿光综合,寿光蔬菜,潍坊寿光综合,潍坊寿光蔬菜,潍坊寿光
+安丘#安丘,安丘综合,潍坊安丘
+诸城#诸城,诸城综合,潍坊诸城
+昌邑#昌邑,昌邑综合,潍坊昌邑
+昌乐#昌乐,昌乐综合,潍坊昌乐
+青州#青州,青州综合,青州文化旅游,潍坊青州
+临朐#临朐,临朐综合,潍坊临朐
+奎文#奎文,奎文电视台
+
+威海#威海,威海新闻综合,威海都市生活,威海海洋
+
+淄博#淄博综合,淄博影视,淄博文旅,淄博民生,淄博
+沂源#沂源,沂源,淄博沂源
+淄川#淄川,淄川,淄博淄川
+高青#高青,高青综合,淄博高青
+恒台#恒台,恒台综合,淄博恒台
+张店#张店,张店综合,淄博张店
+
+德州#德州综合,德州经济生活,德州
+宁津#宁津,宁津综合,德州宁津
+齐河#齐河,齐河综合,德州齐河
+武城#武城,武城综合,武城综艺影视,德州武城,德州武城综合,德州武城综艺影视
+禹城#禹城,禹城综合,禹城综艺,德州禹城,德州禹城综艺,德州禹城综合
+平原#平原,平原综合,德州平原
+夏津#夏津,夏津综合,夏津公共,德州夏津,德州夏津公共,德州夏津综合
+陵城#陵城,陵城综合,德州陵城
+临邑#临邑,临邑综合,德州临邑
+
+滨州#滨州,滨州综合,滨州新闻综合,滨州公共
+惠民#惠民,惠民综合,滨州惠民
+阳信#阳信,阳信综合,滨州阳信
+沾化#沾化,沾化综合,滨州沾化
+邹平#邹平,邹平综合,滨州邹平
+无棣#无棣,无棣综合,滨州无棣
+
+菏泽#菏泽,菏泽综合,菏泽公共
+郓城#郓城,郓城综合,菏泽郓城
+定陶#定陶,定陶综合,菏泽定陶
+巨野#巨野,巨野综合,菏泽巨野
+东明#东明,东明综合,菏泽东明
+单县#单县,单县综合,菏泽单县
+鄄城#鄄城,鄄城综合,菏泽鄄城
+
+聊城#聊城,聊城综合,聊城民生
+莘县#莘县,莘县综合,聊城莘县
+冠县#冠县,冠县综合,聊城冠县
+茌平#茌平,茌平综合,聊城茌平
+临清#临清,临清综合,聊城临清
+
+烟台#烟台新闻综合,烟台综合,烟台公共,烟台经济科技,烟台影视,烟台
+招远#招远,招远综合,烟台招远
+龙口#龙口,龙口综合,烟台龙口
+蓬莱#蓬莱,蓬莱综合,烟台蓬莱
+长岛#长岛,长岛综合,烟台长岛
+栖霞#栖霞,栖霞综合,烟台栖霞
+牟平#牟平,牟平综合,牟平生活,烟台牟平,烟台牟平生活,烟台牟平综合
+
+东营#东营,东营综合,东营公共
+广饶#广饶,广饶综合,东营广饶
+
+荣成#荣成,荣成综合,威海荣成
+海阳#海阳,海阳综合,海阳综艺,威海海阳,威海海阳综合,威海海阳综艺
+乳山#乳山,乳山综合,威海乳山
+文登#文登,文登电视台
+
+临沂综合#临沂综合,临沂电视台
+莒南#莒南,莒南综合,临沂莒南
+河东#河东,河东综合,临沂河东
+蒙阴#蒙阴,蒙阴综合,临沂蒙阴
+兰陵#兰陵,兰陵综合,兰陵公共,临沂兰陵,临沂兰陵综合,临沂兰陵公共
+
+泰山#泰山综合,泰山,泰安泰山
+岱岳#岱岳,岱岳综合,泰安岱岳
+东平#东平,东平综合,泰安东平
+新泰#新泰,新泰综合,泰安新泰,泰安新泰综合
+新泰乡村#新泰乡村,泰安新泰乡村
+宁阳#宁阳,宁阳综合,宁阳公共,泰安宁阳,泰安宁阳综合,泰安宁阳公共
+
+直播中国#直播中国
+斗鱼#斗鱼,斗鱼4K,斗鱼电影4K,斗鱼电影 4K
+clarity#clarity 4K
+斗鱼#斗鱼,斗鱼4K,斗鱼电影4K,斗鱼电影 4K
+BesTV#BesTV 4K,BesTV-4K,BesTV风景 4K,BesTV风景
+苏州4K#苏州4K,苏州电视台4K
+香港卫视#香港卫视
+阳光卫视#阳光卫视
+金砖#金砖国家,金砖电视台,俄罗斯中文,俄罗斯中文台
+多画面#多画面,🔢多画面
+4KUHD#4K UHD,纯享4K,纯享 4K
+4KUHD2#cctv 4k,CCTV 4K 超高清,CCTV 4K,CCTV 4K超高清
+澳门卫视#澳门卫视
+4K超高清电影#4K超高清电影
+爱上4K#爱上4K
+4K修复#4K修复,4K 电影
+Migushipin#咪咕视频,咪咕直播,咪咕直播-1,咪咕直播-2,咪咕直播-3,咪咕直播-4,咪咕综合体育,咪咕精彩足球,咪咕直播-5,咪咕直播-6,咪咕直播-7,咪咕直播-8,咪咕直播-9,咪咕直播-10,咪咕直播-11,咪咕直播-12,咪咕直播-13,咪咕直播-14,咪咕直播-15,咪咕直播-16,咪咕直播-17,咪咕直播-18,咪咕直播-19,咪咕直播-20,咪咕直播-21,咪咕直播-22,咪咕直播-23,咪咕直播-24,咪咕直播-25,咪咕直播-26,咪咕直播-27,咪咕直播-28,咪咕直播-29,咪咕直播-30,咪咕直播-31,咪咕直播-32,咪咕直播-33,咪咕直播-34,咪咕直播-35,咪咕直播-36,咪咕直播-37,咪咕直播-38,咪咕直播-39,咪咕直播-40,咪咕直播-41,咪咕直播-42,咪咕直播-43,咪咕直播-44,咪咕直播-45,咪咕直播-46,咪咕直播-47,咪咕直播-48,咪咕直播-49,咪咕直播-50,咪咕直播-51,咪咕直播-52,咪咕直播-53,咪咕直播-54,咪咕直播-55,咪咕直播-56
+Worldfashion#Worldfashion,国际时装,俄罗斯时装,国际时装俄罗斯,世界时装,世界时装俄罗斯
+RTNews#RT新闻,俄罗斯RT新闻,RT News
+RTDoc#RT纪录,俄罗斯RT纪录,RT Doc
+
+Phoenix1#凤凰卫视,凤凰中文,凤凰卫视中文台,凤凰卫视中文
+Phoenix2#凤凰资讯,凤凰卫视资讯台,凤凰卫视资讯
+Phoenix3#凤凰香港,凤凰卫视香港台,凤凰卫视香港
+Phoenix4#凤凰电影,凤凰卫视电影台,凤凰卫视电影
+LoveNature4K#爱自然4K,爱自然 4K,love nature 4K,Love Nature 4K,LoveNature4K
+LoveNature#love nature,爱自然,Love Nature,LoveNature
+FashionTV#FashionTV,FTV,FashionTV UHD,FashionTV 4K,Fashion 4K,法国时装,法国时装4K,法国时装 4K,法国时装亚洲
+FashionOne#FashionOne，时装ONE
+loupe#loupe,Loupe 4K,艺术音乐4K,艺术音乐 4K
+huashu4k#华数4K电影,华数电影4K,华数4K影视
+cx4k#纯享4K超高清,纯享4K
+ah4k#爱上4K,爱上4k
+SSS#SuperSimpleSong,SuperSimpleSongs,Super Simple Song,Super Simple Songs,SuperSimpleSongs2
+春节#春晚,春节联欢晚会,网络春晚2024,春晚2030,春晚2029,春晚2028,春晚2027,春晚2026,春晚2025,春晚2024,,春晚2023,春晚2022,春晚2021,春晚2020,春晚2019,春晚2018,春晚2017,春晚2016,春晚2015,春晚2014,春晚2013,春晚2012,春晚2011,春晚2010,春晚2009,春晚2008,春晚2007,春晚2006,春晚2005,春晚2004,春晚2003,春晚2002,春晚2001,春晚2000,春晚1999,春晚1998,春晚1997,春晚1996,春晚1995,春晚1994,春晚1993,春晚1992,春晚1991,春晚1990,春晚1989,,春晚1988,春晚1987,春晚1986,春晚1985,春晚1984,春晚1983,春晚1982,春晚1981
+Qiusuo1#求索纪录,求索纪录4K,求索记录
+Qiusuo2#求索科学
+Qiusuo3#求索动物
+Qiusuo4#求索生活
+NASA#NASA,NASA1,NASA2,美国航天NASA,美国航天NASA1,美国航天NASA2
+DAZN#DAZN体育1,DAZN体育2
+momoTV#momoTV
+Aoshi1#澳视澳门
+Aoshi2#澳视葡文
+Aoshi3#澳视体育
+Aoshi4#澳视资讯
+Aoshi5#澳视综艺
+Aoshi6#澳视Macau
+Aoya#澳亚卫视
+星光影视#星光影视
+Channel 5#Channel 5,新加坡新传媒5
+Channel 8#Channel 8,新加坡新传媒8
+Channel U#Channel U,新加坡新传媒U
+Rock Action#Rock Action,新加坡动作电影
+
+
+
+bxjk#百姓健康
+bxty#冰雪体育
+cftx#财富天下
+CBN1#CBN每日影院
+CBN2#CBN幸福剧场
+CBN3#CBN幸福娱乐
+CBN4#CBN风尚生活
+车迷频道#车迷频道
+CHTV#中华卫视
+zqpd#足球频道
+zypd#置业频道
+CIBN#CIBN经典剧场,CIBN古装剧场,CIBN动画乐园,CIBN骄阳剧场,CIBN流金岁月,CIBN风尚运动,CIBN真人秀,CIBN微电影,CIBN纪录片,CIBN综合
+CYCzonghe#世新综合
+cypd#长影频道
+Daai1#大爱
+Daai2#大爱2
+Daai3#大爱3
+dalitv#大立
+DaVinci#DaVinci
+dbss#哒啵赛事
+mlzq#魅力足球
+Mnews#镜新闻
+DOX1#DOX TV
+DOX2#DOX影视
+DOX3#DOX TV,DOX院线,DOX雅趣,DOX英伦,DOX怡家,DOX映画,DOX新知,DOX新艺,DOX剧场,DOX 4K
+dzty#电子体育
+shpd#书画频道
+EYE1#EYETV戏剧
+EYE2#EYETV旅游
+FANS1#影迷数位电影,影迷数位电影台
+FANS2#影迷纪实,影迷纪实台
+fanshutv#番薯TV,番薯111
+gxpd#国学频道
+HGTV#HGTV
+jzpd#家政
+sctx#天下收藏
+hmdh#黑莓动画
+hmdj#黑莓电竞
+hmdy#黑莓电影
+Hollywood#Hollywood,好莱坞电影,好萊塢電影
+malasong#马拉松
+Maylife#美丽人生
+Mediciarts#Mediciarts,梅迪奇艺术频道
+HOY1#HOY
+inbm#证券服务
+hqly#环球旅游
+hyqg#环球奇观
+tywq#天元围棋
+jtlc#家庭理财
+ytcq#弈坛春秋
+ihot#爱院线,爱科幻,爱喜剧,爱奇谈,爱探索,爱解密,爱科学,爱猎奇,爱浪漫,爱历史,爱动漫,爱电竞,爱玩具,爱悬疑,爱赛车,爱世界,爱极限,爱旅行,爱美食,爱家庭,爱青春,爱时尚,爱娱乐,爱都市,爱谍战,爱经典,爱江湖,爱怀旧,爱幼教
+jingcai#睛彩广场舞,睛彩羽毛球,睛彩篮球,睛彩竞技
+MyCinema#MyCinema
+Mykids#Mykid
+PopC#PopC,popC
+shdy#四海钓鱼
+yxfy#游戏风云
+yxjj#游戏竞技
+yybb#优优宝贝
+zgjt#中国交通
+zhms#中华美食
+zhtc#中华特产
+zgtq#中国天气,气象频道,中国气象
+NewTV#NewTV军事评论,NewTV军旅剧场,NewTV动作电影,NewTV古装剧场,NewTV家庭剧场,NewTV海外剧场,NewTV中国功夫,NewTV农业致富,NewTV东北热剧,NewTV惊悚悬疑,NewTV怡伴健康,NewTV明星大片,NewTV欢乐剧场,NewTV武博世界,NewTV潮妈辣婆,NewTV炫舞未来,NewTV爱情喜剧,NewTV精品体育,NewTV精品大剧,NewTV精品纪录,NewTV金牌综艺,NewTV超级体育,NewTV超极电影,NewTV超级综艺,NewTV超级电视剧,NewTV魅力黑龙江,NewTV魅力江西,NewTV魅力山东,NewTV魅力广东,NewTV魅力四川,NewTV魅力吉林,NewTV魅力广西,NewTV魅力云南,NewTV魅力潇湘
+
+
+
+
+HBO#HBO
+HBO1#HBO family,HBO 家庭
+HBO2#HBO HiTS,HBO热播
+HBO3#HBO signature,HBO经典
+HBO4#HBO plus
+HBO5#HBO zone
+HBO6#HBO GO
+HBO7#HBOmax
+HBOHD#HBOHD,HBO HD
+NATGEO#探索频道
+NATGEO1#探索WILD,国家地理野生
+NATGEO2#探索people
+meiyady#美亚电影台,美亞電影台
+MTV#MTV
+MTVLive#MTVLive
+MY101#MY101
+DWChannel#DW,德国DW
+animalplanet#动物星球
+Animax#Animax
+ABCAustralia#ABC澳大利亚,澳大利亚ABC
+ACTSTV#亚旅卫视
+PTS#公视,台湾公视
+BLTV#人间卫视
+caichang#采昌
+AlJazeera#AlJazeera,ALJAZEERA,半岛电视台,半岛电视台1,半岛电视台2,半岛新闻
+NHKWorld#NHK World,NHK WORLD,日本NHK,NHK日本,nhk,NHK
+AMCMovies#AMC,AMC电影
+ArirangTV#阿里郎,韩国阿里郎
+AsianFood#亚洲美食	
+Asiatravel#亚洲旅游,亚洲旅游台
+ATV#亚视
+AXNTV#AXN,AXN电影,AXN台湾
+BabyFirst#BabyFirst
+BabyTV#BabyTV
+BBC1#BBC
+BBC2#BBC earth
+BBC3#BBC lifestyle
+BBC4#BBC cbeebies
+BloombergTV#Bloomberg财经
+Boomerang#Boomerang
+CatchPlay1#CatchPlay电影
+CatchPlay2#CatchPlay
+ChannelAsia#新加坡亚洲新闻
+ChannelV#CHANNEL[V],V音乐台,[V]音乐台
+CinemaWorld#CinemaWorld
+Cinemax#Cinemax
+classical#古典音乐台
+cmusic#电影原声台
+CNBCAsia#CNBC亚洲
+CNCartoon#CN卡通
+CNC#新华社,新华社中文,新华社英文
+cnex#cnex
+CNN#CNN,CNN新闻,美国CNN,美国CNN新闻
+ComedyCentral#ComedyCentral
+Crimeplus#Crimeplus
+Discovery#Discovery,探索频道
+Discovery1#Discovery亚洲,探索亚洲
+Discovery2#Discovery科学,探索科学
+DMAX#Discovery汽车，探索汽车,DMAX
+Disney#Disney,迪士尼
+Disney1#DisneyXD
+Disney2#DisneyJunior
+dmrbt#曼迪日本台
+DreamWorks#DreamWorks
+Euronews#欧洲新闻
+EuroSport#EUROSPORT1,EUROSPORT2,欧洲体育1,欧洲体育2,EuroSport 1,EuroSport 2
+eve#eve
+mezzolive#mezzolive
+LuxeTV#LuxeTV
+FoodNetwork#FoodNetwork,美食频道
+foodplanet#foodplanet,美食星球
+FOX#FOX
+FOX1#FOX MOVIES,FOX电影
+FOX2#FOX ACTION MOVIES,FOX动作电影
+FOX3#FOX family MOVIES,FOX家庭电影
+FOX4#FOX CRIME
+FOX5#FOX life
+FOX6#FOX体育,FOX 体育,FOX运动,FOX 运动
+FOX7#FOX体育2,FOX 体育2,FOX运动2,FOX 运动2
+FOX8#FOX体育3,FOX 体育3,FOX运动3,FOX 运动3
+FOX9#FOX NEWS,FOX新闻
+FOX10#FOX商业, FOX 商业,FOX BUSINESS
+France24#法国24,法兰西24,France24
+History1#History1
+History2#History2
+HITS#HITS
+HKS#香港卫视
+icable1#有线新闻台,有线新闻,有线财经资讯,有线新闻直播,有线娱乐台,有线娱乐,有线电影台,有线电影,有线603,有线体育台,有线体育,有线体育Plus1,有线体育Plus2,有线体育Plus3,有线18台,有线18
+ifun1#爱放
+ifun2#爱放2
+ifun3#爱放3
+KixTV#KixTV
+kzyyjs#空中英语教室
+mrjs#每日健身
+Lifetime#Lifetime
+liveabc#liveabc,LiveABC
+Lotus#莲花卫视,澳门莲花卫视,澳门莲花
+momo1#momo亲子台,momo亲子
+momo2#momo综合台,momo综合
+momo3#momo追剧台,momo追剧
+Nick#Nick,Nick Jr
+Nickelodeon#Nickelodeon
+Nickjr#Nickjr
+Outdoor#Outdoor,户外频道
+PetClubTV#PetClubTV
+SkyNews3SkyNews
+smarttv#smarttv
+Smithsonian#Smithsonian
+StarMovies#StarMovies
+Startv#星空卫视
+thrill#thrill
+TraceSport#TraceSport
+TraceUrban#TraceUrban
+TravelChannel#TravelChannel
+TV5Monde#TV5Monde
+TV5MondeStyle#TV5MondeStyle
+LStime#LStime,龙祥时代,龙祥电影,龍翔電影,龍翔電影台
+LTV1#龙华电影,龍華電影
+LTV2#龙华洋片,龍華洋片
+LTV3#龙华影剧,龍華影劇
+LTV4#龙华戏剧,龍華戲劇
+LTV5#龙华日韩,龙华日韩台,龍華日韓,龍華日韓台
+LTV6#龙华偶像,龍華偶像
+LTV7#龙华经典,龍華經典
+LTV8#龙华动画,龍華動畫
+LTV9#龙华卡通,龍華卡通
+TVB1#翡翠台
+TVB2#明珠台
+TVB3#J2
+TVB4#无线新闻台
+TVB5#财经体育资讯台
+TVB6#TVB星河
+TVB15#TVB武术
+TVB16#Hands up
+TVBS#TVBS
+TVBS1#TVBS新闻台,TVBS新闻,TVBS新聞台,TVBS新聞
+TVBS2#TVBS欢乐台,TVBS欢乐,TVBS歡樂台,TVBS歡樂
+TVBS3#TVBS精采台,TVBS精采,TVBS菁采台,TVBS菁采
+TVBS4#TVBS亚洲,TVBS亞洲
+xggjcj#香港国际财经
+xgkai#香港开电视
+TVNChannel#TVN
+tyjdpd#天映经典频道,天映經典頻道
+typd#天映频道,天映頻道
+PTS#公视,公視
+PTS#公视新闻,公視新聞
+PTS1#公视台语,公視台語
+PTS2#公视3,公視3
+PTS3#公视戏剧,公視戲劇
+CTI1#中天综合,中天综合台,中天綜合台,中天綜合
+CTI2#中天新闻,中天新闻台,中天新聞台,中天新聞
+CTI3#中天娱乐,中天娛樂台
+CTI4#中天亚洲,中天亚洲台,中天亞洲台,中天亞洲
+CTI5#中天新闻2,中天新聞2,中天新闻+
+CTS#华视,华视CTS,華視,華視CTS
+CTS1#华视新闻,華視新聞
+CTS2#华视教育文化,華視教育文化
+CTV#中视,中視
+CTV1#中视新闻,中視新聞
+CTV2#中视经典,中视经典台,華視經典,華視經典台
+CTV3#中视菁采,中视菁采台
+FTV#民视,民視
+FTV1#民视新闻台,民视新闻,民視新聞台,民視新聞
+FTV2#民视第一台,民视第一,民視第一台,民視第一
+FTV3#民视台湾台,民视台湾,民視台灣,民視台灣台
+FTV4#民视影剧,民視影劇
+FTV5#民视旅游,民視旅遊
+FTV6#民视综艺,民視綜藝
+FTV7#民视猪哥亮
+TTV#台视,台視
+TTV1#台视综合,台視綜合,台視綜合台
+TTV2#台视新闻,台視新聞,台視新聞台
+TTV3#台视财经,台視財經,台視財經台
+Dongfeng#东风,东风卫视
+EBC1#东森综合,東森綜合,東森綜合台
+EBC2#东森超视,東森超視,東森超視台
+EBC3#东森电影,東森電影,東森電影台
+EBC4#东森洋片,東森洋片,東森洋片台
+EBC5#东森戏剧,東森戲劇,東森戲劇台
+EBC6#东森新闻,东森新闻台,東森新聞,東森新聞台
+EBC7#东森财经新闻,東森財經新聞
+EBC8#东森亚洲台,东森亚洲,東森亞洲,東森亞洲台
+EBC9#东森亚洲新闻,東森亞洲新聞
+EBC10#东森YOYO,东森幼幼,東森幼幼
+SET1#三立综合,三立综合台,三立綜合,三立綜合台
+SET2#三立新闻,三立新闻+,三立新聞,三立新聞台
+SET3#三立iNEWS
+SET4#三立台湾,三立台湾台,三立台灣台
+SET5#三立都会,三立都会台,三立都會台
+SET6#三立戏剧,三立戏剧台,三立戲劇台
+SET7#三立国际,三立国际台,三立國際台
+sffj#十方法界
+EFTVcaijing#运通财经,运通财经台
+Eleven#Eleven,Eleven1,Eleven2,Eleven3,Eleven4
+ELTA#ELTA综合,ELTA影剧,爱尔达影剧,ELTA娱乐,ELTA体育1,ELTA体育1台,ELTA体育2,ELTA体育2台,ELTA体育3,ELTA体育3台,ELTA生活英语,ELTA奥运1,奥运1台,ELTA奥运2,奥运2台,ELTA奥运3,奥运3台,ELTA原音1,原音1台,ELTA原音2,原音2台,ELTA原音3,原音3台
+ERA1#年代MUCH
+ERA2#年代新闻,年代新聞
+ETtoday#ET综合台,today综合台,ET綜合台
+FuliTV#富立
+fwcb#佛卫慈悲台
+FXTV#FXTV
+Zpindao#Z频道
+GINXesport#GINXesport
+Global1#环宇综合,寰宇综合
+Global2#环宇新闻,寰宇新聞
+Global3#环宇台湾,环宇台湾台,寰宇台灣,寰宇台灣台
+Global4#环宇财经,寰宇財經
+GoldenTV1#靖天综合,靖天綜合台
+GoldenTV2#靖天资讯,靖天資訊台
+GoldenTV3#靖天映画,靖天映畫台
+GoldenTV4#靖天娱乐,靖天娛樂台
+GoldenTV5#靖天育乐,靖天育樂台
+GoldenTV6#靖天日本,靖天日本台
+GoldenTV7#靖天卡通,靖天卡通台
+GoldenTV8#靖天戏剧,靖天戲劇台
+GoldenTV9#靖天电影,靖天電影台
+GoldenTV10#靖天国际,靖天國際台
+GoodTV1#GoodTV1,好消息1
+GoodTV1#GoodTV2,好消息2
+GSTV#国兴卫视
+Unique1#非凡新闻,非凡新聞
+Unique2#非凡商业
+Videoland1#纬来综合,緯來綜合
+Videoland2#纬来电影,緯來電影
+Videoland3#纬来戏剧,緯來戲劇
+Videoland4#纬来精采,緯來精采
+Videoland5#纬来日本,緯來日本
+Videoland6#纬来育乐,緯來育樂
+Videoland7#纬来体育,緯來體育
+viutv#viutv
+viutv6#viutv6,Viu6
+VOA#VOA
+WarnerTV#WarnerTV
+weishi1#卫视中文台,衛視中文台
+weishi2#卫视电影台,衛視電影台
+weishi3#卫视卡式台,衛視卡式台
+GTV1#八大综合台,八大综合,八大綜合
+GTV2#八大第1台,八大第1台,八大第一,八大第一台
+GTV3#八大娱乐台,八大娱乐,八大娛樂
+GTV4#八大戏剧台,八大戏剧,八大戲劇
+GTV5#八大精彩台,八大精彩,八大菁采
+GTV6#八大优频道,八大優頻道
+xingwei1#星卫娱乐台,星卫娱乐,星衛娛樂
+xingwei2#星卫电影台,星卫电影,星衛電影
+guohui1#国会频道1
+guohui2#国会频道2
+haitun#海豚电视台
+Hakka#客家电视台
+hanguoyl#韩国娱乐台
+HelpTV#希望电视
+huayi1#华艺综合,华艺综合台
+huayi2#华艺台湾,华艺台湾台
+huayi3#华艺影剧,华艺影剧台
+Top1#高点综合台,高点综合,高點綜合,高點綜合台
+Top2#高点育乐台,高点育乐,高點娛樂,高點娛樂台
+HZTV#华藏卫视,華藏衛視
+JET#JET综合台,JET综合,JET綜合,JET綜合台
+jy1#靖洋卡通
+jy2#靖洋戏剧台,靖洋戏剧
+NextTV1#壹综合,壹綜合
+NextTV2#壹新闻,壹新聞
+NextTV3#壹电影,壹電影
+now1#now新闻,now新闻台,now新聞台
+now2#now财经,now财经台,now財經台
+now3#now直播,now直播台,now直播台
+now4#now爆谷,now爆谷台,now爆谷台
+now5#now星影,now星影台,now星影台
+now6#now剧集,now剧集台,now劇集台
+now7#now华剧,now华剧台,now華劇台
+NTD#新唐人,新唐人电视台,新唐人亚太，新唐人亚太台
+pltwt#霹雳台湾台
+TITV#TITV
+TLC#TLC,TLCTV,TLC TV,TLC旅游生活
+shengming#生命电视
+sportcast1#搏斯运动I
+sportcast2#搏斯运动II
+sportcast3#搏斯高球
+sportcast4#搏斯高球II
+sportcast5#搏斯网球
+sportcast6#搏斯魅力
+sportcast7#搏斯无限
+sportcast8#搏斯无限II
