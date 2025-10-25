@@ -24,7 +24,6 @@ CHC动作电影,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zt
 CHC家庭影院,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8
 CCTV-7,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8
-CCTV-8,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000376/index.m3u8
 CCTV-8,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8
 CCTV-9,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8
 CCTV-10,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8
@@ -38,13 +37,8 @@ CGTN,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CH
 CGTN纪录,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8
 
 🌐 卫视,#genre#
-山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000370/index.m3u8
 山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8
-山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000051/index.m3u8
-山东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000655/index.m3u8
-
 北京卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8
-北京卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000019/index.m3u8
 东方卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8
 江苏卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000018/index.m3u8
 江苏卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8
