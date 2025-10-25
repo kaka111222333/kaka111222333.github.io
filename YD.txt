@@ -13,15 +13,12 @@ CCTV-4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com///
 🌐 CCTV,#genre#
 CCTV-1,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8
 CCTV-2,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8
-CCTV-3,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000371/index.m3u8
 CCTV-3,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8
 CCTV-4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8
 CCTV-4 欧洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8
 CCTV-4 美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8
-CCTV-5,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000372/index.m3u8
 CCTV-5,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8
 CCTV-5+,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8
-CCTV-6,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000374/index.m3u8
 CCTV-6,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8
 CHC动作电影,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8
