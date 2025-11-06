@@ -1,28 +1,3 @@
-📺  CCTV,#genre#
-CCTV-1 综合,http://10.26.0.123:4000/udp/239.253.224.77:8000
-CCTV-2 财经,http://10.26.0.123:4000/udp/239.253.224.232:8000
-CCTV-3 综艺,http://10.26.0.123:4000/udp/239.253.224.191:8000
-CCTV-4 亚洲,http://10.26.0.123:4000/udp/239.253.224.111:8000
-CCTV-4 欧洲,http://10.26.0.123:4000/udp/239.253.224.186:8000
-CCTV-4 美洲,http://10.26.0.123:4000/udp/239.253.224.187:8000
-CCTV-5 体育,http://10.26.0.123:4000/udp/239.253.224.192:8000
-CCTV-5+体育赛事,http://10.26.0.123:4000/udp/239.253.224.80:8000
-CCTV-6 电影,http://10.26.0.123:4000/udp/239.253.224.193:8000
-CHC家庭影院,http://10.26.0.123:4000/udp/239.253.224.152:8000
-CHC动作电影,http://10.26.0.123:4000/udp/239.253.224.153:8000
-CHC影迷电影,http://10.26.0.123:4000/udp/239.253.224.154:8000
-CCTV-7 国防军事,http://10.26.0.123:4000/udp/239.253.224.233:8000
-CCTV-8 电视剧,http://10.26.0.123:4000/udp/239.253.224.194:8000
-CCTV-9 纪录,http://10.26.0.123:4000/udp/239.253.224.79:8000
-CCTV-10 科教,http://10.26.0.123:4000/udp/239.253.224.234:8000
-CCTV-11 戏曲,http://10.26.0.123:4000/udp/239.253.224.169:8000
-CCTV-12 社会与法,http://10.26.0.123:4000/udp/239.253.224.235:8000
-CCTV-13 新闻,http://10.26.0.123:4000/udp/239.253.224.175:8000
-CCTV-14 少儿,http://10.26.0.123:4000/udp/239.253.224.236:8000
-CCTV-15 音乐,http://10.26.0.123:4000/udp/239.253.224.170:8000
-CCTV-17 农业农村,http://10.26.0.123:4000/udp/239.253.224.168:8000
-CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
-
 📺    高清,#genre#
 山东卫视,http://10.26.0.123:4000/udp/239.253.224.78:8000
 北京卫视,http://10.26.0.123:4000/udp/239.253.224.85:8000
@@ -36,6 +11,7 @@ CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 求索纪录,http://10.26.0.123:4000/udp/239.253.224.231:8000
 
 📺 超高清,#genre#
+CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 山东卫视 4K,http://10.26.0.123:4000/udp/239.253.224.172:8000
 北京卫视 4K,http://10.26.0.123:4000/udp/239.253.224.200:8000
 东方卫视 4K,http://10.26.0.123:4000/udp/239.253.224.176:8000
@@ -63,14 +39,12 @@ CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 莱西,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001067/index.m3u8
 平度,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8
 
-🌐 日照,#genre#
 日照新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000262/index.m3u8
 日照公共,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001100/index.m3u8
 日照科教,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000263/index.m3u8
 岚山,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001044/index.m3u8
 莒县,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001014/index.m3u8
 
-🌐 烟台,#genre#
 烟台新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8
 烟台经济科技,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8
 烟台影视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8
@@ -83,7 +57,6 @@ CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 牟平,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8
 牟平生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001077/index.m3u8
 
-🌐 威海,#genre#
 威海新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000274/index.m3u8
 威海都市生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000275/index.m3u8
 威海海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
@@ -93,7 +66,6 @@ CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 乳山,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001049/index.m3u8
 文登,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001017/index.m3u8
 
-🌐 潍坊,#genre#
 潍坊,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
 潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 潍坊公共,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
@@ -112,13 +84,11 @@ CCTV-4K 超高清,http://10.26.0.123:4000/udp/239.253.224.122:8000
 昌邑,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
 诸城,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8
 
-🌐 济南等,#genre#
 济南新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00004000/index.m3u8
 德州经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000207/index.m3u8
 武城,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001059/index.m3u8
 新泰,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001029/index.m3u8
 
-🌐 山东,#genre#
 山东齐鲁,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8
 山东体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8
 山东新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8
