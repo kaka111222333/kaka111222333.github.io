@@ -1,4 +1,4 @@
-🌐  青岛IPTV,#group#
+青岛,#group#
 🌐  CCTV,#genre#
 CCTV-1 综合,http://10.26.0.23:4000/udp/239.253.254.77:8000
 CCTV-2 财经,http://10.26.0.23:4000/udp/239.253.254.232:8000
@@ -176,7 +176,7 @@ QTV-5,http://10.26.0.23:4000/udp/239.253.254.254:8000
 武术,http://10.26.0.23:4000/udp/239.253.254.227:8000
 美妆,http://10.26.0.23:4000/udp/239.253.254.228:8000
 
-☀️  日照IPTV,#group#
+日照,#group#
 ☀️  日照,#genre#
 日照综合,http://10.26.0.123:4000/udp/239.253.224.254:8000
 日照科教,http://10.26.0.123:4000/udp/239.253.224.253:8000
@@ -383,10 +383,10 @@ CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica$央视影音
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5$央视影音
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus$央视影音
+CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6$央视影音
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
 1905国内电影,http://A/ku9/js/1905.js?id=1905a$1905
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
-CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6$央视影音
 CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
 CCTV-7 国防军事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7$央视影音
 CCTV-8 电视剧,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8$央视影音
