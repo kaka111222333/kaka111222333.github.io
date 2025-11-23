@@ -222,9 +222,6 @@ CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.254.122:8000
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 【卫视】,#genre#
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰卫视,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13256889895&pwd=Fan2345678
 山东卫视,http://10.26.0.23:4000/udp/239.253.254.78:8000
 北京卫视,http://10.26.0.23:4000/udp/239.253.254.85:8000
 东方卫视,http://10.26.0.23:4000/udp/239.253.254.86:8000
