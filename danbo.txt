@@ -42,6 +42,7 @@ CCTV-4K,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch2312281438212
 爱上4K,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
 
 🌐  山东,#genre#
+泰安综合,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18041911493947244872.rsc/79887_Uni.sdp
 山东卫视,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp
 山东齐鲁,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
 山东文旅,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
