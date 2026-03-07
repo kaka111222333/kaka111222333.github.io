@@ -192,6 +192,11 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 南京教科,video://https://www.nbs.cn/live/?id=109153
 南京文旅纪录,video://https://www.nbs.cn/live/?id=110093
 南京少儿,video://https://www.nbs.cn/live/?id=110095
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=4528666d03404f24e44c1cc45d6d98f5&txTime=1955a3c2631
+广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=43247f9f631aa76741fcc3f24d327e28&txTime=1955a3c2632
+南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
+广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
+广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
 
 🌐  北京,#genre#
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
@@ -568,48 +573,18 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 汶上综合,video://https://iapp.wstvs.com/share/dHZsLTMwMS0x.html
 汶上生活,video://https://iapp.wstvs.com/s
 
-济南,#genre#
 济南新闻综合,http://A/ku9/js/jinan.js?id=1676
 济南生活,http://A/ku9/js/jinan.js?id=1855
 济南都市,http://A/ku9/js/jinan.js?id=1807
 济南文旅体育,http://A/ku9/js/jinan.js?id=1842
 济南少儿,http://A/ku9/js/jinan.js?id=2234
 济南鲁中,http://A/ku9/js/jinan.js?id=1857
-
-威海,#genre#
-威海海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8 
-威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
-威海新闻综合,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8 
 菏泽新闻,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-菏泽影视,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
-聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
-聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 
 
-🌐  广东,#genre#
-南国都市,http://A/ku9/js/gz.js?id=nd
-广州综合,http://A/ku9/js/gz.js?id=zh
-广州新闻,http://A/ku9/js/gz.js?id=xw
-广州法治,http://A/ku9/js/gz.js?id=fz
-广州影视,http://A/ku9/js/gz.js?id=ys
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=4528666d03404f24e44c1cc45d6d98f5&txTime=1955a3c2631
-广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=43247f9f631aa76741fcc3f24d327e28&txTime=1955a3c2632
-南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=c7ce576433a98a3f183566962be4c82e&txTime=1955a3c2632
-广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=88d702639352e25f3c6a6bff53ac2166&txTime=1955a3c2632
-广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=b36762904ae1f1f64fa92d4ee25be85e&txTime=1955a3c2632
 
 
-🌐  深圳,#genre#
-深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
-深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,video://https://www.sztv.com.cn/pindao/index.html?id=7871
-深圳少儿,video://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳移动,video://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳国际,video://https://www.sztv.com.cn/pindao/index.html?id=7944
-东莞新闻综合,video://https://dgrtv.sun0769.com/index.php/online2/4
-东莞生活,video://https://dgrtv.sun0769.com/index.php/online2/5
 
 🌐  四川,#genre#
 成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
@@ -649,13 +624,6 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 安岳综合,http://A/ku9/js/anyue.js?id=10
 资阳新闻综合,http://A/ku9/js/anyue.js?id=12
 
-🌐  云南,#genre#
-云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
-云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
-云南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
-云南康旅,http://A/ku9/js/yunnan.js?id=yunnangonggong
-云南国际,http://A/ku9/js/yunnan.js?id=yunnanguoji
-云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
 
 🌐  广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
