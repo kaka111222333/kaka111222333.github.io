@@ -1,4 +1,27 @@
-🌐 央视影音,#genre#
+🌐 CCTV,#genre#
+CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
+CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800$央视频
+CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814$央视频
+CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818$央视频
+CCTV-5+体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817$央视频
+CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442$央视频
+CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092$央视频
+CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803$央视频
+CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078$央视频
+CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805$央视频
+CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806$央视频
+CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807$央视频
+CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811$央视频
+CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809$央视频
+CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815$央视频
+CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637$央视频
+CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810$央视频
+CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264$央视频
+CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816$央视频
+CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658$央视频
+CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655$央视频
+CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
+
 CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1$央视影音
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2$央视影音
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3$央视影音
@@ -88,29 +111,25 @@ CCTV-10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomN
 CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 
 
-🌐  央视频,#genre#
-CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
-CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800$央视频
-CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814$央视频
-CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818$央视频
-CCTV-5+体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817$央视频
-CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442$央视频
-CCTV-7 国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092$央视频
-CCTV-8 电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803$央视频
-CCTV-9 纪录,webview://https://yangshipin.cn/tv/home?pid=600004078$央视频
-CCTV-10 科教,webview://https://yangshipin.cn/tv/home?pid=600001805$央视频
-CCTV-11 戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806$央视频
-CCTV-12 社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807$央视频
-CCTV-13 新闻,webview://https://yangshipin.cn/tv/home?pid=600001811$央视频
-CCTV-14 少儿,webview://https://yangshipin.cn/tv/home?pid=600001809$央视频
-CCTV-15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815$央视频
-CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637$央视频
-CCTV-17 农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810$央视频
-CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264$央视频
-CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816$央视频
-CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658$央视频
-CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655$央视频
-CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
+CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
+CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
+CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
+CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4$河南党员教育
+CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5$河南党员教育
+CCTV-9 纪录,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6$河南党员教育
+CCTV-10 科教,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7$河南党员教育
+CCTV-11 戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8$河南党员教育
+CCTV-12 社会与法,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9$河南党员教育$河南党员教育
+CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党员教育
+北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11$河南党员教育
+浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12$河南党员教育
+河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13$河南党员教育
+河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14$河南党员教育
+河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15$河南党员教育
+河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
+党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
+
+🌐 卫视,#genre#
 山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513$央视频
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309$央视频
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521$央视频
@@ -145,28 +164,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403$央视频
 CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
-🌐 河南党员,#genre#
-CCTV-1 综合,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1$河南党员教育
-CCTV-3 综艺,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2$河南党员教育
-CCTV-5 体育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3$河南党员教育
-CCTV-6 电影,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4$河南党员教育
-CCTV-7 国防军事,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5$河南党员教育
-CCTV-9 纪录,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6$河南党员教育
-CCTV-10 科教,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7$河南党员教育
-CCTV-11 戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8$河南党员教育
-CCTV-12 社会与法,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9$河南党员教育$河南党员教育
-CCTV-13 新闻,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10$河南党员教育
-北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11$河南党员教育
-浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12$河南党员教育
-河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13$河南党员教育
-河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14$河南党员教育
-河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15$河南党员教育
-河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16$河南党员教育
-党员远程教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0$河南党员教育
-
-
-
-🔆 卫视官网,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/$山东卫视官网
 北京卫视,video://https://www.btime.com/btv/btvsy_index$北京卫视官网
 江苏卫视,video://https://live.jstv.com/?channelId=534$江苏卫视官网
