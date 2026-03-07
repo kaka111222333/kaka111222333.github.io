@@ -21,20 +21,20 @@ CCTV-13 新闻,http://10.26.0.23:4000/udp/239.253.254.175:8000
 CCTV-14 少儿,http://10.26.0.23:4000/udp/239.253.254.236:8000
 CCTV-15 音乐,http://10.26.0.23:4000/udp/239.253.254.170:8000
 CCTV-16 奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637$央视频
+CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 CCTV-17 农业农村,http://10.26.0.23:4000/udp/239.253.254.168:8000
 CCTV-4K 超高清,http://10.26.0.23:4000/udp/239.253.254.122:8000
+CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816$央视频
 爱上4K,http://10.26.0.23:4000/udp/239.253.254.102:8000
 
 CCTV-4K 超高清,webview://https://yangshipin.cn/tv/home?pid=600002264$央视频
-CCTV-8K 超高清,webview://https://yangshipin.cn/tv/home?pid=600156816$央视频
+CCTV-4K 超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658$央视频
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655$央视频
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
 
 1905国内电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
-CCTV-16 奥林匹克,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
-CCTV-4K 超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
 🌐  卫视,#genre#
 山东卫视,http://10.26.0.23:4000/udp/239.253.254.78:8000
@@ -600,26 +600,8 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
-山东,#genre#
-山东卫视,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
-山东新闻,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
-山东齐鲁,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
-山东体育,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7
-山东生活,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9
-山东综艺,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11
-山东文旅,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wlpd&channelid=13
-山东农科,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=nkpd&channelid=15
-山东少儿,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sepd&channelid=17
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东齐鲁,video://https://v.iqilu.com/live/qlpd/
-山东体育,video://https://v.iqilu.com/live/typd/
-山东生活,video://https://v.iqilu.com/live/shpd/
-山东综艺,video://https://v.iqilu.com/live/zypd/
-山东新闻,video://https://v.iqilu.com/live/ggpd/
-山东农科,video://https://v.iqilu.com/live/nkpd/
-山东文旅,video://https://v.iqilu.com/live/yspd/
-山东少儿,video://https://v.iqilu.com/live/sepd/
 
+市县,#genre#
 日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 聊城,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
 东营,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
@@ -634,22 +616,6 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 菏泽,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
 滨州,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
 枣庄,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023
-临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
-临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
-临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
-威海新闻综合,video://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,video://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,video://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-泰安综合,video://http://www.1545ts.com/zhibo/taian/zhibotatv1.html
-泰安经济生活,video://http://www.1545ts.com/zhibo/taian/zhibotatv2.html
-枣庄公共,video://https://app.zzxwcm.cn/application/tenma01ds_tvradio/view/h5/#/
-聊城综合,video://https://www.lcxw.cn/kands/?tag=0
-潍坊新闻综合,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊经济生活,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊影视综艺,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊科教文旅,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-
-市县,#genre#
 五莲,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
 五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
 岚山,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
@@ -921,60 +887,6 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 菏泽新闻,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 
-
-
-
-
-🌐  四川,#genre#
-成都综合,http://A/ku9/js/cdtv.js?id=cdxwzh
-成都经济,http://A/ku9/js/cdtv.js?id=cdjjzx
-成都生活,http://A/ku9/js/cdtv.js?id=cddssh
-成都影视,http://A/ku9/js/cdtv.js?id=cdyswy
-成都公共,http://A/ku9/js/cdtv.js?id=cdgg
-成都少儿,http://A/ku9/js/cdtv.js?id=cdse
-
-成都蓉城先锋,http://A/ku9/js/cdtv.js?id=cdrcxf
-
-金牛电视台,http://A/ku9/js/cdtv.js?id=jntv
-双流综合,http://A/ku9/js/cdtv.js?id=slzh
-温江电视台,http://A/ku9/js/cdtv.js?id=wjtv
-高新电视台,http://A/ku9/js/cdtv.js?id=gxtv
-新津电视台,http://A/ku9/js/cdtv.js?id=xjtv
-大邑综合,http://A/ku9/js/cdtv.js?id=dyxwzh
-彭州电视台,http://A/ku9/js/cdtv.js?id=pztv
-蒲江电视台,http://A/ku9/js/cdtv.js?id=pjtv
-锦江电视台,http://A/ku9/js/cdtv.js?id=jjtv
-金堂电视台,http://A/ku9/js/cdtv.js?id=jttv
-郫都新闻综合,http://A/ku9/js/cdtv.js?id=pdxwzh
-龙泉综合,http://A/ku9/js/cdtv.js?id=lqzh
-青羊电视台,http://A/ku9/js/cdtv.js?id=qytv
-青白江电视台,http://A/ku9/js/cdtv.js?id=qbjtv
-崇州电视1套,http://A/ku9/js/cdtv.js?id=cztv
-都江堰电视台,http://A/ku9/js/cdtv.js?id=djytv
-成华有线,http://A/ku9/js/cdtv.js?id=chyx
-邛崃电视台,http://A/ku9/js/cdtv.js?id=qltv
-武侯电视台,http://A/ku9/js/cdtv.js?id=whtv
-新都电视台,http://A/ku9/js/cdtv.js?id=xdzh
-简阳新闻综合,http://A/ku9/js/cdtv.js?id=jyxwzh
-
-资阳新闻综合,http://A/ku9/js/anyue.js?id=1
-雁江频道,http://A/ku9/js/anyue.js?id=4
-雁江频道,http://A/ku9/js/anyue.js?id=7
-安岳综合,http://A/ku9/js/anyue.js?id=10
-资阳新闻综合,http://A/ku9/js/anyue.js?id=12
-
-
-🌐  广西,#genre#
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-广西移动,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV3,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
 🌐  新疆,#genre#
