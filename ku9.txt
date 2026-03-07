@@ -967,7 +967,7 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 
 
 
-🌐  虎牙电影,#group#
+🌐  虎牙电影,#genre#
 星爷,http://A/ku9/js/虎牙.js?id=11342412
 周星星,http://A/ku9/js/虎牙.js?id=11336587
 林正英,http://A/ku9/js/虎牙.js?id=11342421
