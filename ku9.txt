@@ -1,6 +1,7 @@
 🌐 CCTV,#genre#
 CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800$央视频
+CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801$央视频
 CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814$央视频
 CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818$央视频
 CCTV-5+体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817$央视频
