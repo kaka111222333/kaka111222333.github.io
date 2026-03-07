@@ -32,7 +32,6 @@ CCTV-4K 超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658$央视频
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655$央视频
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620$央视频
-
 1905国内电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
 
@@ -95,6 +94,7 @@ CETV4,http://10.26.0.23:4000/udp/239.253.254.116:8000
 金鹰卡通,http://10.26.0.23:4000/udp/239.253.254.117:8000
 嘉佳卡通,http://10.26.0.23:4000/udp/239.253.254.65:8000
 优漫卡通,http://10.26.0.23:4000/udp/239.253.254.64:8000
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 🌐  青岛,#genre#
 QTV-1,http://10.26.0.23:4000/udp/239.253.254.249:8000
@@ -201,17 +201,6 @@ QTV-5,http://10.26.0.23:4000/udp/239.253.254.254:8000
 武术,http://10.26.0.23:4000/udp/239.253.254.227:8000
 美妆,http://10.26.0.23:4000/udp/239.253.254.228:8000
 
-🌐  4K卫视,#genre#
-山东卫视4K,http://10.26.0.23:4000/udp/239.253.254.172:8000
-北京卫视4K,http://10.26.0.23:4000/udp/239.253.254.200:8000
-东方卫视4K,http://10.26.0.23:4000/udp/239.253.254.176:8000
-江苏卫视4K,http://10.26.0.23:4000/udp/239.253.254.133:8000
-浙江卫视4K,http://10.26.0.23:4000/udp/239.253.254.27:8000
-广东卫视4K,http://10.26.0.23:4000/udp/239.253.254.108:8000
-深圳卫视4K,http://10.26.0.23:4000/udp/239.253.254.61:8000
-湖南卫视4K,http://10.26.0.23:4000/udp/239.253.254.28:8000
-四川卫视4K,http://10.26.0.23:4000/udp/239.253.254.123:8000
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 🌏  境外,#genre#
 凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13256889895&pwd=Fan2345678
@@ -601,7 +590,7 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
-市县,#genre#
+🌐  市县,#genre#
 日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 聊城,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
 东营,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
