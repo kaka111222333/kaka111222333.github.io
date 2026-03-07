@@ -264,19 +264,13 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 
 
 🌐  杭州,#genre#
-杭州综合,http://A/ku9/js/hztv.js?id=hzzh
-杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
-杭州生活,http://A/ku9/js/hztv.js?id=hzsh
-杭州影视,http://A/ku9/js/hztv.js?id=hzys
-杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
-杭州导视,http://A/ku9/js/hztv.js?id=hzds
-富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 杭州综合,video://https://www.hoolo.tv/live/
 杭州西湖明珠,video://https://tv.hoolo.tv/xhmz/
 杭州生活,video://https://tv.hoolo.tv/hzsh/
 杭州影视,video://https://tv.hoolo.tv/utv/
 杭州青少体育,video://https://tv.hoolo.tv/hzse/
 杭州导视,video://https://tv.hoolo.tv/ydds/
+富阳,http://A/ku9/js/hztv.js?id=fyxwzh
 
 
 山东,#genre#
