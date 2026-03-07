@@ -3,6 +3,8 @@ CCTV-1 综合,webview://https://yangshipin.cn/tv/home?pid=600001859$央视频
 CCTV-2 财经,webview://https://yangshipin.cn/tv/home?pid=600001800$央视频
 CCTV-3 综艺,webview://https://yangshipin.cn/tv/home?pid=600001801$央视频
 CCTV-4 亚洲,webview://https://yangshipin.cn/tv/home?pid=600001814$央视频
+CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope$央视影音
+CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica$央视影音
 CCTV-5 体育,webview://https://yangshipin.cn/tv/home?pid=600001818$央视频
 CCTV-5+体育赛事,webview://https://yangshipin.cn/tv/home?pid=600001817$央视频
 CCTV-6 电影,webview://https://yangshipin.cn/tv/home?pid=600108442$央视频
@@ -27,8 +29,6 @@ CCTV-1 综合,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-2 财经,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2$央视影音
 CCTV-3 综艺,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3$央视影音
 CCTV-4 亚洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4$央视影音
-CCTV-4 欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope$央视影音
-CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica$央视影音
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5$央视影音
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus$央视影音
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
