@@ -8,7 +8,7 @@ CCTV-4 美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=
 CCTV-5 体育,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5$央视影音
 CCTV-5+体育赛事,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus$央视影音
 CCTV-6 电影,video://https://m.1905.com/m/cctv6/gzh$1905
-1905国内电影,http://A/ku9/js/1905.js?id=1905a$1905
+1905国内电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 1905国外电影,http://A/ku9/js/1905.js?id=1905b$1905
 CCTV-6 电影,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6$央视影音
 CCTV-7 国防军事,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612$军号
