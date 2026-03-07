@@ -313,9 +313,9 @@ CETV-1,webview://https://yangshipin.cn/tv/home?pid=600171827$央视频
 市县,#genre#
 五莲,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMA.html
 五莲文化旅游,video://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
+岚山,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 莒县,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
 莒县二套,video://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
-岚山,video://https://iapp.ilanshan.com/share/dHZsLTI4OS0x.html
 
 胶州,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
 胶州生活,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
@@ -760,69 +760,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 张家口新闻,https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
 张家口公共频道,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 
-🌐  湖南,#genre#
-湖南电影,video://https://live.mgtv.com/?channelId=221
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-湖南经视,video://https://live.mgtv.com/?channelId=280
-湖南娱乐,video://https://live.mgtv.com/?channelId=344
-湖南都市,video://https://live.mgtv.com/?channelId=346
-湖南国际,video://https://live.mgtv.com/?channelId=229
-金鹰纪实,video://https://live.mgtv.com/?channelId=316
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-湖南爱晚,video://https://live.mgtv.com/?channelId=261
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
-快乐垂钓,video://https://live.mgtv.com/?channelId=218
-茶频道,video://https://live.mgtv.com/?channelId=578
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-长沙综合,video://https://live.mgtv.com/?channelId=269
-长沙政法,video://https://live.mgtv.com/?channelId=254
-
-湖南娱乐,http://A/ku9/js/hunan.js?id=hnyl&key=关注公共号❤：AI科技生活
-湖南电影,http://A/ku9/js/hunan.js?id=hndy&key=关注公共号❤：AI科技生活
-湖南都市,http://A/ku9/js/hunan.js?id=hnds&key=关注公共号❤：AI科技生活
-湖南电视剧,http://A/ku9/js/hunan.js?id=hndsj&key=关注公共号❤：AI科技生活
-湖南爱晚,http://A/ku9/js/hunan.js?id=hngg&key=关注公共号❤：AI科技生活
-湖南国际,http://A/ku9/js/hunan.js?id=hngj&key=关注公共号❤：AI科技生活
-金鹰纪实,http://A/ku9/js/hunan.js?id=jyjs&key=关注公共号❤：AI科技生活
-金鹰卡通,http://A/ku9/js/hunan.js?id=jykt&key=关注公共号❤：AI科技生活
-先锋乒羽,http://A/ku9/js/hunan.js?id=xfpy&key=关注公共号❤：AI科技生活
-快乐垂钓,http://A/ku9/js/hunan.js?id=klcd&key=关注公共号❤：AI科技生活
-茶频道,http://A/ku9/js/hunan.js?id=cpd&key=关注公共号❤：AI科技生活
-长沙新闻综合,http://A/ku9/js/hunan.js?id=csxwzh&key=关注公共号❤：AI科技生活
-长沙政法频道,http://A/ku9/js/hunan.js?id=cszfpd&key=关注公共号❤：AI科技生活
-长沙女性频道,http://A/ku9/js/hunan.js?id=csnxpd&key=关注公共号❤：AI科技生活
-快乐购,http://A/ku9/js/hunan.js?id=klg&key=关注公共号❤：AI科技生活
-
-桂阳新闻综合,http://AAAA/PLTV/ku9/js/hny.js?id=gyxwzh&key=关注公共号❤：AI科技生活
-中方县电视台,http://AAAA/PLTV/ku9/js/hny.js?id=zfxdt&key=关注公共号❤：AI科技生活
-芷江电视台,http://AAAA/PLTV/ku9/js/hny.js?id=zjdt&key=关注公共号❤：AI科技生活
-新晃电视台,http://AAAA/PLTV/ku9/js/hny.js?id=xhdt&key=关注公共号❤：AI科技生活
-蓝山电视台,http://AAAA/PLTV/ku9/js/hny.js?id=lstdt&key=关注公共号❤：AI科技生活
-耒阳电视台,http://AAAA/PLTV/ku9/js/hny.js?id=lydt&key=关注公共号❤：AI科技生活
-汉寿综合频道,http://AAAA/PLTV/ku9/js/hny.js?id=hszhpd&key=关注公共号❤：AI科技生活
-靖州综合频道,http://AAAA/PLTV/ku9/js/hny.js?id=jzzhpd&key=关注公共号❤：AI科技生活
-麻阳电视台,http://AAAA/PLTV/ku9/js/hny.js?id=mydt&key=关注公共号❤：AI科技生活
-永兴电视台,http://AAAA/PLTV/ku9/js/hny.js?id=yxtv&key=关注公共号❤：AI科技生活
-双峰县电视台,http://AAAA/PLTV/ku9/js/hny.js?id=sfxdt&key=关注公共号❤：AI科技生活
-花垣综合,http://AAAA/PLTV/ku9/js/hny.js?id=hyzh&key=关注公共号❤：AI科技生活
-吉首综合,http://AAAA/PLTV/ku9/js/hny.js?id=jsszh&key=关注公共号❤：AI科技生活
-古丈电视,http://AAAA/PLTV/ku9/js/hny.js?id=gzdt&key=关注公共号❤：AI科技生活
-龙山综合,http://AAAA/PLTV/ku9/js/hny.js?id=lszzh&key=关注公共号❤：AI科技生活
-临武综合,http://AAAA/PLTV/ku9/js/hny.js?id=lwzh&key=关注公共号❤：AI科技生活
-汝城电视台,http://AAAA/PLTV/ku9/js/hny.js?id=rctv&key=关注公共号❤：AI科技生活
-攸县电视台,http://AAAA/PLTV/ku9/js/hny.js?id=yxtv&key=关注公共号❤：AI科技生活
-沅江综合,http://AAAA/PLTV/ku9/js/hny.js?id=yjzh&key=关注公共号❤：AI科技生活
-汨罗综合,http://AAAA/PLTV/ku9/js/hny.js?id=mlzh&key=关注公共号❤：AI科技生活
-云电视,http://AAAA/PLTV/ku9/js/hny.js?id=cctv1zh&key=关注公共号❤：AI科技生活
-城步电视,http://AAAA/PLTV/ku9/js/hny.js?id=cbtd&key=关注公共号❤：AI科技生活
-新化电视台,http://AAAA/PLTV/ku9/js/hny.js?id=xhtv&key=关注公共号❤：AI科技生活
-新邵新闻综合,http://AAAA/PLTV/ku9/js/hny.js?id=xsxwzh&key=关注公共号❤：AI科技生活
-桂东融媒,http://AAAA/PLTV/ku9/js/hny.js?id=gdrm&key=关注公共号❤：AI科技生活
-衡东县电视台,http://AAAA/PLTV/ku9/js/hny.js?id=hdtv&key=关注公共号❤：AI科技生活
-绥宁电视台,http://AAAA/PLTV/ku9/js/hny.js?id=sntv&key=关注公共号❤：AI科技生活
-衡阳县电视台,http://AAAA/PLTV/ku9/js/hny.js?id=hytv&key=关注公共号❤：AI科技生活
-嘉禾新闻综合,http://AAAA/PLTV/ku9/js/hny.js?id=jhxwzh&key=关注公共号❤：AI科技生活
-安化综合,http://AAAA/PLTV/ku9/js/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 
 🌐  河南,#genre#
 郑州新闻综合,http://A/ku9/js/zhengzhou.js?id=595660085175275520&key=关注公共号❤：AI科技生活
@@ -882,15 +819,6 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 河南公共,http://A/ku9/js/henan.js?id=hngg&key=关注公共号❤：AI科技生活
 河南乡村,http://A/ku9/js/henan.js?id=hnxc&key=关注公共号❤：AI科技生活
 
-🌐  海南,#genre#
-海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
-海南卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
-三沙卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
-海南自贸,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
-海南新闻,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3
-海南公共,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4
-海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6
-海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 
 
 🌐  新疆,#genre#
@@ -909,61 +837,15 @@ CCTV1,http://A/ku9/js/hefei.js?id=6
 七师胡杨河新闻综合,https://liveout.btzx.com.cn:443/ybtkau/078syl.m3u8 
 八师石河子新闻综合,video://http://www.shznews.com/TV.html 
 乌鲁木齐新闻综合,video://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
-克拉玛依,http://www.rcsxzx.com/hot/laoge.htm 
-克拉玛依影视剧场,video://video://http://www.rcsxzx.com/hot/laoge.htm 
+克拉玛依,video://http://www.rcsxzx.com/hot/laoge.htm 
 哈密,video://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
 博州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10134&id=24&page=canvas&live_type=1
 巴音郭楞州,video://https://st-app.xjmty.com/video/videojs/index?site_id=10127&id=24&page=canvas2&live_type=1
 塔城,video://https://st-app.xjmty.com/video/videojs/index?site_id=10131&id=15&page=canvas&live_type=1 
 
 
-
-
-
-宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
-宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
-银川公共,http://play-sh13.quklive.com/live/1731639141671136.m3u8?auth_key=2047003360-0911317aa34f4ed4b41b901dea63cd33-0-a7087c16facd79edbaf02551ca74fc4c
-银川生活,http://play-sh13.quklive.com/live/1731638744888001.m3u8?auth_key=2047003417-dcdd449844a342e6b94327dc8f9a460f-0-cfe6b90673d38f1b0e9757ed2c02294e
-银川文体,http://play-sh13.quklive.com/live/1728443786945132.m3u8?auth_key=2047003433-3f38915f559b468f903fcab5053e8bb2-0-d536d0b56aa3e92f7a640c5ab738aaf7
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8 
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8 
-宁夏卫视,,video://https://www.nxtv.com.cn/live/wsh/
-
-西藏卫视,video://http://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
-
 兰州新闻综合,http://A/ku9/js/lanzhou.js?id=xwzh
 兰州文旅频道,http://A/ku9/js/lanzhou.js?id=wlpd
-甘肃卫视,http://A/ku9/js/gansu.js?id=gsws
-甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
-文化影视,http://A/ku9/js/gansu.js?id=whys
-公共应急,http://A/ku9/js/gansu.js?id=ggyj
-少儿频道,http://A/ku9/js/gansu.js?id=sepd
-科教频道,http://A/ku9/js/gansu.js?id=kjpd
-移动电视,http://A/ku9/js/gansu.js?id=ydds
-
-青海卫视,video://http://www.qhbtv.com/new_index/live/folder2646/
-青海经视,video://http://www.qhbtv.com/new_index/live/folder2647/
-青海都市,video://http://www.qhbtv.com/new_index/live/folder2648/
-
-拉萨1新闻综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
-拉萨2藏语综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
-拉萨3文化旅游,http://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
-内蒙古卫视,video://https://www.nmtv.cn/liveTv
-
-1,https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-
-🌐  东北,#genre#
-吉林卫视,video://https://www.jlntv.cn/tv
-长春综合,video://https://chinactv.com/live/1442880654565093377.html
-长春文旅体育,video://https://chinactv.com/live/1442880767035355137.html
-长春市民生活,video://https://chinactv.com/live/1442880854423678977.html
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/
-黑龙江文体,video://https://www.hljtv.com/live/folder423/
-黑龙江影视,video://https://www.hljtv.com/live/folder425/
-黑龙江新闻法治,video://https://www.hljtv.com/live/folder424/
-黑龙江都市,video://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,video://https://www.hljtv.com/live/folder420/
-黑龙江少儿,video://https://www.hljtv.com/live/folder422/
 
 
 
