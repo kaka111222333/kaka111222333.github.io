@@ -38,16 +38,15 @@ http://192.168.1.1:5140/rtp/239.253.254.236:8000?fcc=61.156.103.83:8027
 http://192.168.1.1:5140/rtp/239.253.254.170:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CCTV17" group-title="【CCTV】" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV17
 http://192.168.1.1:5140/rtp/239.253.254.168:8000?fcc=61.156.103.83:8027
-#EXTINF:-1 tvg-name="CCTV4K" group-title="【4K】" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV4K.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV4K
-http://192.168.1.1:5140/rtp/239.253.254.122:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CGTN" group-title="【CCTV】" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN
 http://192.168.1.1:5140/rtp/239.253.254.189:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CGTN纪录" group-title="【CCTV】" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN纪录.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN纪录
 http://192.168.1.1:5140/rtp/239.253.254.188:8000?fcc=61.156.103.83:8027
 
-
-#EXTINF:-1 tvg-name="爱上4K" group-title="【4K】" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 爱上4K
+#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="【4K】" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 爱上4K
 http://192.168.1.1:5140/rtp/239.253.254.102:8000?fcc=61.156.103.83:8027
+#EXTINF:-1 tvg-name="CCTV4K" group-title="【4K】" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV4K.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV4K
+http://192.168.1.1:5140/rtp/239.253.254.122:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="山东卫视4K" group-title="【4K】" tvg-logo="https://kaka111222333.github.io//ku9/logo/weishi/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 山东卫视4K
 http://192.168.1.1:5140/rtp/239.253.254.172:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="【4K】" tvg-logo="https://kaka111222333.github.io//ku9/logo/weishi/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25092214081313070909.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 江苏卫视4K
