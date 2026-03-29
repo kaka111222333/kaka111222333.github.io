@@ -27,14 +27,16 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Commit and Push changes
+- name: Commit and Push changes
         run: |
-          # 检查文件是否有变化
-          if git diff --quiet; then
-            echo "没有新变化，无需提交。"
-            exit 0
-          fi
-          # 添加、提交并推送更改
+          # 强制删除已存在的文件（如果存在），以确保后续添加的是新文件
+          rm -f ./seven-days.xml.gz
+          # 重新下载文件
+          curl -L -o ./seven-days.xml.gz https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz
+          
+          # 添加文件到暂存区
           git add ./seven-days.xml.gz
-          git commit -m "自动更新EPG文件 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          # 提交更改，使用时间戳确保每次提交信息都不同
+          git commit -m "强制更新EPG文件 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          # 推送到远程仓库
           git push origin HEAD:master
