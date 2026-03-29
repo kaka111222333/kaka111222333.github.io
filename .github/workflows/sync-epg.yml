@@ -1,42 +1,48 @@
-# 示例 .github/workflows/sync-epg.yml
-name: Auto Sync EPG
+name: 自动同步EPG (Force Update)
 
 on:
   schedule:
-    # 设置每天定时执行，例如在UTC时间0点（北京时间8点）运行
+    # 设置定时触发器，每天UTC时间0点运行（对应北京/上海时间早上8点）
     - cron: '0 0 * * *'
-  # 也可以添加手动触发
+  # 添加工作流手动触发功能，方便随时测试
   workflow_dispatch:
 
 jobs:
   sync-epg:
     runs-on: ubuntu-latest
+    # 根据【链接内容】建议，提前启用Node 24环境以兼容未来变更
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
+      # 步骤1：检出您的仓库代码
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # 关键修改：使用您的PAT来检出代码
+          # 使用您在GitHub仓库设置中配置的个人访问令牌(PAT)，确保有推送权限
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
-      - name: Download EPG file
+      # 步骤2：强制更新EPG文件
+      - name: Force Update EPG file
         run: |
-          # 使用curl下载EPG文件，-L跟随重定向
+          # 强制删除仓库中可能已存在的旧文件
+          rm -f ./seven-days.xml.gz
+          # 从plsy1/epg仓库重新下载最新的EPG文件
           curl -L -o ./seven-days.xml.gz https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz
+          # 可选：显示下载的文件信息，用于日志调试
+          ls -lh ./seven-days.xml.gz
 
+      # 步骤3：配置Git用户信息，用于提交记录
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-- name: Commit and Push changes
+      # 步骤4：提交并推送更改
+      - name: Commit and Push
         run: |
-          # 强制删除已存在的文件（如果存在），以确保后续添加的是新文件
-          rm -f ./seven-days.xml.gz
-          # 重新下载文件
-          curl -L -o ./seven-days.xml.gz https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz
-          
-          # 添加文件到暂存区
+          # 将新文件添加到Git暂存区
           git add ./seven-days.xml.gz
-          # 提交更改，使用时间戳确保每次提交信息都不同
-          git commit -m "强制更新EPG文件 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          # 推送到远程仓库
+          # 创建提交记录，包含精确的UTC时间戳
+          git commit -m "Auto Force Update EPG $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          # 将提交推送到远程仓库的master分支
           git push origin HEAD:master
