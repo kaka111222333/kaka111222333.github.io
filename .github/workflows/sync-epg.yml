@@ -3,7 +3,7 @@ name: 自动同步EPG (Force Update)
 on:
   schedule:
     # 设置定时触发器，每6小时运行一次
-    cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'
   # 添加工作流手动触发功能，方便随时测试
   workflow_dispatch:
 
