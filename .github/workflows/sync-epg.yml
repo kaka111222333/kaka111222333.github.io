@@ -1,46 +1,40 @@
-# .github/workflows/sync-epg.yml
-name: 每日同步EPG文件
+# 示例 .github/workflows/sync-epg.yml
+name: Auto Sync EPG
 
-# 触发器设置
 on:
-  # 1. 定时运行：每天UTC时间0点运行（北京时间早上8点）
   schedule:
+    # 设置每天定时执行，例如在UTC时间0点（北京时间8点）运行
     - cron: '0 0 * * *'
-  # 2. 允许手动触发：方便你随时在GitHub网页上点击“Run workflow”按钮测试
+  # 也可以添加手动触发
   workflow_dispatch:
 
 jobs:
-  sync-file:
+  sync-epg:
     runs-on: ubuntu-latest
     steps:
-      # 1. 检出(Checkout)你的目标仓库
-      - name: 检出目标仓库
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # 关键修改：使用您的PAT来检出代码
 
-      # 2. 下载源文件
-      # 使用curl命令下载远程的.gz文件到本地仓库目录
-      - name: 下载EPG源文件
+      - name: Download EPG file
         run: |
-          # 尝试下载，-L表示跟随重定向，-o指定输出文件名
-          # 如果下载失败（如原地址无法访问），脚本会在此处报错并停止
+          # 使用curl下载EPG文件，-L跟随重定向
           curl -L -o ./seven-days.xml.gz https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz
-          # 打印下载的文件大小，用于日志确认
-          ls -lh ./seven-days.xml.gz
 
-      # 3. 提交并推送更改到GitHub
-      - name: 提交并推送更新
-        # 即使上一步下载失败，此步骤也不会执行，保证了仓库的稳定性
+      - name: Configure Git
         run: |
-          # 配置git用户信息，用于本次提交
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 添加文件到暂存区
-          git add seven-days.xml.gz
-          
-          # 检查是否有文件变更，如果没有（文件没更新）则跳过提交
-          git diff --staged --quiet || git commit -m "自动更新EPG文件 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          
-          # 推送到仓库
-          # 这里使用我们之前设置的PAT_TOKEN进行身份验证
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:master
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and Push changes
+        run: |
+          # 检查文件是否有变化
+          if git diff --quiet; then
+            echo "没有新变化，无需提交。"
+            exit 0
+          fi
+          # 添加、提交并推送更改
+          git add ./seven-days.xml.gz
+          git commit -m "自动更新EPG文件 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push origin HEAD:master
