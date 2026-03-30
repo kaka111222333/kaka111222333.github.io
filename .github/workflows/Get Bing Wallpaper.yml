@@ -1,4 +1,4 @@
-name: Get Bing Wallpaper for GitHub Pages
+name: Get Bing Wallpaper
 
 on:
   schedule:
