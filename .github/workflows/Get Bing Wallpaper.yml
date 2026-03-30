@@ -12,17 +12,13 @@ jobs:
   get_today_wallpaper:
     runs-on: ubuntu-latest
     
-    # 添加权限
     permissions:
       contents: write
-      pages: write
-      id-token: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        # 使用 GITHUB_TOKEN 而不是 SSH
         token: ${{ secrets.GITHUB_TOKEN }}
         ref: master
 
@@ -49,11 +45,18 @@ jobs:
 
     - name: Archive previous wallpaper
       run: |
-        if [ -f "assets/bing-wallpaper/bing.jpg" ]; then
+        # 将旧壁纸存档到 assets/bing-wallpaper/archive/
+        if [ -f "bing.jpg" ]; then
           DATE=$(date +'%Y%m%d')
-          mv assets/bing-wallpaper/bing.jpg "assets/bing-wallpaper/archive/bing_${DATE}.jpg"
-          echo "已存档昨日壁纸"
+          cp bing.jpg "assets/bing-wallpaper/archive/bing_${DATE}.jpg"
+          echo "已存档今日壁纸到 assets/bing-wallpaper/archive/bing_${DATE}.jpg"
         fi
+
+    - name: Clean up old Bing wallpaper
+      run: |
+        echo "清理根目录下的旧壁纸文件..."
+        # 只删除根目录下的 bing.jpg
+        rm -f bing.jpg
 
     - name: Download Today's Bing Wallpaper
       run: |
@@ -69,24 +72,28 @@ jobs:
         echo "正在下载必应每日壁纸: $FULL_IMAGE_URL"
         echo "标题: $TITLE"
         
-        wget -q -O assets/bing-wallpaper/bing.jpg "$FULL_IMAGE_URL"
+        # 下载图片到根目录
+        wget -q -O bing.jpg "$FULL_IMAGE_URL"
         
+        # 创建信息文件到 assets/bing-wallpaper/
         echo "必应每日壁纸 - $DATE" > assets/bing-wallpaper/bing_info.txt
         echo "标题: $TITLE" >> assets/bing-wallpaper/bing_info.txt
         echo "版权信息: $COPYRIGHT" >> assets/bing-wallpaper/bing_info.txt
         echo "原始链接: $FULL_IMAGE_URL" >> assets/bing-wallpaper/bing_info.txt
         echo "下载时间: $(date +'%Y-%m-%d %H:%M:%S UTC%z')" >> assets/bing-wallpaper/bing_info.txt
         
+        # 创建 JSON 格式的数据文件到 assets/bing-wallpaper/
         echo '{
           "date": "'$DATE'",
           "title": "'$TITLE'",
           "copyright": "'$COPYRIGHT'",
-          "image_url": "assets/bing-wallpaper/bing.jpg",
+          "image_url": "bing.jpg",
           "original_url": "'$FULL_IMAGE_URL'"
         }' > assets/bing-wallpaper/bing_data.json
 
     - name: Create HTML index file
       run: |
+        # 在 assets/bing-wallpaper/ 目录中创建 HTML 页面
         cat > assets/bing-wallpaper/index.html << EOF
         <!DOCTYPE html>
         <html lang="zh-CN">
@@ -107,7 +114,7 @@ jobs:
             <div class="container">
                 <h1>必应每日壁纸</h1>
                 <div class="update-time">最后更新: $(date +'%Y年%m月%d日 %H:%M:%S')</div>
-                <img src="bing.jpg" alt="今日必应壁纸" class="wallpaper-img" id="wallpaper">
+                <img src="../bing.jpg" alt="今日必应壁纸" class="wallpaper-img" id="wallpaper">
                 <div class="info">
                     <h2>图片信息</h2>
                     <p id="title">加载中...</p>
@@ -116,6 +123,7 @@ jobs:
                 </div>
             </div>
             <script>
+                // 动态加载壁纸信息
                 fetch('bing_data.json')
                     .then(response => response.json())
                     .then(data => {
@@ -131,23 +139,42 @@ jobs:
         </html>
         EOF
 
+    - name: Verify files
+      run: |
+        echo "文件结构检查:"
+        echo "1. 根目录文件:"
+        ls -la bing.jpg
+        echo ""
+        echo "2. assets/bing-wallpaper/ 目录文件:"
+        ls -la assets/bing-wallpaper/
+        echo ""
+        echo "3. 图片文件大小:"
+        du -h bing.jpg
+
     - name: Commit and Push Changes
       run: |
         git pull origin master
         
-        # 添加所有相关文件
+        # 添加更改的文件
+        git add bing.jpg
         git add assets/bing-wallpaper/
-        git add .github/workflows/
         
         if git diff --cached --quiet; then
           echo "没有更改可提交。工作流结束。"
         else
           DATE=$(date +'%Y年%m月%d日')
-          IMAGE_TITLE=$(grep -A1 "标题:" assets/bing-wallpaper/bing_info.txt 2>/dev/null | tail -1 || echo "必应壁纸")
+          # 从 assets/bing-wallpaper/bing_info.txt 读取标题
+          IMAGE_TITLE=$(grep "标题:" assets/bing-wallpaper/bing_info.txt 2>/dev/null | cut -d: -f2- | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' || echo "必应壁纸")
           
           COMMIT_MSG="更新必应壁纸 [$DATE] - $IMAGE_TITLE"
           git commit -m "$COMMIT_MSG"
           git push origin master
           
           echo "✅ 壁纸已更新并推送成功！"
+          echo "📁 文件位置:"
+          echo "  - 壁纸文件: 根目录/bing.jpg"
+          echo "  - 信息文件: assets/bing-wallpaper/bing_info.txt"
+          echo "  - 数据文件: assets/bing-wallpaper/bing_data.json"
+          echo "  - 展示页面: assets/bing-wallpaper/index.html"
+          echo "  - 历史存档: assets/bing-wallpaper/archive/"
         fi
