@@ -1,0 +1,112 @@
+name: Get Bing Wallpaper 2
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 每天下午3点运行 (UTC+8 北京时间下午3点对应UTC时间上午7点)
+  push:
+    paths:
+      - '.github/**' # 监听 .github 文件夹的修改
+  workflow_dispatch: # 添加 workflow_dispatch 触发器，手动触发工作流程
+
+jobs:
+  get_today_wallpaper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+        # 添加 fetch-depth 参数确保获取完整历史
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config --local user.email "fankaijiang@hotmail.com"
+        git config --local user.name "kaka111222333"
+        # 配置 pull 策略为 rebase，避免不必要的合并提交
+        git config pull.rebase false
+
+    - name: Pull latest changes
+      run: |
+        # 从远程拉取最新更改
+        git pull origin main
+        echo "✅ 已拉取最新远程更改"
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq wget curl
+
+    - name: Clean up old Bing wallpapers
+      run: |
+        echo "清理旧的必应壁纸文件..."
+        # 删除根目录下所有以 bing 开头的文件，但保留 .git 目录和其他配置文件
+        rm -f bing.jpg bing*.txt
+
+    - name: Download Today's Bing Wallpaper
+      run: |
+        # 获取图片信息
+        JSON_RESPONSE=$(curl -sL "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US")
+        
+        # 从响应中提取图片的基础URL、标题和版权信息
+        IMAGE_BASE_URL=$(echo "$JSON_RESPONSE" | jq -r '.images[0].url')
+        COPYRIGHT=$(echo "$JSON_RESPONSE" | jq -r '.images[0].copyright')
+        TITLE=$(echo "$JSON_RESPONSE" | jq -r '.images[0].title')
+        DATE=$(date +'%Y-%m-%d')
+        
+        # 拼接UHD图片链接
+        FULL_IMAGE_URL="https://www.bing.com${IMAGE_BASE_URL/1920x1080/UHD}"
+        
+        # 下载图片并重命名为 bing.jpg
+        echo "正在下载必应每日壁纸: $FULL_IMAGE_URL"
+        echo "标题: $TITLE"
+        echo "版权信息: $COPYRIGHT"
+        
+        wget -q -O bing.jpg "$FULL_IMAGE_URL"
+        
+        # 创建版权信息文件
+        echo "必应每日壁纸 - $DATE" > bing_info.txt
+        echo "标题: $TITLE" >> bing_info.txt
+        echo "版权信息: $COPYRIGHT" >> bing_info.txt
+        echo "原始链接: $FULL_IMAGE_URL" >> bing_info.txt
+        
+        # 检查图片是否下载成功
+        if [ -f "bing.jpg" ]; then
+          FILE_SIZE=$(stat -f%z bing.jpg 2>/dev/null || stat -c%s bing.jpg 2>/dev/null)
+          if [ "$FILE_SIZE" -gt 100000 ]; then
+            echo "✅ 壁纸下载成功！文件大小: $((FILE_SIZE/1024/1024)) MB"
+          else
+            echo "⚠️ 警告：下载的文件可能有问题，文件大小: $FILE_SIZE 字节"
+          fi
+        else
+          echo "❌ 下载失败，文件不存在！"
+          exit 1
+        fi
+
+    - name: Commit and Push Changes
+      run: |
+        # 再次拉取最新更改，确保推送前是最新版本
+        git pull origin main
+        
+        # 将更改添加到暂存区
+        git add bing.jpg bing_info.txt
+        
+        # 检查暂存区是否有文件被修改
+        if git diff --cached --quiet; then
+          echo "没有更改可提交。工作流结束。"
+        else
+          # 获取图片信息用于提交信息
+          DATE=$(date +'%Y年%m月%d日')
+          IMAGE_TITLE=$(cat bing_info.txt 2>/dev/null | grep "标题:" | cut -d: -f2- | sed 's/^[ \t]*//;s/[ \t]*$//' || echo "必应壁纸")
+          
+          # 生成提交信息
+          COMMIT_MSG="更新必应壁纸 [$DATE] - $IMAGE_TITLE"
+          git commit -m "$COMMIT_MSG"
+          
+          # 使用 --force-with-lease 安全推送
+          git push --force-with-lease origin main
+          
+          echo "✅ 更改已提交并推送成功！"
+          echo "提交信息: $COMMIT_MSG"
+        fi
