@@ -36,7 +36,7 @@ http://192.168.1.1:5140/rtp/239.253.254.175:8000?fcc=61.156.103.83:8027
 http://192.168.1.1:5140/rtp/239.253.254.236:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CCTV15" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV15
 http://192.168.1.1:5140/rtp/239.253.254.170:8000?fcc=61.156.103.83:8027
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV16.png" CCTV16
+#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV16.png" catchup="default" catchup-source="", CCTV16
 webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 #EXTINF:-1 tvg-name="CCTV17" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV17
 http://192.168.1.1:5140/rtp/239.253.254.168:8000?fcc=61.156.103.83:8027
