@@ -18,6 +18,8 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         fetch-depth: 0
+        # 指定使用 master 分支
+        ref: master
 
     - name: Configure Git
       run: |
@@ -27,7 +29,8 @@ jobs:
 
     - name: Pull latest changes
       run: |
-        git pull origin main
+        # 明确使用 master 分支
+        git pull origin master
         echo "✅ 已拉取最新远程更改"
 
     - name: Install dependencies
@@ -133,7 +136,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git pull origin main
+        # 使用 master 分支
+        git pull origin master
         
         # 添加所有相关文件
         git add assets/bing-wallpaper/
@@ -147,7 +151,7 @@ jobs:
           
           COMMIT_MSG="更新必应壁纸 [$DATE] - $IMAGE_TITLE"
           git commit -m "$COMMIT_MSG"
-          git push --force-with-lease origin main
+          git push --force-with-lease origin master
           
           echo "✅ 壁纸已更新并推送成功！"
           echo "提交信息: $COMMIT_MSG"
