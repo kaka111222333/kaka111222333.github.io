@@ -1,0 +1,188 @@
+name: Get Bing Wallpaper for GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # 每天 UTC 7:00 (北京时间 15:00)
+  push:
+    paths:
+      - '.github/**'
+  workflow_dispatch:
+
+jobs:
+  get_today_wallpaper:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        ref: master
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config --local user.email "fankaijiang@hotmail.com"
+        git config --local user.name "kaka111222333"
+        git config pull.rebase false
+
+    - name: Pull latest changes BEFORE creating files
+      run: |
+        echo "先拉取最新远程更改..."
+        git pull origin master
+        echo "✅ 已拉取最新远程更改"
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq wget curl imagemagick
+        # 确认 ImageMagick 安装成功
+        convert --version
+
+    - name: Create directories
+      run: |
+        mkdir -p assets/bing-wallpaper
+        mkdir -p assets/bing-wallpaper/archive
+
+    - name: Archive previous wallpaper
+      run: |
+        # 将旧壁纸存档到 assets/bing-wallpaper/archive/
+        if [ -f "bing.jpg" ]; then
+          DATE=$(date +'%Y%m%d')
+          cp bing.jpg "assets/bing-wallpaper/archive/bing_${DATE}.jpg"
+          echo "已存档今日壁纸到 assets/bing-wallpaper/archive/bing_${DATE}.jpg"
+        fi
+
+    - name: Clean up old files
+      run: |
+        echo "清理旧文件..."
+        rm -f bing.jpg
+        rm -f assets/bing-wallpaper/bing_info.txt
+        rm -f assets/bing-wallpaper/bing_data.json
+
+    - name: Download Today's Bing Wallpaper
+      run: |
+        JSON_RESPONSE=$(curl -sL "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US")
+        
+        IMAGE_BASE_URL=$(echo "$JSON_RESPONSE" | jq -r '.images[0].url')
+        COPYRIGHT=$(echo "$JSON_RESPONSE" | jq -r '.images[0].copyright')
+        TITLE=$(echo "$JSON_RESPONSE" | jq -r '.images[0].title')
+        DATE=$(date +'%Y-%m-%d')
+        
+        # 下载UHD版本
+        FULL_IMAGE_URL="https://www.bing.com${IMAGE_BASE_URL/1920x1080/UHD}"
+        
+        echo "正在下载必应每日壁纸: $FULL_IMAGE_URL"
+        echo "标题: $TITLE"
+        
+        # 先下载UHD版本到临时文件
+        wget -q -O bing_uhd.jpg "$FULL_IMAGE_URL"
+        
+        # 检查原始文件大小
+        UHD_SIZE=$(stat -f%z bing_uhd.jpg 2>/dev/null || stat -c%s bing_uhd.jpg 2>/dev/null)
+        echo "UHD图片大小: $((UHD_SIZE/1024/1024)) MB"
+        
+        # 压缩为1920x1080
+        echo "压缩图片为1920x1080分辨率..."
+        convert bing_uhd.jpg -resize 1920x1080\> -quality 85 bing.jpg
+        
+        # 检查压缩后文件大小
+        COMPRESSED_SIZE=$(stat -f%z bing.jpg 2>/dev/null || stat -c%s bing.jpg 2>/dev/null)
+        echo "压缩后大小: $((COMPRESSED_SIZE/1024)) KB"
+        echo "压缩率: $(( (UHD_SIZE - COMPRESSED_SIZE) * 100 / UHD_SIZE ))%"
+        
+        # 清理临时UHD文件
+        rm -f bing_uhd.jpg
+        
+        # 获取压缩后的图片信息
+        IMAGE_INFO=$(identify bing.jpg 2>/dev/null || echo "无法获取图片信息")
+        echo "压缩后图片信息: $IMAGE_INFO"
+
+    - name: Create info files
+      run: |
+        DATE=$(date +'%Y-%m-%d')
+        
+        # 从之前的步骤中获取信息
+        JSON_RESPONSE=$(curl -sL "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US")
+        COPYRIGHT=$(echo "$JSON_RESPONSE" | jq -r '.images[0].copyright')
+        TITLE=$(echo "$JSON_RESPONSE" | jq -r '.images[0].title')
+        
+        # 创建信息文件
+        echo "必应每日壁纸 - $DATE" > assets/bing-wallpaper/bing_info.txt
+        echo "标题: $TITLE" >> assets/bing-wallpaper/bing_info.txt
+        echo "版权信息: $COPYRIGHT" >> assets/bing-wallpaper/bing_info.txt
+        echo "原始链接: https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r '.images[0].url')" >> assets/bing-wallpaper/bing_info.txt
+        echo "下载时间: $(date +'%Y-%m-%d %H:%M:%S UTC%z')" >> assets/bing-wallpaper/bing_info.txt
+        echo "分辨率: 1920×1080" >> assets/bing-wallpaper/bing_info.txt
+        
+        # 获取文件大小信息
+        FILE_SIZE=$(stat -f%z bing.jpg 2>/dev/null || stat -c%s bing.jpg 2>/dev/null)
+        echo "文件大小: $((FILE_SIZE/1024)) KB" >> assets/bing-wallpaper/bing_info.txt
+        
+        # 创建 JSON 格式的数据文件
+        echo '{
+          "date": "'$DATE'",
+          "title": "'$TITLE'",
+          "copyright": "'$COPYRIGHT'",
+          "image_url": "bing.jpg",
+          "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r '.images[0].url')",
+          "resolution": "1920x1080",
+          "compressed": true
+        }' > assets/bing-wallpaper/bing_data.json
+
+    - name: Verify files
+      run: |
+        echo "文件结构检查:"
+        echo "1. 根目录壁纸文件:"
+        ls -lh bing.jpg
+        echo ""
+        echo "2. 图片详细信息:"
+        identify bing.jpg
+        echo ""
+        echo "3. 文件大小对比:"
+        echo "  - 当前文件: $(du -h bing.jpg | cut -f1)"
+        echo ""
+        echo "4. assets/bing-wallpaper/ 目录:"
+        ls -lh assets/bing-wallpaper/
+        echo ""
+        echo "5. 壁纸预览信息:"
+        echo "  - 分辨率: $(identify -format "%wx%h" bing.jpg)"
+        echo "  - 大小: $(du -h bing.jpg | cut -f1)"
+        echo "  - 质量: 适合网页和桌面使用"
+
+    - name: Commit and Push Changes
+      run: |
+        # 添加更改的文件
+        git add bing.jpg
+        git add assets/bing-wallpaper/bing_info.txt
+        git add assets/bing-wallpaper/bing_data.json
+        
+        # 检查是否有文件被修改
+        if git status --porcelain | grep -q "M\|A"; then
+          DATE=$(date +'%Y年%m月%d日')
+          if [ -f "assets/bing-wallpaper/bing_info.txt" ]; then
+            IMAGE_TITLE=$(grep "标题:" assets/bing-wallpaper/bing_info.txt | head -1 | cut -d: -f2- | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+          else
+            IMAGE_TITLE="必应壁纸"
+          fi
+          
+          # 获取压缩信息
+          IMAGE_SIZE=$(du -h bing.jpg | cut -f1)
+          IMAGE_RES=$(identify -format "%wx%h" bing.jpg 2>/dev/null || echo "1920x1080")
+          
+          COMMIT_MSG="更新必应壁纸 [$DATE] - ${IMAGE_TITLE:0:30} (${IMAGE_RES} - ${IMAGE_SIZE})"
+          git commit -m "$COMMIT_MSG"
+          git push origin master
+          
+          echo "✅ 壁纸已更新并压缩成功！"
+          echo "📁 文件信息:"
+          echo "  - 位置: 根目录/bing.jpg"
+          echo "  - 分辨率: ${IMAGE_RES}"
+          echo "  - 大小: ${IMAGE_SIZE}"
+          echo "  - 质量: 适合网页展示"
+        else
+          echo "没有文件被修改，跳过提交"
+        fi
