@@ -1,21 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
-on:
+on:我的IPTV
   # Runs on pushes targeting the default branch
   push:
     branches: ["master"]
-    # 添加路径过滤，只对特定文件更新触发
-    paths:
-      - 'bing.jpg'
-      - 'assets/bing-wallpaper/**'
-      - '**.html'
-      - '**.txt'
-      - '**.m3u'
-      - '**.json'
-      - '!README.md'
-      - '!LICENSE'
-      - '!node_modules/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -41,14 +30,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v2
