@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://kaka111222333.github.io/seven-days.xml.gz" 
-
 #EXTINF:-1 tvg-name="CCTV1" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV1
 http://192.168.1.1:5140/rtp/239.253.254.77:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV2" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV2
