@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "title": "Serenity by the sea",
-  "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+  "title": "Elegance in motion",
+  "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)",
   "image_url": "bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
