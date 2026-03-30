@@ -36,7 +36,7 @@ http://192.168.1.1:5140/rtp/239.253.254.175:8000?fcc=61.156.103.83:8027
 http://192.168.1.1:5140/rtp/239.253.254.236:8000?fcc=61.156.103.83:8027
 #EXTINF:-1 tvg-name="CCTV15" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV15
 http://192.168.1.1:5140/rtp/239.253.254.170:8000?fcc=61.156.103.83:8027
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV16.png"
+#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV16.png", CCTV16
 webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16$央视影音
 #EXTINF:-1 tvg-name="CCTV17" group-title="CCTV" tvg-logo="https://kaka111222333.github.io//ku9/logo/cctv/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV17
 http://192.168.1.1:5140/rtp/239.253.254.168:8000?fcc=61.156.103.83:8027
@@ -438,7 +438,7 @@ rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV17" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV17
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV4K" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4K.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" group-title="4K" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4K.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV4K
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/江苏卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25092214081313070909.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 江苏卫视4K
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25092214081313070909.rsc/103254_Uni.sdp
@@ -492,16 +492,6 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/81478_Uni.sdp
 #EXTINF:-1 tvg-name="CGTN" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN纪录.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN纪录
-rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215405197977873.rsc/91702_Uni.sdp
-#EXTINF:-1 tvg-name="CGTN西语" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN西语.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21062215411249555526.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN西语
-rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21062215411249555526.rsc/91514_Uni.sdp
-#EXTINF:-1 tvg-name="CGTN法语" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN法语.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21062215412921826390.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN法语
-rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21062215412921826390.rsc/91584_Uni.sdp
-#EXTINF:-1 tvg-name="CGTN阿语" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN阿语.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215414116185265.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN阿语
-rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp
-#EXTINF:-1 tvg-name="CGTN俄语" group-title="CCTV" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN俄语.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CGTN俄语
-rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 北京卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
 #EXTINF:-1 tvg-name="北京纪实科教" group-title="专业" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/北京纪实科教.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 北京纪实科教
