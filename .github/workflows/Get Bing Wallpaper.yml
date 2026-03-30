@@ -1,12 +1,12 @@
-name: Get Bing Wallpaper 2
+name: Get Bing Wallpaper for GitHub Pages
 
 on:
   schedule:
-    - cron: '0 7 * * *' # 每天下午3点运行 (UTC+8 北京时间下午3点对应UTC时间上午7点)
+    - cron: '0 7 * * *'  # 每天 UTC 7:00 (北京时间 15:00)
   push:
     paths:
-      - '.github/**' # 监听 .github 文件夹的修改
-  workflow_dispatch: # 添加 workflow_dispatch 触发器，手动触发工作流程
+      - '.github/**'
+  workflow_dispatch:
 
 jobs:
   get_today_wallpaper:
@@ -17,19 +17,16 @@ jobs:
       uses: actions/checkout@v3
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-        # 添加 fetch-depth 参数确保获取完整历史
         fetch-depth: 0
 
     - name: Configure Git
       run: |
         git config --local user.email "fankaijiang@hotmail.com"
         git config --local user.name "kaka111222333"
-        # 配置 pull 策略为 rebase，避免不必要的合并提交
         git config pull.rebase false
 
     - name: Pull latest changes
       run: |
-        # 从远程拉取最新更改
         git pull origin main
         echo "✅ 已拉取最新远程更改"
 
@@ -38,75 +35,120 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y jq wget curl
 
-    - name: Clean up old Bing wallpapers
+    - name: Create directories
       run: |
-        echo "清理旧的必应壁纸文件..."
-        # 删除根目录下所有以 bing 开头的文件，但保留 .git 目录和其他配置文件
-        rm -f bing.jpg bing*.txt
+        mkdir -p assets/bing-wallpaper
+        mkdir -p assets/bing-wallpaper/archive
+
+    - name: Archive previous wallpaper
+      run: |
+        # 将旧壁纸存档
+        if [ -f "assets/bing-wallpaper/bing.jpg" ]; then
+          DATE=$(date +'%Y%m%d')
+          mv assets/bing-wallpaper/bing.jpg "assets/bing-wallpaper/archive/bing_${DATE}.jpg"
+          echo "已存档昨日壁纸"
+        fi
 
     - name: Download Today's Bing Wallpaper
       run: |
-        # 获取图片信息
         JSON_RESPONSE=$(curl -sL "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US")
         
-        # 从响应中提取图片的基础URL、标题和版权信息
         IMAGE_BASE_URL=$(echo "$JSON_RESPONSE" | jq -r '.images[0].url')
         COPYRIGHT=$(echo "$JSON_RESPONSE" | jq -r '.images[0].copyright')
         TITLE=$(echo "$JSON_RESPONSE" | jq -r '.images[0].title')
         DATE=$(date +'%Y-%m-%d')
         
-        # 拼接UHD图片链接
+        # 使用 UHD 版本
         FULL_IMAGE_URL="https://www.bing.com${IMAGE_BASE_URL/1920x1080/UHD}"
         
-        # 下载图片并重命名为 bing.jpg
         echo "正在下载必应每日壁纸: $FULL_IMAGE_URL"
         echo "标题: $TITLE"
-        echo "版权信息: $COPYRIGHT"
         
-        wget -q -O bing.jpg "$FULL_IMAGE_URL"
+        # 下载到指定目录
+        wget -q -O assets/bing-wallpaper/bing.jpg "$FULL_IMAGE_URL"
         
-        # 创建版权信息文件
-        echo "必应每日壁纸 - $DATE" > bing_info.txt
-        echo "标题: $TITLE" >> bing_info.txt
-        echo "版权信息: $COPYRIGHT" >> bing_info.txt
-        echo "原始链接: $FULL_IMAGE_URL" >> bing_info.txt
+        # 创建信息文件
+        echo "必应每日壁纸 - $DATE" > assets/bing-wallpaper/bing_info.txt
+        echo "标题: $TITLE" >> assets/bing-wallpaper/bing_info.txt
+        echo "版权信息: $COPYRIGHT" >> assets/bing-wallpaper/bing_info.txt
+        echo "原始链接: $FULL_IMAGE_URL" >> assets/bing-wallpaper/bing_info.txt
+        echo "下载时间: $(date +'%Y-%m-%d %H:%M:%S UTC%z')" >> assets/bing-wallpaper/bing_info.txt
         
-        # 检查图片是否下载成功
-        if [ -f "bing.jpg" ]; then
-          FILE_SIZE=$(stat -f%z bing.jpg 2>/dev/null || stat -c%s bing.jpg 2>/dev/null)
-          if [ "$FILE_SIZE" -gt 100000 ]; then
-            echo "✅ 壁纸下载成功！文件大小: $((FILE_SIZE/1024/1024)) MB"
-          else
-            echo "⚠️ 警告：下载的文件可能有问题，文件大小: $FILE_SIZE 字节"
-          fi
-        else
-          echo "❌ 下载失败，文件不存在！"
-          exit 1
-        fi
+        # 创建 JSON 格式的数据文件，便于网页调用
+        echo '{
+          "date": "'$DATE'",
+          "title": "'$TITLE'",
+          "copyright": "'$COPYRIGHT'",
+          "image_url": "assets/bing-wallpaper/bing.jpg",
+          "original_url": "'$FULL_IMAGE_URL'"
+        }' > assets/bing-wallpaper/bing_data.json
+
+    - name: Create HTML index file
+      run: |
+        # 创建展示壁纸的HTML页面
+        cat > assets/bing-wallpaper/index.html << EOF
+        <!DOCTYPE html>
+        <html lang="zh-CN">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>必应每日壁纸 - kaka111222333.github.io</title>
+            <style>
+                body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+                .container { text-align: center; }
+                h1 { color: #333; }
+                .wallpaper-img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+                .info { background: #f5f5f5; padding: 20px; border-radius: 8px; margin-top: 20px; text-align: left; }
+                .update-time { color: #666; font-size: 0.9em; margin-top: 10px; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>必应每日壁纸</h1>
+                <div class="update-time">最后更新: $(date +'%Y年%m月%d日 %H:%M:%S')</div>
+                <img src="bing.jpg" alt="今日必应壁纸" class="wallpaper-img" id="wallpaper">
+                <div class="info">
+                    <h2>图片信息</h2>
+                    <p id="title">加载中...</p>
+                    <p id="copyright">加载中...</p>
+                    <p id="date">加载中...</p>
+                </div>
+            </div>
+            <script>
+                // 动态加载壁纸信息
+                fetch('bing_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('title').innerHTML = '<strong>标题:</strong> ' + data.title;
+                        document.getElementById('copyright').innerHTML = '<strong>版权信息:</strong> ' + data.copyright;
+                        document.getElementById('date').innerHTML = '<strong>日期:</strong> ' + data.date;
+                    })
+                    .catch(error => {
+                        console.error('Error loading wallpaper data:', error);
+                    });
+            </script>
+        </body>
+        </html>
+        EOF
 
     - name: Commit and Push Changes
       run: |
-        # 再次拉取最新更改，确保推送前是最新版本
         git pull origin main
         
-        # 将更改添加到暂存区
-        git add bing.jpg bing_info.txt
+        # 添加所有相关文件
+        git add assets/bing-wallpaper/
+        git add .github/workflows/
         
-        # 检查暂存区是否有文件被修改
         if git diff --cached --quiet; then
           echo "没有更改可提交。工作流结束。"
         else
-          # 获取图片信息用于提交信息
           DATE=$(date +'%Y年%m月%d日')
-          IMAGE_TITLE=$(cat bing_info.txt 2>/dev/null | grep "标题:" | cut -d: -f2- | sed 's/^[ \t]*//;s/[ \t]*$//' || echo "必应壁纸")
+          IMAGE_TITLE=$(grep -A1 "标题:" assets/bing-wallpaper/bing_info.txt 2>/dev/null | tail -1 || echo "必应壁纸")
           
-          # 生成提交信息
           COMMIT_MSG="更新必应壁纸 [$DATE] - $IMAGE_TITLE"
           git commit -m "$COMMIT_MSG"
-          
-          # 使用 --force-with-lease 安全推送
           git push --force-with-lease origin main
           
-          echo "✅ 更改已提交并推送成功！"
+          echo "✅ 壁纸已更新并推送成功！"
           echo "提交信息: $COMMIT_MSG"
         fi
