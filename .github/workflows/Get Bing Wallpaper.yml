@@ -11,14 +11,19 @@ on:
 jobs:
   get_today_wallpaper:
     runs-on: ubuntu-latest
+    
+    # 添加权限
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-        fetch-depth: 0
-        # 指定使用 master 分支
+        # 使用 GITHUB_TOKEN 而不是 SSH
+        token: ${{ secrets.GITHUB_TOKEN }}
         ref: master
 
     - name: Configure Git
@@ -29,7 +34,6 @@ jobs:
 
     - name: Pull latest changes
       run: |
-        # 明确使用 master 分支
         git pull origin master
         echo "✅ 已拉取最新远程更改"
 
@@ -45,7 +49,6 @@ jobs:
 
     - name: Archive previous wallpaper
       run: |
-        # 将旧壁纸存档
         if [ -f "assets/bing-wallpaper/bing.jpg" ]; then
           DATE=$(date +'%Y%m%d')
           mv assets/bing-wallpaper/bing.jpg "assets/bing-wallpaper/archive/bing_${DATE}.jpg"
@@ -61,23 +64,19 @@ jobs:
         TITLE=$(echo "$JSON_RESPONSE" | jq -r '.images[0].title')
         DATE=$(date +'%Y-%m-%d')
         
-        # 使用 UHD 版本
         FULL_IMAGE_URL="https://www.bing.com${IMAGE_BASE_URL/1920x1080/UHD}"
         
         echo "正在下载必应每日壁纸: $FULL_IMAGE_URL"
         echo "标题: $TITLE"
         
-        # 下载到指定目录
         wget -q -O assets/bing-wallpaper/bing.jpg "$FULL_IMAGE_URL"
         
-        # 创建信息文件
         echo "必应每日壁纸 - $DATE" > assets/bing-wallpaper/bing_info.txt
         echo "标题: $TITLE" >> assets/bing-wallpaper/bing_info.txt
         echo "版权信息: $COPYRIGHT" >> assets/bing-wallpaper/bing_info.txt
         echo "原始链接: $FULL_IMAGE_URL" >> assets/bing-wallpaper/bing_info.txt
         echo "下载时间: $(date +'%Y-%m-%d %H:%M:%S UTC%z')" >> assets/bing-wallpaper/bing_info.txt
         
-        # 创建 JSON 格式的数据文件，便于网页调用
         echo '{
           "date": "'$DATE'",
           "title": "'$TITLE'",
@@ -88,7 +87,6 @@ jobs:
 
     - name: Create HTML index file
       run: |
-        # 创建展示壁纸的HTML页面
         cat > assets/bing-wallpaper/index.html << EOF
         <!DOCTYPE html>
         <html lang="zh-CN">
@@ -118,7 +116,6 @@ jobs:
                 </div>
             </div>
             <script>
-                // 动态加载壁纸信息
                 fetch('bing_data.json')
                     .then(response => response.json())
                     .then(data => {
@@ -136,7 +133,6 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        # 使用 master 分支
         git pull origin master
         
         # 添加所有相关文件
@@ -151,8 +147,7 @@ jobs:
           
           COMMIT_MSG="更新必应壁纸 [$DATE] - $IMAGE_TITLE"
           git commit -m "$COMMIT_MSG"
-          git push --force-with-lease origin master
+          git push origin master
           
           echo "✅ 壁纸已更新并推送成功！"
-          echo "提交信息: $COMMIT_MSG"
         fi
