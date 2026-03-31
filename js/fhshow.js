@@ -17,8 +17,8 @@ function main(item) {
     const playseek = ku9.getQuery( url, "playseek" );
     
     const gtData = {
-        phone : '13256889895', //手机号
-        pwd : 'Fan2345678',   //密码
+        phone : '132---------', //手机号
+        pwd : '---------',   //密码
         prefix : '86'    //手机号前缀
     }
     
