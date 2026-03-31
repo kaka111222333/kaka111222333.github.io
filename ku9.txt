@@ -10,7 +10,7 @@
 岚山电视台,http://10.26.0.123:4000/udp/239.253.224.252:8000
 莒县电视台,http://10.26.0.123:4000/udp/239.253.224.251:8000
 
-🌐  北京,#genre#
+🌐 北京,#genre#
 北京卫视,http://A/ku9/js/bjtime.js?id=bjws
 北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
 北京纪实科教,http://A/ku9/js/bjtime.js?id=bjjs
@@ -21,7 +21,14 @@
 北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
 北京体育休闲,http://A/ku9/js/bjtime.js?id=bjty
 
-🌐  浙江,#genre#
+🌐  新疆,#genre#
+新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
+新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
+新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
+新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
+
+
+🌐 浙江,#genre#
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb 
 浙江国际,https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
 浙江钱江,https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f 
@@ -33,27 +40,7 @@
 之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1 
 
 
-🌐  杭州,#genre#
-杭州综合,http://A/ku9/js/hztv.js?id=hzzh
-杭州西湖明珠,http://A/ku9/js/hztv.js?id=hzmz
-杭州生活,http://A/ku9/js/hztv.js?id=hzsh
-杭州影视,http://A/ku9/js/hztv.js?id=hzys
-杭州青少体育,http://A/ku9/js/hztv.js?id=hzqsty
-杭州导视,http://A/ku9/js/hztv.js?id=hzds
-富阳,http://A/ku9/js/hztv.js?id=fyxwzh
-
-
-
 山东,#genre#
-山东卫视,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
-山东新闻,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
-山东齐鲁,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
-山东体育,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7
-山东生活,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9
-山东综艺,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11
-山东文旅,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wlpd&channelid=13
-山东农科,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=nkpd&channelid=15
-山东少儿,http://A/PLTV/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sepd&channelid=17
 
 日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 聊城,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
@@ -71,23 +58,7 @@
 菏泽,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
 
 
-青岛,#genre#
-青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-太平湾,video://https://www.qtv.com.cn/live/system/2017/04/28/014282264.shtml
-青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
-青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
-青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
-日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 
-
-
-🌐  新疆,#genre#
-新疆卫视,http://A/ku9/js/xjtv.js?id=xjws
-新疆汉语综艺,http://A/ku9/js/xjtv.js?id=xjzy
-新疆体育健康,http://A/ku9/js/xjtv.js?id=xjtyjk
-新疆少儿,http://A/ku9/js/xjtv.js?id=xjse
 
 🌐  爱齐鲁,#genre#
 长清新闻,http://A/PLTV/ku9/js/qilu.js?id=jncqxw
