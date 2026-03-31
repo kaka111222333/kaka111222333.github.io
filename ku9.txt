@@ -1,7 +1,4 @@
 📺 凤凰,#genre#
-凤凰中文,https://kaka111222333.github.io/js/fhshow.js/PLTV/k-web/ku9/js/fhshow.js?id=fhzw
-凤凰资讯,https://kaka111222333.github.io/js/fhshow.js/PLTV/k-web/ku9/js/fhshow.js?id=fhzx
-凤凰香港,https://kaka111222333.github.io/js/fhshow.js/PLTV/k-web/ku9/js/fhshow.js?id=fhhk
 凤凰中文,http://A/PLTV/ku9/js/fhshow.js?id=fhzw
 凤凰资讯,http://A/PLTV/ku9/js/fhshow.js?id=fhzx
 凤凰香港,http://A/PLTV/ku9/js/fhshow.js?id=fhhk
