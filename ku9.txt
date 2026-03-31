@@ -72,26 +72,6 @@
 
 
 青岛,#genre#
-胶州,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0x.html
-胶州生活,video://https://iapp.yunshangjiaozhou.cn/share/dHZsLTMwNS0z.html
-崂山,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
-李沧,video://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
-即墨,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0y.html
-即墨生活服务,video://https://iapp.jimorongmei.com/share/dHZsLTIyMS0z.html
-莱西,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0x.html
-莱西生活,video://https://iapp.laixirongmei.cn/share/dHZsLTI1My0z.html
-平度,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTQ.html
-平度生活服务,video://https://iapp.aipingduapp.com/share/dHZsLTQ1LTU.html
-黄岛,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0x.html
-黄岛生活,video://https://iapp.qwmedia.cn/share/dHZsLTIyNy0z.html
-
-青岛1,webview://http://www.qtv.com.cn/live/tv/index.shtml
-青岛2,webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛3,webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-
 青岛五四广场,video://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
 青岛奥帆中心,video://http://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
 太平角,video://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
@@ -99,14 +79,6 @@
 青岛快速路,video://https://www.qtv.com.cn/live/system/2017/04/29/014283886.shtml
 青岛胶宁高架1,video://https://www.qtv.com.cn/live/system/2017/04/29/014283895.shtml
 青岛胶宁高架2,video://https://www.qtv.com.cn/live/system/2017/04/29/014283894.shtml
-
-青岛新闻综合,video://http://www.qtv.com.cn/live/tv/index.shtml
-青岛生活服务,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛影视,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛财经资讯,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛都市,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛青少旅游,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-青岛蓝睛频道,video://https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
 日照综合,http://A/ku9/js/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 
 
