@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-01",
-  "title": "Hopping into April",
-  "copyright": "Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)",
+  "date": "2026-04-02",
+  "title": "Patterns of spring",
+  "copyright": "Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)",
   "image_url": "bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
