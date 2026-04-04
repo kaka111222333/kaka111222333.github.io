@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-03",
-  "title": "Bridging the gap, one arm at a time",
-  "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+  "date": "2026-04-04",
+  "title": "The lek side story",
+  "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)",
   "image_url": "bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
