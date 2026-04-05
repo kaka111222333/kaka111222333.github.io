@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-04",
-  "title": "The lek side story",
-  "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)",
+  "date": "2026-04-05",
+  "title": "Hello, Easter Sunday",
+  "copyright": "Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
   "image_url": "bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
